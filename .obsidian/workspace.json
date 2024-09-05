@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COVID-19/COVID-19.md",
+                "file": "Conspiracy Theories/`Vaccines Cause Autism`.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COVID-19/COVID-19.md",
+                "file": "Conspiracy Theories/`Vaccines Cause Autism`.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COVID-19/COVID-19.md"
+                "file": "Conspiracy Theories/`Vaccines Cause Autism`.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COVID-19/COVID-19.md",
+                "file": "Conspiracy Theories/`Vaccines Cause Autism`.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,6 +163,7 @@
   },
   "active": "b608ed2a4aa9031c",
   "lastOpenFiles": [
+    "COVID-19/COVID-19.md",
     "Conspiracy Theories/`Vaccines Cause Autism`.md",
     "Conspiracy Theories/World War 2.md",
     "World Politics/Israel-Palestine/1917-48 Mandatory Palestine Period/1941-45 Holocaust.md",
@@ -193,7 +194,6 @@
     "Philosophical Positions/Philosophical Positions.md",
     "Philosophical Positions",
     "Left Critiques/Left Critiques.md",
-    "COVID-19/COVID-19.md",
     "Left Critiques",
     "COVID-19",
     "Conspiracy Theories",
