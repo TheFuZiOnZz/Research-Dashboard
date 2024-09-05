@@ -11,12 +11,8 @@
             "id": "8fad3bf1866e11ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conspiracy Theories/Conspiracy Theories.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "holoc",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -108,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conspiracy Theories/Conspiracy Theories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Conspiracy Theories/Conspiracy Theories.md"
-              }
+              "state": {}
             }
           },
           {
@@ -135,7 +128,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conspiracy Theories/Conspiracy Theories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,8 +153,25 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "aa2eb4840708f0ba",
+  "active": "8fad3bf1866e11ad",
   "lastOpenFiles": [
+    "Conspiracy Theories/World War 2.md",
+    "World Politics/Israel-Palestine/1917-48 Mandatory Palestine Period/1941-45 Holocaust.md",
+    "Conspiracy Theories/Conspiracy Theories.md",
+    "Conspiracy Theories/Waco Siege.md",
+    "Conspiracy Theories/`Vaccines Cause Autism`.md",
+    "Conspiracy Theories/U.S. Moon Landing.md",
+    "Conspiracy Theories/The `Twitter Files`.md",
+    "Conspiracy Theories/The Great Reset.md",
+    "Conspiracy Theories/Pizzagate.md",
+    "Conspiracy Theories/Oklahoma City Bombing.md",
+    "Conspiracy Theories/MKULTRA.md",
+    "World Politics/Israel-Palestine/1948- Israeli-Palestinian Period/1967 Arab League Summit, Khartoum Resolution (The Three No’s).md",
+    "Conspiracy Theories/JFK Assassination.md",
+    "Conspiracy Theories/Jefferey Epstein.md",
+    "Conspiracy Theories/Great Replacement.md",
+    "Conspiracy Theories/Flat Earth.md",
+    "Conspiracy Theories/Climate Change.md",
     "Conspiracy Theories/Chemtrails.md",
     "Social Democracy/Social Democracy.md",
     "Social Democracy",
@@ -179,26 +188,9 @@
     "COVID-19/COVID-19.md",
     "Left Critiques",
     "COVID-19",
-    "Conspiracy Theories/Conspiracy Theories.md",
     "Conspiracy Theories",
-    "World Politics/Bahrain/Bahrain.md",
     "World Politics/Yugoslavia",
     "World Politics/Yemen",
-    "World Politics/Algeria/Algeria.md",
-    "World Politics/Afghanistan/Afghanistan.md",
-    "Untitled.md",
-    "World Politics/Israel-Palestine/1948- Israeli-Palestinian Period/2024 ICC (Attempt) Arrest Warrants.md",
-    "World Politics/United States/2021- Joe Biden.md",
-    "World Politics/Iraq/1990-91 Gulf War.md",
-    "Research Dashboard/World Politics/Israel-Palestine/1948- Israeli-Palestinian Period/2023- Israel-Hamas War, Operation Al-Aqsa Flood, Operation Iron Swords.md",
-    "Research Dashboard/World Politics/Israel-Palestine/1948- Israeli-Palestinian Period/2024 US DOJ Inditement.md",
-    "Research Dashboard/World Politics/Israel-Palestine/Israel-Palestine Contents Page.md",
-    "Research Dashboard/World Politics/Israel-Palestine/1948- Israeli-Palestinian Period/2024 ICC (Attempt) Arrest Warrants.md",
-    "Inner Thoughts/Sammy-Simon Boundaries.md",
-    "Research Dashboard/World Politics/United States/United States Contents Page.md",
-    "Research Dashboard/World Politics/United States/2017-21 Donald Trump.md",
-    "Research Dashboard/World Politics/United States/2021- Joe Biden.md",
-    "Research Dashboard/World Politics/United States/1923-29 Calvin Coolidge.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
