@@ -8,29 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "300f0b9bfc4619c1",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "empty",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
             "id": "8fad3bf1866e11ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social Democracy/Social Democracy.md",
+                "file": "Conspiracy Theories/Conspiracy Theories.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Social Democracy/Social Democracy.md",
+                "file": "Conspiracy Theories/Conspiracy Theories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Social Democracy/Social Democracy.md"
+                "file": "Conspiracy Theories/Conspiracy Theories.md"
               }
             }
           },
@@ -146,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Social Democracy/Social Democracy.md",
+                "file": "Conspiracy Theories/Conspiracy Theories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,6 +163,8 @@
   },
   "active": "aa2eb4840708f0ba",
   "lastOpenFiles": [
+    "Conspiracy Theories/Chemtrails.md",
+    "Social Democracy/Social Democracy.md",
     "Social Democracy",
     "Right Critiques/Right Critiques.md",
     "Right Critiques",
@@ -193,13 +184,11 @@
     "World Politics/Bahrain/Bahrain.md",
     "World Politics/Yugoslavia",
     "World Politics/Yemen",
-    "World Politics/Worldwide",
     "World Politics/Algeria/Algeria.md",
     "World Politics/Afghanistan/Afghanistan.md",
     "Untitled.md",
     "World Politics/Israel-Palestine/1948- Israeli-Palestinian Period/2024 ICC (Attempt) Arrest Warrants.md",
     "World Politics/United States/2021- Joe Biden.md",
-    "Social Democracy/Social Democracy.md",
     "World Politics/Iraq/1990-91 Gulf War.md",
     "Research Dashboard/World Politics/Israel-Palestine/1948- Israeli-Palestinian Period/2023- Israel-Hamas War, Operation Al-Aqsa Flood, Operation Iron Swords.md",
     "Research Dashboard/World Politics/Israel-Palestine/1948- Israeli-Palestinian Period/2024 US DOJ Inditement.md",

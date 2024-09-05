@@ -1,6 +1,4 @@
-# Chemtrails
-## Point 1
-- [Wiki](https://en.wikipedia.org/wiki/Chemtrail_conspiracy_theory)
+[[Chemtrails]]
 # Climate Change
 - [link](https://www.youtube.com/playlist?list=PL82yk73N8eoX-Xobr_TfHsWPfAIyI7VAP)
 ## Point 1
