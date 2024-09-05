@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Left Critiques/Left Critiques.md",
+                "file": "Political Positions/Political Positions.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Left Critiques/Left Critiques.md",
+                "file": "Political Positions/Political Positions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Left Critiques/Left Critiques.md"
+                "file": "Political Positions/Political Positions.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Left Critiques/Left Critiques.md",
+                "file": "Political Positions/Political Positions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,8 +163,8 @@
   },
   "active": "b608ed2a4aa9031c",
   "lastOpenFiles": [
-    "COVID-19/COVID-19.md",
     "Left Critiques/Left Critiques.md",
+    "COVID-19/COVID-19.md",
     "Conspiracy Theories/Great Replacement.md",
     "Conspiracy Theories/Flat Earth.md",
     "Conspiracy Theories/Climate Change.md",
