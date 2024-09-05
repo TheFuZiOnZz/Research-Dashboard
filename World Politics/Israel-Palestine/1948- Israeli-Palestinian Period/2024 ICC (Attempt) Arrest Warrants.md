@@ -16,7 +16,7 @@
 		      `2. The conduct constituted, or took place as part of, a mass killing of members of a civilian population.`
 		      `3. The conduct was committed as part of a widespread or systematic attack directed against a civilian population.`
 		      `4. The perpetrator knew that the conduct was part of or intended the conduct to be part of a widespread or systematic attack directed against a civilian population.` - [Elements of Crime for the Rome Statute of the International Criminal Court](https://www.icc-cpi.int/sites/default/files/Publications/Elements-of-Crimes.pdf)
-    - `Murder as a crime against humanity, contrary to article 7(1)(a), and as a war crime, contrary to article 8(2)(c)(i);` - [Statement of ICC Prosecutor Karim A.A. Khan KC: Applications for arrest warrants in the situation in the State of Palestine](https://www.icc-cpi.int/news/statement-icc-prosecutor-karim-aa-khan-kc-applications-arrest-warrants-situation-state
+    - `Murder as a crime against humanity, contrary to article 7(1)(a), and as a war crime, contrary to article 8(2)(c)(i);` - [Statement of ICC Prosecutor Karim A.A. Khan KC: Applications for arrest warrants in the situation in the State of Palestine](https://www.icc-cpi.int/news/statement-icc-prosecutor-karim-aa-khan-kc-applications-arrest-warrants-situation-state)
 	    - `Article 7 Crimes against humanity`
 	      
 	      `(1) For the purpose of this Statute, “crime against humanity” means any of the following acts when committed as part of a widespread or systematic attack directed against any civilian population, with knowledge of the attack:`
