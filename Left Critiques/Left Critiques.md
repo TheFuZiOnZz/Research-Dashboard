@@ -306,7 +306,7 @@
 ## Trigger Warnings
 - [link](https://osf.io/qav9m/) - A Meta-Analysis of the Effects of Trigger Warnings, Content Warnings, and Content Notes, Bridgland et al., 2022
 ## `American Socialism`
-- [https://noahpinion.substack.com/p/the-american-socialist-worldview?s=r](https://noahpinion.substack.com/p/the-american-socialist-worldview?s=r)
+- [The American Socialist Worldview, Noah Smith](https://noahpinion.substack.com/p/the-american-socialist-worldview?s=r)
 ## `The Centre-Left moving Right` Myth
 - [link](https://www.economist.com/graphic-detail/2020/10/31/the-republican-party-has-lurched-towards-populism-and-illiberalism)
 - [link](https://www.pewresearch.org/fact-tank/2022/03/10/the-polarization-in-todays-congress-has-roots-that-go-back-decades/)
