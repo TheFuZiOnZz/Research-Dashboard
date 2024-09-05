@@ -1,0 +1,1 @@
+- [Wiki](https://en.wikipedia.org/wiki/2009_Hamas_political_violence_in_Gaza)

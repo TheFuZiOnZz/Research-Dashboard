@@ -1,0 +1,3 @@
+## 1996 Palestinian General Election
+- [Wiki](https://en.wikipedia.org/wiki/1996_Palestinian_general_election)
+- On 20 January 1996, the Palestinian Presidential and Legislative Election were held for the first time in the Palestinian territories to elect the President of the Palestinian National Authority (PNA) and members of the Palestinian Legislative Council (PLC), the legislative arm of the PNA. They took place in the West Bank, the Gaza Strip, and East Jerusalem. A new government was formed following the elections, headed by President Yasser Arafat.

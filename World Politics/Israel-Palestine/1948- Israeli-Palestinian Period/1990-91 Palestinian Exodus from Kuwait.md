@@ -1,0 +1,15 @@
+### 1990-91 Palestinian Exodus from Kuwait
+- [Wiki](https://en.wikipedia.org/wiki/Palestinian_exodus_from_Kuwait_(1990%E2%80%9391))
+- On 2 August 1990, The Palestinian exodus from Kuwait took place during and after the Gulf War. There were approximately 357,000 Palestinians living in Kuwait before the country was invaded by neighbouring Iraq.
+- On August 10, 20 Arab League countries at an emergency summit in Cairo drafted a final statement that condemned the Iraqi invasion of Kuwait and supported the UN resolutions. Twelve Arab states supported the use of force while the remaining eight, including the Palestine Liberation Organization (PLO), rejected a military solution to the Iraqi invasion.
+    
+    - `Egypt forsook the traditional modus operandi of the Arab League-adopting resolutions on the basis of consensus-and fashioned an anti-Iraqi majority coalition from among the 21 League members which both endorsed the mustering of Western forces in the Saudi desert and gave the green light to Arab military participation in the anti-Saddam international coalition.` [link](https://www.cartercenter.org/documents/1223.pdf)
+    
+- According to the Washington Post, classified U.S. reports indicated that then PLO leader Yasser Arafat pressed then Iraqi leader Saddam Hussein to make his withdrawal from Kuwait conditional on the withdrawal of Israel from the West Bank, Gaza Strip and Golan Heights, and on August 12, Saddam announced his offer to conditionally withdraw.
+    
+    - `The invasion of Kuwait on Aug. 2 caught Arafat by surprise, but for whatever reason, he stuck with Saddam and has been advising him on some aspects of Iraq's public response to the buildup of U.S. troops in Saudi Arabia. Highly classified U.S. reports indicate that it was Arafat who pressed Saddam to make his withdrawal from Kuwait conditional on the withdrawal of other Middle East nations from the territories they occupy by force.  
+    -   
+    - On Aug. 12, Saddam offered to withdraw his forces from Kuwait when "all issues of occupation" were resolved, starting with the unconditional withdrawal of Israel from the West Bank, Gaza Strip and Golan Heights.  
+    -   
+    - The secret part of Saddam's proposal, which would not ingratiate him with the Palestinians, came in his letter to the White House on Aug. 13. He said he would recognize Israel's right to exist. The message, written by hand, was first sent to Washington from Tunis. It was cleaned up in a more formal fashion by Arab sources in Washington before going to the White House. We have seen a copy of the handwritten message. It said, "Iraq is now offering the implementation of all U.N. Security Council resolutions pertaining to the Middle East."`  
+    - [link](https://www.washingtonpost.com/archive/opinions/1990/08/26/why-arafat-backed-saddam/904a9366-c1e0-4294-ab64-1391b0e3b452/)

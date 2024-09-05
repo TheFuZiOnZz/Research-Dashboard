@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "23f6996a0dc7cb30",
+    "type": "split",
+    "children": [
+      {
+        "id": "75268ac8c33573b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "300f0b9bfc4619c1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "8fad3bf1866e11ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Politics/United States/2021- Joe Biden.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da28d33d66355ff3",
+    "type": "split",
+    "children": [
+      {
+        "id": "57463fc3423ab2ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa2eb4840708f0ba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "21a91875140d1904",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8fa98571fcd49222",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a0c8687a941168be",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 279.5124969482422
+  },
+  "right": {
+    "id": "2bd0ea73c59d699e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b64b17e8b4e9205d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76cd47bf19366458",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "398dfd5d8607c61f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "World Politics/United States/2021- Joe Biden.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a9766e024cff72a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "World Politics/United States/2021- Joe Biden.md"
+              }
+            }
+          },
+          {
+            "id": "81f21b4c69e94a86",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "World Politics/United States/2021- Joe Biden.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "8fad3bf1866e11ad",
+  "lastOpenFiles": [
+    "World Politics/Iraq/1990-91 Gulf War.md",
+    "Research Dashboard/World Politics/Israel-Palestine/1948- Israeli-Palestinian Period/2023- Israel-Hamas War, Operation Al-Aqsa Flood, Operation Iron Swords.md",
+    "Research Dashboard/World Politics/Israel-Palestine/1948- Israeli-Palestinian Period/2024 US DOJ Inditement.md",
+    "Research Dashboard/World Politics/Israel-Palestine/Israel-Palestine Contents Page.md",
+    "Research Dashboard/World Politics/Israel-Palestine/1948- Israeli-Palestinian Period/2024 ICC (Attempt) Arrest Warrants.md",
+    "Inner Thoughts/Sammy-Simon Boundaries.md",
+    "Research Dashboard/World Politics/United States/United States Contents Page.md",
+    "Research Dashboard/World Politics/United States/2017-21 Donald Trump.md",
+    "Research Dashboard/World Politics/United States/2021- Joe Biden.md",
+    "Research Dashboard/World Politics/United States/1923-29 Calvin Coolidge.md",
+    "obamaandpresidentxiofchinavow.md",
+    "Research Dashboard/World Politics/Israel-Palestine/1517-1917 Ottoman Period/1860 Syrian Civil War.md",
+    "Research Dashboard/World Politics/United Kingdom/United Kingdom Contents Page.md",
+    "Research Dashboard/World Politics/United Kingdom/2024- Labour.md",
+    "Research Dashboard/World Politics/United Kingdom/2010-24 Conservative.md",
+    "Research Dashboard/World Politics/United Kingdom/1997-2010 Labour.md",
+    "Research Dashboard/World Politics/United Kingdom/1979-97 Conservative.md",
+    "Research Dashboard/World Politics/United Kingdom/1974-79 Labour.md",
+    "Research Dashboard/World Politics/United Kingdom/1970-74 Conservative.md",
+    "Research Dashboard/World Politics/United Kingdom/1964-70 Labour.md",
+    "Research Dashboard/World Politics/United Kingdom/1951-64 Conservative.md",
+    "Research Dashboard/World Politics/United Kingdom/1951-64 Labour.md",
+    "Research Dashboard/World Politics/United Kingdom/1935-45 Conservative.md",
+    "Research Dashboard/World Politics/United Kingdom",
+    "Research Dashboard/World Politics/United States",
+    "Research Dashboard/World Politics/United States/2009-17 Barack Obama.md",
+    "Research Dashboard/World Politics/United States/2001-09 George W. Bush.md",
+    "Research Dashboard/World Politics/United States/1993-2001 Bill Clinton.md",
+    "2023- Israel-Hamas War, Operation Al-Aqsa Flood",
+    "Research Dashboard/World Politics/Lebanon",
+    "Research Dashboard/World Politics/Iraq",
+    "1974 UNGA Resolution 3236",
+    "Research Dashboard/World Politics/Syria",
+    "Research Dashboard/World Politics/Israel-Palestine/1948- Israeli-Palestinian Period",
+    "Research Dashboard/World Politics/Israel-Palestine/1917-48 Mandatory Palestine Period",
+    "Research Dashboard/World Politics/Israel-Palestine/1517-1917 Ottoman Period",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Untitled 3.canvas",
+    "image2.png",
+    "image1.png",
+    "Blue_flag_waving.svg.png",
+    "1280px-Red_flag_waving.svg.png",
+    "image3.png"
+  ]
+}

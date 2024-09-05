@@ -1,0 +1,11 @@
+  
+[[1935-45 Conservative]]
+[[1951-64 Labour]]
+[[1951-64 Conservative]]
+[[1964-70 Labour]]
+[[1970-74 Conservative]]
+[[1974-79 Labour]]
+[[1979-97 Conservative]]
+[[1997-2010 Labour]]
+[[2010-24 Conservative]]
+[[2024- Labour]]

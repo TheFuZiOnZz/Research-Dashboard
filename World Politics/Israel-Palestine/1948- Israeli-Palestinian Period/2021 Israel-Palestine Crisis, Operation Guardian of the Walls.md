@@ -1,0 +1,1 @@
+- [Wiki](https://en.wikipedia.org/wiki/2021_Israel%E2%80%93Palestine_crisis)

@@ -1,0 +1,1 @@
+- [Wiki](https://en.wikipedia.org/wiki/South_Africa_v._Israel_(Genocide_Convention))

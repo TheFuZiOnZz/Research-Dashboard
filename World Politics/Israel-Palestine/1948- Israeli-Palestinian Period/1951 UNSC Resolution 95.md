@@ -1,0 +1,3 @@
+## 1951 UNSC Resolution 95
+- [Wiki](https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_95)
+- On 1 September 1951, United Nations Security Council Resolution 95 criticised Egypt for preventing ships bound for Israeli ports from travelling through the Suez Canal and called upon the Egyptian Government to immediately cease all interference with any shipping save that which was essential for safety. It was passed by 8 votes to none, with 3 abstentions by China, India and the Soviet Union. It was a rare resolution critical of the Arab states in the Arab–Israeli conflict, passed before the period that the Soviet Union invariably used its veto power against such resolutions.
