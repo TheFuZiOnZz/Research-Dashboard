@@ -1,6 +1,6 @@
 {
   "remoteURL": "https://github.com/TheFuZiOnZz/Research-Dashboard.git",
   "gitLocation": "",
-  "syncinterval": 0,
+  "syncinterval": 5,
   "isSyncOnLoad": false
 }
