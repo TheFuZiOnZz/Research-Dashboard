@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "75268ac8c33573b2",
+        "id": "d1520a8f2534fd74",
         "type": "tabs",
         "children": [
           {
-            "id": "8fad3bf1866e11ad",
+            "id": "b608ed2a4aa9031c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "COVID-19/COVID-19.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -104,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "COVID-19/COVID-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "COVID-19/COVID-19.md"
+              }
             }
           },
           {
@@ -128,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "COVID-19/COVID-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,13 +161,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "8fad3bf1866e11ad",
+  "active": "b608ed2a4aa9031c",
   "lastOpenFiles": [
+    "Conspiracy Theories/`Vaccines Cause Autism`.md",
     "Conspiracy Theories/World War 2.md",
     "World Politics/Israel-Palestine/1917-48 Mandatory Palestine Period/1941-45 Holocaust.md",
     "Conspiracy Theories/Conspiracy Theories.md",
     "Conspiracy Theories/Waco Siege.md",
-    "Conspiracy Theories/`Vaccines Cause Autism`.md",
     "Conspiracy Theories/U.S. Moon Landing.md",
     "Conspiracy Theories/The `Twitter Files`.md",
     "Conspiracy Theories/The Great Reset.md",
