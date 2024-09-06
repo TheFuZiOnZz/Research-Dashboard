@@ -1,0 +1,23 @@
+## 1973 Afghan coup d'état
+- [link](https://en.wikipedia.org/wiki/1973_Afghan_coup_d%27%C3%A9tat)
+- [link](https://www.youtube.com/watch?v=LrcHIY-30S8&t=186s)
+- On 25 June 1973, King Mohammad Zahir Shah left Afghanistan for London, via Rome, for hemorrhaging treatment after injuring his eye. After treatment he went back to Italy spending time in the island of Ischia.
+    - `King Zaher departed suddenly morning of June 25 for London via Rome, accompanied by HRH General Sardar Abdul Wali, HRH Shah Mahmud and wife Princess Mahbub Ghazi, former Minister of Health Ibrahim Majid-Seraj, King personal valet and confidant Rahim Panjshirt, and others.  
+          
+        King's sudden travel results from need for treatment for hemorrhaging in one eye, the eye injured approximately June, reportedly by a volleyball. Initially unsatisfactory by an Afghan physician led to an early morning visit to the Noor. Eye Clinic June 23, where he was examined by the American director of the Friesen (for Dept; fortuitous event which cannot alter Noor's precarious future,)  
+          
+        according to Majid-Seraj, injury is not especially serious and should not require surgery. He told Emboff that he expects to spend one-two weeks in London, followed by one-two weeks vacation.`  
+        [link](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB59/zahir14.pdf)
+- On 17 July 1973, Army General and Prince Mohammad Daoud Khan led a coup d'état against his cousin, King Mohammad Zahir Shah supported by the People’s Democratic Party of Afghanistan. This resulted in the establishment of the Republic of Afghanistan under a one-party system led by Mohammad Daoud Khan.
+    - `A pro-Soviet communist party, the People’s Democratic Party of Afghanistan (PDPA), was formed in 1965 and backed a 1973 coup that overthrew the monarchy. The new regime, led by Mohammed Daoud Khan (1909–1978)` [link](https://cloudflare-ipfs.com/ipfs/bafykbzacecmqqg5pfw3k4whbldbxwqmb2os5q65u2abwcjoex4venkhcxy3gy?filename=Tom%20Lansford%20-%20Afghanistan%20at%20War_%20from%20the%2018th-Century%20Durrani%20Dynasty%20to%20the%2021st%20Century-ABC-CLIO%2C%20LLC%20%282017%29.pdf)
+- The coup was uncontested with no challenge and with support from the military and many tribal leaders.
+    - `So far there have been no reports of any serious challenge to the new Afghan regime headed by former Prime Minister (1953-63) Mohammad Daud. Assuming he stays in power, Daud seems unlikely to make any major shifts in Afghan policies, but there could be some changes in emphasis.  
+          
+        Daud's coups carried out yesterday by several hundred of his supporters in the Afghan Army, was well planned and swiftly executed. Daud app ears to have the support of key people in the army and apparently has maintained ties with many of the tribal groups that dominate most of this rural and backward nation. He could still have some trouble, however, with military units outside Kabul and/or with some of the tribes in the countryside.`  
+        [link](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB59/zahir15.pdf)
+- Afghanistan at this time was renowned for its neutrality during many conflicts including World War One and Two and pledged to continue such neutrality in its new republic.
+    - `Afghanistan remained neutral during World War II (1939–1945), as it had during World War I (1914–1918).` [link](https://cloudflare-ipfs.com/ipfs/bafykbzacecmqqg5pfw3k4whbldbxwqmb2os5q65u2abwcjoex4venkhcxy3gy?filename=Tom%20Lansford%20-%20Afghanistan%20at%20War_%20from%20the%2018th-Century%20Durrani%20Dynasty%20to%20the%2021st%20Century-ABC-CLIO%2C%20LLC%20%282017%29.pdf)
+    - `Zahir Shah remained neutral in World War II and then reached out to the United States for aid and assistance, only to find successive U.S. administrations drawn increasingly to Pakistan as a strategic partner.` [link](https://cloudflare-ipfs.com/ipfs/bafykbzacecmqqg5pfw3k4whbldbxwqmb2os5q65u2abwcjoex4venkhcxy3gy?filename=Tom%20Lansford%20-%20Afghanistan%20at%20War_%20from%20the%2018th-Century%20Durrani%20Dynasty%20to%20the%2021st%20Century-ABC-CLIO%2C%20LLC%20%282017%29.pdf)
+    - `In his broadcast, General Daud, who is 64 years old and a cousin as well as brother‐in law of the King, pledged that Afghanistan would continue her policy of nonalignment and would not join any military pact.` [[afghankingoverthrownarepub]]
+- Most of the military equipment used in the Afghan army was from aid mainly from the Soviet Union.
+    - `The nation, which depends heavily on foreign aid, has received substantial assistance under Zahir Shah from its neighbours, the Soviet Union and. China, and from the United States. Its armed forces are equipped mostly by the Soviet Union.` [[afghankingoverthrownarepub]]
