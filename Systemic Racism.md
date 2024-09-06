@@ -15,9 +15,9 @@
     - `sentence length continues to be associated with some demographic factors, in particular race and gender. After controlling for a wide variety of sentencing factors, the Commission found that Black male offenders continued to receive longer sentences than similarly situated White male offenders, and that female offenders of all races received shorter sentences than White male offenders.` - [Demographic Differences in Sentencing: An Update to the 2012 Booker Report, Pryor et al., 2017](https://www.ussc.gov/sites/default/files/pdf/research-and-publications/research-publications/2017/20171114_Demographics.pdf)
 ### Correctional Discrimination
 - A 2020 paper found that:
-    - `Our analysis provides evidence that decisions about whom to stop and, subsequently, whom to search are biased against black and Hispanic drivers.` 
-    - `Our primary dataset thus consists of approximately 95 million stops from 21 state patrol agencies and 35 municipal police departments` 
-    - `In our veil-of-darkness analysis, we compared stop rates before sunset and after dusk—as is common when applying this test` 
+    - `Our analysis provides evidence that decisions about whom to stop and, subsequently, whom to search are biased against black and Hispanic drivers.` - [A large-scale analysis of racial disparities in police stops across the United States, Pierson et al., 2020](https://annas-archive.org/scidb/10.1038/s41562-020-0858-1)
+    - `Our primary dataset thus consists of approximately 95 million stops from 21 state patrol agencies and 35 municipal police departments` - [A large-scale analysis of racial disparities in police stops across the United States, Pierson et al., 2020](https://annas-archive.org/scidb/10.1038/s41562-020-0858-1)
+    - `In our veil-of-darkness analysis, we compared stop rates before sunset and after dusk—as is common when applying this test` - [A large-scale analysis of racial disparities in police stops across the United States, Pierson et al., 2020](https://annas-archive.org/scidb/10.1038/s41562-020-0858-1)
     - `In all cases, we found qualitatively similarly results that are suggestive of racial bias against black drivers in stop decisions` - [A large-scale analysis of racial disparities in police stops across the United States, Pierson et al., 2020](https://annas-archive.org/scidb/10.1038/s41562-020-0858-1)
 ### Economic Mobility
 - A 2012 report found that:
