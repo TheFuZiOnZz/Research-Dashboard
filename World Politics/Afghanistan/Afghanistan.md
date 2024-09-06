@@ -1,80 +1,49 @@
-# 1879-1926 Emirate of Afghanistan
-- [link]
-- - `` [link]
-## 19
-- [link]
-- - `` [link]
-### 19
-- [link]
-- - `` [link]
+# 
 # 1926-1973 Kingdom of Afghanistan
-- [link]
-- - `` [link]
-## 19
-- [link]
-- - `` [link]
-### 19
-- [link]
-- - `` [link]
-## 1929 Red Army Intervention in Afghanistan
-- [[link]](https://en.wikipedia.org/wiki/Red_Army_intervention_in_Afghanistan_(1929))
-## 1930 Red Army Intervention in Afghanistan
-- [[link]](https://en.wikipedia.org/wiki/Red_Army_intervention_in_Afghanistan_(1930))
+
+[[1929 Red Army Intervention in Afghanistan]]
+[[1930 Red Army Intervention in Afghanistan]]
 # 1973-78 Republic of Afghanistan
-- [link]
-- - `` [link]
-## 19
-- [link]
-- - `` [link]
-### 19
-- [link]
-- - `` [link]
+
 ## 1973 Afghan coup d'état
-- [[link]](https://en.wikipedia.org/wiki/1973_Afghan_coup_d%27%C3%A9tat)
-- [[link]](https://www.youtube.com/watch?v=LrcHIY-30S8&t=186s)
+- [link](https://en.wikipedia.org/wiki/1973_Afghan_coup_d%27%C3%A9tat)
+- [link](https://www.youtube.com/watch?v=LrcHIY-30S8&t=186s)
 - On 25 June 1973, King Mohammad Zahir Shah left Afghanistan for London, via Rome, for hemorrhaging treatment after injuring his eye. After treatment he went back to Italy spending time in the island of Ischia.
     - `King Zaher departed suddenly morning of June 25 for London via Rome, accompanied by HRH General Sardar Abdul Wali, HRH Shah Mahmud and wife Princess Mahbub Ghazi, former Minister of Health Ibrahim Majid-Seraj, King personal valet and confidant Rahim Panjshirt, and others.  
           
         King's sudden travel results from need for treatment for hemorrhaging in one eye, the eye injured approximately June, reportedly by a volleyball. Initially unsatisfactory by an Afghan physician led to an early morning visit to the Noor. Eye Clinic June 23, where he was examined by the American director of the Friesen (for Dept; fortuitous event which cannot alter Noor's precarious future,)  
           
         according to Majid-Seraj, injury is not especially serious and should not require surgery. He told Emboff that he expects to spend one-two weeks in London, followed by one-two weeks vacation.`  
-        [[link]](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB59/zahir14.pdf)
+        [link](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB59/zahir14.pdf)
 - On 17 July 1973, Army General and Prince Mohammad Daoud Khan led a coup d'état against his cousin, King Mohammad Zahir Shah supported by the People’s Democratic Party of Afghanistan. This resulted in the establishment of the Republic of Afghanistan under a one-party system led by Mohammad Daoud Khan.
-    - `A pro-Soviet communist party, the People’s Democratic Party of Afghanistan (PDPA), was formed in 1965 and backed a 1973 coup that overthrew the monarchy. The new regime, led by Mohammed Daoud Khan (1909–1978)` [[link]](https://cloudflare-ipfs.com/ipfs/bafykbzacecmqqg5pfw3k4whbldbxwqmb2os5q65u2abwcjoex4venkhcxy3gy?filename=Tom%20Lansford%20-%20Afghanistan%20at%20War_%20from%20the%2018th-Century%20Durrani%20Dynasty%20to%20the%2021st%20Century-ABC-CLIO%2C%20LLC%20%282017%29.pdf)
+    - `A pro-Soviet communist party, the People’s Democratic Party of Afghanistan (PDPA), was formed in 1965 and backed a 1973 coup that overthrew the monarchy. The new regime, led by Mohammed Daoud Khan (1909–1978)` [link](https://cloudflare-ipfs.com/ipfs/bafykbzacecmqqg5pfw3k4whbldbxwqmb2os5q65u2abwcjoex4venkhcxy3gy?filename=Tom%20Lansford%20-%20Afghanistan%20at%20War_%20from%20the%2018th-Century%20Durrani%20Dynasty%20to%20the%2021st%20Century-ABC-CLIO%2C%20LLC%20%282017%29.pdf)
 - The coup was uncontested with no challenge and with support from the military and many tribal leaders.
     - `So far there have been no reports of any serious challenge to the new Afghan regime headed by former Prime Minister (1953-63) Mohammad Daud. Assuming he stays in power, Daud seems unlikely to make any major shifts in Afghan policies, but there could be some changes in emphasis.  
           
         Daud's coups carried out yesterday by several hundred of his supporters in the Afghan Army, was well planned and swiftly executed. Daud app ears to have the support of key people in the army and apparently has maintained ties with many of the tribal groups that dominate most of this rural and backward nation. He could still have some trouble, however, with military units outside Kabul and/or with some of the tribes in the countryside.`  
-        [[link]](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB59/zahir15.pdf)
+        [link](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB59/zahir15.pdf)
 - Afghanistan at this time was renowned for its neutrality during many conflicts including World War One and Two and pledged to continue such neutrality in its new republic.
-    - `Afghanistan remained neutral during World War II (1939–1945), as it had during World War I (1914–1918).` [[link]](https://cloudflare-ipfs.com/ipfs/bafykbzacecmqqg5pfw3k4whbldbxwqmb2os5q65u2abwcjoex4venkhcxy3gy?filename=Tom%20Lansford%20-%20Afghanistan%20at%20War_%20from%20the%2018th-Century%20Durrani%20Dynasty%20to%20the%2021st%20Century-ABC-CLIO%2C%20LLC%20%282017%29.pdf)
-    - `Zahir Shah remained neutral in World War II and then reached out to the United States for aid and assistance, only to find successive U.S. administrations drawn increasingly to Pakistan as a strategic partner.` [[link]](https://cloudflare-ipfs.com/ipfs/bafykbzacecmqqg5pfw3k4whbldbxwqmb2os5q65u2abwcjoex4venkhcxy3gy?filename=Tom%20Lansford%20-%20Afghanistan%20at%20War_%20from%20the%2018th-Century%20Durrani%20Dynasty%20to%20the%2021st%20Century-ABC-CLIO%2C%20LLC%20%282017%29.pdf)
+    - `Afghanistan remained neutral during World War II (1939–1945), as it had during World War I (1914–1918).` [link](https://cloudflare-ipfs.com/ipfs/bafykbzacecmqqg5pfw3k4whbldbxwqmb2os5q65u2abwcjoex4venkhcxy3gy?filename=Tom%20Lansford%20-%20Afghanistan%20at%20War_%20from%20the%2018th-Century%20Durrani%20Dynasty%20to%20the%2021st%20Century-ABC-CLIO%2C%20LLC%20%282017%29.pdf)
+    - `Zahir Shah remained neutral in World War II and then reached out to the United States for aid and assistance, only to find successive U.S. administrations drawn increasingly to Pakistan as a strategic partner.` [link](https://cloudflare-ipfs.com/ipfs/bafykbzacecmqqg5pfw3k4whbldbxwqmb2os5q65u2abwcjoex4venkhcxy3gy?filename=Tom%20Lansford%20-%20Afghanistan%20at%20War_%20from%20the%2018th-Century%20Durrani%20Dynasty%20to%20the%2021st%20Century-ABC-CLIO%2C%20LLC%20%282017%29.pdf)
     - `In his broadcast, General Daud, who is 64 years old and a cousin as well as brother‐in law of the King, pledged that Afghanistan would continue her policy of nonalignment and would not join any military pact.` [[afghankingoverthrownarepub]]
 - Most of the military equipment used in the Afghan army was from aid mainly from the Soviet Union.
     - `The nation, which depends heavily on foreign aid, has received substantial assistance under Zahir Shah from its neighbours, the Soviet Union and. China, and from the United States. Its armed forces are equipped mostly by the Soviet Union.` [[afghankingoverthrownarepub]]
 # 1978-1992 Democratic Republic of Afghanistan
-- [link]
-- - `` [link]
-## 19
-- [link]
-- - `` [link]
-### 19
-- [link]
-- - `` [link]
+
 ## 1978 Saur Revolution
-- [[link]](https://en.wikipedia.org/wiki/Saur_Revolution)
+- [link](https://en.wikipedia.org/wiki/Saur_Revolution)
 ## 1979-89 Soviet–Afghan War
-- [[link]](https://en.wikipedia.org/wiki/Soviet%E2%80%93Afghan_War)
-- [[link]](https://en.wikipedia.org/wiki/Rauzdi_massacre)
-- [[link]](https://en.wikipedia.org/wiki/Baraki_Barak_massacre)
-- [[link]](https://en.wikipedia.org/wiki/Laghman_massacre)
-- [[link]](https://en.wikipedia.org/wiki/Kulchabat,_Bala_Karz_and_Mushkizi_massacre)
-- [[link]](https://en.wikipedia.org/wiki/Kunduz_massacre)
-- [[link]](https://en.wikipedia.org/wiki/Padkhwab-e_Shana_massacre)
+- [link](https://en.wikipedia.org/wiki/Soviet%E2%80%93Afghan_War)
+- [link](https://en.wikipedia.org/wiki/Rauzdi_massacre)
+- [link](https://en.wikipedia.org/wiki/Baraki_Barak_massacre)
+- [link](https://en.wikipedia.org/wiki/Laghman_massacre)
+- [link](https://en.wikipedia.org/wiki/Kulchabat,_Bala_Karz_and_Mushkizi_massacre)
+- [link](https://en.wikipedia.org/wiki/Kunduz_massacre)
+- [link](https://en.wikipedia.org/wiki/Padkhwab-e_Shana_massacre)
 ## 1984 Baraki Barak Massacre
-- [[link]](https://en.wikipedia.org/wiki/Baraki_Barak_massacre)
+- [link](https://en.wikipedia.org/wiki/Baraki_Barak_massacre)
 - According to a Human Rights Watch report, based on eyewitness testimonies, the Soviet army occupied the Baraki Barak District on 6 September during the Logar offensives. They were expecting reinforcements from the Afghan Democratic Republic army in Kabul, but one of the officers defected to anti-communist resistance members, taking a large part of convoy with him. As reprisals, the Soviet army arrested 40 local civilians, tied them up, poured gasoline over them and set them on fire, burning them alive
-    - `Patrick David and Francois Prey, French doctors working with Aide Medicale Internationale, witnessed a Soviet—Afghan offensive in Baraki Barak District of Logar Province, just south of Kabul, in September 1984- "They were bombing the houses and the people doing the harvest in the fields. They shot rockets at them and killed them." They reported that two boys, the 5—and sons of Gul Jan who were playing in a melon field in Chalozai, were wounded by rockets from a helicopter. Russian soldiers had come into the area and killed and looted.` [[link]](https://www.hrw.org/reports/1984/afghan1284.pdf)
+    - `Patrick David and Francois Prey, French doctors working with Aide Medicale Internationale, witnessed a Soviet—Afghan offensive in Baraki Barak District of Logar Province, just south of Kabul, in September 1984- "They were bombing the houses and the people doing the harvest in the fields. They shot rockets at them and killed them." They reported that two boys, the 5—and sons of Gul Jan who were playing in a melon field in Chalozai, were wounded by rockets from a helicopter. Russian soldiers had come into the area and killed and looted.` [link](https://www.hrw.org/reports/1984/afghan1284.pdf)
 ## 1
 - “From Herat to Homs, the Western left’s decades-long zeal for Russian bombs” by Emron Feroz [https://www.aljumhuriya.net/en/content/herat-homs-western-left%E2%80%99s-decades-long-zeal-russian-bombs](https://www.aljumhuriya.net/en/content/herat-homs-western-left%E2%80%99s-decades-long-zeal-russian-bombs) [EN] (WARNING!- Taliban supporter)
 - “United in Struggle: Social Revolution of the Pashtun Borderlands” by Laura Cesaretti [https://theglobepost.com/2020/01/23/pashtuns-afghanistan-pakistan/](https://theglobepost.com/2020/01/23/pashtuns-afghanistan-pakistan/)
@@ -130,7 +99,7 @@
 - Operation Storm-333 (Шторм-333) was a covert operation that took place on December 27, 1979, in which Soviet special forces stormed the Tajbeg Palace in Afghanistan and assassinated communist Afghan President Hafizullah Amin
 - Leninism and concept of the vanguard party is built into Hezbi Islami and Taliban’s vein of deobandism
 ## 1989-92 Afghan Civil War
-- [[link]](https://en.wikipedia.org/wiki/Afghan_Civil_War_(1989%E2%80%931992))
+- [link](https://en.wikipedia.org/wiki/Afghan_Civil_War_(1989%E2%80%931992))
 # 1992-2002 Islamic State of Afghanistan
 - [link]
 - - `` [link]
@@ -141,9 +110,9 @@
 - [link]
 - - `` [link]
 ## 1992-96 Afghan Civil War
-- [[link]](https://en.wikipedia.org/wiki/Afghan_Civil_War_(1992%E2%80%931996))
+- [link](https://en.wikipedia.org/wiki/Afghan_Civil_War_(1992%E2%80%931996))
 ## 1996-2001 Afghan Civil War
-- [[link]](https://en.wikipedia.org/wiki/Afghan_Civil_War_(1996%E2%80%932001))
+- [link](https://en.wikipedia.org/wiki/Afghan_Civil_War_(1996%E2%80%932001))
 # 2002-04 Islamic Republic of Afghanistan
 - [link]
 - - `` [link]
@@ -154,8 +123,8 @@
 - [link]
 - - `` [link]
 ## 2001-21 War in Afghanistan
-- [[link]](https://en.wikipedia.org/wiki/War_in_Afghanistan_(2001%E2%80%932021))
-- Afghanistan Papers - [[link]](https://archive.ph/fnysm)
+- [link](https://en.wikipedia.org/wiki/War_in_Afghanistan_(2001%E2%80%932021))
+- Afghanistan Papers - [link](https://archive.ph/fnysm)
   
 - American-led intervention in Afghanistan
 - Fall of the Taliban government in Afghanistan
@@ -171,8 +140,8 @@
 - On 30 August the NATO withdrawal and the following evacuation of foreign citizens concluded bringing the war to an end
 - A national interim government is announced on 7 September 2021
 ## 2020 Doha Agreement
-- [[link]](https://en.wikipedia.org/wiki/US%E2%80%93Taliban_deal)
-- [[link]](https://www.state.gov/wp-content/uploads/2020/02/Agreement-For-Bringing-Peace-to-Afghanistan-02.29.20.pdf)
-- [[link]](https://www.state.gov/wp-content/uploads/2020/02/02.29.20-US-Afghanistan-Joint-Declaration.pdf)
+- [link](https://en.wikipedia.org/wiki/US%E2%80%93Taliban_deal)
+- [link](https://www.state.gov/wp-content/uploads/2020/02/Agreement-For-Bringing-Peace-to-Afghanistan-02.29.20.pdf)
+- [link](https://www.state.gov/wp-content/uploads/2020/02/02.29.20-US-Afghanistan-Joint-Declaration.pdf)
 ## 2021 U.S. Withdrawal
-- [[link]](https://en.wikipedia.org/wiki/Withdrawal_of_United_States_troops_from_Afghanistan_(2020%E2%80%932021))
+- [link](https://en.wikipedia.org/wiki/Withdrawal_of_United_States_troops_from_Afghanistan_(2020%E2%80%932021))
