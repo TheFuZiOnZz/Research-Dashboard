@@ -9,3 +9,19 @@
     - `Women seeking abortion reported economic hardships at the time of abortion seeking—half (51%) were living below 100% of the federal poverty level; 3 quarters (76%) reported not having enough money to cover housing, transportation, and food. Most (63%) already had children.` - [Socioeconomic Outcomes of Women Who Receive and Women Who Are Denied Wanted Abortions in the United States, Foster et al., 2018](https://annas-archive.org/scidb/10.2105/AJPH.2017.304247?url_ver=Z39.88-2003)
 - A 2020 paper found that:
     - `We find evidence that being denied an abortion has large and persistent negative effects on a woman’s financial well-being. Women denied an abortion experience a significant increase in financial distress during the year that they give birth (or, in some cases, would have given birth since some of them received an abortion elsewhere or miscarried), compared to their counterparts who received a wanted abortion. Unpaid debts that are 30 or more days past due more than double in size, and the number of public records, which include negative events such as evictions and bankruptcies, increases substantially. This financial impact extends throughout our sample period, with negative effects observed up to four years after the birth year. While we do not find as strong of evidence of changes in the financial independence of these women, as measured through markers of credit access, we do find that the women who were denied an abortion were significantly less likely to have a prime credit score in the two years following the birth.` - [The Economic Consequences of Being Denied an Abortion, Miller et al., 2020](https://www.nber.org/system/files/working_papers/w26662/w26662.pdf)
+
+## Abortion
+- personhood requires consiousness/mind
+- capactiy of mind starts 20-28 weeks
+- capactiy of mind ends at brain death
+- life is not a neccesary condition
+    - pre-20-28 weeks fetus has unenactable rights
+- conception is not a neccesary condition
+    - pre-20-28 weeks fetus has unenactable rights
+- human is not a neccesary condition
+    - dead people has indefinite unenactable rights
+    
+- memories =/= consiousness/mind
+- Molar pregnancy occurs AFTER fertilization when replication of cells becomes abnormal. The EMBRYO becomes a trophoblastic tumour, which is cancer. It is an embryo BEFORE it becomes cancer ie alive per Kristan. Molar pregancny DOES NOT result in miscarriage. Google invasive molar pregnancy. It can in fact spread the abnormal cells through the mother's body as cancer. This tumour began with fertilization and has unique DNA. So this cancer has rights?
+- if no,
+- So molar preg do not get rights because they are nonviable? Pregnancies with lethal genetic abnormalities that will never be viable on their own, but can still become full term? Anencephalic babies never develop consiciousness given time? Comments?

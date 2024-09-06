@@ -1,7 +1,18 @@
-[[fr]]
+[[Free College]]
+[[Rent Control]]
+[[Student Debt Cancellation]]
+[[Wealth Tax]]
+[[Worker Co-Operatives]]
+# Anti-Capitalist Critique
+[[Money In Politics]]
 [[Reform Vs Revolution]]
 [[Western Imperialism of Trade]]
 # Marxist Economic Theories
+[[Boom Bust Cycle]]
+[[Central Planning]]
+[[Falling Rate of Profit]]
+[[Labor Theory Of Value]]
+[[Modern Monetary Theory]]
 [[Unequal Exchange]]
 # Philosophical Critique
 [[Marxist Dialectical Materialism]]
