@@ -1,0 +1,5 @@
+## Rent Control
+- Bernie [**supports Rent Control**](https://berniesanders.com/issues/housing-all/)
+- Most economists [**agree that rent control is bad**](https://www.igmchicago.org/surveys/rent-control/).
+- Rent control [**limits renters mobility by 20%, reduces housing supplies by 15%, and increasing the cost of rent by 7%**](https://web.stanford.edu/~diamondr/DMQ.pdf).
+- Rent control in Berlin has [**proven to be a failure**](https://archive.is/l3i2w#selection-3855.0-5054.0).

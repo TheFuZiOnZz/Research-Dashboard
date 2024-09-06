@@ -1,0 +1,13 @@
+## Wage Earner Funds
+- **ARTICLE** – An Analysis of Wage-Earner Funds in Sweden: Distinguishing Myth from Reality. [(Link)](https://sci-hub.ee/10.1177/0143831X04044833)
+    - Wage-Earner Funds have been a core policy objective of re-appropriating the power of investment from the hands of Capital.
+    - Whyman offers a mixed, but hopeful review of the (watered-down) Wage-Earner Funds implemented for a brief period in Sweden.
+- **ARTICLE** – Philip Arestis. The Political Economy of Wage-Earner Funds: Policy Debate and Swedish Experience. [(Link)](https://sci-hub.ee/https://doi.org/10.1080/09538259300000032)
+    - Arestis examines the layout of the Wage-Earner Funds, and offers a positive examination of their brief performance.
+- **ARTICLE** – Wage-Led Growth: Theory, Evidence, and Policy. [(Link)](https://peri.umass.edu/fileadmin/pdf/working_papers/working_papers_251-300/WP300.pdf)
+    - The authors of this paper detail a possible route for egalitarianistic growth, and provide the theoretical as well as empirical basis for wage-led growth.
+- **BOOK** – Wage-led Growth: An Equitable Strategy for Economic Recovery. [(Link)](https://sci-hub.ee/https://link.springer.com/book/10.1057/9781137357939)
+    - The various authors of this book discuss macroeconomic trends in various countries and the implications for policies.
+    - Moreover, the authors put a compelling case for the stability of engaging in wage-led growth strategies.
+- **ARTICLE** – Rethinking Wage Policy in the Face of the Euro Crisis. Implications of the Wage-Led Demand Regime. [(Link)](https://sci-hub.ee/https://doi.org/10.1080/02692171.2011.631903)
+    - The authors of this paper discuss wage policy in light of recent trends towards conservative management.

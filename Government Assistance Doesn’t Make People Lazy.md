@@ -1,0 +1,60 @@
+## Government Assistance Doesn’t Make People Lazy
+- A 2010 Paper found that ` ` - [link](https://sci-hub.ee/10.1086/649831)
+    - Looks at the Earned Income Tax Credit in the United States
+    - “The empirical evidence on labor supply and marriage indicates that the incentives of the EITC are remarkably favorable given the resources transferred. Studies of the effects of the EITC on employment imply that the credit has sharply increased the fraction of single mothers who work.”
+- A 2014 Paper found that ` ` - [link](https://sci-hub.ee/10.1257/aer.104.5.322)
+    - Looks at the effects of Medicaid on employment in Oregon
+    - “Using 2009 administrative data, we find that Medicaid has little if any impact on labor market outcomes or receipt of cash welfare or disability insurance, but increases receipt of food stamps.”
+- A 2014 Paper found that ` ` - [link](https://sci-hub.ee/https://doi.org/10.1177%2F0950017014542499)
+- A 2015 Paper found that ` ` - [link](https://sci-hub.ee/http://jhr.uwpress.org/content/54/3/785.short)
+    - Looks at the long term effects of receiving Medicaid
+    - “Cohorts who gained Medicaid eligibility in utero have higher high school graduation rates and we find evidence suggesting that they have higher incomes in adulthood”
+- A 2017 Paper found that ` ` - [link](https://sci-hub.ee/https://doi.org/10.1093/wbro/lkx002)
+    - Looks at welfare programs in 7 countries
+    - “[We] find no systematic evidence that cash transfer programs discourage work”
+  
+- A Paper [link](https://www.nber.org/papers/w24670.pdf)
+    - Study of an Indonesian money transfer program (PKH)
+    - “We find that PKH continues to have large static incentive effects on many of the targeted indicators, increasing usage of trained health professionals for childbirth dramatically and halving the share of children age 7-15 who are not enrolled in school. Wage labor for 13-15 year olds was reduced by at least one-third. We also begin to observe impacts on outcomes that may require cumulative investments: for example, six years later, we observe large reductions in stunting and some evidence of increased high school completion rates.”
+- A Paper [link](https://pdfs.semanticscholar.org/736d/b6f030863a9f16b3633cac2f5e5f1e46df49.pdf)
+    - Study of an unconditional money transfer in Kenya
+    - “[We] find no effects of the transfers on the proportion of working-age household members who spent any time in the preceding 12 months doing casual labor or working in a salaried job”
+- A Paper [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2268552)
+    - Studies a government program in Uganda which is designed to get the poor and unemployed into self employment by giving them grants of an average of $382 per person to help them learn skills
+    - They found that hours of work rose by 17 percent, and earnings by 38 percent
+- A Paper [link](https://www.nber.org/papers/w24248.pdf)
+    - A study on a cash transfer program in Mexico
+    - “We find significant and positive impacts of the program on the likelihood and quality of employment”
+- A Paper [link](https://openknowledge.worldbank.org/bitstream/handle/10986/13244/755330REVISED000Revised0June0402014.pdf?sequence=8&isAllowed=y)
+    - Study of a cash transfer programme in the Philippines
+    - “Despite the additional household income provided to poor families under Pantawid Pamilya, the impact evaluation did not find any evidence that beneficiary households worked less or made less effort to obtain more work”
+- A Paper [link](http://documents1.worldbank.org/curated/en/617631468001808739/pdf/WPS6886.pdf)
+    - Looks at whether people who got cash transfers would waste it on tobacco and alcohol
+    - “There is clear evidence that transfers are not consistently used for alcohol or tobacco in any of these environments”
+- A Paper [link](http://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/161361/Report_The%20Basic%20Income%20Experiment%2020172018%20in%20Finland.pdf?sequence=1&isAllowed=y)
+    - Looks at a UBI experiment in Finland
+    - “According to the analysis of the register data, basic income recipients were no better or worse at finding employment than those in the control group during the first year of the experiment, and in this respect there are no statistically significant differences between the groups. The recipients of basic income had half a day more of employment in the open labour market than the control group.”
+- A Paper [link](https://www.tandfonline.com/doi/abs/10.1080/00220380802150730)
+    - Looks at a welfare program in Mexico
+    - “Utilising the experimental design of PROGRESA's evaluation sample, we find that the programme does not have any significant effect on adult labour force participation and leisure time.”
+- A Paper [link](http://ebrary.ifpri.org/digital/api/collection/p15738coll2/id/76633/download)
+    - Study on a welfare program in Nicaragua
+    - “Labor market participation was apparently little changed with the program, though there was an indication of slightly fewer hours worked, on average, in the last week”
+- A Paper [link](https://link.springer.com/article/10.1007/s00148-012-0458-0)
+    - Looks at welfare programs in three Latin American countries
+    - “Comparable results for the three countries indicate that the effects that the programs have had on the labor supply of participating adults have been mostly negative but are nonetheless small and not statistically significant”
+- A Paper [link](https://home.cc.umanitoba.ca/~simpson/JOLE1993.pdf)
+    - Looks at UBI experiments in Canada and the USA
+    - `Few adverse effects have been found to date. Those adverse effects found, such as work response, are smaller than would have been expected without experimentation.`
+- A Paper [link](https://www.marketplace.org/2016/12/20/dauphin/)
+    - Talks about a UBI experiment in the 70s in Canada
+    - “The initial results are striking: the vast majority of Mincome participants kept working.”
+    - “Primary wage earners worked a little less, but only slightly.”
+    - “Married women backed off too, but mostly to take longer maternity leaves.”
+    - “There was a drop in work by teenage boys, but Forget says many simply were able to stay in high school longer. Their families weren’t as desperate for another breadwinner.”
+- A Paper [link](https://www.scielo.br/pdf/ee/v40n2/v40n2a01.pdf)
+    - Look at a welfare program in Brazil
+    - “In sum, our results do not show significant effects of the Brazilian CCT programmes on either the labour market participation or the supply of hours of men and women. Rather, our results seem to be compatible with a story that CCT programmes do not affect the labour supply of adult males and females. In fact, this contention seems to be in line with the empirical literature that uses individual data and compare treatment and control groups’ outcomes.”
+- A Paper [link](https://poseidon01.ssrn.com/delivery.php?ID=476013072022122119100071110091111095028032023043029030023009005088117099065127018070033000021120038125121100101016081009094125010060038093078014095070080019081112054044001073108099004106064068088106078002079086086007000114030065096016098102111091088&EXT=pdf)
+    - Study in Uganda where they give $150 in business grants
+    - “These results show that a package of $150 cash ($375 in PPP terms), five days of business training, and ongoing supervision led to a doubling of new non-farm enterprises and a significant rise in incomes among extremely poor and conflict-affected villagers, most of whom were women who had never operated such an enterprise before.

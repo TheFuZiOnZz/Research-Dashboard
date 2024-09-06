@@ -1,0 +1,16 @@
+## Social Equality
+- Gender pay gap
+    - [link](https://rationalwiki.org/wiki/Gender_pay_gap)
+    - [link](https://gender-pay-gap.service.gov.uk/public/assets/pdf/Evidence-based_actions_for_employers.pdf)
+    - [link](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/genderpaygapintheuk/2021)
+    - [link](https://nikk.no/wp-content/uploads/2020/09/NIKK_Equal_Pay_in_the_Nordic_Countries.pdf)
+    - [link](https://files.epi.org/pdf/112962.pdf)
+    - UE Vid - [link](https://www.youtube.com/watch?v=LKc_8fT6pGc)
+    - source list - [link](https://docs.google.com/document/d/1OQCSoIXZFvsEVya3d97yGD2RonsusR71O-QC6tYYRFU/edit)
+    - A 2016 paper found that `women are now better educated than men but they continue to lag (slightly) in actual labor market experience. In the full specification, the adjusted ratio (91.6 percent) remained considerably higher than in the human capital specification (82.1 percent) in 2011, suggesting a continued substantial role for occupation and industry in explaining the gender wage gap (recall that union differences have now been virtually eliminated).` ... `One puzzling finding in Table 4 is that, despite the occupational improvements of women shown in Table 3, gender differences in occupation accounted for a larger pay gap in 2010 than in 1980 (0.076 vs. 0.051 log points). However, while women upgraded their occupations during this period, the wage consequences of gender differences in occupations became larger as well.` - [link](https://docs.iza.org/dp9656.pdf)
+    - `Parents of daughters think their child has to work harder than parents of sons, despite equal ability` - [link](https://sci-hub.ee/10.2307/1128973)
+    - `Exposure to same-sex role models increases girls’ intentions/motivation to pursue STEM` - [link](https://sci-hub.ee/https://www.ncbi.nlm.nih.gov/pubmed/21142376)
+    - `Boys and girls initially like STEM the same, but there is a relative drop for girls over term due to peer influences` - [link](https://www.stats.ox.ac.uk/~snijders/siena/RaabeBodaStadtfeld2019.pdf)
+    - `Teachers rate the reading ability of boys and maths ability of girls to be less likely to be above average, despite same scores` - [link](https://discovery.ucl.ac.uk/id/eprint/1474027/1/Campbell%202015%20-%20Stereotyped%20at%20Seven%20-%20accepted%20manuscript.pdf)
+- Glass ceiling
+    - [link](https://en.wikipedia.org/wiki/Glass_ceiling)
