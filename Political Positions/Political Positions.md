@@ -8,23 +8,8 @@
 [[Subsidizing Contraception]]
 [[Gun Control]]
 # Criminal Justice Policy
-## Rehabilitative Justice
-- A 2005 meta-analysis found that:
-    - `restorative justice programs, on average, yielded reductions in recidivism compared to nonrestorative approaches to criminal behavior. In fact, compared to the comparison and/or control groups who did not participate in a restorative justice program, offenders in the treatment groups were significantly more successful during the follow-up periods` - [link](https://sci-hub.ee/10.1177/0032885505276969) - The Effectiveness of Restorative Justice Practices: A Meta-Analysis, Latimer et al., 2005
-- A 2014 RAND meta-analysis found that:
-    - `With respect to recidivism, based on the higher-quality research studies, we found that, on average, inmates who participated in correctional education programs had a 43 percent lower odds of recidivating than inmates who did not, thus indicating that correctional education is an effective strategy for reducing recidivism.` `This translates to a reduction in the risk of recidivating of 13 percentage points for those who participated in correctional education programs versus those who did not.` - [link](https://www.rand.org/content/dam/rand/pubs/research_reports/RR500/RR564/RAND_RR564.pdf) - How Effective Is Correctional Education, and Where Do We Go from Here? The Results of a Comprehensive Evaluation, Davis et al., 2014
-- A 2014 paper found that:
-    - `The vast majority of violent crimes are perpetrated by a small number of persistent violent offenders, almost all males, who have an early onset of violent criminality and display substance use problems, personality disorders, and nonviolent criminality. These findings support the provision of far-reaching interventions among young individuals who have committed one or two violent crimes and are at risk of developing persistent violent criminal behavior.` - [link](https://annas-archive.org/scidb/10.1007/s00127-013-0783-y) - The 1% of the population accountable for 63 % of all violent crime convictions, Falk et al., 2014
-- A 2015 paper found that:
-    - `We find that one-month extra prison sentence reduces the rate of recidivism by about one percentage point, with possibly larger effects for those with limited criminal histories. However, the reduction in recidivism comes almost entirely in the first year of release, which we interpret as consistent with prison’s rehabilitative role.` - [The Effect of Prison Sentence Length on Recidivism: Evidence from Random Judicial Assignment, Roach and Schanzenbach, 2015](https://sci-hub.ee/10.2139/ssrn.2701549)
-## Death Penalty
-- A 2003 report found that
-    - `Cases in which the death penalty was sought and imposed could cost about 70% more than cases in which the death penalty wasn’t sought. The estimated median cost of a case in which the death sentence was given was $1.2 million, compared to the same estimated costs for a non-death penalty case of about $740,000.` - [link](https://web.archive.org/web/20151109015151/http://www.kslpa.org/assets/files/reports/04pa03a.pdf)
-- In Tennessee, death penalty trials cost an average of 48% more than the average cost of trials in which prosecutors seek life imprisonment. [link](http://www.deathpenaltyinfo.org/documents/deathpenalty.pdf)
-- In Maryland death penalty cases cost 3 times more than non-death penalty cases, or $3 million for a single case. [link](http://www.urban.org/UploadedPDF/411625_md_death_penalty.pdf)
-- In California the current system costs $137 million per year; it would cost $11.5 million for a system without the death penalty. [link](https://web.archive.org/web/20120229154704/http://www.deathpenalty.org/downloads/FINAL%20REPORT%20DEATH%20PENALTY%20ccfaj%20June%2030.2008.pdf)
-- Theres also a problem of not being able to undo `It is now clear that innocent defendants will be convicted and sentenced to death with some regularity as long as the death penalty exists.` - [link](https://deathpenaltyinfo.org/policy-issues/innocence)
-- Good Doc on Abolish the Death Penalty. [link](https://docs.google.com/document/d/1Jc30ECidjRdsP5BrSyt5lu07DOP6FB4PGmC9Ok9tiMI/edit)
+[[Rehabilitative Justice]]
+[[Death Penalty]]
 ## Systemic Racism
 ### Employment Discrimination
 - A 2004 paper found that:

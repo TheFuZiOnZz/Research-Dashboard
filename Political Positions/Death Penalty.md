@@ -1,0 +1,8 @@
+## Death Penalty
+- A 2003 report found that
+    - `Cases in which the death penalty was sought and imposed could cost about 70% more than cases in which the death penalty wasn’t sought. The estimated median cost of a case in which the death sentence was given was $1.2 million, compared to the same estimated costs for a non-death penalty case of about $740,000.` - [Costs Incurred for Death Penalty Cases: A K-GOAL Audit of the Department of Corrections](https://web.archive.org/web/20151109015151/http://www.kslpa.org/assets/files/reports/04pa03a.pdf)
+- In Tennessee, death penalty trials cost an average of 48% more than the average cost of trials in which prosecutors seek life imprisonment. [link](http://www.deathpenaltyinfo.org/documents/deathpenalty.pdf)
+- In Maryland death penalty cases cost 3 times more than non-death penalty cases, or $3 million for a single case. [link](http://www.urban.org/UploadedPDF/411625_md_death_penalty.pdf)
+- In California the current system costs $137 million per year; it would cost $11.5 million for a system without the death penalty. [link](https://web.archive.org/web/20120229154704/http://www.deathpenalty.org/downloads/FINAL%20REPORT%20DEATH%20PENALTY%20ccfaj%20June%2030.2008.pdf)
+- Theres also a problem of not being able to undo `It is now clear that innocent defendants will be convicted and sentenced to death with some regularity as long as the death penalty exists.` - [link](https://deathpenaltyinfo.org/policy-issues/innocence)
+- Good Doc on Abolish the Death Penalty. [link](https://docs.google.com/document/d/1Jc30ECidjRdsP5BrSyt5lu07DOP6FB4PGmC9Ok9tiMI/edit)
