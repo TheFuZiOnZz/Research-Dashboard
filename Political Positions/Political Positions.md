@@ -10,46 +10,7 @@
 # Criminal Justice Policy
 [[Rehabilitative Justice]]
 [[Death Penalty]]
-## Systemic Racism
-### Employment Discrimination
-- A 2004 paper found that:
-    
-    - `This paper suggests that discrimination is an important factor in why African Americans do poorly in the  
-    - labor market. Job applicants with African American names get far fewer callbacks for each resume they send out. Equally importantly, applicants with African American names find it hard to fight discrimination  
-    - in callbacks by improving their observable skills or credentials.`  
-    - [link](https://www.nber.org/system/files/working_papers/w9873/w9873.pdf) - Are Emily and Greg More Employable Than Lakisha and Jamal? A Field Experiment on Labor Market Discrimination, Bertrand and Mullainathan, 2004
-    
-- A 2017 meta-analysis, building on the methodology of [[Political Positions]], found that:
-    
-    - `On average, white applicants receive 36% more callbacks than equally qualified African Americans (95% confidence interval of 25–47% more), based on random-effects meta-analysis of data since 1989, representing a substantial degree of direct discrimination. White applicants receive on average 24% more callbacks than Latinos (95% confidence interval of 15–33% more).` - [link](https://www.pnas.org/doi/pdf/10.1073/pnas.1706255114) - Meta-analysis of field experiments shows no change in racial discrimination in hiring over time, Quillian et al., 2017
-    
-### Judicial Discrimination
-- A 2005 meta-analysis found that:
-    
-    - `the independent effects of these variables are unknown. Consequently, the only conclusion that can be firmly drawn regarding the influence of race on Federal sentencing outcomes is that the effect of race was larger in more recent analyses of Federal sentencing practices` - [link](https://annas-archive.org/scidb/10.1007/s10940-005-7362-7) - A Meta-Analysis of Race and Sentencing Research: Explaining the Inconsistencies, Mitchell, 2005
-    
-- A 2012 paper found that:
-    
-    - `there is substantial excess heterogeneity in the empirical distribution of the racial gap in the incarceration rate. The quantitative impact of this gap on sentencing disparity is of considerable magnitude. If a defendant assigned to a 10th-percentile judge was instead sentenced by a 90th-percentile judge, the racial gap in the incarceration rate would rise by a full 18 percentage points.` - [link](https://annas-archive.org/scidb/10.1086/666006) - Do Judges Vary in Their Treatment of Race?, Abrams et al., 2012
-    
-- A 2014 paper found that:
-    
-    - `Using rich new linked data that allow us to address the sample selection problems and other limitations that have pervaded prior research, this paper provides robust evidence that black male federal arrestees ultimately face longer prison terms than whites arrested for the same offenses with the same prior records,` - [link](https://repository.law.umich.edu/cgi/viewcontent.cgi?article=2413&context=articles) - Racial Disparity in Federal Criminal Sentences, Rehavi and Starr, 2014
-    
-- A 2019 report found that:
-    
-    - `sentence length continues to be associated with some demographic factors, in particular race and gender. After controlling for a wide variety of sentencing factors, the Commission found that Black male offenders continued to receive longer sentences than similarly situated White male offenders, and that female offenders of all races received shorter sentences than White male offenders.` - [link](https://www.ussc.gov/sites/default/files/pdf/research-and-publications/research-publications/2017/20171114_Demographics.pdf) - Demographic Differences in Sentencing: An Update to the 2012 Booker Report, Pryor et al., 2017
-    
-### Correctional Discrimination
-- A 2020 paper found that:
-    
-    - `Our analysis provides evidence that decisions about whom to stop and, subsequently, whom to search are biased against black and Hispanic drivers.` `Our primary dataset thus consists of approximately 95 million stops from 21 state patrol agencies and 35 municipal police departments` `In our veil-of-darkness analysis, we compared stop rates before sunset and after dusk—as is common when applying this test` ` In all cases, we found qualitatively similarly results that are suggestive of racial bias against black drivers in stop decisions` - [link](https://annas-archive.org/scidb/10.1038/s41562-020-0858-1) - A large-scale analysis of racial disparities in police stops across the United States, Pierson et al., 2020
-    
-### Economic Mobility
-- A 2012 report found that:
-    
-    - `Blacks are more likely to be stuck in the bottom and fall from the middle than are whites. Over half of blacks (53 percent) raised in the bottom of the family income ladder remain stuck in the bottom as adults, compared with only a third (33 percent) of whites. Half of blacks (56 percent) raised in the middle of the family income ladder fall to the bottom two rungs as adults compared with just under a third of whites (32 percent). Half of blacks (50 percent) raised in the bottom of the family wealth ladder remain stuck in the bottom as adults, compared with only a third (33 percent) of whites. More than two-thirds of blacks (68 percent) raised in the middle fall to the bottom two rungs of the ladder as adults compared with just under a third of whites (30 percent).` - [link](https://www.pewtrusts.org/~/media/legacy/uploadedfiles/pcs_assets/2012/pursuingamericandreampdf.pdf) - Pursuing the American Dream: Economic Mobility Across Generations, The Pew Charitable Trusts, 2012
-    
+[[Systemic Racism]]
 ## Stop and Frisk
 - A 2012 study finds few effects of stop-and-frisk on robbery and burglary rates in New York between 2003 and 2010. [link](https://www.tandfonline.com/doi/abs/10.1080/07418825.2012.712152?journalCode=rjqy20)
 - A 2016 study found no evidence that stop-and-frisk was effective. One of the authors of that study, Jeffrey Fagan of Columbia University, said that `you can achieve really very positive crime control, reductions in crime, if you do stop using those probable-cause standards. If you just leave it up to the officers, based on their hunches, then they have almost no effect on crime.` - [link](https://www.washingtonpost.com/news/wonk/wp/2016/09/22/donald-trump-claims-new-yorks-stop-and-frisk-policy-reduced-crime-the-data-disagree/) Fagan `found stops based on probable cause standards of criminal behavior were associated with a 5–9 percent decline in NYC crime in census block groups.` - [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4911104)
