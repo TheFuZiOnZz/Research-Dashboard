@@ -27,97 +27,18 @@
 [[Worker Benefits]]
 [[Capped Work Time]]
 [[Government Assistance Doesn’t Make People Lazy]]
-## Food Stamps
-- A 2015 paper concluded that:
-    - `SNAP effectively alleviates food insecurity in terms of caloric, macronutrient, and micronutrient intake. Still, SNAP participants are struggling more than income-eligible and higher-income nonparticipants to meet key dietary guidelines. Future policies should ensure that this vital food assistance program addresses diet quality while reducing food insecurity.` - [Dietary Quality of Americans by Supplemental Nutrition Assistance Program Participation Status: A Systematic Review, Andreyeva et al., 2015](https://annas-archive.org/scidb/10.1016/j.amepre.2015.04.035)
-- A 2015 report found that:
-    - `We find that SNAP redemptions (the value of SNAP benefits redeemed by SNAP-authorized stores) had a positive average impact on county-level employment throughout the 2001 to 2014 period, with an increase of between 0.4 and 0.5 job per $10,000 of additional SNAP redemptions across all counties over the entire period.` `As expected, the impact of SNAP redemptions on employment was greater during the recession period (2008 to 2010) than either the pre-recession period (2001 to 2007) or the postrecession period (2011 to 2014) in both nonmetro and metro counties. In the recession period, SNAP redemptions contributed to about 1.0 job per $10,000 of additional SNAP redemptions in nonmetro counties and about 0.4 job per $10,000 of additional SNAP redemptions in metro counties.` - [link](https://www.ers.usda.gov/webdocs/publications/93169/err-263.pdf?v=1509.3) - The Impacts of Supplemental Nutrition Assistance Program Redemptions on County-Level Employment, United States Department of Agriculture and Pender, 2019
-- A 2017 study found that:
-    - `The SEBTC SNAP demonstration provided SNAP-like benefits in the summer to households <185% of the federal poverty limit with children receiving the school food programs during the school year. In 2012, the $60 monthly per child benefit amounted to approximately $90 per month per household, analogous to a 25% increase in SNAP` - [link](https://www.ajpmonline.org/action/showPdf?pii=S0749-3797%2816%2930389-0) - Improving Nutrition by Increasing Supplemental Nutrition Assistance Program Benefits, Collins and Klerman, 2017
-- A 2016 paper concluded that:
-    - `Majority of vendors from each market did believe that SNAP increased sales, but the percentage of increased sales is generally not higher than 5 percent. A potentially more crucial impact of the program is an increase in customer base, and fewer vendors in each market saw their customer base increase due to SNAP acceptance. Still, a majority of vendors did feel that the customer base has increased, that number could rise if the amount of promotional materials increased, drawing in new market customers.` - [link](https://scholarworks.uark.edu/cgi/viewcontent.cgi?article=1002&context=scwkuht) - Analysis of Supplemental Nutrition Assistance Programs in Farmers' Markets, Thomas, 2016
-- A 2014 report found that:
-    - `The findings of this health impact assessment suggest that many of the SNAP policy changes considered to modify how eligibility or benefit levels are determined would likely place the health of low-income Americans at greater risk.` - [link](https://www.pewtrusts.org/~/media/assets/2014/11/hiahealthimpactsnapwhitepaper.pdf) - Health Impact Assessment of Proposed Changes to the Supplemental Nutrition Assistance Program, Wernham, 2014
-## Money In Politics
-- A 1994 paper found that:
-    
-    - `This paper finds that once district-specific factors and the quality of the competing candidates are controlled for, the impact of campaign spending on election outcomes, regardless of incumbency status, is small but positive.` - [link](https://annas-archive.org/scidb/10.1086/261954) - Using Repeat Challengers to Estimate the Effect of Campaign Spending on Election Outcomes in the U.S. House, Levitt, 1994
-    
-- A 2003 Paper found that:
-    
-    - `Overall, PAC contributions show relatively few effects on voting behavior. In three out of four instances, campaign contributions had no statistically significant effects on legislation or had the `wrong` sign - suggesting that more contributions lead to less support` - [link](https://annas-archive.org/scidb/10.1257/089533003321164976) - Why Is There so Little Money in U.S. Politics?, Ansolabehere et al., 2003
-    
-- A 2004 paper concluded that:
-    
-    - `The experiments suggest that incumbent spending has only a negligible effect on incumbent vote margins. In contrast, the challenger’s spending appeared highly effective.` - [link](https://annas-archive.org/scidb/10.1177/0002764203260415) - Does Campaign Spending Work?: Field Experiments Provide Evidence and Suggest New Theory, Gerber, 2004
-    
-- A 2015 Paper concluded that:
-    
-    - `It is almost impossible to draw any conclusions from a body of scholarship that spans several fields. It is notable, though, that regardless of the field, scholars have become increasingly focused on highly complex questions involving democratic representation, political equality, corruption, political influence, and governance. Not surprisingly, there is little consensus on these issues.` - [link](https://annas-archive.org/scidb/10.1146/annurev-polisci-010814-104523) - Campaign Finance and American Democracy, Dawood, 2015
-    
-- A 2017 Article found that:
-    
-    - `In examining the relationship between early fundraising and electoral success, this article suggests that focusing on general election contests understates the true effect of fundraising on election outcomes. Fundraising matters a great deal to candidate selection. Success in the primaries is shown to be closely related to early fundraising outcomes. As the importance of primary elections has grown in recent decades, so too has the distortionary effect of early fundraising.` - [link](https://annas-archive.org/scidb/10.1089/elj.2016.0413) - Professional Networks, Early Fundraising, and Electoral Success, Bonica, 2017
-    
-- A famous 2014 paper by Gilens & Page finds that:
-    
-    - `When the preferences of economic elites and the stands of organized interest groups are controlled for, the preferences of the average American appear to have only a minuscule, near-zero, statistically non-significant impact upon public policy.` - [link](https://annas-archive.org/scidb/10.1017/s1537592714001595) - Testing Theories of American Politics: Elites, Interest Groups, and Average Citizens, Gilens and Page, 2014
-    
-- A replicated reply to the Gilens & Page paper found that when examining whether Republican and Democratic leadership were in support or opposed to this policy, rather than just examine policy adoption on its own, the conclusion differs:
-    
-    - `Given considerable research suggesting that public opinion can drive policy adoption...scholars have been surprised that rising economic inequality has not been associated with significant policy changes designed to redistribute income.` - [link](http://matthewg.org/Gilens-Parties4.pdf) - Oligarchy or Class War? Political Parties and Interest Groups in Unequal Public Influence on Policy Adoption, Grossmann and Isaac, 2017
-    
-- A 2017 reply to the Gilens & Page paper found:
-    
-    - `nonlinearities in the relationship between income and representation. Most dramatically, our analysis of the 2012 CCES showed that Republican representatives (though generally more responsive to higher income constituents) provided a much higher degree of representation to individuals in the 97th, 98th, and 99th percentiles. Second, our results revealed that individuals residing in Democratic districts received a fundamentally different mode of representation than those living in Republican districts. In Democratic districts, the relationship between income and representation was either negative (in the Catalist data) or generally flat with negative effects in the highest income categories (in the CCES data)` - [link](https://annas-archive.org/scidb/10.1561/100.00016077) - Testing Models of Unequal Representation: Democratic Populists and Republican Oligarchs?, Rhodes and Schaffner, 2017
-    
-- A 2019 reply to the Gilens & Page paper found that:
-    
-    - `The larger the opinion supermajority, the more clear-cut the majoritarian position, the more likely the Democratic senators are to side with it and Republicans against it.` - [link](https://annas-archive.org/scidb/10.1017/S0003055419000315) - The Party or the Purse? Unequal Representation in the US Senate, Lax et al., 2019
-    
-## Falling Rate of Profit
-- A 1976 paper found that:
-    
-    - `The above very sketchy review of the literature on Marx's law of the tendency of the rate of profit to fall has shown us that-at present-no satisfactory formulation of this law exists.` - [link](https://sci-hub.st/https://www.jstor.org/stable/1817193?seq=1) - Marx and the Falling Rate of Profit, Christiansen, 1976
-    
-- A 2007 journal found that:
-    
-    - `A more realistic estimate of annual working hours is provided by Huberman (2002), who takes into account differences in weekly working hours, paid leave and public holidays. As Figure 3.1 shows, working hours in industrialized countries were reduced dramatically in the last century. In the Netherlands, for example, workers worked 3,285 hours per year in 1870 but only 1,347 hours in 2000. Interestingly, this reduction of working hours coincided with economic progress: the period of severe economic turbulence between 1929 and 1950 was accompanied by fluctuations in working hours, sometimes involving an upward trend. Other periods such as post-World War I and post-World War II are largely characterized by progressive reductions in working hours.` - [link](https://www.ilo.org/wcmsp5/groups/public/@dgreports/@dcomm/@publ/documents/publication/wcms_104895.pdf) - Working Time Around the World, Messenger et al., 2007
-    
-- A 2014 paper found that:
-    
-    - `The examination of the determining factors of long-run profitability in the manufacturing sector has been largely neglected in the literature. Existing studies either overlook the internal profit dynamics of the sector for the sake of international developments or do not go beyond the application of descriptive statistics. Starting from the theoretical concepts of Marx-biased technical change and the tendential fall in the rate of profit, we intend to fill this gap with the use of multivariate cointegration analysis. A Vector Error Correction Model using a time-series dataset that covers the entire postwar era is applied to test the long-run relationship between the rate of profit and a set of variables. The analysis is extended to capital-intensive and labour-intensive industries within manufacturing. We find one true long-run relationship between the set of variables in all models. Capital intensity is found to have a negative impact on the profit rate in all models tested, providing evidence for Marx-biased technical change. The effect of real wages is also negative in the models where a statistically significant contribution is established. Labour productivity has the largest positive effect in all models and is promoted as the decisive counteracting force to the negative burdens on the rate of profit. A secular declining trend in the rate of profit cannot be confirmed.` - [link](http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=4648167&fileOId=4648170) - Technology, distribution, and long-run profit rate dynamics in the U.S. manufacturing sector, 1948-2011: evidence from a Vector Error Correction Model (VECM), Kalogerakos, 2014
-    
-- A 2018 paper found that:
-    
-    - `The results for this nonlinear approach reinforce previous empirical evidence that does not provide support for a systematic and declining tendency in profit rate as advanced in the Marxian literature.` `The model appears to provide a satisfactory portrayal of the evolution of the profit rate and the pattern of long swings reinforces previous rejections of the hypothesis of a consistent declining tendency of the profit rate.` - [link](https://annas-archive.org/scidb/10.1080/13504851.2017.1352074) - Profit rate in the US, 1949–2007: a Markov switching assessment, Resende, 2018
-    
-- A 2019 paper found that:
-    
-    - `We find that from 1980 onwards, markups have risen from 21% to nearly 61% in 2014, an increase of 40 points. For the same period, average profit rates have increased from 1 percent of sales to 8 percent.` - [link](http://www.janeeckhout.com/wp-content/uploads/RMP.pdf) - The Rise of Market Power and the Macroeconomic Implications, Loecker et al., 2019
-    
-- A 2020 paper found that:
-    
-    - `Offsetting the large declines in the labor and capital shares is a large increase in the pure profit share.` - [link](https://www.ucl.ac.uk/economics/sites/economics/files/barkaideclininglaborcapital.pdf) - Declining Labor and Capital Shares, Barkai, 2020
-    
-- Full Doc To Read [link](https://docs.google.com/document/d/1VDL3kTfKQ_qFpzhugOurQi_v6dWG3GZ5pS1fABoirgg/edit#) [link](https://web.archive.org/web/20220520023105/https://medium.com/@cartesianotter/making-sense-of-nonsense-the-tendency-for-the-rate-of-profit-to-fall-8248f96238b8)
+[[Food Stamps]]
+[[Money In Politics]]
+[[Falling Rate of Profit]]
 ## Boom Bust Cycle
 - Crises have become less common over time and a higher proportion of countries in the world are growing at all times:
-    
-    - `The pandemic underscores the crucial value of global coordination and cooperation in public health as well as in economic policy. Cooperation across governments, and between governments, non-governmental organizations, and the private sector is necessary to help build domestic capacity to detect and respond to health crises, as well as develop and disseminate global public goods such as vaccines. Global coordination is vital for transferring health supplies and expertise where they are most needed in the near term, and to develop a coordinated exit strategy from restrictions on the free movement of people in the medium term. Moreover, the unprecedented common economic shock adds to the growing evidence of the gains from coordinating monetary and fiscal actions across countries (Bodenstein, Corsetti, and Guerrieri 2020; Triggs 2018). In late March, the G7 pledged to “do whatever is necessary to restore confidence and economic growth and to protect jobs, businesses, and the resilience of the financial system” (U.S. Department of the Treasury 2020).` - [link](https://openknowledge.worldbank.org/bitstream/handle/10986/33748/211553-Ch01.pdf?sequence=18&isAllowed=y) - Global Economic Prospects, 2020
-    
+    - `The pandemic underscores the crucial value of global coordination and cooperation in public health as well as in economic policy. Cooperation across governments, and between governments, non-governmental organizations, and the private sector is necessary to help build domestic capacity to detect and respond to health crises, as well as develop and disseminate global public goods such as vaccines. Global coordination is vital for transferring health supplies and expertise where they are most needed in the near term, and to develop a coordinated exit strategy from restrictions on the free movement of people in the medium term. Moreover, the unprecedented common economic shock adds to the growing evidence of the gains from coordinating monetary and fiscal actions across countries (Bodenstein, Corsetti, and Guerrieri 2020; Triggs 2018). In late March, the G7 pledged to “do whatever is necessary to restore confidence and economic growth and to protect jobs, businesses, and the resilience of the financial system” (U.S. Department of the Treasury 2020).` - [Global Economic Prospects, 2020](https://openknowledge.worldbank.org/bitstream/handle/10986/33748/211553-Ch01.pdf?sequence=18&isAllowed=y)
 - A 2001 Paper found that:
-    
-    - Output volatility has enormously fallen in the US and other high-income countries (G7) (minus Japan). They also found that higher inflation and higher inflation volatility both predict higher output volatility -- but the time trend predicts lower volatility `We have documented the long and large decline in output volatility over the last half-century.` - [link](https://annas-archive.org/scidb/10.1353/eca.2001.0013) - The Long and Large Decline in U.S. Output Volatility, Blanchard and Simon, 2001
-    
+    - Output volatility has enormously fallen in the US and other high-income countries (G7) (minus Japan). They also found that higher inflation and higher inflation volatility both predict higher output volatility -- but the time trend predicts lower volatility `We have documented the long and large decline in output volatility over the last half-century.` - [The Long and Large Decline in U.S. Output Volatility, Blanchard and Simon, 2001](https://annas-archive.org/scidb/10.1353/eca.2001.0013)
 - A 2018 Paper found that there was no evidence for the post-2008 era having seen increased volatility.
-    
-    - `In this paper, we focused on break detection in mean and in variance on output growth for a set of advanced countries, based on statistical test procedures. It turns out that the Great Recession period is characterized by large breaks in mean of transitory nature, while dates of breaks in variance are consistent with the Great Moderation period in the eighties. This leads us to conclude that there is no evidence favoring an end of the low output volatility period, but rather that the Great Recession has a dramatically short-lived effect on the output growth but not on its volatility.` - [link](https://annas-archive.org/scidb/10.1111/ecin.12551) - Does The Great Recession Imply The End Of The Great Moderation? International Evidence, Charles et al., 2018
-    
+    - `In this paper, we focused on break detection in mean and in variance on output growth for a set of advanced countries, based on statistical test procedures. It turns out that the Great Recession period is characterized by large breaks in mean of transitory nature, while dates of breaks in variance are consistent with the Great Moderation period in the eighties. This leads us to conclude that there is no evidence favoring an end of the low output volatility period, but rather that the Great Recession has a dramatically short-lived effect on the output growth but not on its volatility.` - [Does The Great Recession Imply The End Of The Great Moderation? International Evidence, Charles et al., 2018](https://annas-archive.org/scidb/10.1111/ecin.12551)
 - Good monetary policy is the claim to low volatility of capital in the US, namely The Great Moderation.
-    
     - `The Great Moderation is the name given to the period of decreased macroeconomic volatility experienced in the United States from the mid-1980s to the financial crisis in 2007.` `The Great Moderation is seen as a part of the monetary policy framework laid by Paul Volcker and continued by Alan Greenspan and Ben Bernanke during their time as Federal Reserve chairs.` - [link](https://www.investopedia.com/terms/g/great-moderation.asp#:~:text=The%20Great%20Moderation%20is%20the,States%20starting%20in%20the%201980s.&text=The%20Great%20Moderation%20can%20be,inflation%20and%20positive%20economic%20growth.)
-    
 - The effect of this monetary policy showed a tighter and more stable upwards change to Real GDP over time. [link](https://fredblog.stlouisfed.org/2017/10/moderately-well-understood/)
 - Read more here. [link](https://www.federalreservehistory.org/essays/great-moderation)
 ## Worker Co-Operatives
