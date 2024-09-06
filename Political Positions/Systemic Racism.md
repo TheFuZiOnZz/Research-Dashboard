@@ -1,4 +1,3 @@
-## Systemic Racism
 ### Employment Discrimination
 - A 2004 paper found that:
     - `This paper suggests that discrimination is an important factor in why African Americans do poorly in the labor market. Job applicants with African American names get far fewer callbacks for each resume they send out. Equally importantly, applicants with African American names find it hard to fight discrimination in callbacks by improving their observable skills or credentials.` - [Are Emily and Greg More Employable Than Lakisha and Jamal? A Field Experiment on Labor Market Discrimination, Bertrand and Mullainathan, 2004](https://www.nber.org/system/files/working_papers/w9873/w9873.pdf)
