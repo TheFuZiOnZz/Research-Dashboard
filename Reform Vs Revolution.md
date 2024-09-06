@@ -1,0 +1,7 @@
+## Reform Vs Revolution
+- [video](https://www.youtube.com/watch?v=7cPhCt1UJgw) - Martin Luther King and Malcolm X: How Different? by Lonerbox
+    - details MLK peaceful methods vs Malcolm X more violent proposals and its effects
+- A 2013 paper concluded that:
+    - `We show that larger political protests can both strengthen the movement they support and help advance the political and policy agenda of the movement. We find that the 2009 Tax Day Tea Party protests increased turnout in favor of the Republican Party in the subsequent congressional elections, and increased the likelihood that incumbent Democratic representatives decided to retire.` [Do Political Protests Matter? Evidence from the Tea Party Movement, Madestam et al., 2013](https://annas-archive.org/scidb/10.1093/qje/qjt021)
+- A 2020 paper found that:
+    - `A substantial body of work in political science suggests we should expect no meaningful political consequences to follow subordinate group agitation. The results of this article suggest that statistical minorities in stratified democracies can overcome structural biases to influence and frame the news, direct elite discourse, sway public opinion, and win at the ballot box.` [Agenda Seeding: How 1960s Black Protests Moved Elites, Public Opinion and Voting, Wasow, 2020](https://annas-archive.org/scidb/10.1017/s000305542000009x)
