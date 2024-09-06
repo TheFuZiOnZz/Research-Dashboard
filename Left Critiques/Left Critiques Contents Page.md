@@ -1,6 +1,6 @@
 [[Free College]]
 [[Rent Control]]
-[[Student Debt Cancellation]]
+[[University Financing]]
 [[Wealth Tax]]
 [[Worker Co-Operatives]]
 # Anti-Capitalist Critique

@@ -19,7 +19,7 @@
 [[Minimum Wage]]
 [[Redistributive Cash Transfers]]
 [[Multilateral & Liberalized Trade]]
-[[Student Debt Cancellation]]
+[[University Financing]]
 [[Free College]]
 [[Rent Control]]
 [[Wage Earner Funds]]
