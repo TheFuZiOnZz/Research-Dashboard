@@ -546,7 +546,7 @@
 
 ### Videos
 
-- “Why did Khrushchev give Crimea to Ukraine? [#ussr](https://www.youtube.com/results?search_query=%23ussr), [#khrushchev](https://www.youtube.com/results?search_query=%23khrushchev), [#crimea](https://www.youtube.com/results?search_query=%23crimea)” by USHANKA SHOW [https://www.youtube.com/watch?v=NU0iQLfF8_I](https://www.youtube.com/watch?v=NU0iQLfF8_I) [19:42, EN] (Soviet Ukranian immigrated to USA)
+- “Why did Khrushchev give Crimea to Ukraine? [ussr](https://www.youtube.com/results?search_query=%23ussr), [khrushchev](https://www.youtube.com/results?search_query=%23khrushchev), [crimea](https://www.youtube.com/results?search_query=%23crimea)” by USHANKA SHOW [https://www.youtube.com/watch?v=NU0iQLfF8_I](https://www.youtube.com/watch?v=NU0iQLfF8_I) [19:42, EN] (Soviet Ukranian immigrated to USA)
 - “WHO ARE THE CRIMEAN TATARS. ENGLISH” uploaded by Rustern Irsay [https://www.youtube.com/watch?v=0BFf9oCOVQQ](https://www.youtube.com/watch?v=0BFf9oCOVQQ) [26:38, EN]
 - “Coming Back: A history of Crimea's Tatars - Al Jazeera World” uploaded by Al Jazeera English [https://www.youtube.com/watch?v=qY9SI8Xc4jw](https://www.youtube.com/watch?v=qY9SI8Xc4jw) [45:16, EN] (Qatari state-owned media with anti-Saudi geopolitics)
 - “Crimea: March of the Tatars” [https://www.youtube.com/watch?v=lON40K4WCbM](https://www.youtube.com/watch?v=lON40K4WCbM) [10:30, EN] uploaded by VICE News
@@ -733,8 +733,8 @@
 
 ### Videos
 
-- “Nikita Khrushchev's Great Promise: Communism in the USSR by 1981 [#communism](https://www.youtube.com/results?search_query=%23communism)” uploaded by USHANKA SHOW [https://www.youtube.com/watch?v=WNKeJVMLnAo](https://www.youtube.com/watch?v=WNKeJVMLnAo) [16:36, EN] (Soviet Ukranian immigrated to USA)
-- “Soviet Mortgage. How My Family Struggled to Buy an Apartment in 1980 [#ussr](https://www.youtube.com/results?search_query=%23ussr)“ uploaded by USHANKA SHOW [https://www.youtube.com/watch?v=PLNZX1wLiaI](https://www.youtube.com/watch?v=PLNZX1wLiaI) [26:59, EN] (Soviet Ukranian immigrated to USA)
+- “Nikita Khrushchev's Great Promise: Communism in the USSR by 1981 [communism](https://www.youtube.com/results?search_query=%23communism)” uploaded by USHANKA SHOW [https://www.youtube.com/watch?v=WNKeJVMLnAo](https://www.youtube.com/watch?v=WNKeJVMLnAo) [16:36, EN] (Soviet Ukranian immigrated to USA)
+- “Soviet Mortgage. How My Family Struggled to Buy an Apartment in 1980 [ussr](https://www.youtube.com/results?search_query=%23ussr)“ uploaded by USHANKA SHOW [https://www.youtube.com/watch?v=PLNZX1wLiaI](https://www.youtube.com/watch?v=PLNZX1wLiaI) [26:59, EN] (Soviet Ukranian immigrated to USA)
 - “Could You Be Homeless in the USSR if Free Housing Was Available?” uploaded by USHANKA SHOW [https://www.youtube.com/watch?v=2bffpuJvq-Y](https://www.youtube.com/watch?v=2bffpuJvq-Y) [13:24, EN] (Soviet Ukranian immigrated to USA)
 
 ### Websites
