@@ -1,0 +1,19 @@
+## Carbon Tax/Dividend
+- A 2013 study found that:
+    - `during the first 20 years alone, a CF&D policy would lead to: A 50% reduction of carbon emissions below 1990 levels, The addition of 2.8 million jobs above baseline, driven by the steady economic stimulus of the energy dividend, The avoidance of 230,000 premature deaths due to reduction in air pollutants that often accompany carbon emissions` - [link](https://citizensclimatelobby.org/remi-report/)
+- A 2017 paper found that:
+    - `in response to the BC carbon tax, employment declines in emission-intensive and trade-exposed industries while employment rises in clean service industries. The employment impacts differ across industries due to the difference in the output effect and redistribution effect of the tax. Employment falls in industries whose negative output effect outweighs their positive redistribution effect.` `The results from the preferred specification suggests that the BC carbon tax generated, on average, a small but statistically significant 0.74 percent (roughly 10,000 jobs) annual increases in employment over the 2007-2013 period, a 4.5 percent increase overall.` - [link](https://annas-archive.org/scidb/10.1016/j.jeem.2017.03.003) - Jobs and climate policy: Evidence from British Columbia's revenue-neutral carbon tax, Yamazaki, 2017
+- A 2018 paper found that:
+    - `under plausible assumptions, the lowest household income quintile does not suffer an absolute reduction in welfare under the carbon tax. We also find larger source- and use-side impacts than what the narrower welfare measures used in previous studies would predict.` - [link](https://media.rff.org/documents/RFF20WP2018-22dc.pdf) - Impacts of a Carbon Tax across US Household Income Groups: What Are the Equity-Efficiency Trade-Offs?, Resources for the Future, 2018
+- The carbon tax in British Columbia reduced greenhouse gas emissions by 5% to 15%.
+    - ` ` - [link](https://annas-archive.org/scidb/10.1016/j.enpol.2015.08.011) - British Columbia’s revenue-neutral carbon tax: A review of the latest “grand experiment” in environmental policy, Murray and Rivers, 2015
+- Carbon tax has reduced CO2 emissions from the German electricity sector by 35 to 60 M Tons.
+    - ` ` - [link](https://sci-hub.st/10.1016/j.eneco.2013.09.013) - CO2 abatement from renewables in the German electricity sector: Does a CO2 price help?, Weigt et al., 2013
+- British carbon tax lead to a 93% drop in coal-fired electricity.
+    - ` ` - [link](https://pubs.aeaweb.org/doi/pdfplus/10.1257/pol.20170144) - Carbon Taxes and CO2 Emissions: Sweden as a Case Study, Andersson, 2019
+- Swedish carbon tax decreased carbon emissions by about 11%.
+    - ` ` - [link](https://pubs.aeaweb.org/doi/pdfplus/10.1257/pol.20170144) - Carbon Taxes and CO2 Emissions: Sweden as a Case Study, Andersson, 2019
+- Carbon tax had a strong negative impact on energy intensity and electricity use, and no significant impact on employment, revenue or plant exit.
+    - ` ` - [link](https://annas-archive.org/scidb/10.1016/j.jpubeco.2014.04.016) - The impact of a carbon tax on manufacturing: Evidence from microdata, Martin et al., 2014
+- Subsidies targeted at a particular abatement method are far less efficient than carbon pricing.
+    - ` ` - [link](https://annas-archive.org/scidb/10.1111/1759-3441.12082) - Carbon Price versus Subsidies to Reduce Greenhouse Gas Emissions, Freebairn, 2014
