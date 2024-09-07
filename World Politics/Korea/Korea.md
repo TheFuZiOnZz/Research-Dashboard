@@ -1,6 +1,5 @@
 # Pre-Division
 
-# Peri-Division
 [[1950-53 Korean War]]
 # Post-Division
 ## North Korea
