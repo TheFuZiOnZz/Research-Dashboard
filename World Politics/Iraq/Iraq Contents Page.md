@@ -21,20 +21,6 @@
 [[2003-11 Iraq War]]
 # 2003- Republic of Iraq
 - [link](https://en.wikipedia.org/wiki/Iraq)
-## 20
-- [link]
-- On ,
-    
-    > `` [link]
-    
-## 2011-13 Iraqi Insurgency
-- [link](https://en.wikipedia.org/wiki/Iraqi_insurgency_(2011%E2%80%932013))
-- On ,
-    
-    > `` [link]
-    
-## 2013-17 War in Iraq
-- [link](https://en.wikipedia.org/wiki/War_in_Iraq_(2013%E2%80%932017))
-- On ,
-    
-    > `` [link]
+
+[[2011-13 Iraqi Insurgency]]
+[[2013-17 War in Iraq]]
