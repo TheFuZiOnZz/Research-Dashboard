@@ -1,3 +1,5 @@
+# 1910-1945 Korea (Japanese Rule)
+# 
 # Pre-Division
 
 [[1950-53 Korean War]]
