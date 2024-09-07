@@ -12,11 +12,9 @@
 # 1976-89 Deng Xiaoping Era
 [[1989 Tiananmen Square]]
 # 1989-2002 Jiang Zemin Era
-## 1
-- [link]
+
 # 2002-12 Hu Jintao Era
-## 1
-- [link]
+
 # 2012- Xi Jinping Era
 [[2013 `Threat to Democracy` Document]]
 [[2017- Uyghur Genocide]]
@@ -27,7 +25,7 @@
 - China loans more or less for the same reasons that other countries do. [(Deborah Brautigam)](https://b-ok.org/book/935877/cc61f2)
 ### Hong Kong/Macau
 - [https://docs.google.com/document/d/18m1zCEFKIQbEyzx7PJyeXVVjwYtqMgv6kIGUKr8z5Rg/edit#](https://docs.google.com/document/d/18m1zCEFKIQbEyzx7PJyeXVVjwYtqMgv6kIGUKr8z5Rg/edit#)
-### Chinese Economy
+## Chinese Economy
 - “Leninists In a Chinese Factory” by Zhang Yueran [https://madeinchinajournal.com/2020/06/25/leninists-in-a-chinese-factory/](https://madeinchinajournal.com/2020/06/25/leninists-in-a-chinese-factory/) [EN]
 - “Red Dust: the Transition to Capitalism in China” by Chuang [http://chuangcn.org/journal/two/red-dust/](http://chuangcn.org/journal/two/red-dust/) [EN]
 - “Measuring the Profitability of Chinese Industry: Data Brief” by Chuang [http://chuangcn.org/2020/06/measuring-profitability/](http://chuangcn.org/2020/06/measuring-profitability/) [EN]

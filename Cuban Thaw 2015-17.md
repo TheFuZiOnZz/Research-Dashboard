@@ -1,0 +1,3 @@
+## Cuban Thaw 2015-17
+- On December 17, 2014, U.S. President Barack Obama and Cuban leader Raúl Castro announced the beginning of the process of normalizing relations between Cuba and the United States. The normalization agreement was secretly negotiated in preceding months, facilitated by Pope Francis and largely hosted by the Government of Canada. Meetings were held in both Canada and Vatican City. [[thepopesdiploma]]
+- [https://en.wikipedia.org/wiki/Cuban_thaw](https://en.wikipedia.org/wiki/Cuban_thaw)
