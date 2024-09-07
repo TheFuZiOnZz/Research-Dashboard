@@ -4,91 +4,13 @@
 [[1950-51 Annexation of Tibet]]
 [[1950-53 Campaign to Suppress Counter-Revolutionaries]]
 [[1956-66 Sino-Soviet Split]]
-## 1959–61 Great Chinese Famine
-- [link](https://www0.gsb.columbia.edu/faculty/pyared/papers/famines.pdf)
-- (The mass famines under Mao weren't intentional.) That doesn't exactly **absolve Mao from any** wrongdoing, you wouldn't say to a capitalist that "The Great Depression wasn't on purpose, so it's fine." Mass killings of landlords, gulags and relocations **still happened**. Even then, Liu Shaoqi **admitted that the famine was most likely 70% human error**. ([Communist Party of China News and Historical Treasures](http://cpc.people.com.cn/GB/64162/64172/85037/85039/5898093.html))
-- **3.5 million people died from a combination suicide/murder** during the Great Leap Forward. ([South China Morning Post](https://www.scmp.com/article/723956/revisiting-calamitous-time))
-## 1966-76 Cultural Revolution
-- **20 million people died** from the Cultural Revolution. ([The China Quarterly](https://sci-hub.st/10.1017/S0305741000037085))
-- "Cultural Revolution, 50 years on" [https://multimedia.scmp.com/cultural-revolution/](https://multimedia.scmp.com/cultural-revolution/) [EN] (owned by Alibaba)
-- "I survived China's horrific Cultural Revolution" by Zehao Zhou [https://www.ydr.com/story/opinion/columnists/2016/05/11/survived-chinas-horrific-cultural-revolution-column/84192734/](https://www.ydr.com/story/opinion/columnists/2016/05/11/survived-chinas-horrific-cultural-revolution-column/84192734/) [EN]
-- "Uncovering the Cultural Revolution’s Awful Truths" by Barbara Demick [https://www.theatlantic.com/magazine/archive/2021/01/chinas-rebel-historians/617265/](https://www.theatlantic.com/magazine/archive/2021/01/chinas-rebel-historians/617265/) [EN]
-### News Articles
-- "Chairman Mao, the man behind the Little Red Book, and a warning from China’s turbulent past for Hong Kong’s future" by Su Xinqi [https://www.scmp.com/news/hong-kong/politics/article/3007045/chairman-mao-man-behind-little-red-book-and-warning-chinas](https://www.scmp.com/news/hong-kong/politics/article/3007045/chairman-mao-man-behind-little-red-book-and-warning-chinas) [EN] (owned by Alibaba)
-### Encyclopedia
-- “Cultural Revolution” [https://en.wikipedia.org/wiki/Cultural_Revolution](https://en.wikipedia.org/wiki/Cultural_Revolution) [EN]
-### Notes
-- Tian Han, the person responsible for China’s current national anthem, was persecuted during the Cultural Revolution
-### 1
-### Taiwan
-- “《原轉會各民族代表：台灣原住民族致中國習近平主席》鄉民英譯版 Indigenous Peoples of Taiwan to President Xi Jinping of China (translated by Taiwanese netizens)” [https://g0v.hackmd.io/@chihao/SyKTh6bM4](https://g0v.hackmd.io/@chihao/SyKTh6bM4?type=view) [EN, ZH]
-- “台灣原住民族致中國習近平主” [https://speakup.tw/idg-xi/](https://speakup.tw/idg-xi/) [ZH]
-- “Indigenous Representatives Release Statement Against Chinese Claims of Sovereignty Over Taiwan” by Brian Hioe [https://newbloommag.net/2019/01/10/indigenous-statement-xi-speech/](https://newbloommag.net/2019/01/10/indigenous-statement-xi-speech/) [EN]
-- “刻板「原」罪從哪來？研究「微歧視」的台大學者盼修復族人創傷” 文 李宜蓁[https://www.twreporter.org/a/urban-indigenous-peoples-microaggression](https://www.twreporter.org/a/urban-indigenous-peoples-microaggression) [ZH]
-- “Minority, Not Minor” [https://taiwantoday.tw/news.php?unit=12,29,33,45&post=21736](https://taiwantoday.tw/news.php?unit=12,29,33,45&post=21736) [EN]
-- “A Shared Logic between the Pro-Unification Left and KMT Apologists?” by Brian Hioe
-[https://newbloommag.net/2016/10/01/pro-unification-left-kmt-shared-logic/](https://newbloommag.net/2016/10/01/pro-unification-left-kmt-shared-logic/) [EN]
-- "Movements in Taiwan and Hong Kong must not idealize America" by Brian Hioe [https://lausan.hk/2020/movements-in-taiwan-and-hong-kong-must-not-idealize-america/](https://lausan.hk/2020/movements-in-taiwan-and-hong-kong-must-not-idealize-america/) [EN]
-- “Interview: LIMA Taiwan Youth Indigenous Working Group” by Brian Hioe and Parson Young [https://newbloommag.net/2016/06/16/lima-profile-eng/](https://newbloommag.net/2016/06/16/lima-profile-eng/) [EN]
-- "Formosa Speaks" by Joshua Liao [https://nla.gov.au/nla.obj-394595680/view?partId=nla.obj-394597941#page/n0/mode/1up](https://nla.gov.au/nla.obj-394595680/view?partId=nla.obj-394597941#page/n0/mode/1up) [EN]
-- "An invasion may not be imminent but experts say armed forces could have capacity to mount one by the end of the decade" by Emma Graham-Harrison and Helen Davidson [https://www.theguardian.com/world/2020/oct/02/after-hong-kong-china-taiwan-invasion-armed-forces](https://www.theguardian.com/world/2020/oct/02/after-hong-kong-china-taiwan-invasion-armed-forces) (Archive: [https://archive.vn/KnMkw](https://archive.vn/KnMkw)) [EN]
-### News Articles
-- “‘This is sacred space’: An open letter to Xi Jinping from the indigenous peoples of Taiwan” [https://hongkongfp.com/2019/01/09/sacred-space-open-letter-xi-jinping-indigenous-peoples-taiwan/](https://hongkongfp.com/2019/01/09/sacred-space-open-letter-xi-jinping-indigenous-peoples-taiwan/) [EN]
-- “Taiwan’s indigenous people remind Xi Jinping that it has ‘never belonged to China’” by Isbell Steger [https://qz.com/1518787/taiwans-indigenous-people-remind-xi-jinping-it-has-never-belonged-to-china/](https://qz.com/1518787/taiwans-indigenous-people-remind-xi-jinping-it-has-never-belonged-to-china/) [EN] (owned by Uzabase, Inc.)
-- “Taiwan’s indigenous are still seeking justice on the democratic side of the Taiwan Strait” by Nick Aspinwall [https://supchina.com/2019/02/13/taiwans-indigenous-are-still-seeking-justice/](https://supchina.com/2019/02/13/taiwans-indigenous-are-still-seeking-justice/) [EN]
-- “原轉會各民族代表：台灣原住民族致中國習近平主席” [https://tw.news.appledaily.com/forum/20190108/D2XNZZXLFYT7V7E46O2GYRLOBQ/](https://tw.news.appledaily.com/forum/20190108/D2XNZZXLFYT7V7E46O2GYRLOBQ/) (Owned by a Trump supporter) [ZH]
-- “Xi Jinping’s Taiwan unity call triggers backlash from indigenous communities and academics” by Kristin Huang [https://www.scmp.com/news/china/diplomacy/article/2181406/xi-jinpings-taiwan-unity-call-triggers-backlash-indigenous](https://www.scmp.com/news/china/diplomacy/article/2181406/xi-jinpings-taiwan-unity-call-triggers-backlash-indigenous) [EN] (owned by Alibaba)
-- "China tries to calm ‘nationalist fever’ as calls for invasion of Taiwan grow" by Minnie Chan [https://www.scmp.com/news/china/politics/article/3083696/china-tries-calm-nationalist-fever-calls-invasion-taiwan-grow](https://www.scmp.com/news/china/politics/article/3083696/china-tries-calm-nationalist-fever-calls-invasion-taiwan-grow) (owned by Alibaba) [EN]
-- "Beijing blocked Wikimedia from a UN agency because of “Taiwan-related issues”" by Mari Hui [https://qz.com/1908836/china-blocks-wikimedia-from-un-agency-wipo-over-taiwan-dispute/](https://qz.com/1908836/china-blocks-wikimedia-from-un-agency-wipo-over-taiwan-dispute/) [EN] (owned by Uzabase, Inc.)
-- "China’s micro-aggressions against Taiwan have reached the world of birding" by Isabelle Steger [https://qz.com/1903623/bird-conservation-ngo-boots-taiwan-group-over-china-relationship/](https://qz.com/1903623/bird-conservation-ngo-boots-taiwan-group-over-china-relationship/) [EN] (owned by Uzabase, Inc.)
-- "Recent Incidents Highlight the International Erasure of Taiwan Due to Chinese Pressure" by Brian Hioe [https://newbloommag.net/2020/09/30/taiwan-erasure-incidents/](https://newbloommag.net/2020/09/30/taiwan-erasure-incidents/) [EN]
-- "Keeping Indigenous culture alive, away from the limelight" by Chang Chi, Lee Shien-feng and Chiang Yi-ching [https://focustaiwan.tw/culture/202010060006](https://focustaiwan.tw/culture/202010060006) [EN]
-- "Chinese diplomatic gatecrash incident alleged at Taiwan event in Suva" [https://asiapacificreport.nz/2020/10/19/chinese-diplomatic-gatecrash-incident-alleged-at-taiwan-event-in-suva](https://asiapacificreport.nz/2020/10/19/chinese-diplomatic-gatecrash-incident-alleged-at-taiwan-event-in-suva) [EN]
-- "China’s military moves targeting Taiwan are more about intimidation than invasion, analysts say" by Kristin Huang [https://www.scmp.com/news/china/military/article/3106001/chinas-military-moves-targeting-taiwan-are-more-about](https://www.scmp.com/news/china/military/article/3106001/chinas-military-moves-targeting-taiwan-are-more-about) [EN] (owned by Alibaba)
-- "Chinese military beefs up coastal forces as it prepares for possible invasion of Taiwan" by Minnie Chan [https://www.scmp.com/news/china/diplomacy/article/3105953/chinese-military-beefs-coastal-forces-it-prepares-possible](https://www.scmp.com/news/china/diplomacy/article/3105953/chinese-military-beefs-coastal-forces-it-prepares-possible) [EN] (owned by Alibaba)
-- "Taiwan says not invited to WHO meeting after China's 'obstruction'" [https://www.reuters.com/article/health-coronavirus-who-taiwan-idUSKBN27P03T](https://www.reuters.com/article/health-coronavirus-who-taiwan-idUSKBN27P03T) [EN]
-- "Taiwanese Residing in China Most Likely to be Targeted by Proposed List of Taiwanese Independence Advocates" by Brian Hioe [https://newbloommag.net/2020/11/19/taiwan-independence-list/](https://newbloommag.net/2020/11/19/taiwan-independence-list/) [EN]
-- "UNESCO Becomes the Latest International Organization That Taiwanese are Excluded From" by Brian Hioe [https://newbloommag.net/2020/12/08/unesco-exclusion-tw/](https://newbloommag.net/2020/12/08/unesco-exclusion-tw/) [EN]
-- "Outrage Against the ICAO's Blocking of Critics Leads to Social Media Campaign" by Brian Hioe [https://newbloommag.net/2020/01/29/icao-twitter-block-campaign/](https://newbloommag.net/2020/01/29/icao-twitter-block-campaign/) [EN]
-- "China jails 29 Taiwanese deported from Spain for fraud" [https://www.reuters.com/article/us-china-taiwan-crime/china-jails-29-taiwanese-deported-from-spain-for-fraud-idUSKBN2950IV](https://www.reuters.com/article/us-china-taiwan-crime/china-jails-29-taiwanese-deported-from-spain-for-fraud-idUSKBN2950IV) [EN] (not a defense of the fraudsters actions, just a call-out against an unnecessary move by the CCP)
-- "Taiwan reports large incursion by mainland Chinese air force" [https://www.scmp.com/news/china/military/article/3118978/taiwan-reports-large-incursion-mainland-chinese-air-force](https://www.scmp.com/news/china/military/article/3118978/taiwan-reports-large-incursion-mainland-chinese-air-force) (Archive: [https://archive.is/SQXWH](https://archive.is/SQXWH)) [EN] (owned by Alibaba)
-- "China sharpens language, warns Taiwan that independence 'means war'" by Tony Munroe and Yew Lun Tian [https://www.reuters.com/article/us-china-taiwan-idUSKBN29X0V3](https://www.reuters.com/article/us-china-taiwan-idUSKBN29X0V3) [EN]
-- "骆沙鸣委员：#建议隆重纪念郑成功收复台湾360周年#" [https://share.api.weibo.cn/share/207782724.html?weibo_id=4612238222823322](https://share.api.weibo.cn/share/207782724.html?weibo_id=4612238222823322) (Archive: [https://archive.vn/yRfNw](https://archive.vn/yRfNw)) [ZH] (Chinese state media)
-- "Trump Wasn’t Going to Do ‘a Fucking Thing’ If China Invaded Taiwan, a New Book Says" by Viola Zhou [https://www.vice.com/en/article/n7vpqb/trump-wasnt-going-to-do-a-fucking-thing-if-china-invaded-taiwan-a-new-book-says](https://www.vice.com/en/article/n7vpqb/trump-wasnt-going-to-do-a-fucking-thing-if-china-invaded-taiwan-a-new-book-says) [EN]
-- "Chinese Disinformation About Fukushima Wastewater Points to Attempts to Alienate Taiwan from Allies" by Brian Hioe [https://newbloommag.net/2021/04/21/chinese-disinformation-wastewater/](https://newbloommag.net/2021/04/21/chinese-disinformation-wastewater/) [EN]
-### Magazine Articles
-- "Viewing Taiwan From the Left" by Brian Hioe [https://www.jacobinmag.com/2020/01/taiwan-elections-hong-kong-protests-china-dpp-kmt](https://www.jacobinmag.com/2020/01/taiwan-elections-hong-kong-protests-china-dpp-kmt) [EN]
-- "The Island the Left Neglected" by Jeffrey C.H. Ngo [https://www.dissentmagazine.org/article/island-left-neglected-taiwan-dppp-tsai](https://www.dissentmagazine.org/article/island-left-neglected-taiwan-dppp-tsai) [EN]
-### Documents
-- "Statement on Exclusion from UNESCO Event because of Taiwanese Nationality" [https://docs.google.com/document/d/1Jn9XI4-UYjxzH7czHlhxhHyPuFuyBvHEVYtHap4pBJQ/edit](https://docs.google.com/document/d/1Jn9XI4-UYjxzH7czHlhxhHyPuFuyBvHEVYtHap4pBJQ/edit) [EN]
-### Encyclopedia
-- “Taiwanese indigenous peoples” [https://en.wikipedia.org/wiki/Taiwanese_indigenous_peoples](https://en.wikipedia.org/wiki/Taiwanese_indigenous_peoples) [EN]
-- “Su Beng” [https://en.wikipedia.org/wiki/Su_Beng](https://en.wikipedia.org/wiki/Su_Beng) [EN]
-- “史明” [https://zh.wikipedia.org/wiki/%E5%8F%B2%E6%98%8E](https://zh.wikipedia.org/wiki/%E5%8F%B2%E6%98%8E) [ZH]
-- “台獨左派“ [https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%8D%A8%E5%B7%A6%E6%B4%BE](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%8D%A8%E5%B7%A6%E6%B4%BE) [ZH]
-### Books
-- “Taiwan's 400 Year History: The Origins and Continuing Development of the Taiwanese Society and People” by Su Beng (Marxist and former member of Chinese Communist Party) [EN]
-- “台湾人四百年史 : 漢文版” 文 史明 [ZH]
-- “Formosa Betrayed” by George H. Kerr [https://libgen.is/book/index.php?md5=7416F0303DD05587BC95CFA94C3BF21F](https://libgen.is/book/index.php?md5=7416F0303DD05587BC95CFA94C3BF21F) [PDF, 23MB, EN], [http://homepage.usask.ca/~llr130/taiwanlibrary/kerr/kerr.pdf](http://homepage.usask.ca/~llr130/taiwanlibrary/kerr/kerr.pdf) [PDF, 1MB, EN]
-- "Asia's Unknown Uprisings Volume 2: People Power in the Philippines, Burma, Tibet, China, Taiwan, Bangladesh, Nepal Thailand and Indonesia, 1947 - 2009" by George N. Katsiaficas [http://libgen.rs/book/index.php?md5=3BA534B809A05BBBFDE529FE4808F690](http://libgen.rs/book/index.php?md5=3BA534B809A05BBBFDE529FE4808F690) [PDF, 12MB, EN]; [http://libgen.rs/book/index.php?md5=4DC6DAE66E8C3B33E1842F4D640D818B](http://libgen.rs/book/index.php?md5=4DC6DAE66E8C3B33E1842F4D640D818B) [EPUB, 7MB, EN]
-### Videos
-- “Learning about the left: successful indigenous Christian anarchism in Taiwan (1) | Veritas Certum” uploaded by Veritas Cerum [https://www.youtube.com/watch?v=7zRoJuVnnhs](https://www.youtube.com/watch?v=7zRoJuVnnhs) [25:01, EN]
-### Websites
-- “About Su Beng” [http://aboutsubeng.com/](http://aboutsubeng.com/) [EN]
-- “史明一生的傳奇故事 與 獨台會的因緣” [https://web.archive.org/web/20061230161052/http://www.tw400.org.tw/1sitebrief/1sitebrief.html](https://web.archive.org/web/20061230161052/http://www.tw400.org.tw/1sitebrief/1sitebrief.html) [ZH]
-- “Council of Indigenous Peoples” [https://www.cip.gov.tw/](https://www.cip.gov.tw/) [ZH, EN]
-- “New Bloom Magazine” [https://newbloommag.net/](https://newbloommag.net/) [ZH, EN]
-### Archived
-- [https://archive.is/JTRuB](https://archive.is/JTRuB) [EN] - hypocrisy of pointing out the correct nature of Han settler-colonialism under KMT while not applying the same critique to PRC
-### Notes
-- PRC actively supports the reactionary or conservative faction of ROC instead of supporting Taiwanese Marxists and other leftists
-Taiwanese pro-unification leftists (左統) ally with the KMT, use language of (ROC) Chinese nationalism, and similar logic to
-_Qiao Collectiv_
+[[1959–61 Great Chinese Famine]]
+[[1966-76 Mao's Cultural Revolution]]
 ### Mao’s Other Wrongdoings
 - Mao had **sex with children** as he believed it would prolong his life. ([Washington City Paper](https://washingtoncitypaper.com/article/205384/was-chairman-mao-a-pedophile-and-how-would-tom-clancy/))
 - Mao had **criminalised homosexuality and considered it a mental illness**. ([The Culture Trip](https://theculturetrip.com/asia/china/articles/a-history-of-homosexuality-in-china/))
 # 1976-89 Deng Xiaoping Era
-## 1989 Tiananmen Square
+[[1989 Tiananmen Square]]
 # 1989-2002 Jiang Zemin Era
 ## 1
 - [link]
@@ -96,35 +18,8 @@ _Qiao Collectiv_
 ## 1
 - [link]
 # 2012- Xi Jinping Era
-## 2013 `Threat to Democracy` Document
-- In 2013, A document that was widely circulated through within the CCP was leaked by Gao Yu, who was later arrested for "leaking state secrets". This is called "Document Number Nine", and it lists several threats to the CCP written by Xi Jinping, here are some of the threats. [link](https://www.chinafile.com/document-9-chinafile-translation)
-    - Promoting Western Constitutional Democracy
-    - Promoting the West’s idea of journalism, challenging China’s principle that the media and publishing system should be subject to Party discipline.
-    - Questioning Reform and Opening and the socialist nature of socialism with Chinese characteristics.
-## 2017- Uyghur Genocide
-- Since 2017, China has held Uyghur people in re-education camps in Xinjiang.
-- The International Consortium of Investigative Journalists (ICIJ) did an investigation called the `China Cables` after receiving secret Chinese government documents which were leaked by exiled Uyghurs.
-- The key findings of the investigation were: [link](https://www.icij.org/investigations/china-cables/)
-    - `China Cables reveals, in the government’s own words and authoritative detail, a description of China’s extrajudicial internment and compulsory indoctrination of Muslims.`
-    - `Confirms China's camps are involuntary indoctrination centers under heavy 24-hour guard — with high watchtowers, internal cameras and dedicated police bases.`
-    - `China Cables exposes key details of China's mass-surveillance system that is used to control routine behavior, curb internal communication and isolate Xinjiang from the rest of the world.`
-- `The secret documents came to the International Consortium of Investigative Journalists via a chain of exiled Uighurs. Their authenticity was confirmed by several leading experts, including James Mulvenon, vice-president of Defense Group Inc, Adrian Zenz, a senior fellow in China studies at the Victims of Communism Memorial Foundation in Washington, D.C. and several intelligence sources who cannot be identified. There is also a key signature on the documents: Zhu Hailun, head of Xinjiang’s Political and Legal Commission, A key signature. Two people our sources spoke to say they have seen Zhu’s signature and are certain it is his signature and handwriting. They have provided convincing explanations of how they encountered signatures.` [link](https://www.icij.org/investigations/china-cables/read-the-china-cables-documents/)
-- The documents included a telegram of the operations manual for running the mass detention camps, four secret government intelligence briefings from the `Integrated Joint Operation Platform` a centralized data collection system and court documents which `describes the sentencing of a Uighur man to 10 years for such ideological “crimes” as telling co-workers “not to say dirty words” or watch pornography` [link](https://www.icij.org/investigations/china-cables/read-the-china-cables-documents/)
-- The Camps
-    - `Since spring 2017, Chinese authorities have detained more than a million Uighurs and other Muslim minorities in huge internment camps across Xinjiang, which is home to nearly 11 million Uighurs. The mass-detention operation is part of a larger push by Beijing to suppress political dissent and religious expression, particularly among minorities in a nation dominated by Han Chinese. The goal, experts say, is to reinforce Communist Party doctrine, a drive that has accelerated in recent years. After initially denying the camps’ existence, the Chinese government now claims that they are “vocational education and training centers” and are needed to help fight “terrorism and religious extremism.” But Western governments, nongovernmental organizations and Uighur refugees condemn the policy, and one U.S. commission calls the state of affairs in Xinjiang “one of the world’s worst human rights situations.”` [link](https://www.icij.org/investigations/china-cables/how-china-targets-uighurs-one-by-one-for-using-a-mobile-app/)
-- Mass Surveillance
-    - `Muslims worldwide have been flocking to a mobile file-sharing application called Zapya, developed by a Beijing-based startup that encourages users to download the Quran and share religious teachings with loved ones. The app, developed by DewMobile Inc., allows smartphone users to send videos, photos and other files directly from one smartphone to another without being connected to the web, making it popular in areas where internet service is poor or nonexistent. A leak of highly classified Chinese government documents, the China Cables, now reveal that since at least July 2016, Chinese authorities have been targeting users of the Zapya app, known in Chinese as Kuai Ya (fast tooth), as part of their crackdown against the Muslim Uighur population. Officials have closely monitored the app on some Uighurs’ phones and flagged its users for further investigation` [link](https://www.icij.org/investigations/china-cables/how-china-targets-uighurs-one-by-one-for-using-a-mobile-app/)
-- China's Response
-    - `In a written response to questions from ICIJ media partner The Guardian regarding the China Cables, the Chinese Embassy in the UK said the “so-called documents are pure fabrication and fake news.” The statement said: “First, there are no so-called ‘detention camps’ in Xinjiang. Vocational education and training centres have been established for the prevention of terrorism.” It added: “The preventative measures have nothing to do with religious groups. Religious freedom is fully respected in Xinjiang … (The) trainees take various courses at the vocational education and training centres, and the personal freedom of the trainees is fully guaranteed.” The camps are one facet of what the Chinese government calls a strategy to promote social stability. In authoritarian double-speak, detainees are called “students” and the camps are called “education centers,” from which students “graduate.” Zenz says official Xinjiang government websites often describe the camps as places to “wash brains, cleanse hearts.”` [link](https://www.icij.org/investigations/china-cables/about-the-china-cables-investigation/)
-- Genocide Question - By the UNs definition, it is a genocide,
-    - `In the present Convention, genocide means any of the following acts committed with intent to destroy, in whole or in part, a national, ethnical, racial or religious group, as such: Killing members of the group; Causing serious bodily or mental harm to members of the group; Deliberately inflicting on the group conditions of life calculated to bring about its physical destruction in whole or in part; Imposing measures intended to prevent births within the group; Forcibly transferring children of the group to another group.` [link](https://www.un.org/en/genocideprevention/documents/atrocity-crimes/Doc.1_Convention%20on%20the%20Prevention%20and%20Punishment%20of%20the%20Crime%20of%20Genocide.pdf)
-- On 31 August 2022, The United Nations Human Rights Office of the High Commisioner released a report on `OHCHR Assessment of human rights concerns in the Xinjiang Uyghur Autonomous Region, People’s Republic of China`. It found that,
-    - `Serious human rights violations have been committed in XUAR in the context of the Government’s application of counter-terrorism and counter-“extremism” strategies. The implementation of these strategies, and associated policies in XUAR has led to interlocking patterns of severe and undue restrictions on a wide range of human rights. These patterns of restrictions are characterized by a discriminatory component, as the underlying acts often directly or indirectly affect Uyghur and other predominantly Muslim communities.`
-- `Xinjiang Victims Database` - [link](https://shahit.biz/)
-- `Xinjiang Police Files` - [link](https://www.xinjiangpolicefiles.org/)
-- `China's 're-education'/concentration camps in Xinjiang/East Turkestan and the wider campaign of forced assimilation targeting Uyghurs, Kazakhs, etc` - 1377 page Bibliography of News and Academic works - [link](https://docs.uhrp.org/pdf/China's%20're-education'%20concentration%20camps%20in%20Xinjiang%20-%20BIBLIO.pdf)
-- [link](https://docs.google.com/document/d/17hvyxhJZN4LbhM51cM0MfphSxeUVyW5mp8tky9dtY-Q/edit)
-- [link](https://docs.google.com/document/d/1oaJAqOlhfDiPwZK6PKPEqHihXg_zYp80-IO0oqHpuCk/edit)
+[[2013 `Threat to Democracy` Document]]
+[[2017- Uyghur Genocide]]
 ## Other
 ### Lending Policy
 - Chinese foreign loans offer much worse terms relative to the World Bank. [(Center for Global Development)](https://www.cgdev.org/publication/chinese-and-world-bank-lending-terms-systematic-comparison)

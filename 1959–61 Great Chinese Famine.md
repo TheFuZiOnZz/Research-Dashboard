@@ -1,0 +1,4 @@
+## 1959–61 Great Chinese Famine
+- [link](https://www0.gsb.columbia.edu/faculty/pyared/papers/famines.pdf)
+- (The mass famines under Mao weren't intentional.) That doesn't exactly **absolve Mao from any** wrongdoing, you wouldn't say to a capitalist that "The Great Depression wasn't on purpose, so it's fine." Mass killings of landlords, gulags and relocations **still happened**. Even then, Liu Shaoqi **admitted that the famine was most likely 70% human error**. ([Communist Party of China News and Historical Treasures](http://cpc.people.com.cn/GB/64162/64172/85037/85039/5898093.html))
+- **3.5 million people died from a combination suicide/murder** during the Great Leap Forward. ([South China Morning Post](https://www.scmp.com/article/723956/revisiting-calamitous-time))
