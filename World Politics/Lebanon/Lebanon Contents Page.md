@@ -1,7 +1,5 @@
 - [link](https://en.wikipedia.org/wiki/Israeli%E2%80%93Lebanese_conflict)
 # 1517-1917 Ottoman Period
-- [link]
-
 [[1914-18 Middle Eastern Theatre of World War 1]]
 # 1917-45 State of Greater Lebanon
 - [link](https://en.wikipedia.org/wiki/Greater_Lebanon)

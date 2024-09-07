@@ -1,5 +1,5 @@
 # 1948- Internal Conflict
-- [[link]](https://en.wikipedia.org/wiki/Internal_conflict_in_Myanmar)
+- [link](https://en.wikipedia.org/wiki/Internal_conflict_in_Myanmar)
 - Major ethnic conflicts in Kachin, Kayah, Kayin, Rakhine, and Shan State
 - Ceasefires signed by various groups since 1989
 - Autonomous self-administered zones created for six ethnic minorities by the 2008 Constitution of Myanmar
@@ -12,5 +12,5 @@
 - Myanmar civil war (2021–present)
 - 2021 Kalay clashes
 - Karen–Mon conflict
-## 2016-17 Rohingya Genocide
-- [[link]](https://en.wikipedia.org/wiki/Rohingya_genocide)
+
+[[2016-17 Rohingya Genocide]]
