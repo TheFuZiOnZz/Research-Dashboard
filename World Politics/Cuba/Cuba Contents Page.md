@@ -1,6 +1,7 @@
-# Fidel Castro’s Era 1959-2006
+# 1959-2006 Fidel Castro’s Era
 [link](https://en.wikipedia.org/wiki/Cuba_under_Fidel_Castro)
 [link](https://www.youtube.com/watch?v=bq4h0XEin14)
+
 [[1960 U.S Exports Embargo on Cuba]]
 [[1961 Cuba’s Socialist Republic Declaration]]
 [[1961 Bay Of Pigs]]
@@ -15,9 +16,9 @@
 - Cuba **has "travel reforms" that restrict Cubans from going to certain countries**. ([Human Rights Watch](https://www.hrw.org/world-report/2020/country-chapters/cuba))
 - Prisoners are **forced to work 12-hour days and are punished if they do not meet production quotas**. ([Human Rights Watch](https://www.hrw.org/world-report/2020/country-chapters/cuba))
   
-# Raul Castro’s Era 2006-21
-[[Cuban Thaw 2015-17]]
-# Miguel Díaz-Canel’s Era 2021-
+# 2006-21 Raul Castro’s Era
+[[2015-17 Cuban Thaw]]
+# 2021- Miguel Díaz-Canel’s Era
 [[2021 Cuban Protests]]
   
 # Other
