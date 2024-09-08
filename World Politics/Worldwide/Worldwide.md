@@ -694,7 +694,7 @@
 ### Books
 - “Beyond memory: The Crimean Tatars’ deportation and return” by Greta Lynn Uehling [http://libgen.rs/book/index.php?md5=49DD562BB2BA1C227EC0FB5A8EAD9B07](http://libgen.rs/book/index.php?md5=49DD562BB2BA1C227EC0FB5A8EAD9B07) [PDF, 3MB, EN]
 ### Videos
-- “Why did Khrushchev give Crimea to Ukraine? [ussr](https://www.youtube.com/results?search_query=%23ussr), [khrushchev](https://www.youtube.com/results?search_query=%23khrushchev), [crimea](https://www.youtube.com/results?search_query=%23crimea)” by USHANKA SHOW [https://www.youtube.com/watch?v=NU0iQLfF8_I](https://www.youtube.com/watch?v=NU0iQLfF8_I) [19:42, EN] (Soviet Ukranian immigrated to USA)
+- “Why did Khrushchev give Crimea to Ukraine? [#ussr](https://www.youtube.com/results?search_query=%23ussr), [#khrushchev](https://www.youtube.com/results?search_query=%23khrushchev), [#crimea](https://www.youtube.com/results?search_query=%23crimea)” by USHANKA SHOW [https://www.youtube.com/watch?v=NU0iQLfF8_I](https://www.youtube.com/watch?v=NU0iQLfF8_I) [19:42, EN] (Soviet Ukranian immigrated to USA)
 - “WHO ARE THE CRIMEAN TATARS. ENGLISH” uploaded by Rustern Irsay [https://www.youtube.com/watch?v=0BFf9oCOVQQ](https://www.youtube.com/watch?v=0BFf9oCOVQQ) [26:38, EN]
 - “Coming Back: A history of Crimea's Tatars - Al Jazeera World” uploaded by Al Jazeera English [https://www.youtube.com/watch?v=qY9SI8Xc4jw](https://www.youtube.com/watch?v=qY9SI8Xc4jw) [45:16, EN] (Qatari state-owned media with anti-Saudi geopolitics)
 - “Crimea: March of the Tatars” [https://www.youtube.com/watch?v=lON40K4WCbM](https://www.youtube.com/watch?v=lON40K4WCbM) [10:30, EN] uploaded by VICE News
