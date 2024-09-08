@@ -1,4 +1,4 @@
-# .1832-1917 Pre-Soviet Period
+# 1832-1917 Russian Empi Period
 
 [[1905-07 Russian Revolution Attempt]]
 # 1917-91 Soviet Period
