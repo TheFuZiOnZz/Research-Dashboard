@@ -1,4 +1,4 @@
-# 1905-17 Pre-Soviet Period
+# 1832-1917 Pre-Soviet Period
 
 [[1905-07 Russian Revolution Attempt]]
 # 1917-91 Soviet Period
@@ -6,7 +6,6 @@
 ## 1917-24 Vladimir Lenin
 
 ### 1917-23 Russian Revolution
-
 - [Wiki](https://en.wikipedia.org/wiki/Russian_Revolution)
 - Book - A Concise History of the Russian Revolution - [link](https://cloudflare-ipfs.com/ipfs/bafykbzacebnsk5n32pgusyhvt6mce5ocih3yxmlhp62d7o5gslwc7sfyrbym2?filename=Richard%20Pipes%20-%20A%20Concise%20History%20of%20the%20Russian%20Revolution-Knopf%20%281995%29.pdf)
 - Book - The Great War - [link](https://ipfs.io/ipfs/bafykbzacedoxuu33g44lvbtaigktbw2brodlix4rbnbwmqbyjvl5gp67d2w2o?filename=%28Modern%20Wars%20in%20Perspective%29%20Ian%20F.W.%20Beckett%20-%20The%20Great%20War_%201914-1918-Routledge%20%282007%29.pdf)
@@ -15,11 +14,10 @@
 - to watch [link](https://www.youtube.com/watch?v=cUvpE_8A9kU)
 
 ### 1917 February Revolution
-
 - Between 8–16 March 1917 (23 February Old Style), The February Revolution was the first of two revolutions which took place in Russia in 1917.
 - The main events of the revolution took place in and near Petrograd (present-day Saint Petersburg), the then-capital of Russia, where long-standing discontent with the monarchy erupted into mass protests against food rationing.
     - `The day after Nicholas's departure, disorders broke out in Petrograd. They began with a demonstration on International Woman's Day (February 2 3). The event proceeded peacefully,` ... `On February 24, the situation in the capital deteriorated when up to 200,000 idle workers, either on strike or locked out, filled the streets. On the city's main thoroughfare, Nevsky Prospekt, crowds shouted "Down with the autocracy!" and "Down with the war!" Here and there, mobs sacked food stores. The following day the crowds, emboldened by the lack of a vigorous response, grew still more aggressive. Apparently under the influence of radical intellectuals, the demonstrations now assumed a distinctly political character, with red banners making their appearance bearing evolutionary slogans, some of which read "Down with the German Woman!" In several city quarters, gendarmes came under attack.` [link](https://cloudflare-ipfs.com/ipfs/bafykbzacebnsk5n32pgusyhvt6mce5ocih3yxmlhp62d7o5gslwc7sfyrbym2?filename=Richard%20Pipes%20-%20A%20Concise%20History%20of%20the%20Russian%20Revolution-Knopf%20%281995%29.pdf)
-- On 15 March (2 March Old Style), Nicholas II agreed Abdicated the throne of the Russian Empire on behalf of himself and his son, Tsarevich Alexei Nikolaevich, in favor of his brother Grand Duke Michael Alexandrovich. This led to the establishment of a Democratic `Dual Power` structure of Russia for a brief period between the Provisional Government made from the original official State Duma and the Petrograd Soviet made up of workers councils.
+- On 15 March (2 March Old Style), Nicholas II agreed Abdicated the throne of the Russian Empire on behalf of himself and his son, Tsarevich Alexei Nikolaevich, in favor of his brother Grand Duke Michael Alexandrovich. This led to the establishment of a Democratic Dual Power structure of Russia for a brief period between the Provisional Government made from the original official State Duma and the Petrograd Soviet made up of workers councils.
     - `A provisional government under Prince L’vov was nominated by the Duma’s leaders acting as a provisional committee on 14 March. It forced the Tsar to abdicate on behalf of himself and his son in favour of Grand Duke Michael on 15 March (2 March).` [link](https://ipfs.io/ipfs/bafykbzacedoxuu33g44lvbtaigktbw2brodlix4rbnbwmqbyjvl5gp67d2w2o?filename=%28Modern%20Wars%20in%20Perspective%29%20Ian%20F.W.%20Beckett%20-%20The%20Great%20War_%201914-1918-Routledge%20%282007%29.pdf)
 - On 16 March (3 March Old Style) the Grand Duke Michael Alexandrovich refused to accept the imperial authority, stating that he would accept it only if that was the consensus of democratic action by the Russian Constituent Assembly, which shall define the form of government for Russia.
     - `A heavy burden has been laid upon Me by the will of My Brother, Who has given over to Me the Imperial Throne of All the Russias at a time of unprecedented warfare and popular disturbances. Inspired by the thought, which is shared by all the people, that the good of our native land is above everything else, I have taken a firm decision to assume the Supreme Power only in the event that such is the will of our great people, upon whom it devolves by a general vote, through their representatives in the Constituent Assembly, to determine the form of government and the new fundamental laws of the Russian State.` [link](https://ipfs.io/ipfs/bafykbzacearzlmowbqphrwjchdgmdlm2m7pw2kw46j7rmlvbtmtrbjjiibcgy?filename=Robert%20P.%20Browder_%20Aleksandr%20Fyodorovich%20Kerensky%20-%20The%20Russian%20Provisional%20Government%2C%201917_%20Documents%2C%20Volumes%20I-III-Stanford%20University%20Press%20%281961%29.pdf) [p116]
