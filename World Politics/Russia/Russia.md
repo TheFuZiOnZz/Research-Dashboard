@@ -1,9 +1,6 @@
 # 1905-17 Pre-Soviet Period
 
-## 1905-07 **Russian Revolution Attempt**
-
-- [Wiki](https://en.wikipedia.org/wiki/Russian_Revolution_of_1905)
-
+[[1905-07 Russian Revolution Attempt]]
 # 1917-91 Soviet Period
 
 ## 1917-24 Vladimir Lenin
