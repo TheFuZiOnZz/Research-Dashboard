@@ -9,7 +9,6 @@
 
 [[1978 Saur Revolution]]
 [[1979-89 Soviet–Afghan War]]
-[[1984 Baraki Barak Massacre]]
 [[1989-92 Afghan Civil War]]
 # 1992-2002 Islamic State of Afghanistan
 

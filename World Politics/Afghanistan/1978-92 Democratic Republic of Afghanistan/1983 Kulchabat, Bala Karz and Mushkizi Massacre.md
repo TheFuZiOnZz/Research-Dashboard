@@ -1,2 +1,1 @@
-# 1983 Kulchabat, Bala Karz and Mushkizi Massacre
 - [link](https://en.wikipedia.org/wiki/Kulchabat,_Bala_Karz_and_Mushkizi_massacre)
