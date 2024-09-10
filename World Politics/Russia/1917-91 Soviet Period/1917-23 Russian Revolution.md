@@ -31,8 +31,39 @@
     - `The cabinet that Lenin had declared deposed sat in the Malachite Room of the Winter Palace awaiting help. Five thousand Kronshtadt sailors brought in by the Bolsheviks to seize the government's last stronghold had no heart for battle.` - A Concise History of the Russian Revolution, Richard Pipes, 1995
 - As the Revolution was not universally recognized, the country descended into the Russian Civil War, which would last until 1923 and ultimately lead to the creation of the Soviet Union in late 1922.
 #### 1918 Treaty of Brest-Litovsk
-- On 3 March 1918, The Treaty of Brest-Litovsk [link](https://avalon.law.yale.edu/20th_century/bl34.asp#treatytext) (also known as the Treaty of Brest in Russia) was a separate peace treaty signed between the new Bolshevik government of Russia, headed my Lenin, and the Central Powers (German Empire, Austria-Hungary, Bulgaria, and the Ottoman Empire), that ended Russia's participation in World War I.
-- The treaty also signed over areas of the former Russian Empire
+- On 3 March 1918, The Treaty of Brest-Litovsk (also known as the Treaty of Brest in Russia) was a separate peace treaty signed between the new Bolshevik government of Russia, headed my Lenin, and the Central Powers (German Empire, Austria-Hungary, Bulgaria, and the Ottoman Empire), that ended Russia's participation in World War I.
+	- ` ARTICLE 1`
+	  
+	  `Germany, Austria-Hungary, Bulgaria and Turkey on the one hand and Russia on the other declare that the condition of war between them has ceased. They have decided to live in peace and accord in the future.`
+	  
+	  `ARTICLE 2`
+	  
+	  `The contracting parties will refrain from all agitation or propaganda against the governments or all state and military institutions of the other side. Inasmuch as this obligation affects Russia, it affects also the territories occupied by the powers of the Quadruple Alliance.`
+	  
+	  `ARTICLE 3`
+	  
+	  `The territories lying to the west of the line determined by the contracting powers and which formerly belonged to Russia will no longer be under her sovereignty. The line determined upon is marked on the appended map (Appendix I), which is an important part of the present treaty of peace.(3) The precise location of this line will be worked out by a German-Russian commission.`
+	  
+	  `In respect to the mentioned territories no obligations towards Russia are to be considered as issuing from their formerly having belonged to that country.`
+	  
+	  `Russia gives up all interference in the internal affairs of the said territories. Germany and Austria-Hungary intend to determine the future fate of the said territories with the consent of their inhabitants.`
+	  
+	  `ARTICLE 4`
+	  
+	  `Germany is ready, as soon as general peace is established and Russian den mobilization will have completely taken place, to vacate the territories lying east of the line mentioned in part 1 of Article 3, insomuch as Article 6 does not rule otherwise.`
+	  
+	  `Russia will do all in her power to have the provinces of eastern Anatolia promptly evacuated and returned to Turkey.`
+	  
+	  `The territories of Ardakhan, Kars and Batum will also be cleared without delay of Russian troops. Russia will not interfere in the new organization of internal juridical and international juridical relations of such territories, but will allow the populations of these territories to establish new governments in agreement with neighboring states, especially with Turkey.`
+	  
+	  `ARTICLE 5`
+	  
+	  `Russia will, without delay, proceed to demobilize her army, including those army units newly formed by her present government.`
+	  
+	  `Moreover Russia will either bring her warships into Russian ports and keep them there until general peace is concluded, or will disarm them at once. The warships of the countries continuing in a state of war with the Quadruple Alliance, in so far as such warships are within the sphere of Russian sovereignty, must be treated as Russian warships.`
+	  
+	  `The prohibition zone of the Arctic Ocean remains in force until the conclusion of general peace In the Baltic Sea and those parts of the Black Sea under Russia's supremacy, the clearing away of mine defense must be begun at once. Merchant navigation in those sea regions is free and is to recommence at once. Mixed commissions are to be formed for the purpose of framing more concise regulations and especially for the purpose of publication of general information as to safe courses of sailing for trading vessels. Such courses must always be free of floating mines.` - [Treaty of Brest-Litovsk](https://avalon.law.yale.edu/20th_century/bl34.asp#treatytext) 
+- The treaty signed over areas of the former Russian Empire
     - `The terms of the Brest-Litovsk Treaty, which the Russians signed on March 3, were extremely burdensome. They give an idea of what the Allies would have faced had they lost the war. Russia had to make major territorial concessions which deprived her of the conquests made in the west since the middle of the seventeenth century. She had to give lip Poland, Finland, and the Ukraine, as well as Lithuania, Latvia, Estonia, and Transcaucasia.` - A Concise History of the Russian Revolution, Richard Pipes, 1995
     - `Lenin has been widely credited with prophetic vision in accepting a humiliating treaty which gave him the time he needed to organize his government, and which collapsed of its own weight once Germany surrendered to the Allies on November 11, 1918. When the Bolsheviks renounced the Brest-Litovsk Treaty two days later, Lenin's stock in Bolshevik ranks rose to unprecedented heights. Nothing he had done contributed more to his reputation for infallibility; he never again had to threaten resignation to have his way.` - A Concise History of the Russian Revolution, Richard Pipes, 1995
 - The motivations of this treaty has been renounced to be what the future actions the Soviet Union’s Foreign Policy would be.
