@@ -17,3 +17,9 @@
 # 2002-04 Islamic Republic of Afghanistan
 
 [[2001-21 War in Afghanistan]]
+# 2004-21 Islamic Republic of Afghanistan
+
+# 2021- Islamic Emirate of Afghanistan
+
+
+[[2021 Taliban Offensive on Afghanistan]]
