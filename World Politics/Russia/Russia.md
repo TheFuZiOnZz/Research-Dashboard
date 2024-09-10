@@ -10,10 +10,9 @@
 ## 1924-53 Joseph Stalin Era
 
 [[1924-33 Stalinist Dekulakization]]
-[[1917-91 Soviet Period/1930-53 Gulag Labor Camps]]
+[[1930-53 Gulag Labor Camps]]
 [[1930-33 Asharshylyk Famine]]
 ### 1932-33 Holodomor Famine
-
 - In 1932 to 1933, the Ukrainian SSR, and now Ukraine, experienced a famine. This famine was man-made, approximately 3.9 million from this famine.
 - The overwhelming majority of dead were Ukrainians. but Kazakhs were also amongst those who died during the [[1930-33 Asharshylyk Famine]]. 
 - The consequences are evident in demographic statistics: between 1926 and 1939, the Ukrainian population increased by only 6.6%, whereas Russia and Belarus grew by 16.9% and 11.7%, respectively. [link](https://web.archive.org/web/20110706211443/http://datalib.chass.utoronto.ca/codebooks/utm/ussr_1939.htm)
