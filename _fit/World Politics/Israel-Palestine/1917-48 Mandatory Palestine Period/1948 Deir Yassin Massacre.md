@@ -1,0 +1,7 @@
+### 1948 Deir Yassin Massacre
+- [Wiki](https://en.wikipedia.org/wiki/Deir_Yassin_massacre)
+- [video](https://www.youtube.com/watch?v=Jsm5AUE0UDs)
+- [video](https://www.youtube.com/watch?v=U1kGAKUjjpw)
+- On 9 April 1948,
+- The Deir Yassin Massacre was pointed to as one of the primary factors for the Palestinian exodus.
+    - `The IZL commanders, then and later, may have had an interest in exaggerating the impact of Deir Yassin. But they weren’t far off the mark. HIS officers around the country immediately reported on the fear- and flight-sowing impact of Deir Yassin. Ben-Gurion himself noted—probably not unhappily—that Deir Yassin had propelled flight from Haifa. British intelligence commented that “the violence used [at Deir Yassin] so impressed Arabs all over the country that an attack by [the] Haganah on [the Arab village of] Saris met with no opposition whatsoever.” Mapam’s leaders later assessed that Deir Yassin had been one of the two pivotal events (the other was the fall of Arab Haifa) in the exodus of Palestine’s Arabs. The HIS-AD, in summarizing the Arab flight to the end of June 1948, pointed to Deir Yassin as a “decisive accelerating factor.”`  - [1948: A History of the First Arab-Israeli War, Benny Morris](https://cloudflare-ipfs.com/ipfs/bafykbzaceboh6eehlb6m6qeyfzcadyiri4vhj3syboxaidhido32jriuuaj3c?filename=Benny%20Morris%20-%201948_%20A%20History%20of%20the%20First%20Arab-Israeli%20War-Yale%20University%20Press%20%282008%29.pdf)

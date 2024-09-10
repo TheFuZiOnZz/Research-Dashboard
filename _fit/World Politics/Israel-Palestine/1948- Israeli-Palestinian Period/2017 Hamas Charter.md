@@ -1,0 +1,4 @@
+- [Wiki](https://en.wikipedia.org/wiki/2017_Hamas_charter)
+- On
+	- `Hamas believes that no part of the land of Palestine shall be compromised or conceded, irrespective of the causes, the circumstances and the pressures and no matter how long the occupation lasts. Hamas rejects any alternative to the full and complete liberation of Palestine, from the river to the sea. However, without compromising its rejection of the Zionist entity and without relinquishing any Palestinian rights, Hamas considers the establishment of a fully sovereign and independent Palestinian state, with Jerusalem as its capital along the lines of the 4th of June 1967, with the return of the refugees and the displaced to their homes from which they were expelled, to be a formula of national consensus.` [link](https://irp.fas.org/world/para/docs/hamas-2017.pdf)
+    - ` ` [link](https://irp.fas.org/world/para/docs/hamas-2017.pdf)

@@ -1,0 +1,3 @@
+## 1920 Assembly of Representatives Election
+- [Wiki](https://en.wikipedia.org/wiki/1920_Assembly_of_Representatives_election)
+- The first elections to the Assembly of Representatives in Mandatory Palestine were held amongst members of the Jewish community on 19 April 1920, except in Jerusalem where voting took place on 3 May. Ahdut HaAvoda led by David Ben-Gurion emerged as the largest party, winning 70 of the 314 seats.

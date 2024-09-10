@@ -1,0 +1,3 @@
+- [Wiki](https://en.wikipedia.org/wiki/Status_of_Jerusalem\#ICJ_case_%E2%80%94_Palestine_v._United_States_of_America)
+- [link](https://www.icj-cij.org/case/176) - Docket
+- [link](https://www.icj-cij.org/sites/default/files/case-related/176/176-20180928-APP-01-00-EN.pdf) - Inditement

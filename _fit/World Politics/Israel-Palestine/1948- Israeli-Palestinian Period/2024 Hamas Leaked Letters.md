@@ -1,0 +1,1 @@
+- [link](https://www.telegraph.co.uk/world-news/2024/06/11/hamas-leader-leaked-civilian-deaths-necessary-israel-sinwar/)

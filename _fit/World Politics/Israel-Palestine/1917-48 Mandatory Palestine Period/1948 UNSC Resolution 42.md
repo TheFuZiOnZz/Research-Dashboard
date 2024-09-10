@@ -1,3 +1,4 @@
+### 1948 UNSC Resolution 42
 - [Wiki](https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_42)
 - On 5 March 1948, The United Nations Security Council Resolution 42, called upon the permanent members of the Council to consult and inform it regarding the situation in Palestine and to make recommendations to the United Nations Palestine Commission. The Resolution also appealed to all governments and peoples, particularly those around Palestine to aid the situation in any way possible. The resolution was adopted with eight votes to none and abstentions from Argentina, Syria and the United Kingdom.
     - `The Security Council,`

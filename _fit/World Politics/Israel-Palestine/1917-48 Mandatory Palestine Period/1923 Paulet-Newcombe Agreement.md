@@ -1,0 +1,2 @@
+- [Wiki](https://en.wikipedia.org/wiki/Paulet%E2%80%93Newcombe_Agreement)
+- On 23 December 1920, The Paulet–Newcombe Agreement or Paulet-Newcombe Line, was a agreement between the British and French governments regarding the position and nature of the boundary between the [[1919-22 Mandate for Palestine]] and Mandate for Mesopotamia, attributed to Great Britain, and the Mandate of Syria and Lebanon, attributed to France. The 1923 line defined the border of Mandatory Palestine from the Mediterranean up to Al-Hamma, Tiberias.

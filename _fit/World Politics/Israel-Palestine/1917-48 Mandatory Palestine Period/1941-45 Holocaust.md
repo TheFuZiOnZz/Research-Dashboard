@@ -1,0 +1,4 @@
+- [Wiki](https://en.wikipedia.org/wiki/The_Holocaust)
+- [link](https://rationalwiki.org/wiki/Holocaust_denial)
+- [link](https://www.youtube.com/watch?v=2_YFgugVhns) - LSP Video
+- [link](https://cloudflare-ipfs.com/ipfs/bafykbzacedvrvlnji425yvw2dbvnkh4eip2ulpuo52m2zupdmitxjmqj3btgq?filename=Richard%20J.%20Evans%20-%20Lying%20About%20Hitler_%20History%2C%20Holocaust%20And%20The%20David%20Irving%20Trial-Basic%20Books%20%282001%29.pdf) - Lying About Hitler: History, Holocaust, and the David Irving Trial

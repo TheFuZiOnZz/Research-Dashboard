@@ -1,0 +1,3 @@
+## 1960 The Complete Diaries of Theodor Herzl
+- In 1960, Theodor Herzl’s diaries spanning five volumes is published.
+    - ` ` - [The Complete Diaries of Theodor Herzl](http://bafykbzaceczcbptcat4n5sarqy5yyeqbh5h73ygkq7eeedtpgjyqn7mv5j4s6.ipfs.localhost:8080/?filename=Theodor%20Herzl_%20Raphael%20Patai_%20Harry%20Zohn%20-%20The%20Complete%20Diaries%20of%20Theodor%20Herzl-Herzl%20Press%20%281960%29.pdf)

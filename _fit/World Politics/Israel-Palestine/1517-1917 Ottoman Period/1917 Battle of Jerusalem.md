@@ -1,0 +1,4 @@
+- [Wiki](https://en.wikipedia.org/wiki/Battle_of_Jerusalem)
+- [Wiki](https://archive.org/details/lastcrusadepales0000bruc/mode/2up?view=theater)
+- On 17 November - 30 December 1917,
+	- 

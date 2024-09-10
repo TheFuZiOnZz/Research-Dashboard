@@ -1,0 +1,9 @@
+## 1974 Ma'alot Massacre
+- [Wiki](https://en.wikipedia.org/wiki/Ma%27alot_massacre)
+- On 15 May 1974
+- Palestinian terrorist attack that involved hostage-taking of 115 Israelis, mainly school children, which ended with 25 hostages and 6 other civilians dead.
+- Began with three armed members of the DFLP, or the Democratic Front for he Liberation of Palestine.
+- They infiltrated from Lebanon.
+- The DFLP demanded the release of 23 Palestinian militants and 3 others from Israeli prisons, or else they would kill the students. The Israelis agreed, but the hostage-takers did not receive an expected message in time from Damascus.
+- In response, Israel bombed DFLP and PFLP training bases. The BBC reported that the bombings inflicted damage in seven Palestinian refugee camps and villages in southern Lebanon, killing 27 and injuring 138.
+- The DFLP tried a second time to take hostages at a hotel in Ma'alot in 1979, but were killed by Israeli soldiers.
