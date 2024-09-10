@@ -1,4 +1,3 @@
-#### 1922 Creation of the Union of Soviet Socialist Republics
 - On 29 December 1922, The `Declaration and Treaty on the Formation of the Union of Soviet Socialist Republics` officially created the Union of Soviet Socialist Republics (USSR), commonly known as the Soviet Union. It de jure legalised a political union of several Soviet republics that had existed since 1919 and created a new federal government whose key functions were centralised in Moscow.
 - Its legislative branch consisted of the Congress of Soviets of the Soviet Union and the Central Executive Committee of the Soviet Union (TsIK), while the Council of People's Commissars composed the executive.
 - The Treaty, along with the Declaration of the Creation of the USSR was approved on 30 December 1922 by a conference of delegations from the Russian SFSR, the Transcaucasian SFSR, the Ukrainian SSR and the Byelorussian SSR.

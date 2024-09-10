@@ -1,6 +1,5 @@
-### 1917-23 Russian Revolution
 - [Wiki](https://en.wikipedia.org/wiki/Russian_Revolution)
--
+
 [[1917 February Revolution]]
 [[1917 October Revolution]]
 [[1918 Treaty of Brest-Litovsk]]
