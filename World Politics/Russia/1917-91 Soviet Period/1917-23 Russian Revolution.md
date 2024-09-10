@@ -8,33 +8,13 @@
 [[1917 February Revolution]]
 [[1917 October Revolution]]
 [[1918 Treaty of Brest-Litovsk]]
-#### 1917-23 Russian Civil War
-- [Wiki](https://en.wikipedia.org/wiki/Red_Terror)
-- [Wiki](https://en.wikipedia.org/wiki/Mass_graves_from_Soviet_mass_executions)
-- On August 1918 – February 1922, the Red Terror in Soviet Russia was a campaign of political repression and executions carried out by the Bolsheviks, chiefly through the Cheka, the Bolshevik secret police.
-#### 1921-22 Russian Famine (Povolzhye Famine)
-- [Wiki](https://en.wikipedia.org/wiki/Russian_famine_of_1921%E2%80%931922)
-#### 1918 Execution of the Russian Monarchy
-- On 16-17 July 1918,The Russian Imperial Romanov family were shot and bayoneted to death by Bolshevik revolutionaries under Yakov Yurovsky on the orders of the Ural Regional Soviet in Yekaterinburg. Also murdered that night were members of the imperial entourage who had accompanied them: court physician Eugene Botkin; lady-in-waiting Anna Demidova; footman Alexei Trupp; and head cook Ivan Kharitonov. The bodies were taken to the Koptyaki forest, where they were stripped, buried, and mutilated to prevent identification.
-    - `The Imperial family spent July 16 in their customary manner. Judging by the last entry in Alexandra's diary, written at 11 p.m. as the. family retired for the night, they had no premonition of what was about to happen. They were awakened at 1:30 a.m. and told that in view of the unrest in the city and occasional random shooting, they would be removed to the basement. At 2 a.m. under heavy guard, the seven Romanovs, their physician, lady-in-waiting, and two servants descended to the lower floor. A short time later, the commandant of the house, a Chekist by the name of Iakov Iurovskii, entered the crowded room accompanied by a squad of armed guards. From his recently discovered recollections of the event, this is what ensued:`
-      
-      `When the party entered, [I] told the Romanovs that in view of the fact that their relatives continued their offensive against Soviet Russia, the Executive Committee of the Ural Soviet had decided to shoot them. Nicholas turned his back to the detachment and faced his family. Then, as if collecting himself, he turned around, asking "What? What?" [I] rapidly repeated what I had said and ordered the detachment to get ready. Its members had been previously instructed whom to shoot and to aim directly at the heart to avoid much blood and finish more quickly. Nicholas said nothing more. He turned again toward his family. The others shouted some incoherent exclamations. All this lasted a few seconds. Then commenced the shooting which lasted for two or three minutes. [I] killed Nicholas on the spot.`
-      
-      `The young Alexis, who lay on the floor in a pool of blood but still breathing, was dispatched by Iurovskii with two shots in the head. The whole "procedure," as Iurovskii calls it, took twenty minutes. The bodies were carried to a truck and taken out of town to a place previously chosen for the purpose. There they were stripped. It was discovered that three of the girls had sewn into their corsets large quantities of diamonds; Iurovskii had considerable difficulty preventing the executioners from stealing them. The bodies were soaked with sulfuric acid and kerosene, and then burned. The remains were buried in a shallow grave that was not discovered until 1989.` - A Concise History of the Russian Revolution, Richard Pipes, 1995
-#### 1918-22 Red Terror
-- [Wiki](https://en.wikipedia.org/wiki/Red_Terror)
-- [Wiki](https://en.wikipedia.org/wiki/Mass_graves_from_Soviet_mass_executions)
-- On August 1918 – February 1922, the Red Terror in Soviet Russia was a campaign of political repression and executions carried out by the Bolsheviks, chiefly through the Cheka, the Bolshevik secret police.
-#### 1921 Soviet Occupation of Georgia
-- [Wiki](https://en.wikipedia.org/wiki/Red_Army_invasion_of_Georgia)
-- In 15 February – 17 March 1921, the Bolsheviks with the red army invaded Georgia.
-#### 1921 Kronstadt Revolution Attempt
-- [Wiki](https://en.wikipedia.org/wiki/Red_Army_invasion_of_Georgia)
-- to read [link](https://cloudflare-ipfs.com/ipfs/bafykbzacedukep33gggo36febxnvj6msivqrkgwf2cmiijhh7hvyalijes5xo?filename=Paul%20Avrich%20-%20Kronstadt%2C%201921-Princeton%20University%20Press%20%281991%29.pdf)
-- to watch ****[link](https://www.youtube.com/watch?v=oZVvs1NWk7o)
-- On 1-18 March 1921, The Kronstadt rebellion was a 1921 insurrection of Soviet sailors and civilians against the Bolshevik government in the Russian port city of Kronstadt. Located on Kotlin Island in the Gulf of Finland, Kronstadt defended the former capital city, Petrograd (now Saint Petersburg), as the base of the Baltic Fleet. For sixteen days in March 1921, rebels in Kronstadt's naval fortress rose in opposition to the Soviet government they had helped to consolidate. Led by Stepan Petrichenko, it was the last major revolt against Bolshevik rule on Russian territory during the Russian Civil War.
-#### 1922 Treaty of Rapallo
-- [Wiki](https://en.wikipedia.org/wiki/Treaty_of_Rapallo_(1922))
+[[1917-23 Russian Civil War]]
+[[1921-22 Russian Famine (Povolzhye Famine)]]
+[[1918 Execution of the Russian Monarchy]]
+[[1918-22 Red Terror]]
+[[1921 Soviet Occupation of Georgia]]
+[[1921 Kronstadt Revolution Attempt]]
+[[1922 Treaty of Rapallo]]
 #### 1922 Creation of the Union of Soviet Socialist Republics
 - On 29 December 1922, The Declaration and Treaty on the Formation of the Union of Soviet Socialist Republics officially created the Union of Soviet Socialist Republics (USSR), commonly known as the Soviet Union. It de jure legalised a political union of several Soviet republics that had existed since 1919 and created a new federal government whose key functions were centralised in Moscow.
 - Its legislative branch consisted of the Congress of Soviets of the Soviet Union and the Central Executive Committee of the Soviet Union (TsIK), while the Council of People's Commissars composed the executive.

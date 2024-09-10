@@ -1,0 +1,5 @@
+#### 1921 Kronstadt Revolution Attempt
+- [Wiki](https://en.wikipedia.org/wiki/Red_Army_invasion_of_Georgia)
+- to read [link](https://cloudflare-ipfs.com/ipfs/bafykbzacedukep33gggo36febxnvj6msivqrkgwf2cmiijhh7hvyalijes5xo?filename=Paul%20Avrich%20-%20Kronstadt%2C%201921-Princeton%20University%20Press%20%281991%29.pdf)
+- to watch ****[link](https://www.youtube.com/watch?v=oZVvs1NWk7o)
+- On 1-18 March 1921, The Kronstadt rebellion was a 1921 insurrection of Soviet sailors and civilians against the Bolshevik government in the Russian port city of Kronstadt. Located on Kotlin Island in the Gulf of Finland, Kronstadt defended the former capital city, Petrograd (now Saint Petersburg), as the base of the Baltic Fleet. For sixteen days in March 1921, rebels in Kronstadt's naval fortress rose in opposition to the Soviet government they had helped to consolidate. Led by Stepan Petrichenko, it was the last major revolt against Bolshevik rule on Russian territory during the Russian Civil War.

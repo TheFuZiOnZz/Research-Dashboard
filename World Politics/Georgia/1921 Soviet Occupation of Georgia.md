@@ -1,0 +1,2 @@
+- [Wiki](https://en.wikipedia.org/wiki/Red_Army_invasion_of_Georgia)
+- In 15 February – 17 March 1921, the Bolsheviks with the red army invaded Georgia.
