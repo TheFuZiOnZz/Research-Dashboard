@@ -10,7 +10,7 @@
 ## 1924-53 Joseph Stalin Era
 
 [[1924-33 Stalinist Dekulakization]]
-[[1930-53 Gulag Labor Camps]]
+[[1917-91 Soviet Period/1930-53 Gulag Labor Camps]]
 [[1930-33 Asharshylyk Famine]]
 ### 1932-33 Holodomor Famine
 
