@@ -1,0 +1,5 @@
+- [Wiki](https://en.wikipedia.org/wiki/Dekulakization)
+- In November 1917, at a meeting of delegates of the committees of poor peasants, Vladimir Lenin announced a new policy to eliminate what were believed to be wealthy Soviet peasants, known as kulaks: "If the kulaks remain untouched, if we don't defeat the freeloaders, the czar and the capitalist will inevitably return."
+- In July 1918, Committees of the Poor were created to represent poor peasants, which played an important role in the actions against the kulaks, and led the process of redistribution of confiscated lands and inventory, food surpluses from the kulaks. This launched the beginning of a great crusade against grain speculators and kulaks.
+- Before being dismissed in December 1918, the Committees of the Poor had confiscated 50 million hectares of kulak land.
+- Vladimir Lenin's Hanging Order, commanding hangings in response to a kulak revolt, was dated 11 August 1918.
