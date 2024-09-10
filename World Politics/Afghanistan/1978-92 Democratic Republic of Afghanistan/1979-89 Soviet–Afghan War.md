@@ -1,8 +1,9 @@
-## 1979-89 Soviet–Afghan War
 - [link](https://en.wikipedia.org/wiki/Soviet%E2%80%93Afghan_War)
-- [link](https://en.wikipedia.org/wiki/Rauzdi_massacre)
-- [link](https://en.wikipedia.org/wiki/Baraki_Barak_massacre)
-- [link](https://en.wikipedia.org/wiki/Laghman_massacre)
-- [link](https://en.wikipedia.org/wiki/Kulchabat,_Bala_Karz_and_Mushkizi_massacre)
-- [link](https://en.wikipedia.org/wiki/Kunduz_massacre)
-- [link](https://en.wikipedia.org/wiki/Padkhwab-e_Shana_massacre)
+
+[[1979-92 Operation Cyclone]]
+[[1982 Padkhwab-e Shana Massacre]]
+[[1983 Rauzdi Massacre]]
+[[1983 Kulchabat, Bala Karz and Mushkizi Massacre]]
+[[1984 Baraki Barak Massacre]]
+[[1984 Kunduz Massacre]]
+[[1985 Laghman Massacre]]

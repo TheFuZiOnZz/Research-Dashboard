@@ -1,1 +1,0 @@
-[[1985-88 War of the Camps]]
