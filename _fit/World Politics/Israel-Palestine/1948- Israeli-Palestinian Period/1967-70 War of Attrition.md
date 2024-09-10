@@ -1,8 +1,0 @@
-- [Wiki](https://en.wikipedia.org/wiki/War_of_Attrition)
-- Ongoing border conflict between Israel and Egypt, Jordan and the PLO and their allies.
-    - No territorial changes during this time.
-    - In 1968 the PLO deploys suicide bombers for the first time.
-    - Israel engaged in an air battle, Rimon 20, to directly target Soviet fighter pilots to drive the USSR from the conflict.
-    - In August of 1970, Israel, Jordan and Egypt agreed to an "in place" ceasefire under the Rogers Plan, though Egyptians and Soviet allies violated the agreement shortly thereafter.
-[[1967 Arab League Summit, Khartoum Resolution (The Three No’s)]]
-[[1968 Battle of Karameh]]

@@ -1,2 +1,0 @@
-- [Wiki](https://en.wikipedia.org/wiki/2019_Gaza_economic_protests)
-- On 14-18 March 2019,

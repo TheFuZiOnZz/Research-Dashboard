@@ -1,2 +1,0 @@
-- [Wiki](https://en.wikipedia.org/wiki/King_David_Hotel_bombing)
-- On 22 July 1946, The Irgun bombed the King David Hotel in Jerusalem, leading to the deaths of 91 people of various nationalities. This hotel was the headquarters for Mandatory Palestine and was the deadliest attack against the British during the entire Mandate era.

@@ -1,5 +1,0 @@
-- [Wiki](https://en.wikipedia.org/wiki/1914_Ottoman_jihad_proclamation)
-- On 11 November 1914, Ottoman Sultan Mehmed V proclaimed a holy war against the Entente powers and appealed for support from Muslims in Entente-controlled countries.
-- The declaration, which called for Muslims to support the Ottomans in Entente-controlled areas and for jihad against "all enemies of the Ottoman Empire, except the Central Powers",
-- The
-	- `Moved by hostility toward Russia, and a belief that Germany would win the war—or, alternatively, that if the Allies won, they would in any case carve up the empire among themselves—the Young Turks in November 1914 plunged into the fray on the Central Powers' side.`  - [Righteous Victims: A History of the Zionist-Arab Conflict, 1881-2001, Benny Morris](https://gateway.pinata.cloud/ipfs/bafykbzaced6rtb5d4wthw3wapbnqafd3w7znfmikvzx43dqifs5amzbyzltas?filename=Righteous%20Victims%3A%20A%20History%20of%20the%20Zionist-Arab%20Conflict%2C%20--%20Benny%20Morris%20--%202001%20--%20Vintage%20--%209780679744757%20--%200ffdde5f35058146403a55786f6cfc18%20--%20Anna%E2%80%99s%20Archive.pdf)

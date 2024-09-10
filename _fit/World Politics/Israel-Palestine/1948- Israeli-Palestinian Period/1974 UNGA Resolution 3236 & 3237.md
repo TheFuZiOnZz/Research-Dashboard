@@ -1,3 +1,0 @@
-- [Wiki](https://en.wikipedia.org/wiki/United_Nations_General_Assembly_Resolution_3236)
-- On 22 November 1974, The United Nations General Assembly Resolution 3236, adopted by the 29th Session of the General Assembly recognized the Palestinian people's right to self-determination, makes official United Nations contact with the Palestine Liberation Organization, and added the "Question of Palestine" to the U.N. Agenda.
-    - ` ` [UNGA Resolution 3236/3237](https://www.un.org/unispal/wp-content/uploads/2016/05/ARES3236XXIX.pdf)

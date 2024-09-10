@@ -1,3 +1,0 @@
-- [Wiki](https://en.wikipedia.org/wiki/Battle_of_Beersheba_(1917))
-- On 31 October 1917,
-	- 

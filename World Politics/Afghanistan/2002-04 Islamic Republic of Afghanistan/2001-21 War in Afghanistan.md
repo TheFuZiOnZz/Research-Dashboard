@@ -1,7 +1,6 @@
 ## 2001-21 War in Afghanistan
 - [link](https://en.wikipedia.org/wiki/War_in_Afghanistan_(2001%E2%80%932021))
 - Afghanistan Papers - [link](https://archive.ph/fnysm)
-  
 - American-led intervention in Afghanistan
 - Fall of the Taliban government in Afghanistan
 - Destruction of al-Qaeda camps and presence in Afghanistan

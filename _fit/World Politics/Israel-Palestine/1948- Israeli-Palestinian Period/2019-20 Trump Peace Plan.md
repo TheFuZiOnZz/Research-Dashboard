@@ -1,2 +1,0 @@
-- [Wiki](https://en.wikipedia.org/wiki/Trump_peace_plan)
-- On 22 June 2019,

@@ -1,2 +1,0 @@
-- [Wiki](https://en.wikipedia.org/wiki/1933_Palestine_riots)
-- On 

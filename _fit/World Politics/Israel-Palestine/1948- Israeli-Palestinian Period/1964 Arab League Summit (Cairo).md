@@ -1,3 +1,0 @@
-## 1964 Arab League Summit (Cairo)
-- [Wiki](https://en.wikipedia.org/wiki/1964_Arab_League_summit_(Cairo))
-- On 13-16 January 1964, The 1964 Arab League summit was the first summit of the Arab League, held in Cairo. At the summit, held on the initiative of the United Arab Republic, it was decided to carry out planning to resolve inter-Arab conflicts and to adopt common principles regarding the struggle against imperialism and the "aggressive policies" of Israel.

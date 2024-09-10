@@ -1,3 +1,0 @@
-- [Wiki](https://en.wikipedia.org/wiki/First_Battle_of_Gaza)
-- On 26 March 1917, The First Battle of Gaza was fought during the first attempt by the Egyptian Expeditionary Force (EEF), which was a British Empire military formation, formed on 10 March 1916 under the command of General Archibald Murray from the Mediterranean Expeditionary Force and the Force in Egypt, at the beginning of the Sinai and Palestine Campaign of the First World War.
-	- 

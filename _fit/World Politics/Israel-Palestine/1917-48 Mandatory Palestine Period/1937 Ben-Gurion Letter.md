@@ -1,4 +1,0 @@
-- [Wiki](https://en.wikipedia.org/wiki/1937_Ben-Gurion_letter)
-- [link](https://www.palestineremembered.com/download/B-G%20LetterTranslation.pdf)
-- [link](https://www.camera.org/article/university-of-exeter-gives-pappe-a-pass-on-invented-ben-gurion-quote/)
-- On   

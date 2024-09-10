@@ -1,2 +1,0 @@
-- [Wiki](https://en.wikipedia.org/wiki/Morrison%E2%80%93Grady_Plan)
-- On on 31 July 1946, The Morrison–Grady Plan, also known as the Morrison Plan or the Provincial Autonomy Plan, was a joint Anglo-American plan for the creation of a unitary federal trusteeship in Mandatory Palestine.

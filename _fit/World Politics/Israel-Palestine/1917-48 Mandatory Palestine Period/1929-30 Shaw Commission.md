@@ -1,4 +1,0 @@
-- [Wiki](https://en.wikipedia.org/wiki/Shaw_Commission)
-- On 13 September 1929, the Shaw Commission was established
-- On 13 March 1930, the Shaw Commission released a report called `Report of the Commission on the Palestine Disturbances of August 1929`.
-	- [Shaw Commission](https://web.archive.org/web/20201112042111/https://buconflict.files.wordpress.com/2018/02/shaw-commission.pdf)

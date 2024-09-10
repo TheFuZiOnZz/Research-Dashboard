@@ -1,2 +1,0 @@
-- [Wiki](https://en.wikipedia.org/wiki/Ad_Hoc_Committee_on_the_Palestinian_Question)
-- On 23 September 1947, The Ad Hoc Committee on the Palestinian Question was a committee formed by a vote of the United Nations General Assembly, following the publication of the report of the United Nations Special Committee on Palestine (UNSCOP) on 3 September 1947, which contained majority and minority proposals.

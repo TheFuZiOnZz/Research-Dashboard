@@ -1,2 +1,0 @@
-- [Wiki](https://en.wikipedia.org/wiki/Basic_Laws_of_Israel)
-- [Wiki](https://en.wikipedia.org/wiki/Basic_Law:_Israel_as_the_Nation-State_of_the_Jewish_People)

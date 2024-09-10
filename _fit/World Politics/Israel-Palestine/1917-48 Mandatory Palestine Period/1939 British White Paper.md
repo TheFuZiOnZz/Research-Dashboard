@@ -1,8 +1,0 @@
-- [Wiki](https://en.wikipedia.org/wiki/White_Paper_of_1939)
-- On
-- Called for the establishment of a Jewish National Home in an independent Palestinian state within 10 years.
-- Limited Jewish immigration to 75,000 for five years, and allowed Arab majority to determine future Jewish immigration.
-- Jews were restricted from buying Arab land in all but 5% of the Mandate.
-- The Palestinian Arab parties, acting under Haj Amin Effendi al-Husseini, rejected this proposal, but probably should have accepted.
-- The Arab counter offer wanted independence, no Jewish national home in Palestine, replacement of the Mandate by a treaty, and the end of Jewish immigration.
-	- [British White Paper](https://avalon.law.yale.edu/20th_century/brwh1939.asp)

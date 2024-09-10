@@ -1,3 +1,0 @@
-- [Wiki](https://en.wikipedia.org/wiki/Second_Battle_of_Gaza)
-- On 17–19 April 1917, The Second Battle of Gaza was fought following the defeat of the Egyptian Expeditionary Force (EEF) at the First Battle of Gaza in March, during the Sinai and Palestine Campaign of the First World War.
-	- 
