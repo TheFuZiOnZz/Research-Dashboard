@@ -1,4 +1,3 @@
-## 2020 Doha Agreement
 - [link](https://en.wikipedia.org/wiki/US%E2%80%93Taliban_deal)
 - [link](https://www.state.gov/wp-content/uploads/2020/02/Agreement-For-Bringing-Peace-to-Afghanistan-02.29.20.pdf)
 - [link](https://www.state.gov/wp-content/uploads/2020/02/02.29.20-US-Afghanistan-Joint-Declaration.pdf)
