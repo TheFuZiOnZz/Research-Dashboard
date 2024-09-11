@@ -24,97 +24,38 @@
 - In his 1956 "Secret Speech", First Secretary Nikita Khrushchev stated that the doctors' plot was "fabricated... set up by Stalin," but that Stalin did not "have the time in which to bring it to an end," which saved the doctors' lives. Khrushchev also told the session that Stalin called the judge in the case and, regarding the methods to be used, stated "beat, beat and, beat again.” Stalin supposedly told his Minister of State Security, "If you do not obtain confessions from the doctors we will shorten you by a head." According to Khrushchev, Stalin told Politburo members, "You are blind like young kittens. What will happen without me? The country will perish because you do not know how to recognize enemies.” [link](https://web.archive.org/web/20051107221432/http://www.uwm.edu/Course/448-343/index12.html)
 - `I thought about something just now: The decision to nationalize this library was made by the first Soviet government, whose composition was 80-85 percent Jewish` - [link](https://www.timesofisrael.com/putin-first-soviet-government-was-mostly-jewish/)
 - [link](https://news.rambler.ru/other/37478208-natsionalnyy-sostav-pervogo-bolshevistskogo-pravitelstva-kakim-on-byl/)
-
 # 1953-64 Nikita Khrushchev
 
 ## 1954 Transfer of Crimea
-
 - In 1954, the Crimean Oblast was incorporated into the Ukrainian SSR following administrative action of the Presidium of the Supreme Soviet of the Soviet Union. The action was attributed to Nikita Khrushchev, then-First Secretary of the Communist Party.
     - `The agenda of the session of the Presidium of the Central Committee of the Communist Party of the Soviet Union, which took place January 25, 1954, contained a question about the delivery of the Crimean region to the structure of the Ukrainian SSR. The discussion of the question took only 15 minutes. The participants of the meeting approved the decree, and the region was given away to Ukraine for free. Not a single protest was made; no one had any doubts about the decision. No one wondered how the population (presumably the Russian-speaking population) of Crimea would treat the decision. It turned out that such important issues as the territorial movement of regions could be solved without any difficulties at all.` - [link](https://english.pravda.ru/history/107129-ussr_crimea_ukraine/)
 - On 20 February 2014, during a visit to Moscow, Chairman of the Supreme Council of Crimea Vladimir Konstantinov stated that the 1954 transfer of Crimea from the Russian Soviet Federative Socialist Republic to the Ukrainian Soviet Socialist Republic had been a mistake. [link](https://ukrainianweek.com/Politics/132098)
-
-## 1955 Creation of the Warsaw Pact
-
-- In 14 May 1955, while West Germany joins NATO, the USSR responds by creating the Warsaw Pact, a military alliance between the countries of Eastern Europe including Albania, Bulgaria, Czechoslovakia, East Germany, Hungary, Poland and Romania.
-    - `As the exercise of power in Moscow became progressively diluted since its Stalinist peak, the alliance originally devised by Khrushchev with the goal of outcompeting NATO offered to the Soviet dependents in Eastern Europe growing room for pursuing their own interests, jointly or separately, with or sometimes against their master – to those among them, to be sure, who cared and dared to avail themselves of the opportunity` - [link](https://annas-archive.org/scidb/10.4324/9781315732541)
-
-## [[1956-66 Sino-Soviet Split
-
-- The Sino-Soviet split was the breaking of political relations between the People's Republic of China and the Soviet Union caused by doctrinal divergences that arose from their different interpretations and practical applications of Marxism–Leninism, as influenced by their respective geopolitics during the Cold War of 1945–1991.
-
-### 1956 Khrushchev's Secret Speech
-
-- "On the Cult of Personality and Its Consequences" popularly known as the "Secret Speech", was a report by Nikita Khrushchev, made to the 20th Congress of the Communist Party of the Soviet Union (CPSU) on 25 February 1956. Khrushchev charged Stalin with having created a leadership cult of personality despite maintaining support for the ideals of communism.
-    - `Comrades! We must abolish the cult of the individual decisively, once and for all; we must draw the proper conclusions concerning both ideological-theoretical and practical work.` - [link](https://ipfs.io/ipfs/bafykbzacecbfp53uqbfrgwo2c5l3oqr2relj2ajjfu6e2b6va4t6lwuhh5que?filename=Nikita%20S.%20Khrushchev%20-%20The%20Crimes%20of%20the%20Stalin%20Era_%20Special%20Report%20to%20the%2020th%20Congress%20of%20the%20Communist%20Party%20of%20the%20Soviet%20Union-The%20New%20Leader%20%281956%29.pdf)
-- In 1956, Sino-Soviet relations began deteriorating due to the Secret Speech as Mao’s China was built on the same principles as Stalin’s Russia.
-    - `The Secret Speech had immediate repercussions inside and outside of the Soviet Union. Even before its official distribution to all CPSU members on March 5, the report had been circulated within the party and then quickly beyond.` - [link](https://ipfs.io/ipfs/bafykbzaced4sn3i7kz7dz5ye7tlwvaj2zlb5xuiooyj47rxobfcxtahuci2vy?filename=%28Princeton%20Studies%20in%20International%20History%20and%20Politics%29%20Lorenz%20M.%20L%C3%BCthi%20-%20The%20Sino-Soviet%20Split_%20Cold%20War%20in%20the%20Communist%20World-Princeton%20University%20Press%20%282008%29.pdf)
-- In light of this `de-Stalinization`, the CPSU's changed ideological orientation posed problems of ideological credibility and political authority for Mao, who had emulated Stalin's style of leadership and practical application of Marxism–Leninism in the development of Socialism with Chinese characteristics and the PRC as a country.
-    - `To understand the Chinese reaction to the twentieth CPSU congress, it is important to recall developments in China’s domestic politics. The failure of the Socialist High Tide began to reveal itself in the spring of 1956. The policy had many of the characteristics of Stalin’s bungled collectivization campaign. Khrushchev’s criticism of Stalin’s crimes was an unintended assessment of Mao’s recent mistakes. The Secret Speech had not been totally unexpected. Since 1953, the ambassador in Moscow, Zhang Wentian, had written numerous reports on subtle changes in Soviet positions on Stalin. The Chinese leaders had also started to work out their own criticism.` - [link](https://ipfs.io/ipfs/bafykbzaced4sn3i7kz7dz5ye7tlwvaj2zlb5xuiooyj47rxobfcxtahuci2vy?filename=%28Princeton%20Studies%20in%20International%20History%20and%20Politics%29%20Lorenz%20M.%20L%C3%BCthi%20-%20The%20Sino-Soviet%20Split_%20Cold%20War%20in%20the%20Communist%20World-Princeton%20University%20Press%20%282008%29.pdf)
-
-### 1956-57 Mao's Hundred Flowers Campaign
-
-- The Hundred Flowers Campaign, was a period from 1956 to 1957 in the People's Republic of China during which the Chinese Communist Party (CCP) encouraged citizens to openly express their opinions of the Communist Party. However, the campaign proved too successful when blunt criticism of Mao was voiced.
-    - `Since its inception in early 1956, the Hundred Flowers Campaign had hardly generated any echo outside the party. Although dissent in the PRC was rife, fear of potential repressions kept many mouths shut. Starting in mid-March 1957, the Chairman tried to reassure skeptics that the campaign would not lead to any repercussions. It was kicked off on May 1 with a public call to carry it out “as gently as a breeze or a mild rain.” In controlled meetings, those invited to speak tested the limits of the still unpublished Contradictions Speech. A significant number of people openly questioned the unchecked rule of the CCP, as well as the socialist system itself. Mao soon realized the magnitude of the menace he had provoked.` - [link](https://ipfs.io/ipfs/bafykbzaced4sn3i7kz7dz5ye7tlwvaj2zlb5xuiooyj47rxobfcxtahuci2vy?filename=%28Princeton%20Studies%20in%20International%20History%20and%20Politics%29%20Lorenz%20M.%20L%C3%BCthi%20-%20The%20Sino-Soviet%20Split_%20Cold%20War%20in%20the%20Communist%20World-Princeton%20University%20Press%20%282008%29.pdf)
-- Consequent to the relative freedoms of the de-Stalinized USSR, Mao retained the Stalinist model of Marxist–Leninist economy, government, and society.
-    - `Further disagreements arose over the Hundred Flowers Campaign and Stalin’s mistakes in the Chinese Revolution. Far more serious, though, were differences linked to Khrushchev’s pursuit of two essentially contradictory strategic goals: relaxation of relations with the West and a close partnership with anti-imperialist China.` - [link](https://ipfs.io/ipfs/bafykbzaced4sn3i7kz7dz5ye7tlwvaj2zlb5xuiooyj47rxobfcxtahuci2vy?filename=%28Princeton%20Studies%20in%20International%20History%20and%20Politics%29%20Lorenz%20M.%20L%C3%BCthi%20-%20The%20Sino-Soviet%20Split_%20Cold%20War%20in%20the%20Communist%20World-Princeton%20University%20Press%20%282008%29.pdf)
-
-### 1957-59 Mao's Anti-Rightist Campaign
-
-- The Anti-Rightist Campaign in the People's Republic of China, which lasted from 1957 to roughly 1959, was a political campaign to purge alleged "Rightists", meaning capitalists, within the Chinese Communist Party (CCP) and the country as a whole.
-    
-- Mao used the Hundred Flowers Campaign to expose dissenters within Chinese society.
-    
-    - `Mao soon realized the magnitude of the menace he had provoked. On May 15, he sent out an internal circular to high-ranking party cadres instructing them to allow criticism to continue. The Chairman wanted the “rightists” to expose themselves in full; he was not content in getting only the small fry because he wanted “to catch the big fish, [and] ... dig ... out the poisonous weed” once and for all. In early June, Mao decided that the party would “counterattack.” The Chairman boasted that he had set up a trap by breaking the whole campaign “into many small ‘Hungarian incidents’ ... [to be] dealt with individually.` - [link](https://ipfs.io/ipfs/bafykbzaced4sn3i7kz7dz5ye7tlwvaj2zlb5xuiooyj47rxobfcxtahuci2vy?filename=%28Princeton%20Studies%20in%20International%20History%20and%20Politics%29%20Lorenz%20M.%20L%C3%BCthi%20-%20The%20Sino-Soviet%20Split_%20Cold%20War%20in%20the%20Communist%20World-Princeton%20University%20Press%20%282008%29.pdf)
-- Administering several provinces in the southwest, Deng Xiaoping proved so zealous in liquidating alleged counter-revolutionaries that even the Chairman felt obliged to write to him. Mao urged Deng Xiaoping to slow down the campaign's body count.
-    
-    - `The wave of public executions that engulfed Deng’s region was so large that the Chairman himself felt compelled to intervene. “We should not kill too many people,” he wrote to Deng on April 30, 1951. “If we kill too many, we will forfeit public sympathy and a shortage of labor power will arise.” He issued a new order: in the countryside execute no more than one in a thousand, and in the cities even less.` - [link](https://ipfs.io/ipfs/bafykbzaceajwfdkecnp6cq3rzod3brl32j2oc4elrbjjpelyxzlob3r5qudki?filename=Alexander%20V.%20Pantsov%2C%20Steven%20I.%20Levine%20-%20Deng%20Xiaoping_%20A%20Revolutionary%20Life-Oxford%20University%20Press%20%282015%29.pdf)
-- In 1960, Khrushchev slammed Mao in public while addressing a congress of the Romanian communist party.
-    
-    - `The most vitriolic disagreement was perhaps the one that took place at the congress of the Romanian Communist Party in 1960 between Khrushchev, who denounced Mao as a “nationalist, adventurist, and deviationist”` - [link](http://jirfp.com/journals/jirfp/Vol_7_No_1_June_2019/4.pdf)
-- The 1962 Sino-Indian war, instead of Moscow supporting its fellow communist nation in the month-long border clash it took the opportunity to strengthen its relationship with New Delhi offering arms and technology to be used against the Chinese. Beijing in extreme protest broke off its diplomatic relations with the soviet union making the split now official.
-    
-    - `On the Indian side political considerations were important. Relations with the Soviet Union had improved, and some visible form of military cooperation appeared likely to act as a restraint on China.` - [link](https://annas-archive.org/scidb/https://www.jstor.org/stable/2643691)
-
+[[1955 Creation of the Warsaw Pact]]
+[[1956-66 Sino-Soviet Split]]
 # 1964-82 Leonid Brezhnev
 
-## 1
-
-- On
-    - `` - [link]
-
 # 1985-91 Mikhail Gorbachev
-
 ## 1989 Public Revealing of the Full Molotov–Ribbentrop Pact
-
-- On December 25 1989, the Congress of People's Deputies of the Soviet Union condemned the [Molotov-Ribbentrop Pact](https://www.notion.so/27b787c817dd4ec6b105f068c07e9c03?pvs=21) and its secret protocol as "legally deficient and invalid.” [link](https://www.nytimes.com/1989/12/25/world/upheaval-east-soviet-congress-condemns-39-pact-that-led-annexation-baltics.html)
+- On December 25 1989, the Congress of People's Deputies of the Soviet Union condemned the [[1939 Molotov–Ribbentrop Pact]] and its secret protocol as "legally deficient and invalid.” [link](https://www.nytimes.com/1989/12/25/world/upheaval-east-soviet-congress-condemns-39-pact-that-led-annexation-baltics.html)
 
 ## 1990 Russian Independence
-
 - On June 12 1990, Russian Parliament voted for Independence from the Soviet Union
-
 ## 1991 Russian Presidential Referendum and Election
-
 - On March 17, 1991, the all-Russian referendum on the introduction of the post of President of Russia was held. More than 70% of citizens voted for the introduction of the post of President, elected by direct vote. On 24 April 1991 the Supreme Council of Russia adopted the law "On the President of the RSFSR".
 - Boris Yeltsin served as Chairman of the Supreme Soviet and was the head of the Russian SFSR. He had had strong favorability. Heading into the election, he was the most popular candidate.
 - On 12 June 1991, Receiving more than 50% of the vote in the first round of the election, the Yeltsin-Rutskoy ticket won the election with an overwhelming margin over their closest competitors, the Ryzhkov-Gromov ticket. Thus Boris Yeltsin and Alexander Rutskoy were elected 1st President of Russia and 1st Vice President of Russia respectively. [link](https://web.archive.org/web/20041010050340/http://www2.essex.ac.uk/elect/database/indexElections.asp?country=RUSSIA&election=ru91presidential)
-
 ## 1991 Gorbachev’s General Secretary Resignation
-
 - On August 24, 1991, Gorbachev resigned as the general secretary the Central Committee of the Communist Party of the Soviet Union and dissolved all party units in the government. Five days later, the Supreme Soviet of the Soviet Union indefinitely suspended all CPSU activity on Soviet territory
     - `The secretariat, the Politburo of the Central Committee of the CPSU did not oppose the coup. The Central Committee failed to take a resolute position of condemnation and opposition, did not rouse the communists to fight against the violation of constitutional legality. Among the conspirators were members of the party leadership, a number of party committees and the media supported the actions of state criminals. This put the communists in a false position. Many members of the party refused to cooperate with the conspirators, condemned the coup and joined the struggle against it. No one has the moral right to indiscriminately accuse all communists, and I, as the President, consider myself obliged to protect them as citizens from unfounded accusations. In this situation, the Central Committee of the CPSU must take a difficult but honest decision to dissolve itself. The fate of the republican communist parties and local party organizations will be determined by them themselves. I do not consider it possible for myself to continue to perform the functions of the General Secretary of the Central Committee of the CPSU and I am resigning the relevant powers. I believe that democratically minded communists, who have remained faithful to constitutional legality and the course of renewing society, will come out in favor of creating a party on a new basis that, together with all progressive forces, will be able to actively engage in the continuation of fundamental democratic changes in the interests of working people.` - Gorbachev [link](https://web.archive.org/web/20110927154108/http://www.illuminats.ru/component/content/article/29-new/1198-statement-by-mikhail-gorbachev-on-the-addition-of-duties-the-secretary-general-of-the-cpsu-24-august-1991?directory=29)
-
 ## 1991 Gorbachev’s Presidential Resignation
-
 - On December 25, 1991, President Gorbachev resigns and declares his office extinct. After his televised speech ends, the Soviet flag is lowered from Moscow’s Kremlin, after which it is replaced by the flag of the Russian Federation.
 
 # Other
-
 - SDL - [link](https://socdoneleft.github.io/stinky_rightwinger_factsheet.html#1050_soviet_union_ussr)
 - to read - [Wiki](https://en.wikipedia.org/wiki/Category:Soviet_war_crimes)
 - TO USE TO EXRACT TOPICS, FULL PROPAGANDA DOC ON MULTIPLE COMMUNIST ATROCITIES - [link](https://docs.google.com/document/d/1Gxwhh-vdeB--47HM-20cEVRC9eAMhrapbNf0Sk8VSOs/edit#)
 
 ## 1983 **Operation INFEKTION**
-
 - On
     - `` [Wiki](https://en.wikipedia.org/wiki/Operation_INFEKTION)
 
