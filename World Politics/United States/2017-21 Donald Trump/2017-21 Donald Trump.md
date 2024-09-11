@@ -2,22 +2,16 @@
 ## Social Policy
 ### 2017-2021 Trans Military Ban
 - On 26 July 2017, Trump tweeted that:
-    - `After consultation with my Generals and military experts, please be advised that the United States Government will not accept or allow` 
-      ... 
-      `Transgender individuals to serve in any capacity in the U.S. Military. Our military must be focused on decisive and overwhelming ... victory and cannot be burdened with the tremendous medical costs and disruption that transgender in the military would entail. Thank you.` [link](https://twitter.com/realDonaldTrump/status/890193981585444864) [link](https://twitter.com/realdonaldtrump/status/890196164313833472) [link](https://twitter.com/realDonaldTrump/status/890197095151546369)
+    - `After consultation with my Generals and military experts, please be advised that the United States Government will not accept or allow` `Transgender individuals to serve in any capacity in the U.S. Military. Our military must be focused on decisive and overwhelming` `victory and cannot be burdened with the tremendous medical costs and disruption that transgender in the military would entail. Thank you.` [Tweet 1](https://twitter.com/realDonaldTrump/status/890193981585444864) [Tweet 2](https://twitter.com/realdonaldtrump/status/890196164313833472) [Tweet 3](https://twitter.com/realDonaldTrump/status/890197095151546369)
 - On 25 August 2017, Trump released a Presidential Memorandum that said:
     - `In my judgment, the previous Administration failed to identify a sufficient basis to conclude that terminating the Departments’ longstanding policy and practice would not hinder military effectiveness and lethality, disrupt unit cohesion, or tax military resources, and there remain meaningful concerns that further study is needed to ensure that continued implementation of last year’s policy change would not have those negative effects.` [link](https://trumpwhitehouse.archives.gov/presidential-actions/presidential-memorandum-secretary-defense-secretary-homeland-security/)
 - On 23 March 2018, Trump released another Presidential Memorandum that said:
-    - `By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby order as follows:  
-    -   
-    - Section 1. I hereby revoke my memorandum of August 25, 2017, “Military Service by Transgender Individuals,” and any other directive I may have made with respect to military service by transgender individuals.  
-    -   
-    - Sec. 2. The Secretary of Defense, and the Secretary of Homeland Security, with respect to the U.S. Coast Guard, may exercise their authority to implement any appropriate policies concerning military service by transgender individuals.`  
-    - [link](https://trumpwhitehouse.archives.gov/presidential-actions/presidential-memorandum-secretary-defense-secretary-homeland-security-regarding-military-service-transgender-individuals/)
-    
-  
+    - `By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby order as follows:`
+      
+      `Section 1. I hereby revoke my memorandum of August 25, 2017, “Military Service by Transgender Individuals,” and any other directive I may have made with respect to military service by transgender individuals.`
+      
+      `Sec. 2. The Secretary of Defense, and the Secretary of Homeland Security, with respect to the U.S. Coast Guard, may exercise their authority to implement any appropriate policies concerning military service by transgender individuals.` - [Presidential Memorandum for the Secretary of Defense and the Secretary of Homeland Security Regarding Military Service by Transgender Individuals](https://trumpwhitehouse.archives.gov/presidential-actions/presidential-memorandum-secretary-defense-secretary-homeland-security-regarding-military-service-transgender-individuals/)
 - A 2016 paper called `Assessing the Implications of Allowing Transgender Personnel to Serve Openly` By RAND Corporation found that,
-    
     - `We estimate that AC MHS health care costs will increase by between $2.4 million and $8.4 million annually-an amount that will have little impact on and represents an exceedingly small proportion of AC health care expenditures (approximately $6 billion in FY 2014) and overall DoD health care expenditures ($49.3 billion actual expenditures for the FY 2014 Unified Medical Program; Defense Health Agency, 2015, p. 22). These estimates imply small increases in annual health care costs; results that are consistent with the low prevalence of transgender personnel and the low annual utilization estimates that we identified.  
     -   
     - ...  
