@@ -1,4 +1,3 @@
-#### 1940-41 Occupation of Bessarabia, Northern Bukovina and the Hertsa Region, now Moldova
 - [Wiki](https://en.wikipedia.org/wiki/Soviet_occupation_of_Bessarabia_and_Northern_Bukovina)
 - [Wiki](https://en.wikipedia.org/wiki/Hertsa_region)
 - On June 28th 1940, under the auspices of the [[1939 Molotov–Ribbentrop Pact]], The Soviet occupation of Bessarabia and Northern Bukovina took place from June 28 to July 3, 1940, as a result of an ultimatum by the Soviet Union to Romania on June 26, 1940, that threatened the use of force and were incorporated into the Soviet Union.

@@ -1,4 +1,3 @@
-#### 1939 Invasion of Finland, Winter War
 - [Wiki](https://en.wikipedia.org/wiki/Winter_War)
 - [Wiki](https://en.wikipedia.org/wiki/Timeline_of_the_Winter_War)
 - In 30 November 1939, under the auspices of the Molotov-Ribbentrop Pact, the Soviet Union invaded Finland.
