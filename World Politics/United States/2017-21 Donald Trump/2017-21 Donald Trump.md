@@ -1,7 +1,7 @@
 - [Wiki](https://en.wikipedia.org/wiki/Donald_Trump)
 ## Social Policy
 [[2017-2021 Trans Military Ban]]
-### Discrimination Against LGBTQ+ People
+### 2017 Discrimination Against LGBTQ+ People
 - On April 24 2017, The Trump administration announced it is expected to soon finalize a Department of Health and Human Services administrative rule to roll back health care discrimination protections for LGBTQ people. This would reverse an Obama-era interpretation that sex discrimination under Section 1557 of the Affordable Care Act applied to discrimination against queer and trans people. [link](https://www.vox.com/identities/2020/4/24/21234532/trump-administration-health-care-discriminate-lgbtq)
 - On October 5 2017, The Trump Administration used the Department of Justice to revoke an Obama-era Title VII policy which protected transgender employees from discrimination. [link](https://www.cbsnews.com/news/sessions-doj-reverses-obama-era-transgender-work-protections/)
   
