@@ -1,98 +1,22 @@
 - [Wiki](https://en.wikipedia.org/wiki/World_War_II)
 - [Wiki](https://en.wikipedia.org/wiki/Soviet_Union_in_World_War_II)
-#### 1939 Molotov–Ribbentrop Pact
-- On 23 August 1939, the Nazis and the Soviets signed the Molotov–Ribbentrop Pact at the Kremlin, which served publicly as a non-aggression pact and secretly divided the nations of Eastern Europe, including Poland, Finland, the Baltic states, and Romania, into two spheres of interest, one belonging to the Soviets and the other to the Nazis.
-    - `The Government of the German Reich and the Government of the Union of Soviet Socialist Republics desirous of strengthening the cause of peace between Germany and the U.S.S.R and proceeding from the fundamental provisions of the Neutrality Agreement concluded in April 1926 between Germany and the U.S.S.R., have reached the following agreement:`
-      
-      `ARTICLE I`
-      
-      `Both High Contracting Parties obligate, themselves to desist from any act of violence, any aggressive action, and any attack on each other, either individually or jointly with other powers.`
-      
-      `ARTICLE II`
-      
-      `Should one of the High Contracting Parties become the object of belligerent action by a third power, the other High Contracting Party shall in no manner lend its support to this third power.`
-      
-      `ARTICLE III`
-      
-      `The Governments of the two High Contracting Parties shall in the future maintain continual contact with one another for the purpose of consultation in order to exchange information on problems affecting their common interests.`
-      
-      `ARTICLE IV`
-      
-      `Neither of the two High Contracting Parties shall participate in any grouping of powers whatsoever that is directly or indirectly aimed at the other party.`
-      
-      `ARTICLE V`
-      
-      `Should disputes or conflicts arise between the High Contracting Parties over problems of one kind or another, both parties shall settle these disputes or conflicts exclusively through friendly exchange of opinion or, if necessary, through the establishment of arbitration commissions.`
-      
-      `ARTICLE VI`
-      
-      `The present treaty is concluded for a period of ten years, with the provision that, in so far as one of the High Contracting Parties does not denounce it one year prior to the expiration of this period, the validity of this treaty shall automatically be extended for another five years.`
-      
-      `ARTICLE VI`
-      
-      `The present treaty shall be ratified within the shortest possible time. The ratifications shall be exchanged in Berlin. The agreement shall enter into force as soon as it is signed.` - [Molotov-Ribbentrop Pact](https://avalon.law.yale.edu/20th_century/nonagres.asp)
-    
-    - `On the occasion of the signature of the Nonaggression Pact between the German Reich and the Union of Socialist Soviet Republics the undersigned plenipotentiaries of each of the two parties discussed in strictly confidential conversations the question of the boundary of their respective spheres of influence in Eastern Europe. These conversations led to the following conclusions:`
-      
-      `1. In the event of a territorial and political rearrangement in the areas belonging to the Baltic States (Finland, Estonia, Latvia, Lithuania), the northern boundary of Lithuania shall represent the boundary of the spheres of influence of Germany and the U.S.S.R. In this connection the interest of Lithuania in the Vilna area is recognized by each party.`
-      
-      `2. In the event of a territorial and political rearrangement of the areas belonging to the Polish state the spheres of influence of Germany and the U.S.S.R. shall be bounded approximately by the line of the rivers Narew, Vistula, and San.`
-      
-      `The question of whether the interests of both parties make desirable the maintenance of an independent Polish state and how such a state should be bounded can only be definitely determined in the course of further political developments.`
-      
-      `In any event both Governments will resolve this question by means of a friendly agreement.`
-      
-      `With regard to Southeastern Europe attention is called by the Soviet side to its interest in Bessarabia. The German side declares; its complete political disinterestedness in these areas.`
-      
-      `This protocol shall be treated by both parties as strictly secret.` - [Molotov-Ribbentrop Pact: Secret Additional Protocol](https://avalon.law.yale.edu/20th_century/addsepro.asp)
-- Stalin was aware months before the Pact was signed of Hitler’s intentions with Poland.
-    - `Stalin was in a difficult position in 1939. Over the previous few years he had carried out violent purges of his top generals, munitions factory managers and senior army officers. There were few left in the higher echelons of the regime with any direct experience of warfare. Competent technical experts had been arrested and killed in their thousands. Soviet military preparedness was lamentable. Stalin was aware from June 1939 onwards of Hitler's intention to invade Poland in late August or early September. More than anything else, he needed to ensure that the invasion went no further. He needed time to regroup and rebuild the Red Army, refashion his arms and equipment production, and get ready for the assault he was sure would follow some time after the German conquest of Poland. To some extent, he left open the option of forging an alliance with the Western powers; but they were hesitant, regarding him as unreliable, and Ribbentrop and the German Foreign Office were eager, despite Hitler's own personal reservations. As the hints from Moscow grew stronger, Ribbentrop saw an opportunity to shock the British, whom he still hated intensely after the humiliations of his time as ambassador in London, and deliver a coup that would win Hitler's undying gratitude and approval.` - The Third Reich in Power, 1933-1939: How the Nazis Won Over the Hearts and Minds of a Nation, Richard Evans
-- On 28 September 1939, after the Nazi & Soviet Invasion of Poland, The `German–Soviet Boundary and Friendship Treaty` was a second supplementary protocol of the Pact that was modified giving the Nazi’s a bigger part of Poland, while giving most of Lithuania to the Soviets.
-	- `ARTICLE I.`
-      
-      `The Government of the German Reich and the Government of the U.S.S.R. determine as the boundary of their respective national interests in the territory of the former Polish state the line marked on the attached map, which shall be described in more detail in a supplementary protocol.`
-      
-      `ARTICLE II.`
-      
-      `Both parties recognize the boundary of the respective national interests established in article I as definitive and shall reject any interference of third powers in this settlement.`
-      
-      `ARTICLE III.`
-      
-      `The necessary reorganization of public administration will be effected in the areas west of the line specified in article I by the Government of the German Reich, in the areas east of this line by the Government of the U.S.S.R.`
-      
-      `ARTICLE IV.`
-      
-      `The Government of the German Reich and the Government of the U.S.S.R. regard this settlement as a firm foundation for a progressive development of the friendly relations between their peoples.` - [German-Soviet Boundary and Friendship Treaty](https://www.ibiblio.org/pha/nsr/nsr-03.html#32) 
-    - `The undersigned Plenipotentiaries declare the agreement of the Government of the German Reich and the Government of the U.S.S.R. upon the following:`
-      
-      `The Secret Supplementary Protocol signed on August 23, 1939, shall be amended in item 1 to the effect that the territory of the Lithuanian state falls to the sphere of influence of the U.S.S.R., while, on the other hand, the province of Lublin and parts of the province of Warsaw fall to the sphere of influence of Germany (cf. the map attached to the Boundary and Friendship Treaty signed today). As soon as the Government of the U.S.S.R. shall take special measures on Lithuanian territory to protect its interests, the present German-Lithuanian border, for the purpose of a natural and simple boundary delineation, shall be rectified in such a way that the Lithuanian territory situated to the southwest of the line marked on the attached map should fall to Germany.`
-      
-      `Further it is declared that the economic agreements now in force between Germany and Lithuania shall not be affected by the measures of the Soviet Union referred to above.` - [German-Soviet Boundary and Friendship Treaty, Secret Supplementary Protocol](https://www.ibiblio.org/pha/nsr/nsr-03.html#34) 
-- This Pact was then unofficially terminated on 22 June 1941 following [Operation Barbarossa] and then officially terminated on 30 July 1941 in the [Sikorski–Mayski Agreement].
-#### 1939 Invasion of Poland
 
+[[1939 Molotov–Ribbentrop Pact]]
+
+#### 1939 Invasion of Poland
 - [Wiki](https://en.wikipedia.org/wiki/Invasion_of_Poland)
-    
 - [Wiki](https://en.wikipedia.org/wiki/Soviet_invasion_of_Poland)
-    
 - [Wiki](https://en.wikipedia.org/wiki/Timeline_of_the_invasion_of_Poland)
     
 - On September 1st 1939, Nazi Germany invades Poland, inciting Poland’s allies Britain and France to declare war on Germany.
-    
+	- ` ` - []()
 - On September 17th 1939, under the auspices of the [Molotov-Ribbentrop Pact](https://www.notion.so/27b787c817dd4ec6b105f068c07e9c03?pvs=21), Soviet leader Joseph Stalin orders the invasion of Poland, securing a share of Polish territory.
-    
-- The campaign ended on 6 October with Germany and the Soviet Union dividing and annexing the whole of Poland under the terms of the supplementary protocol of the [Molotov-Ribbentrop Pact](https://www.notion.so/27b787c817dd4ec6b105f068c07e9c03?pvs=21) called the `German–Soviet Boundary and Friendship Treaty`.
-    
+	- ` ` - []()
+- The campaign ended on 6 October with Germany and the Soviet Union dividing and annexing the whole of Poland under the terms of the supplementary protocol of the [Molotov-Ribbentrop Pact called the [[1939 German–Soviet Boundary and Friendship Treaty]].
 - Polish losses included 3,000–7,000 killed or missing with up to 20,000 wounded. Soviet losses included 1,475–3,000 killed or missing with 2,383–10,000 wounded.
-    
     - `Molotov admitted to the Supreme Soviet on 31 October that the 'liberation' of eastern Poland had cost the Red Army 737 killed and 1862 wounded. Polish specialists claim up to 3000 killed and 8000-10000 wounded as well as the destruction of 100 Soviet tanks and armoured cars. Polish military deaths are variously estimated at between 3000 and 7000, with 20000 wounded. An additional thousand to 2500 were executed or murdered in immediate reprisals by both Soviet and harassing Ukrainian nationalist forces.` - [link](https://ipfs.io/ipfs/bafykbzaceb246lkh7efv5wypd3qojdxndtxluifuuhlnbohko74y76k2exsv6?filename=George%20Sanford%20-%20Katyn%20and%20the%20Soviet%20Massacre%20of%201940_%20Truth%2C%20Justice%20and%20Memory%20%28BASEES%20Routledge%20Series%20on%20Russian%20and%20East%20European%20Studies%29%20%20-Routledge%20%282005%29.pdf)
-    
-
-### 1939 German-Soviet Military Parade in Brest-Litovsk
-
-- [Wiki](https://en.wikipedia.org/wiki/German%E2%80%93Soviet_military_parade_in_Brest-Litovsk)
-- On 22 September 1939, The German–Soviet military parade in Brest-Litovsk was an official ceremony held by the troops of Nazi Germany and the Soviet Union during the invasion of Poland in the city of Brest-Litovsk. It marked the withdrawal of German troops to the demarcation line secretly agreed to in the Molotov–Ribbentrop Pact, and the handover of the city and its fortress to the Soviet Red Army.
-
+[[1939 German-Soviet Military Parade in Brest-Litovsk]]
+[[1939 German–Soviet Boundary and Friendship Treaty]]
 #### 1939 Invasion of Finland, Winter War
 
 - [Wiki](https://en.wikipedia.org/wiki/Winter_War)

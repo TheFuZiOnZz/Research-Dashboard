@@ -1,0 +1,3 @@
+### 1939 German-Soviet Military Parade in Brest-Litovsk
+- [Wiki](https://en.wikipedia.org/wiki/German%E2%80%93Soviet_military_parade_in_Brest-Litovsk)
+- On 22 September 1939, The German–Soviet military parade in Brest-Litovsk was an official ceremony held by the troops of Nazi Germany and the Soviet Union during the invasion of Poland in the city of Brest-Litovsk. It marked the withdrawal of German troops to the demarcation line secretly agreed to in the Molotov–Ribbentrop Pact, and the handover of the city and its fortress to the Soviet Red Army.
