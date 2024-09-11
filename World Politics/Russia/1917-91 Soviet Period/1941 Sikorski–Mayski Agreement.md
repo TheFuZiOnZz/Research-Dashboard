@@ -1,0 +1,11 @@
+- On 30 July 1941, The Sikorski–Mayski agreement was a treaty between the Soviet Union and Poland that was signed in London. Its name is taken from its two most notable signatories: the prime minister of Poland, Władysław Sikorski, and the Soviet ambassador to the United Kingdom, Ivan Mayski.
+- Stalin agreed to declare all previous pacts that he had with Nazi Germany null and void, to invalidate the September 1939 partition of Poland and to release tens of thousands of Polish prisoners-of-war held in Soviet camps. Pursuant to an agreement between the Polish government-in-exile and Stalin, the Soviets granted "amnesty" to many Polish citizens on 12 August 1941.
+    - `1. The Government of the U.S.S.R. recognizes the Soviet-German treaties of 1939 as to territorial changes in Poland as having lost their validity. The Polish Government declares Poland is not bound by any agreement with any third power which is directed against the U.S.S.R.`
+      
+      `2. Diplomatic relations will be restored between the two governments upon the signing of this agreement, and an immediate exchange of Ambassadors will be arranged. The two governments mutually agree to render one to another aid and support of all kinds in the present war against Hitlerite Germany.`
+      
+      `3. The Government of the U.S.S.R. expresses its consent to the formation on territory of the U.S.S.R. of a Polish Army under a commander appointed by the Polish Government in agreement with the Soviet Government, the Polish Army on territory of the U.S.S.R. being subordinated in an operational sense to the Supreme Command of the U.S.S.R., in which the Polish Army will be represented. All details as to command, organization and employment of this force will be settled in a subsequent agreement.`
+      
+      `4. This agreement will come into force immediately upon signature and without ratification. The present agreement is drawn up in two copies, in the Russian and Polish languages. Both texts have equal force.`
+      
+      `The Soviet Government grants amnesty to all Polish citizens now detained on Soviet territory either as prisoners of war or on other sufficient grounds, as from the resumption of diplomatic relations.` - Poland in the Second World War, Józef Garliński, 1985

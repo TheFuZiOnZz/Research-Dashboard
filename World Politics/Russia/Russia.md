@@ -15,8 +15,7 @@
 [[1932-33 Holodomor Famine]]
 [[1936-38 Great Purge]]
 [[1939-45 World War 2]]
-## 1951-53 `Doctors Plot` Affair
-
+## 1951-53 Doctors Plot Affair
 - The "doctors' plot" affair was an alleged conspiracy of prominent Soviet medical specialists to murder leading government and party officials. In 1951–1953, a group of predominantly Jewish doctors from Moscow were accused of a conspiracy to assassinate Soviet leaders.
 - This was later accompanied by publications of antisemitic character in the media, which talked about the threats of Zionism and condemned people with Jewish surnames. Following this, many doctors, both Jews and non-Jews, were dismissed from their jobs, arrested, and tortured to produce admissions.
     - `A propaganda offensive accompanied the plans to deport—“for their own good”—the Jewish population. One million copies of a pamphlet were prepared for distribution—its title: “Why Jews Must Be Resettled from the Industrial Regions of the Country.” The deportation was purportedly “in response” to a carefully orchestrated letter prepared for Pravda and signed by many terrified Soviet Jewish leaders, imploring “The Father of all the Peoples” to deport the Jews for their own protection.` - [link](https://annas-archive.org/scidb/10.1136/bmj.325.7378.1487)
@@ -39,7 +38,7 @@
 - In 14 May 1955, while West Germany joins NATO, the USSR responds by creating the Warsaw Pact, a military alliance between the countries of Eastern Europe including Albania, Bulgaria, Czechoslovakia, East Germany, Hungary, Poland and Romania.
     - `As the exercise of power in Moscow became progressively diluted since its Stalinist peak, the alliance originally devised by Khrushchev with the goal of outcompeting NATO offered to the Soviet dependents in Eastern Europe growing room for pursuing their own interests, jointly or separately, with or sometimes against their master – to those among them, to be sure, who cared and dared to avail themselves of the opportunity` - [link](https://annas-archive.org/scidb/10.4324/9781315732541)
 
-## 1956-66 Sino-Soviet Split
+## [[1956-66 Sino-Soviet Split
 
 - The Sino-Soviet split was the breaking of political relations between the People's Republic of China and the Soviet Union caused by doctrinal divergences that arose from their different interpretations and practical applications of Marxism–Leninism, as influenced by their respective geopolitics during the Cold War of 1945–1991.
 
