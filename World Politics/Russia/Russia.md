@@ -23,6 +23,7 @@
 [[1954 Transfer of Crimea]]
 [[1955 Creation of the Warsaw Pact]]
 [[1956-66 Sino-Soviet Split]]
+[[1956-57 Anti Krushchev Failed Coup]]
 # 1964-82 Leonid Brezhnev
 [[1979-89 Soviet–Afghan War]]
 # 1982-84 Yuri Andropov
