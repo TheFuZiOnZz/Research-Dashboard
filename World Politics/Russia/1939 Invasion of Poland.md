@@ -1,8 +1,6 @@
-#### 1939 Invasion of Poland
 - [Wiki](https://en.wikipedia.org/wiki/Invasion_of_Poland)
 - [Wiki](https://en.wikipedia.org/wiki/Soviet_invasion_of_Poland)
 - [Wiki](https://en.wikipedia.org/wiki/Timeline_of_the_invasion_of_Poland)
-    
 - On September 1st 1939, Nazi Germany invades Poland, inciting Poland’s allies Britain and France to declare war on Germany.
 	- ` ` - []()
 - On September 17th 1939, under the auspices of the [Molotov-Ribbentrop Pact](https://www.notion.so/27b787c817dd4ec6b105f068c07e9c03?pvs=21), Soviet leader Joseph Stalin orders the invasion of Poland, securing a share of Polish territory.

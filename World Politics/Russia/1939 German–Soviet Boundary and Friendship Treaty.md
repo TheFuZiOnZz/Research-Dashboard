@@ -1,4 +1,3 @@
-#### 1939 German–Soviet Boundary and Friendship Treaty
 - On 28 September 1939, after the Nazi & Soviet Invasion of Poland, The `German–Soviet Boundary and Friendship Treaty` was a second supplementary protocol of the Pact that was modified giving the Nazi’s a bigger part of Poland, while giving most of Lithuania to the Soviets.
 	- `ARTICLE I.`
       
