@@ -1,4 +1,5 @@
 - On 23 August 1939, the Nazis and the Soviets signed the Molotov–Ribbentrop Pact at the Kremlin, which served publicly as a non-aggression pact and secretly divided the nations of Eastern Europe, including Poland, Finland, the Baltic states, and Romania, into two spheres of interest, one belonging to the Soviets and the other to the Nazis.
+- The main protocol lays out a security agreement 
     - `The Government of the German Reich and the Government of the Union of Soviet Socialist Republics desirous of strengthening the cause of peace between Germany and the U.S.S.R and proceeding from the fundamental provisions of the Neutrality Agreement concluded in April 1926 between Germany and the U.S.S.R., have reached the following agreement:`
       
       `ARTICLE I`
