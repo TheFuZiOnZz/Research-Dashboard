@@ -2,23 +2,10 @@
 - [Wiki](https://en.wikipedia.org/wiki/Soviet_Union_in_World_War_II)
 
 [[1939 Molotov–Ribbentrop Pact]]
-
-#### 1939 Invasion of Poland
-- [Wiki](https://en.wikipedia.org/wiki/Invasion_of_Poland)
-- [Wiki](https://en.wikipedia.org/wiki/Soviet_invasion_of_Poland)
-- [Wiki](https://en.wikipedia.org/wiki/Timeline_of_the_invasion_of_Poland)
-    
-- On September 1st 1939, Nazi Germany invades Poland, inciting Poland’s allies Britain and France to declare war on Germany.
-	- ` ` - []()
-- On September 17th 1939, under the auspices of the [Molotov-Ribbentrop Pact](https://www.notion.so/27b787c817dd4ec6b105f068c07e9c03?pvs=21), Soviet leader Joseph Stalin orders the invasion of Poland, securing a share of Polish territory.
-	- ` ` - []()
-- The campaign ended on 6 October with Germany and the Soviet Union dividing and annexing the whole of Poland under the terms of the supplementary protocol of the [Molotov-Ribbentrop Pact called the [[1939 German–Soviet Boundary and Friendship Treaty]].
-- Polish losses included 3,000–7,000 killed or missing with up to 20,000 wounded. Soviet losses included 1,475–3,000 killed or missing with 2,383–10,000 wounded.
-    - `Molotov admitted to the Supreme Soviet on 31 October that the 'liberation' of eastern Poland had cost the Red Army 737 killed and 1862 wounded. Polish specialists claim up to 3000 killed and 8000-10000 wounded as well as the destruction of 100 Soviet tanks and armoured cars. Polish military deaths are variously estimated at between 3000 and 7000, with 20000 wounded. An additional thousand to 2500 were executed or murdered in immediate reprisals by both Soviet and harassing Ukrainian nationalist forces.` - [link](https://ipfs.io/ipfs/bafykbzaceb246lkh7efv5wypd3qojdxndtxluifuuhlnbohko74y76k2exsv6?filename=George%20Sanford%20-%20Katyn%20and%20the%20Soviet%20Massacre%20of%201940_%20Truth%2C%20Justice%20and%20Memory%20%28BASEES%20Routledge%20Series%20on%20Russian%20and%20East%20European%20Studies%29%20%20-Routledge%20%282005%29.pdf)
+[[1939 Invasion of Poland]]
 [[1939 German-Soviet Military Parade in Brest-Litovsk]]
 [[1939 German–Soviet Boundary and Friendship Treaty]]
 #### 1939 Invasion of Finland, Winter War
-
 - [Wiki](https://en.wikipedia.org/wiki/Winter_War)
 - [Wiki](https://en.wikipedia.org/wiki/Timeline_of_the_Winter_War)
 - In November 30 1939, under the auspices of the Molotov-Ribbentrop Pact, the Soviet Union invaded Finland.
@@ -32,13 +19,9 @@
     - `The lawless character of the achievement was perceived in nearly every foreign quarter. Russia's contempt for its numerous and well-defined treaty obligations towards its victim, as well as towards the League of Nations, was duly appraised and speedily condemned at Geneva.` ... `2. See Report of the Assembly, provided for in Art. 15, paragraphs 4 and 10, of the Covenant, submitted by the Special Committee of the Assembly, Dec. 13, 1939, League of Nations Official Journal, November-December, 1939, p. 531; also resolution adopted by the Council, Dec. 14, 1939, finding that by its act the Union of Soviet Socialist Republics had "placed itself outside the League of Nations," and declaring that it followed that that country was "no longer a member of the League." (Id., pp. 506 and 508.)` - [link](https://annas-archive.org/scidb/http://www.jstor.org/stable/2192999)
 
 #### 1940-44 Soviet, Then Nazi, Then Soviet Occupation of the Baltic States
-
 - On 15 & 16 June 1940, under the auspices of the Molotov-Ribbentrop Pact, The Baltic states of Estonia, Latvia and Lithuania were extorted with having military bases on their territories, then later invaded and occupied by the Soviet Union.
-    
     - `The independent functioning of the Baltic States was interrupted in June 1940 when, after the conclusion of the Treaty of Non-Aggression between Germany and the USSR of 23 August 1939 (Molotov-Ribbentrop Pact) and its Secret Additional Protocols, Soviet troops occupied the territories of the Baltic States.` - [link](https://annas-archive.org/scidb/10.1163/221158903x00072)
-    
     - `The experience of the first year of Soviet occupation saw Russians replace Baltic Germans and Poles as the most feared and disliked minority in the region. The pattern of takeover was similar in all three states. The first Soviet occupation followed the 23 August 1939 signing of the secret protocols of the Molotov–Ribbentrop pact, which sliced Eastern Europe into two spheres of influence. Estonia, Latvia and eventually Lithuania fell into the Soviet sphere. The Soviet Union then claimed to be threatened by the Baltic states, demanded that ‘mutual assistance agreements’ be signed, and then moved troops and political advisors into the three states (25,000 each in Estonia and Latvia). This was followed in 1940 by Soviet claims that the terms of the treaties had been broken, leading to more troops crossing the borders, to the forced dismissal of the acting cabinets and to new, hand-picked Soviet governments. As Soviet officials took hold of the region, each Baltic state held visibly falsified elections, followed by the coming to power of Soviet-friendly puppet governments. In August 1940 the newly elected Baltic legislatures sent delegates to Moscow to successfully apply for membership in the Soviet Union.` - [link](https://cloudflare-ipfs.com/ipfs/bafykbzaceay4daq6ol2nc5jsm52fmjzxyptudoad3thqdqcd3rbmqc6k43bya?filename=Daunis%20Auers%20-%20Comparative%20Politics%20and%20Government%20of%20the%20Baltic%20States_%20Estonia%2C%20Latvia%20and%20Lithuania%20in%20the%2021st%20Century-Palgrave%20Macmillan%20UK%20%282015%29.pdf)
-    
 - On 3-6 August 1940, after planning an installation of a pro-soviet puppet government in the Baltic States and ultimatums from the Soviets to the Baltic States, The three countries were then annexed into the Soviet Union as constituent republics.
     
     - `More sinister intentions are, however, suggested by evidence from the archives of the former government of Latvia which have recently been opened to Latvian scholars. It now appears that as early as December 1939 the Soviets were hoping to be able to take control of Latvia by exploiting left-wing and bourgeois elements in a pretence of a popular front government. The model was the puppet government set up at Terijoki under the Finnish communist Otto Kuusinen on 30 November 1939, the day that the Red Army invaded Finland.` - [link](https://ipfs.io/ipfs/bafykbzacedbyqrfvngivgnrqouegkxo2y7uct5shvoev2nda4agooeuiyw2lg?filename=Hiden%20John_%20Salmon%20Patrick%20-%20The%20Baltic%20nations%20and%20Europe_%20Estonia%2C%20Latvia%20and%20Lithuania%20in%20the%20twentieth%20century-Longman%20%281994%29.pdf)
