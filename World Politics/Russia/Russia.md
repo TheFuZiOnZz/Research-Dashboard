@@ -16,21 +16,21 @@
 [[1936-38 Great Purge]]
 [[1939-45 World War 2]]
 [[1951-53 Doctors Plot Affair]]
-# 1953 Georgy Malenkov
+## 1953 Georgy Malenkov
 
-# 1953-64 Nikita Khrushchev
+## 1953-64 Nikita Khrushchev
 
 [[1954 Transfer of Crimea]]
 [[1955 Creation of the Warsaw Pact]]
 [[1956-66 Sino-Soviet Split]]
 [[1956-57 Anti Krushchev Failed Coup]]
-# 1964-82 Leonid Brezhnev
+## 1964-82 Leonid Brezhnev
 [[1979-89 Soviet–Afghan War]]
-# 1982-84 Yuri Andropov
+## 1982-84 Yuri Andropov
 [[1983 Operation INFEKTION]]
-# 1984-85 Konstantin Chernenko
+## 1984-85 Konstantin Chernenko
 
-# 1985-91 Mikhail Gorbachev
+## 1985-91 Mikhail Gorbachev
 
 [[1989 Public Revealing of the Full Molotov–Ribbentrop Pact]]
 [[1990 Russian Independence]]
@@ -38,12 +38,11 @@
 [[1991 Gorbachev’s General Secretary Resignation]]
 [[1991 Gorbachev’s Presidential Resignation]]
 
-# Other
+## Other
 - SDL - [link](https://socdoneleft.github.io/stinky_rightwinger_factsheet.html#1050_soviet_union_ussr)
 - to read - [Wiki](https://en.wikipedia.org/wiki/Category:Soviet_war_crimes)
 - TO USE TO EXRACT TOPICS, FULL PROPAGANDA DOC ON MULTIPLE COMMUNIST ATROCITIES - [link](https://docs.google.com/document/d/1Gxwhh-vdeB--47HM-20cEVRC9eAMhrapbNf0Sk8VSOs/edit#)
-## **Soviet Economy**
-
+## Soviet Economy
 - [link](https://cloudflare-ipfs.com/ipfs/bafykbzacebzsacyrd43t4yxmmyiajmpos5fijr3xnjo7vrjxzt5pxokzbx626?filename=Zickel%20Raymond%20E.%20%28Ed.%29%20-%20Soviet%20Union_%20A%20Country%20Study.pdf)
 - “The Experience of the Factory Committees in the Russian Revolution” by R.M. Jones [https://libcom.org/files/factorycommitteesinrussia_0.pdf](https://libcom.org/files/factorycommitteesinrussia_0.pdf) [PDF, 332kb, EN]
 - “Labor discipline and the decline of the soviet system” by Don Filtzer [https://libcom.org/history/labor-discipline-decline-soviet-system-don-filtzer](https://libcom.org/history/labor-discipline-decline-soviet-system-don-filtzer) [EN]
