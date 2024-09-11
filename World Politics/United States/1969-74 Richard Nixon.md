@@ -1,4 +1,3 @@
-# 1969-74 Richard Nixon
 - [Wiki](https://en.wikipedia.org/wiki/Richard_Nixon)
 ## Social Policy
 ## 19
