@@ -1,4 +1,3 @@
-# 1974-77 Gerald Ford
 - [Wiki](https://en.wikipedia.org/wiki/Gerald_Ford)
 ## Social Policy
 

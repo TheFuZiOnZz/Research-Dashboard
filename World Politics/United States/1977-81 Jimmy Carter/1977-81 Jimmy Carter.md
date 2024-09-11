@@ -1,4 +1,3 @@
-# 1977-81 Jimmy Carter
 - [Wiki](https://en.wikipedia.org/wiki/Jimmy_Carter)
 ## Social Policy
 

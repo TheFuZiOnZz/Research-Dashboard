@@ -1,4 +1,3 @@
-# 1993-2001 Bill Clinton
 - [Wiki](https://en.wikipedia.org/wiki/Bill_Clinton)
 ## Social Policy
 
