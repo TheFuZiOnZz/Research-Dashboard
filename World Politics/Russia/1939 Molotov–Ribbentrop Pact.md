@@ -1,4 +1,3 @@
-#### 1939 Molotov–Ribbentrop Pact
 - On 23 August 1939, the Nazis and the Soviets signed the Molotov–Ribbentrop Pact at the Kremlin, which served publicly as a non-aggression pact and secretly divided the nations of Eastern Europe, including Poland, Finland, the Baltic states, and Romania, into two spheres of interest, one belonging to the Soviets and the other to the Nazis.
     - `The Government of the German Reich and the Government of the Union of Soviet Socialist Republics desirous of strengthening the cause of peace between Germany and the U.S.S.R and proceeding from the fundamental provisions of the Neutrality Agreement concluded in April 1926 between Germany and the U.S.S.R., have reached the following agreement:`
       
@@ -29,8 +28,8 @@
       `ARTICLE VI`
       
       `The present treaty shall be ratified within the shortest possible time. The ratifications shall be exchanged in Berlin. The agreement shall enter into force as soon as it is signed.` - [Molotov-Ribbentrop Pact](https://avalon.law.yale.edu/20th_century/nonagres.asp)
-    
-    - `On the occasion of the signature of the Nonaggression Pact between the German Reich and the Union of Socialist Soviet Republics the undersigned plenipotentiaries of each of the two parties discussed in strictly confidential conversations the question of the boundary of their respective spheres of influence in Eastern Europe. These conversations led to the following conclusions:`
+- 
+	- `On the occasion of the signature of the Nonaggression Pact between the German Reich and the Union of Socialist Soviet Republics the undersigned plenipotentiaries of each of the two parties discussed in strictly confidential conversations the question of the boundary of their respective spheres of influence in Eastern Europe. These conversations led to the following conclusions:`
       
       `1. In the event of a territorial and political rearrangement in the areas belonging to the Baltic States (Finland, Estonia, Latvia, Lithuania), the northern boundary of Lithuania shall represent the boundary of the spheres of influence of Germany and the U.S.S.R. In this connection the interest of Lithuania in the Vilna area is recognized by each party.`
       
