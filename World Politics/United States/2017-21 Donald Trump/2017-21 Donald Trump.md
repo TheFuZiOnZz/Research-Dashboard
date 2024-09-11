@@ -398,7 +398,7 @@
 - The Lancet, one of the world’s leading medical journals, chastised Trump’s response to COVID-19 concluding it to be “inconsistent and incoherent”; they cite the following reasons: Trump recalling CDC staff from China in July of 2019, which hindered intelligence efforts with the advent of COVID-19; Trump questioning the quarantine guidelines recommended by the CDC; Trump’s sole focus on “magic bullet” solutions to COVID-19, such as vaccines and new medicines; Trump silencing/removing CDC directors; Trump defunding the World Health Organization. [link](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31140-5/fulltext)
 - Usually, America takes the global role of dealing with pandemics, but Trump performed less than average as expected (NPR 2020). Trump defunded the WHO, as previously stated "The U.S. went into the coronavirus crisis with immense advantages: precious weeks of warning about what was coming, the world's best concentration of medical and scientific expertise, effectively limitless financial resources, a military complex with stunning logistical capacity," "Yet it managed to make itself the global epicentre of the pandemic." [link](https://www.npr.org/2020/04/30/848179346/pandemic-fuels-debate-trumps-america-first-or-u-s-global-leadership)
 ### Biden on Coronavirus
-- Biden Is in support of:
+- Biden is in support of:
     
     > `Ensure that every person who needs a test can get one – and that testing for those who need it is free.` as he recognises `Individuals should also not have to pay anything out of their own pockets for the visit at which the test is ordered` [link](https://joebiden.com/covid19/)
     
