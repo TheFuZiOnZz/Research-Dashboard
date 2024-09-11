@@ -1,0 +1,9 @@
+### 1936-38 Great Purge
+- [Wiki](https://en.wikipedia.org/wiki/Great_Purge)
+- [link](https://cloudflare-ipfs.com/ipfs/bafykbzacedukep33gggo36febxnvj6msivqrkgwf2cmiijhh7hvyalijes5xo?filename=Paul%20Avrich%20-%20Kronstadt%2C%201921-Princeton%20University%20Press%20%281991%29.pdf)
+- [Wiki](https://en.wikipedia.org/wiki/Stalin%27s_shooting_lists)
+- [Wiki](https://en.wikipedia.org/wiki/Polish_Operation_of_the_NKVD)
+- The Great Purge or the Great Terror was Soviet General Secretary Joseph Stalin's campaign to solidify his power over the party and the state; the purges were also designed to remove the remaining influence of Leon Trotsky as well as other prominent political rivals within the party. It occurred from August 1936 to March 1938.
+    - `also called purge trials, three widely publicized show trials and a series of closed, unpublicized trials held in the Soviet Union during the late 1930s, in which many prominent Old Bolsheviks were found guilty of treason and executed or imprisoned. All the evidence presented in court was derived from preliminary examinations of the defendants and from their confessions. It was subsequently established that the accused were innocent, that the cases were fabricated by the secret police (NKVD), and that the confessions were made under pressure of intensive torture and intimidation.` - [link](https://www.britannica.com/event/Great-Purge)
+- Estimates of death count for this time was between 700,000 and 2.5 million people
+    - `In this period, thousands of people - party members, specialists, army officers, as well as workers and peasants - were shot or interned in labor camps. We do not know exactly how many people were victims of these repressive measures. According to latest estimates 2,5 million people were arrested and 700,000 of them shot` - [link](https://sci-hub.mksa.top/10.2307/20171081)
