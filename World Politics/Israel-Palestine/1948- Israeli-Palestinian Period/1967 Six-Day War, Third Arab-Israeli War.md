@@ -1,4 +1,5 @@
 - [Wiki](https://en.wikipedia.org/wiki/Six-Day_War)
+- [Wiki](https://en.wikipedia.org/wiki/1967_Palestinian_exodus?wprov=sfla1)
 - [link](https://www.nytimes.com/2017/06/07/opinion/how-the-kgb-started-the-war-that-changed-the-middle-east.html)
 - [link](https://www.wilsoncenter.org/book/the-soviet-union-and-the-june-1967-six-day-war)
 - Summary
