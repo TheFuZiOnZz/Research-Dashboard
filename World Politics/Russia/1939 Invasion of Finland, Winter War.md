@@ -1,0 +1,13 @@
+#### 1939 Invasion of Finland, Winter War
+- [Wiki](https://en.wikipedia.org/wiki/Winter_War)
+- [Wiki](https://en.wikipedia.org/wiki/Timeline_of_the_Winter_War)
+- In 30 November 1939, under the auspices of the Molotov-Ribbentrop Pact, the Soviet Union invaded Finland.
+- The Finnish defensive effort defied Soviet expectations, and after stiff losses, as well as the unsuccessful attempt to install a puppet government in Helsinki, Stalin settled for an interim peace granting the Soviet Union parts of Karelia and Salla (9% of Finnish territory).
+    - `` - [link]
+- Soviet official casualty counts in the war exceeded 200,000, while Soviet Premier Nikita Khrushchev later claimed the casualties may have been one million.
+    - `` - [link]
+- After this campaign, Stalin took actions to modify training and improve propaganda efforts in the Soviet military.
+    - `` - [link]
+- On 14 December 1939, The Soviet Union is expelled from the League of Nations in response to the Soviet invasion of Finland.
+    - `The lawless character of the achievement was perceived in nearly every foreign quarter. Russia's contempt for its numerous and well-defined treaty obligations towards its victim, as well as towards the League of Nations, was duly appraised and speedily condemned at Geneva.` - [International Law for Finland, Charles Cheney Hyde, 1940](https://annas-archive.org/scidb/10.2307/2192999)
+	    - `2. See Report of the Assembly, provided for in Art. 15, paragraphs 4 and 10, of the Covenant, submitted by the Special Committee of the Assembly, Dec. 13, 1939, League of Nations Official Journal, November-December, 1939, p. 531; also resolution adopted by the Council, Dec. 14, 1939, finding that by its act the Union of Soviet Socialist Republics had "placed itself outside the League of Nations," and declaring that it followed that that country was "no longer a member of the League." (Id., pp. 506 and 508.)` - [International Law for Finland, Charles Cheney Hyde, 1940](https://annas-archive.org/scidb/10.2307/2192999)
