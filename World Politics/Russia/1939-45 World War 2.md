@@ -47,26 +47,27 @@
       `This protocol shall be treated by both parties as strictly secret.` - [Molotov-Ribbentrop Pact: Secret Additional Protocol](https://avalon.law.yale.edu/20th_century/addsepro.asp)
 - Stalin was aware months before the Pact was signed of Hitler’s intentions with Poland.
     - `Stalin was in a difficult position in 1939. Over the previous few years he had carried out violent purges of his top generals, munitions factory managers and senior army officers. There were few left in the higher echelons of the regime with any direct experience of warfare. Competent technical experts had been arrested and killed in their thousands. Soviet military preparedness was lamentable. Stalin was aware from June 1939 onwards of Hitler's intention to invade Poland in late August or early September. More than anything else, he needed to ensure that the invasion went no further. He needed time to regroup and rebuild the Red Army, refashion his arms and equipment production, and get ready for the assault he was sure would follow some time after the German conquest of Poland. To some extent, he left open the option of forging an alliance with the Western powers; but they were hesitant, regarding him as unreliable, and Ribbentrop and the German Foreign Office were eager, despite Hitler's own personal reservations. As the hints from Moscow grew stronger, Ribbentrop saw an opportunity to shock the British, whom he still hated intensely after the humiliations of his time as ambassador in London, and deliver a coup that would win Hitler's undying gratitude and approval.` - The Third Reich in Power, 1933-1939: How the Nazis Won Over the Hearts and Minds of a Nation, Richard Evans
-- On 28 September 1939, after the Nazi & Soviet Invasion of Poland, The `German–Soviet Boundary and Friendship Treaty` - [link](http://www.ibiblio.org/pha/nsr/nsr-03.html#32) was a second supplementary protocol of the Pact that was modified giving the Nazi’s a bigger part of Poland, while giving most of Lithuania to the Soviets.
-	- `ARTICLE I.
-
-The Government of the German Reich and the Government of the U.S.S.R. determine as the boundary of their respective national interests in the territory of the former Polish state the line marked on the attached map, which shall be described in more detail in a supplementary protocol.
-
-ARTICLE II.
-
-Both parties recognize the boundary of the respective national interests established in article I as definitive and shall reject any interference of third powers in this settlement.
-
-ARTICLE III.
-
-The necessary reorganization of public administration will be effected in the areas west of the line specified in article I by the Government of the German Reich, in the areas east of this line by the Government of the U.S.S.R.
-
-ARTICLE IV.
-
-The Government of the German Reich and the Government of the U.S.S.R. regard this settlement as a firm foundation for a progressive development of the friendly relations between their peoples.`
-- 
-    - `Eleven days later, the arrangement under the secret protocols was modified. Germany was allotted a larger part of Poland, while most of Lithuania was added to Moscow's "sphere of influence." Leaving all of central Poland to the Germans, Stalin gave credence to his claim that he simply wanted to recuperate previous territory up to the "Curzon line", which was alleged to be Russia's "ethnic frontier."` - [link](https://ipfs.io/ipfs/bafykbzaced4ims4h6i4i4ghuont2geechnvrmxxuhgekzpo34ph45njuzb7t4?filename=%28Harvard%20Cold%20War%20Studies%29%20Gerhard%20Wettig%20-%20Stalin%20and%20the%20Cold%20War%20in%20Europe_%20The%20Emergence%20and%20Development%20of%20East-West%20Conflict%2C%201939-1953-Rowman%20%26%20Littlefield%20Publishers%20%282007%29.pdf)
-    
-    - `During the course of further negotiations. intent on taking possession of Lithuania which he (Stalin) had previously offered to Hitler. he agreed in exchange to move the demarcation line back from the Vistula and San rivers to the Bug and the San. It was this border that was eventually ratified by the secret protocol of the treaty of 28 September.` - [link](https://cloudflare-ipfs.com/ipfs/bafykbzacedk4o3mawvpupcurbvzmdnxqcrs4jybzzc4rnxtj6w77pf7x6pkga?filename=J%C3%B3zef%20Garli%C5%84ski%20%28auth.%29%20-%20Poland%20in%20the%20Second%20World%20War-Palgrave%20Macmillan%20UK%20%281985%29.pdf)
+- On 28 September 1939, after the Nazi & Soviet Invasion of Poland, The `German–Soviet Boundary and Friendship Treaty` was a second supplementary protocol of the Pact that was modified giving the Nazi’s a bigger part of Poland, while giving most of Lithuania to the Soviets.
+	- `ARTICLE I.`
+      
+      `The Government of the German Reich and the Government of the U.S.S.R. determine as the boundary of their respective national interests in the territory of the former Polish state the line marked on the attached map, which shall be described in more detail in a supplementary protocol.`
+      
+      `ARTICLE II.`
+      
+      `Both parties recognize the boundary of the respective national interests established in article I as definitive and shall reject any interference of third powers in this settlement.`
+      
+      `ARTICLE III.`
+      
+      `The necessary reorganization of public administration will be effected in the areas west of the line specified in article I by the Government of the German Reich, in the areas east of this line by the Government of the U.S.S.R.`
+      
+      `ARTICLE IV.`
+      
+      `The Government of the German Reich and the Government of the U.S.S.R. regard this settlement as a firm foundation for a progressive development of the friendly relations between their peoples.` - [German-Soviet Boundary and Friendship Treaty](https://www.ibiblio.org/pha/nsr/nsr-03.html#32) 
+    - `The undersigned Plenipotentiaries declare the agreement of the Government of the German Reich and the Government of the U.S.S.R. upon the following:`
+      
+      `The Secret Supplementary Protocol signed on August 23, 1939, shall be amended in item 1 to the effect that the territory of the Lithuanian state falls to the sphere of influence of the U.S.S.R., while, on the other hand, the province of Lublin and parts of the province of Warsaw fall to the sphere of influence of Germany (cf. the map attached to the Boundary and Friendship Treaty signed today). As soon as the Government of the U.S.S.R. shall take special measures on Lithuanian territory to protect its interests, the present German-Lithuanian border, for the purpose of a natural and simple boundary delineation, shall be rectified in such a way that the Lithuanian territory situated to the southwest of the line marked on the attached map should fall to Germany.`
+      
+      `Further it is declared that the economic agreements now in force between Germany and Lithuania shall not be affected by the measures of the Soviet Union referred to above.` - [German-Soviet Boundary and Friendship Treaty, Secret Supplementary Protocol](https://www.ibiblio.org/pha/nsr/nsr-03.html#34) 
 - This Pact was then unofficially terminated on 22 June 1941 following [Operation Barbarossa] and then officially terminated on 30 July 1941 in the [Sikorski–Mayski Agreement].
 #### 1939 Invasion of Poland
 
