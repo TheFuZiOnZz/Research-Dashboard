@@ -1,0 +1,2 @@
+## 1989 Public Revealing of the Full Molotov–Ribbentrop Pact
+- On December 25 1989, the Congress of People's Deputies of the Soviet Union condemned the [[1939 Molotov–Ribbentrop Pact]] and its secret protocol as "legally deficient and invalid.” [link](https://www.nytimes.com/1989/12/25/world/upheaval-east-soviet-congress-condemns-39-pact-that-led-annexation-baltics.html)

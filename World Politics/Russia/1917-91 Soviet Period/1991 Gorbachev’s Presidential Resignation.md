@@ -1,0 +1,2 @@
+## 1991 Gorbachev’s Presidential Resignation
+- On December 25, 1991, President Gorbachev resigns and declares his office extinct. After his televised speech ends, the Soviet flag is lowered from Moscow’s Kremlin, after which it is replaced by the flag of the Russian Federation.

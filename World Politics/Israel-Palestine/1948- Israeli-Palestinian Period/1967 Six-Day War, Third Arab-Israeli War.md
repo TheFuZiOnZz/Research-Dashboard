@@ -44,7 +44,6 @@
 - Extra links
     - 2017.05.17 - [The Secret Transcripts of the Six-Day War, Part I](https://www.tabletmag.com/sections/israel-middle-east/articles/secret-transcripts-six-day-war-1)
     - 2017.06.07 - [Israeli Security Cabinet Secret Transcripts Part II, The Accidental Occupation](https://www.tabletmag.com/sections/israel-middle-east/articles/israeli-security-cabinet-secret-transcripts-part-2)
-- [https://en.wikipedia.org/wiki/1967_Palestinian_exodus?wprov=sfla1](https://en.wikipedia.org/wiki/1967_Palestinian_exodus?wprov=sfla1)
 
 [[1967-75 Closure of the Suez Canal]]
 [[1967 USS Liberty Incident]]

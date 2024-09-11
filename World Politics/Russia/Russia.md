@@ -18,29 +18,19 @@
 [[1951-53 Doctors Plot Affair]]
 # 1953-64 Nikita Khrushchev
 
-## 1954 Transfer of Crimea
-- In 1954, the Crimean Oblast was incorporated into the Ukrainian SSR following administrative action of the Presidium of the Supreme Soviet of the Soviet Union. The action was attributed to Nikita Khrushchev, then-First Secretary of the Communist Party.
-    - `The agenda of the session of the Presidium of the Central Committee of the Communist Party of the Soviet Union, which took place January 25, 1954, contained a question about the delivery of the Crimean region to the structure of the Ukrainian SSR. The discussion of the question took only 15 minutes. The participants of the meeting approved the decree, and the region was given away to Ukraine for free. Not a single protest was made; no one had any doubts about the decision. No one wondered how the population (presumably the Russian-speaking population) of Crimea would treat the decision. It turned out that such important issues as the territorial movement of regions could be solved without any difficulties at all.` - [USSR's Nikita Khrushchev gave Russia’s Crimea away to Ukraine in only 15 minutes, Pravda, 2009](https://english.pravda.ru/history/107129-ussr_crimea_ukraine/)
-- On 20 February 2014, during a visit to Moscow, Chairman of the Supreme Council of Crimea Vladimir Konstantinov stated that the 1954 transfer of Crimea from the Russian Soviet Federative Socialist Republic to the Ukrainian Soviet Socialist Republic had been a mistake. [link](https://ukrainianweek.com/Politics/132098)
+[[1954 Transfer of Crimea]]
 [[1955 Creation of the Warsaw Pact]]
 [[1956-66 Sino-Soviet Split]]
 # 1964-82 Leonid Brezhnev
-
+[[1967 Six-Day War, Third Arab-Israeli War]]
+[[1979-89 Soviet–Afghan War]]
 # 1985-91 Mikhail Gorbachev
-## 1989 Public Revealing of the Full Molotov–Ribbentrop Pact
-- On December 25 1989, the Congress of People's Deputies of the Soviet Union condemned the [[1939 Molotov–Ribbentrop Pact]] and its secret protocol as "legally deficient and invalid.” [link](https://www.nytimes.com/1989/12/25/world/upheaval-east-soviet-congress-condemns-39-pact-that-led-annexation-baltics.html)
 
-## 1990 Russian Independence
-- On June 12 1990, Russian Parliament voted for Independence from the Soviet Union
-## 1991 Russian Presidential Referendum and Election
-- On March 17, 1991, the all-Russian referendum on the introduction of the post of President of Russia was held. More than 70% of citizens voted for the introduction of the post of President, elected by direct vote. On 24 April 1991 the Supreme Council of Russia adopted the law "On the President of the RSFSR".
-- Boris Yeltsin served as Chairman of the Supreme Soviet and was the head of the Russian SFSR. He had had strong favorability. Heading into the election, he was the most popular candidate.
-- On 12 June 1991, Receiving more than 50% of the vote in the first round of the election, the Yeltsin-Rutskoy ticket won the election with an overwhelming margin over their closest competitors, the Ryzhkov-Gromov ticket. Thus Boris Yeltsin and Alexander Rutskoy were elected 1st President of Russia and 1st Vice President of Russia respectively. [link](https://web.archive.org/web/20041010050340/http://www2.essex.ac.uk/elect/database/indexElections.asp?country=RUSSIA&election=ru91presidential)
-## 1991 Gorbachev’s General Secretary Resignation
-- On August 24, 1991, Gorbachev resigned as the general secretary the Central Committee of the Communist Party of the Soviet Union and dissolved all party units in the government. Five days later, the Supreme Soviet of the Soviet Union indefinitely suspended all CPSU activity on Soviet territory
-    - `The secretariat, the Politburo of the Central Committee of the CPSU did not oppose the coup. The Central Committee failed to take a resolute position of condemnation and opposition, did not rouse the communists to fight against the violation of constitutional legality. Among the conspirators were members of the party leadership, a number of party committees and the media supported the actions of state criminals. This put the communists in a false position. Many members of the party refused to cooperate with the conspirators, condemned the coup and joined the struggle against it. No one has the moral right to indiscriminately accuse all communists, and I, as the President, consider myself obliged to protect them as citizens from unfounded accusations. In this situation, the Central Committee of the CPSU must take a difficult but honest decision to dissolve itself. The fate of the republican communist parties and local party organizations will be determined by them themselves. I do not consider it possible for myself to continue to perform the functions of the General Secretary of the Central Committee of the CPSU and I am resigning the relevant powers. I believe that democratically minded communists, who have remained faithful to constitutional legality and the course of renewing society, will come out in favor of creating a party on a new basis that, together with all progressive forces, will be able to actively engage in the continuation of fundamental democratic changes in the interests of working people.` - Gorbachev [link](https://web.archive.org/web/20110927154108/http://www.illuminats.ru/component/content/article/29-new/1198-statement-by-mikhail-gorbachev-on-the-addition-of-duties-the-secretary-general-of-the-cpsu-24-august-1991?directory=29)
-## 1991 Gorbachev’s Presidential Resignation
-- On December 25, 1991, President Gorbachev resigns and declares his office extinct. After his televised speech ends, the Soviet flag is lowered from Moscow’s Kremlin, after which it is replaced by the flag of the Russian Federation.
+[[1989 Public Revealing of the Full Molotov–Ribbentrop Pact]]
+[[1990 Russian Independence]]
+[[1991 Russian Presidential Referendum and Election]]
+[[1991 Gorbachev’s General Secretary Resignation]]
+[[1991 Gorbachev’s Presidential Resignation]]
 
 # Other
 - SDL - [link](https://socdoneleft.github.io/stinky_rightwinger_factsheet.html#1050_soviet_union_ussr)
