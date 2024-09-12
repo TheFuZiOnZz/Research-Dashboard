@@ -140,12 +140,9 @@
 [[1997 Treaty on Friendship, Cooperation and Partnership]]
 # 1999- Vladimir Putin
 
-## 1999-2009 Second Chechen War
-- The
-- [Wiki](https://en.wikipedia.org/wiki/Second_Chechen_War)
+[[1999-2009 Second Chechen War]]
 
 ## 2008 Russian Occupation of Abkhazia and South Ossetia, Georgia
-
 - In 8–12 August 2008, Russia backed the self-proclaimed republics of South Ossetia and Abkhazia, and aided in the establishment militarily of these two breakaway states away from Georgia.
 - This was in response to George W. Bush campaigned for offering a Membership Action Plan (MAP) to Georgia and Ukraine During a NATO summit in Bucharest in April 2008. [link](https://web.archive.org/web/20190305061544/https://www.nytimes.com/2008/04/03/world/europe/03nato.html?pagewanted=all)
 - Vladimir Putin was in Bucharest during the summit. At the conclusion of the summit on 4 April, Putin said that NATO's enlargement towards Russia would be look at negatively towards Russia.
@@ -162,7 +159,7 @@
 - European Union’s Independent International Fact-Finding Mission on the Conflict in Georgia.
     - Report - vol 1 [link](https://www.mpil.de/files/pdf4/IIFFMCG_Volume_I2.pdf), vol 2 [link](https://www.mpil.de/files/pdf4/IIFFMCG_Volume_II1.pdf), vol 3 [link](https://www.mpil.de/files/pdf4/IIFFMCG_Volume_III1.pdf)
 - Putin said in 2008 after the Russo-Georgian war.
-    - `[Crimea](<https://www.notion.so/World-Politics-c1fa701ec5944179acd3e616ac8fd13b?pvs=21>) is not a disputed territory. There has been no ethnic conflict there, unlike the conflict between South Ossetia and Georgia. Russia has long recognized the borders of modern-day [Ukraine](<https://www.notion.so/World-Politics-c1fa701ec5944179acd3e616ac8fd13b?pvs=21>). On the whole, we have completed our talks on borders.` - [link](https://www.businessinsider.com/putin-in-2008-crimea-is-not-disputed-territory-and-is-part-of-ukraine-2015-4?r=US&IR=T)
+    - `Crimea is not a disputed territory. There has been no ethnic conflict there, unlike the conflict between South Ossetia and Georgia. Russia has long recognized the borders of modern-day Ukraine. On the whole, we have completed our talks on borders.` - [link](https://www.businessinsider.com/putin-in-2008-crimea-is-not-disputed-territory-and-is-part-of-ukraine-2015-4?r=US&IR=T)
 
 ## 2014 Russian Annexation of Crimea
 
