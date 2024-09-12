@@ -25,8 +25,10 @@
 [[1956-66 Sino-Soviet Split]]
 [[1956-57 Anti Krushchev Failed Coup]]
 ## 1964-82 Leonid Brezhnev
+
 [[1979-89 Soviet–Afghan War]]
 ## 1982-84 Yuri Andropov
+
 [[1983 Operation INFEKTION]]
 ## 1984-85 Konstantin Chernenko
 
@@ -37,7 +39,6 @@
 [[1991 Russian Presidential Referendum and Election]]
 [[1991 Gorbachev’s General Secretary Resignation]]
 [[1991 Gorbachev’s Presidential Resignation]]
-
 ## Other
 - SDL - [link](https://socdoneleft.github.io/stinky_rightwinger_factsheet.html#1050_soviet_union_ussr)
 - to read - [Wiki](https://en.wikipedia.org/wiki/Category:Soviet_war_crimes)
