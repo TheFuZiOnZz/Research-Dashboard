@@ -2,7 +2,6 @@
 
 [[1905-07 Russian Revolution Attempt]]
 # 1917-91 Soviet Period
-
 ## 1917-24 Vladimir Lenin
 
 [[1917-23 Russian Revolution]]
@@ -118,8 +117,7 @@
 - On Soviet industrialisation and economy, R.W. Davies has done pioneering work (books are from 1980 to 2018!), especially with his series (partly with Stephen Wheatcroft)
 
 # 1991- Modern Russia
-
-# 1991-99 Boris Yeltsin
+## 1991-99 Boris Yeltsin
 
 [[1992 Russian Occupation of Transnistria in Moldova]]
 [[1994 Budapest Memorandum on Security Assurances]]
@@ -127,7 +125,7 @@
 [[1994 First Chechen War]]
 [[1995 Formation of The Union State]]
 [[1997 Treaty on Friendship, Cooperation and Partnership]]
-# 1999- Vladimir Putin
+## 1999- Vladimir Putin
 
 [[1999-2009 Second Chechen War]]
 [[2008 Russian Occupation of Abkhazia and South Ossetia, Georgia]]
