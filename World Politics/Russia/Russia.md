@@ -133,27 +133,14 @@
 - In retrospect, comparing this invasion to the [Russian Invasion of Georgia], justifications because of NATO expansion is irrelevant as Moldova’s constitution commits it to “permanent neutrality” [link](https://carnegieendowment.org/files/deWaal_UncertainGround_final.pdf)
     - `The Republic of Moldova proclaims its permanent neutrality. The Republic of Moldova shall not allow the dispersal of foreign military troops on its territory.` - [link](https://www.constituteproject.org/constitution/Moldova_2006.pdf)
 
-## 1994 Budapest Memorandum on Security Assurances
-- The Budapest Memorandum on Security Assurances comprises three identical political agreements signed at the OSCE conference in Budapest, Hungary, on 5 December 1994, to provide security assurances by its signatories relating to the accession of Belarus, Kazakhstan and Ukraine to the Treaty on the Non-Proliferation of Nuclear Weapons (NPT). The memorandum was originally signed by three nuclear powers: the Russian Federation, the United Kingdom and the United States. China and France gave somewhat weaker individual assurances in separate documents. [link](https://web.archive.org/web/20170312052208/http://www.cfr.org/nonproliferation-arms-control-and-disarmament/budapest-memorandums-security-assurances-1994/p32484)
-## 1993 Russian Constitutional Crisis
-- [Wiki](https://en.wikipedia.org/wiki/1993_Russian_constitutional_crisis)
-- The
-
-## 1994 **First Chechen War**
-- [Wiki](https://en.wikipedia.org/wiki/First_Chechen_War)
-- The
-## 1995 Formation of The Union State
-
-- The Union State, officially the Union State of Russia and Belarus, is a supranational organization consisting of Russia and Belarus,
-
-## 1997 Treaty on Friendship, Cooperation and Partnership
-
-- The 1997 Russian–Ukrainian Treaty on Friendship, Cooperation and Partnership
-
+[[1994 Budapest Memorandum on Security Assurances]]
+[[1993 Russian Constitutional Crisis]]
+[[1994 First Chechen War]]
+[[1995 Formation of The Union State]]
+[[1997 Treaty on Friendship, Cooperation and Partnership]]
 # 1999- Vladimir Putin
 
-## 1999-2009 Second **Chechen War**
-
+## 1999-2009 Second Chechen War
 - The
 - [Wiki](https://en.wikipedia.org/wiki/Second_Chechen_War)
 
