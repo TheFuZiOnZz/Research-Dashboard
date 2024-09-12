@@ -162,7 +162,6 @@
     - `Crimea is not a disputed territory. There has been no ethnic conflict there, unlike the conflict between South Ossetia and Georgia. Russia has long recognized the borders of modern-day Ukraine. On the whole, we have completed our talks on borders.` - [link](https://www.businessinsider.com/putin-in-2008-crimea-is-not-disputed-territory-and-is-part-of-ukraine-2015-4?r=US&IR=T)
 
 ## 2014 Russian Annexation of Crimea
-
 - On 27 February 2014, Russia invaded and subsequently annexed the Crimean Peninsula from Ukraine. This event took place as a result of the [2014 Yanukovych Impeachment](https://www.notion.so/27b787c817dd4ec6b105f068c07e9c03?pvs=21).
 - Russian masked troops invade and occupy key Crimean locations, including airports and military bases, following Putin's orders.
     - `“We were ready to do this,” Mr Putin said in comments shown as part of a Russian state TV documentary on the one-year anniversary of Crimea’s annexation. “[Crimea] is our historical territory. These are our Russian people there. We couldn’t abandon them and leave them in danger.” Mr Putin said that Moscow had been prepared to use any military means necessary to defend Crimea against “the nationalists” in Kiev and their “puppet masters”: the US government.` - [link](https://www.ft.com/content/41873ed2-cb60-11e4-8ad9-00144feab7de)
