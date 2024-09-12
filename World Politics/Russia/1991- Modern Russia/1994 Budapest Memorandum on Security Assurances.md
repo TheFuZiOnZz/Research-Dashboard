@@ -1,4 +1,3 @@
-## 1994 Budapest Memorandum on Security Assurances
 - The Budapest Memorandum on Security Assurances comprises three identical political agreements signed at the OSCE conference in Budapest, Hungary, on 5 December 1994, to provide security assurances by its signatories relating to the accession of Belarus, Kazakhstan and Ukraine to the Treaty on the Non-Proliferation of Nuclear Weapons (NPT). The memorandum was originally signed by three nuclear powers: the Russian Federation, the United Kingdom and the United States. China and France gave somewhat weaker individual assurances in separate documents. 
 	- `Ukraine, the Russian Federation, the United Kingdom of Great Britain and Northern Ireland and the United States of America,`
 	  
