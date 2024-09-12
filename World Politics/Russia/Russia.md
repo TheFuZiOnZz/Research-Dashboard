@@ -135,30 +135,19 @@
 	  
 	  `Reaffirming their corrunitment to the principles of the Charter of the United Nations and the Conference on Security and Cooperation in Europe,`
 	  
-	  `Welcoming the mutual understanding in principle of 3 July 1992 between the President of the Republic of Moldova and the President of the Russian
-Federation, Have agreed as follows:
-From the moment of the signing of this Agreement, the parties to the
-1.
-conflict pledge to take all the necessary measures to ensure a total
-cease—fire and to halt all armed actions against each other.
-Once a cease—fire has been declared, the parties to the conflict
-2.
-shall proceed to withdraw units Of their armed forces and other formations,
-and military equipment and arms; they shall complete this process within seven
-days. The aim of this disengagement is to create a security zone between the
-parties to the conflict. The exact coordinates of the zone vill be
-established in a special protocol between the sides taking part in the
-implementation Of this Agreement.
-In order to ensure the implementation of the measures stipulated in
-1.
-article 1 and to guarantee security in the aforementioned zone, a joint
-Control Cormnittee consisting of representatives of the three sides taking part
-in the settlement. shall be established. In its work, the Corrgnittee shall
-make use of the military observer groups established under all the previous
-agreements, including the quadripartite agreements. The Control Committee
-shall proceed to carry out its tasks as stipulated in this Agreement within
-seven days after the signing of the Agreement.
-Each side taking part in the work of the Comüttee shall appoint its
+	  `Welcoming the mutual understanding in principle of 3 July 1992 between the President of the Republic of Moldova and the President of the Russian Federation,`
+	  
+	  `Have agreed as follows:`
+	  
+	  `Article 1`
+	  
+	  `1. From the moment of the signing of this Agreement, the parties to the conflict pledge to take all the necessary measures to ensure a total cease—fire and to halt all armed actions against each other.`
+	  
+	  `2. Once a cease—fire has been declared, the parties to the conflict shall proceed to withdraw units Of their armed forces and other formations, and military equipment and arms; they shall complete this process within seven days. The aim of this disengagement is to create a security zone between the parties to the conflict. The exact coordinates of the zone will be established in a special protocol between the sides taking part in the implementation Of this Agreement.`
+	  
+	  `In order to ensure the implementation of the measures stipulated in and to guarantee security in the aforementioned zone, a joint Control Cormnittee consisting of representatives of the three sides taking part in the settlement. shall be established. In its work, the Committee shall make use of the military observer groups established under all the previous agreements, including the quadripartite agreements. The Control Committee shall proceed to carry out its tasks as stipulated in this Agreement within seven days after the signing of the Agreement.`
+	  
+	  `Each side taking part in the work of the Comüttee shall appoint its
 2.
 representatives to it. The Control Committee shall be based in the city of
 Bende ry.` - [Agreeement on the principles for a peaceful settlement of the armed conflict in the Dniester region of the Republic Of Moldova](https://web.archive.org/web/20200329003638/https://peacemaker.un.org/sites/peacemaker.un.org/files/MD%20RU_920000_AgreementPrinciplesPpeacefulSettlementDniestrConflict.pdf)
