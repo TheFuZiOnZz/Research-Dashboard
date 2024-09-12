@@ -32,5 +32,3 @@
 	  `He said troops would remain for the foreseeable future, though he did not indicate how many soldiers would be based in the area. Russia would sign formal agreements with both regions on the extent of the military presence.` - [Russian troops to stay in Abkhazia and South Ossetia, The Guardian, 2008](https://www.theguardian.com/world/2008/sep/09/georgia.russia)
 - European Union’s Independent International Fact-Finding Mission on the Conflict in Georgia.
     - Report - vol 1 [link](https://www.mpil.de/files/pdf4/IIFFMCG_Volume_I2.pdf), vol 2 [link](https://www.mpil.de/files/pdf4/IIFFMCG_Volume_II1.pdf), vol 3 [link](https://www.mpil.de/files/pdf4/IIFFMCG_Volume_III1.pdf)
-- Putin said in 2008 after the Russo-Georgian war.
-    - `Crimea is not a disputed territory. There has been no ethnic conflict there, unlike the conflict between South Ossetia and Georgia. Russia has long recognized the borders of modern-day Ukraine. On the whole, we have completed our talks on borders.` - [link](https://www.businessinsider.com/putin-in-2008-crimea-is-not-disputed-territory-and-is-part-of-ukraine-2015-4?r=US&IR=T)
