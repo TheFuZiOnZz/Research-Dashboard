@@ -120,7 +120,7 @@
 
 # 1991-99 Boris Yeltsin
 
-## 1992 Russian Occupation of Transnistria, Moldova
+## 1992 Russian Occupation of Transnistria in Moldova
 - In 1992, between 2 March and 1 July 1992, Russia lead in creating a breakaway state away from Moldova.
 - Russian forces were decisive in the conflict as the 2 primary parties military forces weren't at a effective capacity.
     - `Neither side had a proper military force. The intervention of the Russian Fourteenth Army and its commander General Alexander Lebed on behalf of the Transdniestrians was decisive.` - [link](https://carnegieendowment.org/files/deWaal_UncertainGround_final.pdf)
@@ -134,19 +134,14 @@
     - `The Republic of Moldova proclaims its permanent neutrality. The Republic of Moldova shall not allow the dispersal of foreign military troops on its territory.` - [link](https://www.constituteproject.org/constitution/Moldova_2006.pdf)
 
 ## 1994 Budapest Memorandum on Security Assurances
-
 - The Budapest Memorandum on Security Assurances comprises three identical political agreements signed at the OSCE conference in Budapest, Hungary, on 5 December 1994, to provide security assurances by its signatories relating to the accession of Belarus, Kazakhstan and Ukraine to the Treaty on the Non-Proliferation of Nuclear Weapons (NPT). The memorandum was originally signed by three nuclear powers: the Russian Federation, the United Kingdom and the United States. China and France gave somewhat weaker individual assurances in separate documents. [link](https://web.archive.org/web/20170312052208/http://www.cfr.org/nonproliferation-arms-control-and-disarmament/budapest-memorandums-security-assurances-1994/p32484)
-
-## **1993 Russian Constitutional Crisis**
-
-- The
+## 1993 Russian Constitutional Crisis
 - [Wiki](https://en.wikipedia.org/wiki/1993_Russian_constitutional_crisis)
+- The
 
 ## 1994 **First Chechen War**
-
-- The
 - [Wiki](https://en.wikipedia.org/wiki/First_Chechen_War)
-
+- The
 ## 1995 Formation of The Union State
 
 - The Union State, officially the Union State of Russia and Belarus, is a supranational organization consisting of Russia and Belarus,
