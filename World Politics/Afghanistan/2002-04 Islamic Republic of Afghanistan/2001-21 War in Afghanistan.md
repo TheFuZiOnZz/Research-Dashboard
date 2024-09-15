@@ -16,4 +16,6 @@
 
 [[2020 Doha Agreement]]
 [[2021 U.S. Withdrawal From Afghanistan]]
-[[]]
+[[2022 SIGAR Report on Lessons Learned in Afghanistan]]
+[[2022 SIGAR Report on Why the Afghan Government Collapsed]]
+[[2022 SIGAR Report on Why the Afghan Security Forces Collapsed]]
