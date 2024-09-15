@@ -506,7 +506,7 @@
 - [[link]](https://en.wikipedia.org/wiki/2007%E2%80%932008_financial_crisis?wprov=sfti1)
 - Film - The big short
 - Documentary - Too big to fail
-- Documentary - inside
+- Documentary - Inside Job
 - Dodd-Frank Act
 # 2020- COVID-19 Recession
 - [[link]](https://en.wikipedia.org/wiki/COVID-19_recession?wprov=sfti1)
