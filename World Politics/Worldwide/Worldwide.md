@@ -1,9 +1,9 @@
 [[1914-18 Middle Eastern Theatre of World War 1]]
 # 1929-39 Great Depression
-- [[link]](https://en.wikipedia.org/wiki/Great_Depression?wprov=sfti1)
+- [Wiki](https://en.wikipedia.org/wiki/Great_Depression?wprov=sfti1)
 # 1939-45 World War 2
-- [[link]](https://en.wikipedia.org/wiki/World_War_II)
-- [[link]](https://en.wikipedia.org/wiki/Soviet_Union_in_World_War_II)
+- [Wiki](https://en.wikipedia.org/wiki/World_War_II)
+- [Wiki](https://en.wikipedia.org/wiki/Soviet_Union_in_World_War_II)
 ## Pre-War
 - [link]
 ## 19
@@ -11,43 +11,43 @@
 - > `` [link]
     
 ## 1923 Beer Hall Putsch, Hitler’s Failed Coup
-- [[link]](https://en.wikipedia.org/wiki/Beer_Hall_Putsch)
+- [Wiki](https://en.wikipedia.org/wiki/Beer_Hall_Putsch)
 - On 8–9 November 1923
 - > `` [link]
     
 ## 1932 July German Federal Election
-- [[link]](https://en.wikipedia.org/wiki/July_1932_German_federal_election)
+- [Wiki](https://en.wikipedia.org/wiki/July_1932_German_federal_election)
 - On 31 July 1932
 - > `` [link]
     
 ## 1933 Reichstag Fire
-- [[link]](https://en.wikipedia.org/wiki/Reichstag_fire)
+- [Wiki](https://en.wikipedia.org/wiki/Reichstag_fire)
 - On 27 February 1933
 - > `` [link]
     
 ## 1933 Reichstag Fire Decree
-- [[link]](https://en.wikipedia.org/wiki/Reichstag_Fire_Decree)
+- [Wiki](https://en.wikipedia.org/wiki/Reichstag_Fire_Decree)
 - On 28 February 1933
 - > `` [link]
     
 ## 1933 Enabling Act
-- [[link]](https://en.wikipedia.org/wiki/Enabling_Act_of_1933)
+- [Wiki](https://en.wikipedia.org/wiki/Enabling_Act_of_1933)
 - On 23 March 1933
 - > `` [link]
     
 ## 1935 Saar Status Referendum
-- [[link]](https://en.wikipedia.org/wiki/1935_Saar_status_referendum)
-- [[link]](https://en.wikipedia.org/wiki/Territory_of_the_Saar_Basin)
+- [Wiki](https://en.wikipedia.org/wiki/1935_Saar_status_referendum)
+- [Wiki](https://en.wikipedia.org/wiki/Territory_of_the_Saar_Basin)
 - On 13 January 1935
 - > `` [link]
     
 ## 1936 Remilitarisation of the Rhineland
-- [[link]](https://en.wikipedia.org/wiki/Remilitarisation_of_the_Rhineland)
+- [Wiki](https://en.wikipedia.org/wiki/Remilitarisation_of_the_Rhineland)
 - On 7 March 1936, using the Franco-Soviet Treaty of Mutual Assistance as a pretext, Hitler ordered the Wehrmacht to march 20,000 German troops into the Rhineland, which directly contravened the Treaty of Versailles and the Locarno Treaties, which caused joyous celebrations across Germany. The French and the British governments, unwilling to risk war, decided against enforcing the treaties.
 - > `` [link]
     
 ## 1938 Annexation of Austria, Anschluss
-- [[link]](https://en.wikipedia.org/wiki/Anschluss)
+- [Wiki](https://en.wikipedia.org/wiki/Anschluss)
 - On 13 March 1938, the Federal State of Austria was annexed into the German Reich.
 - > `` [link]
     
@@ -56,12 +56,12 @@
 - > `` [link]
     
 ## 1938 Munich Agreement
-- [[link]](https://en.wikipedia.org/wiki/Munich_Agreement)
+- [Wiki](https://en.wikipedia.org/wiki/Munich_Agreement)
 - On 30 September 1938,
 - > `` [link]
     
 ## 1938 Undeclared German–Czechoslovak War
-- [[link]](https://en.wikipedia.org/wiki/Sudetendeutsches_Freikorps\#Undeclared_German%E2%80%93Czechoslovak_War)
+- [Wiki](https://en.wikipedia.org/wiki/Sudetendeutsches_Freikorps\#Undeclared_German%E2%80%93Czechoslovak_War)
 - > `` [link]
     
 ## 1939 Molotov–Ribbentrop Pact
@@ -131,9 +131,9 @@
 - > `` [link]
     
 ## 1939 Invasion of Poland
-- [[link]](https://en.wikipedia.org/wiki/Invasion_of_Poland)
-- [[link]](https://en.wikipedia.org/wiki/Soviet_invasion_of_Poland)
-- [[link]](https://en.wikipedia.org/wiki/Timeline_of_the_invasion_of_Poland)
+- [Wiki](https://en.wikipedia.org/wiki/Invasion_of_Poland)
+- [Wiki](https://en.wikipedia.org/wiki/Soviet_invasion_of_Poland)
+- [Wiki](https://en.wikipedia.org/wiki/Timeline_of_the_invasion_of_Poland)
 - On September 1st 1939, Nazi Germany invades Poland, inciting Poland’s allies Britain and France to declare war on Germany.
 - On September 17th 1939, under the auspices of the [Molotov-Ribbentrop Pact](https://www.notion.so/27b787c817dd4ec6b105f068c07e9c03?pvs=21), Soviet leader Joseph Stalin orders the invasion of Poland, securing a share of Polish territory.
 - The campaign ended on 6 October with Germany and the Soviet Union dividing and annexing the whole of Poland under the terms of the supplementary protocol of the [Molotov-Ribbentrop Pact](https://www.notion.so/27b787c817dd4ec6b105f068c07e9c03?pvs=21) called the `German–Soviet Boundary and Friendship Treaty`.
@@ -142,16 +142,16 @@
     > `Molotov admitted to the Supreme Soviet on 31 October that the 'liberation' of eastern Poland had cost the Red Army 737 killed and 1862 wounded. Polish specialists claim up to 3000 killed and 8000-10000 wounded as well as the destruction of 100 Soviet tanks and armoured cars. Polish military deaths are variously estimated at between 3000 and 7000, with 20000 wounded. An additional thousand to 2500 were executed or murdered in immediate reprisals by both Soviet and harassing Ukrainian nationalist forces.` [[link]](https://ipfs.io/ipfs/bafykbzaceb246lkh7efv5wypd3qojdxndtxluifuuhlnbohko74y76k2exsv6?filename=George%20Sanford%20-%20Katyn%20and%20the%20Soviet%20Massacre%20of%201940_%20Truth%2C%20Justice%20and%20Memory%20%28BASEES%20Routledge%20Series%20on%20Russian%20and%20East%20European%20Studies%29%20%20-Routledge%20%282005%29.pdf)
     
 ### 1939 German-Soviet Military Parade in Brest-Litovsk
-- [[link]](https://en.wikipedia.org/wiki/German%E2%80%93Soviet_military_parade_in_Brest-Litovsk)
+- [Wiki](https://en.wikipedia.org/wiki/German%E2%80%93Soviet_military_parade_in_Brest-Litovsk)
 - On 22 September 1939, The German–Soviet military parade in Brest-Litovsk was an official ceremony held by the troops of Nazi Germany and the Soviet Union during the invasion of Poland in the city of Brest-Litovsk. It marked the withdrawal of German troops to the demarcation line secretly agreed to in the Molotov–Ribbentrop Pact, and the handover of the city and its fortress to the Soviet Red Army.
 ## 1939 US’ Neutrality Act
-- [[link]](https://en.wikipedia.org/wiki/Neutrality_Acts_of_the_1930s\#Neutrality_Act_of_1939)
+- [Wiki](https://en.wikipedia.org/wiki/Neutrality_Acts_of_the_1930s\#Neutrality_Act_of_1939)
 - On 4 November 1939,
 - > `` [link]
     
 ## 1939 Invasion of Finland, Winter War
-- [[link]](https://en.wikipedia.org/wiki/Winter_War)
-- [[link]](https://en.wikipedia.org/wiki/Timeline_of_the_Winter_War)
+- [Wiki](https://en.wikipedia.org/wiki/Winter_War)
+- [Wiki](https://en.wikipedia.org/wiki/Timeline_of_the_Winter_War)
 - In November 30 1939, under the auspices of the Molotov-Ribbentrop Pact, the Soviet Union invaded Finland.
 - The Finnish defensive effort defied Soviet expectations, and after stiff losses, as well as the unsuccessful attempt to install a puppet government in Helsinki, Stalin settled for an interim peace granting the Soviet Union parts of Karelia and Salla (9% of Finnish territory).
     - `` [link]
@@ -196,13 +196,13 @@
     
 - The Baltic states recovered de facto independence during the Dissolution of the Soviet Union.
 ## 1940-41 Occupation of Bessarabia, Northern Bukovina and the Hertsa Region, now Moldova
-- [[link]](https://en.wikipedia.org/wiki/Soviet_occupation_of_Bessarabia_and_Northern_Bukovina)
-- [[link]](https://en.wikipedia.org/wiki/Hertsa_region)
+- [Wiki](https://en.wikipedia.org/wiki/Soviet_occupation_of_Bessarabia_and_Northern_Bukovina)
+- [Wiki](https://en.wikipedia.org/wiki/Hertsa_region)
 - On June 28th 1940, under the auspices of the [Molotov-Ribbentrop Pact](https://www.notion.so/27b787c817dd4ec6b105f068c07e9c03?pvs=21), The Soviet occupation of Bessarabia and Northern Bukovina took place from June 28 to July 3, 1940, as a result of an ultimatum by the Soviet Union to Romania on June 26, 1940, that threatened the use of force and were incorporated into the Soviet Union.
 - As part of the 1941 Axis invasion of the Soviet Union, Romania regained the territories of Bessarabia and Northern Bukovina, and seized a territory which became known as Transnistria Governorate. Romanian forces, working with the Germans, deported or massacred about 300,000 Jews, including 147,000 from Bessarabia and Bukovina. Of the latter, approximately 90,000 died.
 - [[link]](http://www.inshr-ew.ro/ro/files/Raport%20Final/Final_Report.pdf)
 ## 1940 Katyn Massacre
-- [[link]](https://en.wikipedia.org/wiki/Katyn_massacre)
+- [Wiki](https://en.wikipedia.org/wiki/Katyn_massacre)
 - The Katyn massacre was a series of mass executions of 22,000 Polish military officers and intelligentsia prisoners of war carried out by the Soviet Union, specifically the NKVD ("People's Commissariat for Internal Affairs", the Soviet secret police) in April and May 1940 as a part of the secret sections of [The Molotov–Ribbentrop Pact](https://www.notion.so/27b787c817dd4ec6b105f068c07e9c03?pvs=21).
     - `In March 1959 the KGB chief A.Shelepin wrote to Khrushchev requesting permission to dispose of the files concerning the 21 857 Poles who were shot as a result of this Politburo resolution. See Materski (ed.), pp. 26-28. Shelepin indicates that of the 21,857 Poles executed, 4,421 were executed near Katyn Forest in Smolensk oblast', 3,820 in Starobelsk in Kharkhov oblast', 6,311 in Ostashkov in Kalinin oblast' and 7,305 elsewhere. Since the Germans claim to have discovered 10,000 bodies in Katyn, it remains unclear who the other 5,500 victims in Katyn were.` [[link]](https://www.researchgate.net/profile/Stephen-Wheatcroft-2/publication/233004050_The_scale_and_nature_of_German_and_Soviet_repression_and_mass_killings_1930-451_1/links/53dc2de60cf2cfac9928ffc5/The-scale-and-nature-of-German-and-Soviet-repression-and-mass-killings-1930-451-1.pdf) [[link]](https://archive.ph/nuNdN)
 - The Nazi Government were the first to report the discovered burial grounds in Katyn Forest.
@@ -217,13 +217,13 @@
 - “Katyn: a crime without punishment” [[link]](https://ipfs.io/ipfs/bafykbzaceahtgpx3c4lqeqe4iuskrfswvfz2zlaopsdgxcuvijspc4mmfdngg?filename=Anna%20M.%20Cienciala%2C%20Wojciech%20Materski%20-%20Katyn_%20a%20crime%20without%20punishment-Yale%20University%20Press%20%282007%29.pdf)
 - “Remembering Katyn” by Alexander Etkind, Rory Finnin, Uilleam Blacker, Julie Fedor, Simon Lewis, Maria Mälksoo and Matilda Mroz [[link]](https://ipfs.io/ipfs/bafykbzaceborvbtsyjf5sug3wxnsn7do56vpolty2ja5up233imz2rjldamz4?filename=Alexander%20Etkind%2C%20Rory%20Finnin%2C%20Uilleam%20Blacker%20-%20Remembering%20Katyn-Polity%20Press%20%282012%29.pdf)
 ## 1940 Battle of France
-- [[link]](https://en.wikipedia.org/wiki/Battle_of_France)
+- [Wiki](https://en.wikipedia.org/wiki/Battle_of_France)
 - On 10 May - 25 June 1940,
 - > `` [link]
     
 ## 1940 Battle of Britain, The Blitz
-- [[link]](https://en.wikipedia.org/wiki/Battle_of_Britain)
-- [[link]](https://en.wikipedia.org/wiki/The_Blitz)
+- [Wiki](https://en.wikipedia.org/wiki/Battle_of_Britain)
+- [Wiki](https://en.wikipedia.org/wiki/The_Blitz)
 - On 10 July - 31 October 1940,
 - > `` [link]
     
@@ -234,7 +234,7 @@
     > `Germany, Italy and Japan affirm that the aforesaid terms do not in any way affect the political status which exists at present as between each of the three contracting powers and Soviet Russia.` [[link]](https://avalon.law.yale.edu/wwii/triparti.asp)
     
 ## 1941 Invasion of Greece
-- [[link]](https://en.wikipedia.org/wiki/German_invasion_of_Greece)
+- [Wiki](https://en.wikipedia.org/wiki/German_invasion_of_Greece)
 - On 6 April – 1 June 1941
 - > `` [link]
     
@@ -265,15 +265,15 @@
     > `The organization of the camps in the east revealed a contempt for life, the life of Slavs and Asians and Jews anyway, that made such mass starvation thinkable. In German prisoner-of-war camps for Red Army soldiers, the death rate over the course of the war was 57.5 percent. In the first eight months after Operation Barbarossa, it must have been far higher. In German prisoner-of-war camps for soldiers of the western Allies, the death rate was less than five percent.` [[link]](https://ipfs.io/ipfs/bafykbzaceccblw5ub3z5dqoqr5pbwybapejk3bv2ppkfsemkk7ooi7lhrjfcm?filename=Timothy+Snyder+-+Bloodlands_+Europe+between+Hitler+and+Stalin-Basic+Books+%282010%29.pdf) - Bloodlands: Europe between Hitler and Stalin, Timothy Snyder
     
 ## 1941-45 Holocaust
-- [[link]](https://en.wikipedia.org/wiki/The_Holocaust)
+- [Wiki](https://en.wikipedia.org/wiki/The_Holocaust)
 - > `` [link]
     
 ## 1941 2nd Soviet Invasion of Finland, Continuation War
-- [[link]](https://en.wikipedia.org/wiki/Continuation_War)
+- [Wiki](https://en.wikipedia.org/wiki/Continuation_War)
 - On 25 June 1941 – 19 September 1944 The Continuation War, also known as the Second Soviet-Finnish War, was a conflict fought by Finland and Nazi Germany against the Soviet Union during World War II.
 - It began with a Finnish declaration of war and invasion on 25 June 1941 and ended on 19 September 1944 with the Moscow Armistice.
 ## 1941 Battle of Crete
-- [[link]](https://en.wikipedia.org/wiki/Battle_of_Crete)
+- [Wiki](https://en.wikipedia.org/wiki/Battle_of_Crete)
 - On 20 May – 1 June 1941 The Battle of Crete , codenamed Operation Mercury, was a major Axis airborne and amphibious operation to capture the island of Crete.
 - It began on the morning of 20 May 1941, with multiple German airborne landings on Crete. Greek and other Allied forces, along with Cretan civilians, defended the island.
 ## 1941 Sikorski–Mayski Agreement
@@ -292,67 +292,67 @@
 - The Soviets broke off talks again in 1943 after the Polish government had demanded an independent examination of the recently discovered [Katyn burial pits](https://www.notion.so/Geo-Politics-8ab38a7f4fb84ec09ae3895794c0539c?pvs=21) by the International Red Cross.
     - `Copy of the Soviet Note of April 25, 1943, severing unilaterally Soviet-Polish diplomatic relations. Note served verbally to the Polish Ambassador in Moscow, Tadeusz Romer in response to the Polish Government’s request of April 17, 1943 that the mass burial site of murdered Polish officers, discovered by the Germans in Katyn, be examined by an independent and impartial body - the International Red Cross.` ... `Both, the Polish Government and the Hitlerite government drew into the "investigation" the International Red Cross, compelled to participate in this farce of investigation in which Hitler appears to be the stage manager, in conditions of a terroristic regime with its gallows and mass extermination of the peaceful population. Understandably, such an "investigation", conducted behind the back of the Soviet Government, can not command confidence of people, possessing any degree of honesty.` [[link]](https://web.archive.org/web/20050909042329/http://www.electronicmuseum.ca/Poland-WW2/katyn_memorial_wall/kmw_note.html)
 ## 1942-43 Battle of Stalingrad
-- [[link]](https://en.wikipedia.org/wiki/Battle_of_Stalingrad)
+- [Wiki](https://en.wikipedia.org/wiki/Battle_of_Stalingrad)
 - On 17 July 1942 – 2 February 1943
 - > `` [link]
     
 ## 1943 Operation Mincemeat
-- [[link]](https://en.wikipedia.org/wiki/Operation_Mincemeat)
+- [Wiki](https://en.wikipedia.org/wiki/Operation_Mincemeat)
 - In April 1943
 - > `` [link]
     
 ## 1943 Warsaw Ghetto Uprising
-- [[link]](https://en.wikipedia.org/wiki/Warsaw_Ghetto_Uprising)
+- [Wiki](https://en.wikipedia.org/wiki/Warsaw_Ghetto_Uprising)
 - On 19 April – 16 May 1943,
 - > `` [link]
     
 ## 1943 Dambusters Raid, Operation Chastise
-- [[link]](https://en.wikipedia.org/wiki/Operation_Chastise)
+- [Wiki](https://en.wikipedia.org/wiki/Operation_Chastise)
 - On 16–17 May 1943
 - > `` [link]
     
 ## 1943 Allied invasion of Sicily
-- [[link]](https://en.wikipedia.org/wiki/Allied_invasion_of_Sicily)
+- [Wiki](https://en.wikipedia.org/wiki/Allied_invasion_of_Sicily)
 - On 9 July – 17 August 1943,
 - > `` [link]
     
 ## 1943 Bombing of Hamburg, Operation Gomorrah
-- [[link]](https://en.wikipedia.org/wiki/Bombing_of_Hamburg_in_World_War_II\#Operation_Gomorrah)
+- [Wiki](https://en.wikipedia.org/wiki/Bombing_of_Hamburg_in_World_War_II\#Operation_Gomorrah)
 - On 24 July 1943,
 - > `` [link]
     
 ## 1943 Tehran Conference
-- [[link]](https://en.wikipedia.org/wiki/Tehran_Conference)
+- [Wiki](https://en.wikipedia.org/wiki/Tehran_Conference)
 - On 28 November – 1 December 1943
 - > `` [link]
     
 ## 1944 Battle of Monte Cassino, Operation Avenger
-- [[link]](https://en.wikipedia.org/wiki/Battle_of_Monte_Cassino\#Second_battle_(Operation_Avenger))
+- [Wiki](https://en.wikipedia.org/wiki/Battle_of_Monte_Cassino\#Second_battle_(Operation_Avenger))
 - On 15 February 1944,
 - > `` [link]
     
 ## 1944 D-Day, Operation Neptune
-- [[link]](https://en.wikipedia.org/wiki/Normandy_landings)
+- [Wiki](https://en.wikipedia.org/wiki/Normandy_landings)
 - > `` [link]
     
 ## 1944 Warsaw Uprising
-- [[link]](https://en.wikipedia.org/wiki/Warsaw_Uprising)
+- [Wiki](https://en.wikipedia.org/wiki/Warsaw_Uprising)
 - On 1 August – 2 October 1944,
 - Scholarship since the fall of the Soviet Union, combined with eyewitness accounts, has questioned Soviet motives and suggested their lack of support for the Warsaw Uprising represented their ambitions in Eastern Europe. The Red Army did not reinforce resistance fighters or provide air support. Declassified documents indicate that Joseph Stalin had tactically halted his forces from advancing on Warsaw in order to exhaust the Polish Home Army and to aid his political desires of turning Poland into a Soviet-aligned state. Scholars note the two month period of the Warsaw Uprising marked the start of the Cold War.
 - > `` [link]
     
 ## 1944 Liberation of Paris
-- [[link]](https://en.wikipedia.org/wiki/Liberation_of_Paris)
+- [Wiki](https://en.wikipedia.org/wiki/Liberation_of_Paris)
 - On 19–25 August 1944,
 - > `` [link]
     
 ## 1944 Nemmersdorf Massacre
-- [[link]](https://en.wikipedia.org/wiki/Nemmersdorf_massacre)
+- [Wiki](https://en.wikipedia.org/wiki/Nemmersdorf_massacre)
 - On 21 October 1944
 - > `` [link]
     
 ## 1944 Deportation of the Crimean Tatars
-- [[link]](https://en.wikipedia.org/wiki/Deportation_of_the_Crimean_Tatars)
+- [Wiki](https://en.wikipedia.org/wiki/Deportation_of_the_Crimean_Tatars)
 - “Statement by the Crimean Tatar Resource Center on the occasion of the International Day of the World's Indigenous Peoples” [https://ctrcenter.org/en/news/1224-statement-by-the-crimean-tatar-resource-center-on-the-occasion-of-the-international-day-of-the-world-s-indigenous-peoples](https://ctrcenter.org/en/news/1224-statement-by-the-crimean-tatar-resource-center-on-the-occasion-of-the-international-day-of-the-world-s-indigenous-peoples) [EN]
 - “Crimea in the Dark: Silencing Dissent” by Amnesty International [https://www.amnestyusa.org/files/crimean_briefing_the_final_and_formated.pdf](https://www.amnestyusa.org/files/crimean_briefing_the_final_and_formated.pdf) [PDF, 612kb, EN]
 - “Historical Photo Fake: Crimean Tatars in SS Division” [http://web.archive.org/web/20150929211748/https://www.stopfake.org/en/historical-photo-fake-crimean-tatars-in-ss-division/](http://web.archive.org/web/20150929211748/https://www.stopfake.org/en/historical-photo-fake-crimean-tatars-in-ss-division/)
@@ -416,22 +416,22 @@
 - “In 1944 Crimean Tatar speaking Gypsies were also deported...They were perceived as Gypsies, which is why they were predetermined for annihilation from the Nazis during World War II but, according to Soviet statistics, they were defined as Tatars and so they were deported by the Soviet authorities, alongside the Crimean Tatars..." from “Gypsies in Central Asia and the Caucasus” by Elena Marushiakova and Vesselin Popov
 - By adopting the new language law, Ukraine has implicitly abandoned the idea of returning Crimea
 ## 1944-45 Battle of the Bulge
-- [[link]](https://en.wikipedia.org/wiki/Battle_of_the_Bulge)
+- [Wiki](https://en.wikipedia.org/wiki/Battle_of_the_Bulge)
 - On 16 December 1944 – 28 January 1945
 - > `` [link]
     
 ## 1945 Battle of Berlin
-- [[link]](https://en.wikipedia.org/wiki/Battle_of_Berlin)
+- [Wiki](https://en.wikipedia.org/wiki/Battle_of_Berlin)
 - On 16 April – 2 May 1945
 - > `` [link]
     
 ## 1945 Yalta Conference
-- [[link]](https://en.wikipedia.org/wiki/Yalta_Conference)
+- [Wiki](https://en.wikipedia.org/wiki/Yalta_Conference)
 - On 4–11 February 1945
 - > `` [link]
     
 ## 1945 Potsdam Conference
-- [[link]](https://en.wikipedia.org/wiki/Potsdam_Conference)
+- [Wiki](https://en.wikipedia.org/wiki/Potsdam_Conference)
 - On 17 July – 2 August 1945
 - > `` [link]
     
@@ -446,26 +446,26 @@
 - > `` [link]
     
 ## 1941 Attack on Pearl Harbour
-- [[link]](https://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor)
+- [Wiki](https://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor)
 - On 7 December 1941,
 - > `` [link]
     
 ## 1942 Battle of Midway
-- [[link]](https://en.wikipedia.org/wiki/Battle_of_Midway)
+- [Wiki](https://en.wikipedia.org/wiki/Battle_of_Midway)
 - > `` [link]
     
 ## 1943 Battle of Tarawa
-- [[link]](https://en.wikipedia.org/wiki/Battle_of_Tarawa)
+- [Wiki](https://en.wikipedia.org/wiki/Battle_of_Tarawa)
 - On 20–23 November 1943
 - > `` [link]
     
 ## 1945 Battle of Okinawa
-- [[link]](https://en.wikipedia.org/wiki/Battle_of_Okinawa)
+- [Wiki](https://en.wikipedia.org/wiki/Battle_of_Okinawa)
 - On 1 April – 22 June 1945,
 - > `` [link]
     
 ## 1945 Hiroshima & Nagasaki Atomic Bombings
-- [[link]](https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki)
+- [Wiki](https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki)
 - On 6 and 9 August 1945, the United States detonated two atomic bombs over the Japanese cities of Hiroshima and Nagasaki.
 - > `` [link]
     
@@ -482,7 +482,7 @@
 - > `` [link]
     
 ## 1940-41 Italian bombing of Mandatory Palestine
-- [[link]](https://en.wikipedia.org/wiki/Italian_bombing_of_Mandatory_Palestine_in_World_War_II)
+- [Wiki](https://en.wikipedia.org/wiki/Italian_bombing_of_Mandatory_Palestine_in_World_War_II)
 - On June 1940 – June 1941
 - > `` [link]
     
@@ -493,20 +493,20 @@
 - > `` [link]
     
 ## 1945-46 International Military Tribunal, Nuremberg Trials
-- [[link]](https://en.wikipedia.org/wiki/Nuremberg_trials)
+- [Wiki](https://en.wikipedia.org/wiki/Nuremberg_trials)
 - - `` [link]
 ## 1945-48 International Military Tribunal for the Far East, Tokyo Trials
-- [[link]](https://en.wikipedia.org/wiki/International_Military_Tribunal_for_the_Far_East)
+- [Wiki](https://en.wikipedia.org/wiki/International_Military_Tribunal_for_the_Far_East)
 - - `` [link]
 # 2000-02 Dot-Com Bubble
-- [[link]](https://en.wikipedia.org/wiki/Early_2000s_recession?wprov=sfti1)
-- [[link]](https://en.wikipedia.org/wiki/Dot-com_bubble?wprov=sfti1)
+- [Wiki](https://en.wikipedia.org/wiki/Early_2000s_recession?wprov=sfti1)
+- [Wiki](https://en.wikipedia.org/wiki/Dot-com_bubble?wprov=sfti1)
 # 2007-09 Great Recession
-- [[link]](https://en.wikipedia.org/wiki/Great_Recession?wprov=sfti1)
-- [[link]](https://en.wikipedia.org/wiki/2007%E2%80%932008_financial_crisis?wprov=sfti1)
+- [Wiki](https://en.wikipedia.org/wiki/Great_Recession?wprov=sfti1)
+- [Wiki](https://en.wikipedia.org/wiki/2007%E2%80%932008_financial_crisis?wprov=sfti1)
 - Film - The big short
 - Documentary - Too big to fail
 - Documentary - Inside Job
 - Dodd-Frank Act
 # 2020- COVID-19 Recession
-- [[link]](https://en.wikipedia.org/wiki/COVID-19_recession?wprov=sfti1)
+- [Wiki](https://en.wikipedia.org/wiki/COVID-19_recession?wprov=sfti1)
