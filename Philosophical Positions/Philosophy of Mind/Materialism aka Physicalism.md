@@ -1,4 +1,3 @@
-## Materialism/Physicalism
 - Everything is reduce to the physical, monism
 - Types of Materialism:
     - Brain-Mind Identity Theory

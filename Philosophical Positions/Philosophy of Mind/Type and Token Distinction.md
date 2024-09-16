@@ -1,4 +1,3 @@
-## Type/Token Distinction
 `Rose is a rose is a rose is a rose.`
 In one sense of ‘word’ we may count three different words; in another sense we may count ten different words. C. S. Peirce called words in the first sense “types” and words in the second sense “tokens”.
 

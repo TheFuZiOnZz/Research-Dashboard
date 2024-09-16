@@ -27,10 +27,10 @@
 # Determinism & Free Will
 [[Determinism & Free Will]]
 # Philosophy of Mind
-[[Token Distinction]]
+[[Type and Token Distinction]]
 [[Cartesian Dualism]]
-[[Physicalism]]
-[[Psychoneural Identity Theory or Brain-Mind Identity Theory]]
+[[Materialism aka Physicalism]]
+[[Psychoneural Identity Theory aka Brain-Mind Identity Theory]]
 [[Idealism]]
 [[Behaviourism]]
 [[Functionalism]]
