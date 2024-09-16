@@ -1,100 +1,15 @@
 - [Wiki](https://en.wikipedia.org/wiki/Joe_Biden)
 ## Social Policy
-### 2021 Overturning the Trans Military Ban
-- On January 25th 2021, Biden signed an executive order to repeal the Trump Memorandum banning transgender individuals from military service. [link](https://www.nbcnews.com/politics/white-house/biden-reverse-trump-s-transgender-military-ban-n1255522)
-### 2022 Consolidated Appropriations Act
-- On 14 March 2022, Biden signed The Consolidated Appropriations Act 2022, in which
-- [Wiki](https://en.wikipedia.org/wiki/Consolidated_Appropriations_Act,_2022)
-### 2022 Speak Out Act
-- On 7 December 2022, Biden signed the Speak Out Act, in which prevents the enforcement of non-disclosure agreements in instances of sexual assault and harassment.
-    
-    > `With respect to a sexual assault dispute or sexual harassment dispute, no nondisclosure clause or nondisparagement clause agreed to before the dispute arises shall be judicially enforceable in instances in which conduct is alleged to have violated Federal, Tribal, or State law.` [link](https://www.govinfo.gov/content/pkg/PLAW-117publ224/pdf/PLAW-117publ224.pdf)
-    
-- The Speak Out Act bill states that Congress found that,
-    
-    > `(1) Sexual harassment and assault remain pervasive in the workplace and throughout civic society, affecting millions of Americans.` [link](https://www.govinfo.gov/content/pkg/PLAW-117publ224/pdf/PLAW-117publ224.pdf)
-    
-    > `(2) Eighty-one percent of women and 43 percent of men have experienced some form of sexual harassment or assault throughout their lifetime.` [link](https://www.govinfo.gov/content/pkg/PLAW-117publ224/pdf/PLAW-117publ224.pdf)
-    > 
-    > > `In January 2018, SSH commissioned a 2,000-person, nationally representative survey on sexual harassment and assault, conducted by GfK. It found that nationwide, 81% of women and 43% of men reported experiencing some form of sexual harassment and/or assault in their lifetime.` [link](https://stopstreetharassment.org/our-work/nationalstudy/2018-national-sexual-abuse-report/)
-    
-    > `(3) One in 3 women has faced sexual harassment in the workplace during her career, and an estimated 87 to 94 percent of those who experience sexual harassment never file a formal complaint.` [link](https://www.govinfo.gov/content/pkg/PLAW-117publ224/pdf/PLAW-117publ224.pdf)
-    > 
-    > > `Although an estimated 87 to 94 percent of individuals who experience workplace sexual harassment never file a formal legal complaint, nearly 7,000 sexual harassment charges were filed with the EEOC in 2016 alone—and 82 percent of these charges were filed by women.` [link](https://nwlc.org/press-release/black-women-disproportionately-experience-workplace-sexual-harassment-new-nwlc-report-reveals/)
-    > 
-    > > `More than 1 in 3 women who filed sexual harassment charges also reported retaliation.` [link](https://nwlc.org/press-release/black-women-disproportionately-experience-workplace-sexual-harassment-new-nwlc-report-reveals/)
-    
-    > `(4) Sexual harassment in the workplace forces many women to leave their occupation or industry, or pass up opportunities for advancement.` [link](https://www.govinfo.gov/content/pkg/PLAW-117publ224/pdf/PLAW-117publ224.pdf)
-    
-    > `(5) In order to combat sexual harassment and assault, it is essential that victims and survivors have the freedom to report and publicly disclose their abuse.` [link](https://www.govinfo.gov/content/pkg/PLAW-117publ224/pdf/PLAW-117publ224.pdf)
-    
-    > `(6) Nondisclosure and nondisparagement provisions in agreements between employers and current, former, and prospective employees, and independent contractors, and between providers of goods and services and consumers, can perpetuate illegal conduct by silencing those who are survivors of illegal sexual harassment and assault or illegal retaliation, or have knowledge of such conduct, while shielding perpetrators and enabling them to continue their abuse.` [link](https://www.govinfo.gov/content/pkg/PLAW-117publ224/pdf/PLAW-117publ224.pdf)
-    
-    > `(7) Prohibiting nondisclosure and nondisparagement clauses will empower survivors to come forward, hold perpetrators accountable for abuse, improve transparency around illegal conduct, enable the pursuit of justice, and make workplaces safer and more productive for everyone.` [link](https://www.govinfo.gov/content/pkg/PLAW-117publ224/pdf/PLAW-117publ224.pdf)
-    
-### 2022 Respect for Marriage Act
-- On 26 June 2015, the U.S. Supreme Court ruled in Obergefell v. Hodges that the 14th Amendment requires all U.S. states to recognize same-sex marriages.
-    
-    > `These considerations lead to the conclusion that the right to marry is a fundamental right inherent in the liberty of the person, and under the Due Process and Equal Protection Clauses of the Fourteenth Amendment couples of the same-sex may not be deprived of that right and that liberty. The Court now holds that same-sex couples may exercise the fundamental right to marry. No longer may this liberty be denied to them. Baker v. Nelson must be and now is overruled, and the State laws challenged by Petitioners in these cases are now held invalid to the extent they exclude same-sex couples from civil marriage on the same terms and conditions as opposite-sex couples.` [link](https://www.justice.gov/sites/default/files/crt/legacy/2015/06/26/obergefellhodgesopinion.pdf)
-    
-- On 24 June 2022, the U.S. Supreme Court ruled in Dobbs v. Jackson that the Constitution does not confer a right to abortion. The court's decision overruled both Roe v. Wade and Planned Parenthood v. Casey, giving individual states the power to regulate any aspect of abortion not protected by federal law.
-    
-    > `The Constitution does not prohibit the citizens of each State from regulating or prohibiting abortion. Roe and Casey arrogated that authority. We now overrule those decisions and return that authority to the people and their elected representatives. The judgment of the Fifth Circuit is reversed, and the case is remanded for further proceedings consistent with this opinion.` [link](https://www.supremecourt.gov/opinions/21pdf/19-1392_6j37.pdf)
-    
-- Associate Justice Thomas argued further that the Court should go further in future cases, reconsidering other past Supreme Court cases that granted rights based on substantive due process, one of which included Obergefell v. Hodges.
-    
-    > `For that reason, in future cases, we should reconsider all of this Court’s substantive due process precedents, including Griswold, Lawrence, and Obergefell. Because any substantive due process decision is “demonstrably erroneous,”, we have a duty to “correct the error” established in those precedents. After overruling these demonstrably erroneous decisions, the question would remain whether other constitutional provisions guarantee the myriad rights that our substantive due process cases have generated.` [link](https://www.supremecourt.gov/opinions/21pdf/19-1392_6j37.pdf)
-    
-- On 13 December 2022, Biden signed the Respect for Marriage Act which requires the U.S. federal government and all U.S. states and territories to recognize the validity of same-sex and interracial civil marriages in the United States, and protects religious liberty.
-    
-    > `(a) For the purposes of any Federal law, rule, or regulation in which marital status is a factor, an individual shall be considered  
-    > married if that individual’s marriage is between 2 individuals and is valid in the State where the marriage was entered into or, in the case of a marriage entered into outside any State, if the marriage is between 2 individuals and is valid in the place where entered into and the marriage could have been entered into in a State.  
-    >   
-    > (b) In this section, the term ‘State’ means a State, the District of Columbia, the Commonwealth of Puerto Rico, or any other territory or possession of the United States.  
-    >   
-    > (c) For purposes of subsection (a), in determining whether a marriage is valid in a State or the place where entered into, if outside of any State, only the law of the jurisdiction applicable at the time the marriage was entered into may be considered.`  
-    > [link](https://www.congress.gov/117/plaws/publ228/PLAW-117publ228.pdf)
-    
-### 2023 Consolidated Appropriations Act
-- On 23 December 2022, Biden signed The Consolidated Appropriations Act 2023, in which
-- [Wiki](https://en.wikipedia.org/wiki/Consolidated_Appropriations_Act,_2023)
+
+[[2021 Overturning the Trans Military Ban]]
+[[2022 Consolidated Appropriations Act]]
+[[2022 Speak Out Act]]
+[[2022 Respect for Marriage Act]]
+[[2023 Consolidated Appropriations Act]]
 ## Economic Policy
-### 2021 American Rescue Plan Act
-- On 11 March 2021, Biden signed The American Rescue Plan Act of 2021, in which included extending expanded unemployment benefits, $1,400 direct payments to individuals, Emergency paid leave for over 100 million Americans, Extends a 15% increase in food stamp benefits, added Tax and tax credit provisions, Grants to small businesses, $350 billion to help state, local, and tribal governments bridge budget shortfalls and mitigate the fiscal shock, added education and housing funding, COVID-19 funding, added transportation provisions and much more.
-- A 2021 Tax Policy Center report found that:
-    
-    > `a household making $25,000 or less would receive an average tax cut of $2,800 this year, boosting their after-tax income by 20 percent. But average taxes would not change at all for a household making $3.5 million. A low-income household with children would get an average tax cut of nearly $7,700, raising their after-tax income by more than 35 percent.` [link](https://www.taxpolicycenter.org/taxvox/pandemic-bill-would-cut-taxes-average-3000-most-relief-going-low-and-middle-income-households)
-    
-- A 2021 Congressional Budget Office report found that:
-    
-    > `the legislation would reduce the number of people under age 65 in the United States without health insurance coverage by about 800,000 in 2021, 1.3 million in 2022, and 400,000 in 2023.` `Several provisions would have budgetary effects after 2030, but CBO, in consultation with JCT, projects that on net, the legislation would not increase on-budget deficits in any year after 2030.` [link](https://www.cbo.gov/system/files/2021-02/hwaysandmeansreconciliation.pdf)
-    
-- A 2021 report found that:
-    
-    > `For the bottom 20 percent, the proposed expansion of the Child Tax Credit would increase income by an average 9.7 percent.` `Overall, tax filers and their families would receive an average $3,290 combined from the three proposals for the year.` [link](https://itep.org/targeted-relief-and-the-american-rescue-plan-in-five-charts/)
-    
-- A 2021 report found that:
-    
-    > `Families in the poorest 20 percent of households—$21,300 or less annual income—receive an average income boost of one-third. On average, these provisions will send $3,460 to households in the bottom 80 percent, giving a more dramatic boost to lower-income households as a share of income.` [link](https://itep.org/targeted-relief-and-the-american-rescue-plan-in-five-charts/)
-    
-- A 2021 report found that:
-    
-    > `Our analysis uses the Supplemental Poverty Measure (SPM) framework to project an annual poverty rate for 2021. The SPM which accounts for cash and noncash government benefits, necessary expenses like taxes, health care, commuting, and child care, and adjusts for family size and local housing costs. For a two-parent, two-child family in an average cost city, the SPM income threshold is about $28,000 per year.` [link](https://static1.squarespace.com/static/5743308460b5e922a25a6dc7/t/604aa2465cfc4a35b8a1c236/1615503943944/Poverty-Reduction-Analysis-American-Rescue-Plan-CPSP-2021.pdf)
-    
-- A 2021 report found that:
-    
-    > `From December 2020 to April 2021, food insufficiency fell by over 40%, financial instability fell by 45%, and reported adverse mental health symptoms fell by 20%.` [link](http://sites.fordschool.umich.edu/poverty2021/files/2021/05/PovertySolutions-Hardship-After-COVID-19-Relief-Bill-PolicyBrief-r1.pdf)
-    
-### 2021 Infrastructure Investment and Jobs Act
-- [Wiki](https://en.wikipedia.org/wiki/Infrastructure_Investment_and_Jobs_Act)
-- On 15 November 2021, Biden signed The Infrastructure Investment and Jobs Act, in which included funding for broadband access, clean water and electric grid renewal in addition to the transportation and road proposals of the original House bill. This amended version included approximately $1.2 trillion in spending, with $550 billion being newly authorized spending on top of what Congress was planning to authorize regularly.
-### 2022 Inflation Reduction Act
-- On 16 August 2022, Biden signed The Inflation Reduction Act of 2022, in which
-- [Wiki](https://en.wikipedia.org/wiki/Inflation_Reduction_Act_of_2022)
-- [link](https://docs.google.com/document/d/1PpmSTgaA7gQ_hX2Sjpfi04tsrD1l8p5MRtFrfYb7pzQ/edit)
-- [link](https://www.democrats.senate.gov/dpcc/press-releases/the-inflation-reduction-act-will-reduce-inflation)
-- [link](https://www.crfb.org/blogs/whats-inflation-reduction-act)
-- [link](https://www.nber.org/papers/w31267)
+[[2021 American Rescue Plan Act]]
+[[2021 Infrastructure Investment and Jobs Act]]
+[[2022 Inflation Reduction Act]]
 ### 2022 Bipartisan Safer Communities Act
 - On 25 June 2022, Biden signed The Bipartisan Safer Communities Act, in which
 - [Wiki](https://en.wikipedia.org/wiki/Bipartisan_Safer_Communities_Act)

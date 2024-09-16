@@ -1,0 +1,3 @@
+### 2021 Infrastructure Investment and Jobs Act
+- [Wiki](https://en.wikipedia.org/wiki/Infrastructure_Investment_and_Jobs_Act)
+- On 15 November 2021, Biden signed The Infrastructure Investment and Jobs Act, in which included funding for broadband access, clean water and electric grid renewal in addition to the transportation and road proposals of the original House bill. This amended version included approximately $1.2 trillion in spending, with $550 billion being newly authorized spending on top of what Congress was planning to authorize regularly.

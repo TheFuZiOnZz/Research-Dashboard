@@ -1,0 +1,2 @@
+### 2021 Overturning the Trans Military Ban
+- On January 25th 2021, Biden signed an executive order to repeal the Trump Memorandum banning transgender individuals from military service. [link](https://www.nbcnews.com/politics/white-house/biden-reverse-trump-s-transgender-military-ban-n1255522)
