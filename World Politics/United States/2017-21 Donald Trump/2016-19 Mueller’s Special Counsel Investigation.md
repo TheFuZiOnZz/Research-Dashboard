@@ -8,6 +8,7 @@
 - [link](https://web.archive.org/web/20221209090440/https://intelligence.house.gov/uploadedfiles/hpsci_minority_exhibits_memo_11.1.17.pdf) - Numbers from the social media platforms on Russia-Linked Accounts
 ### Russian Hacking & Dumping Operations
 #### GRU’s Persona `DCLeaks`
+- 
 #### GRU’s Persona `Guccifer 2.0`
 - On 12 January 2017, `Guccifer 2.0` released a blog post stating that accusations of ties with the Russian Government were unfounded.
     
@@ -20,7 +21,7 @@
     - Any IT professional can see that a malware sample mentioned in the Joint Analysis Report was taken from the web and was commonly available. A lot of hackers use it. I think it was inserted in the report to make it look a bit more plausible.`  
     - [link](https://guccifer2.wordpress.com/2017/01/12/fake-evidence/)
     
-### Wikileaks
+#### Wikileaks
 - [link](https://www.theatlantic.com/politics/archive/2017/11/the-secret-correspondence-between-donald-trump-jr-and-wikileaks/545738/) assange telling trump jr to tell trump not to concede if trump lost 2016
 - [Wiki](https://en.wikipedia.org/wiki/2016_Democratic_National_Committee_email_leak)
 - [Wiki](https://en.wikipedia.org/wiki/Podesta_emails)
@@ -768,7 +769,7 @@
 - [link](https://www.washingtonpost.com/world/national-security/sessions-discussed-trump-campaign-related-matters-with-russian-ambassador-us-intelligence-intercepts-show/2017/07/21/3e704692-6e44-11e7-9c15-177740635e83_story.html)
 - [link](https://www.washingtonpost.com/graphics/national/trump-russia/)
 - [link](https://www.washingtonpost.com/graphics/2017/national/robert-mueller-special-counsel-indictments-timeline/)
-### Inditing of a Sitting President
+#### Inditing of a Sitting President
 - On 24 September 1973, The Office of Legal Counsel wrote a memo advising the then-Assistant Attorney General Robert Dixon, on the question of `Amenability of the President, Vice President and other Civil Officers to Federal Criminal Prosecution while in Office`.
     
     - `In sum, an interpretation of the Constitution which requires the completion of impeachment proceedings before a criminal prosecution can be instituted would enable persons who are or were employed by the Government to raise a number of extremely technical and complex defenses. It also would pressure Congress to conduct a large number of impeachment proceedings which would weigh heavily on its limited time. Such an interpretation of the Constitution is prima facie erroneous.` - 1973 OLC Memo [link](https://irp.fas.org/agency/doj/olc/092473.pdf)
@@ -794,7 +795,7 @@
     - Third, we considered whether to evaluate the conduct we investigated under the Justice Manual standards governing prosecution and declination decisions, but we determined not to apply an approach that could potentially result in a judgment that the President committed crimes. The threshold step under the Justice Manual standards is to assess whether a person’s conduct “constitutes a federal offense.” U.S. Dep’t of Justice, Justice Manual § 9-27.220(2018) (Justice Manual). Fairness concerns counseled against potentially reaching that judgment when no charges can be brought. The ordinary means for an individual to respond to an accusation is through a speedy and public trial, with all the procedural protections that surround a criminal case. An individual who believes he was wrongly accused can use that process to seek to clear his name. In contrast, a prosecutor’s judgment that crimes were committed, but that no charges will be brought, affords no such adversarial opportunity for public name-clearing before an impartial adjudicator.` - Mueller Report  
     - [link](https://www.justice.gov/archives/sco/file/1373816/download)
     
-### `Internet Research Agency` Criminal Inditements
+#### `Internet Research Agency` Criminal Inditements
 - On 16 February 2018, Yevgeny Prigozhin, the Internet Research Agency, Concord Management, and other connected Russian individuals were indicted by a US grand jury. He was charged with funding and organizing operations for the purpose of interference with the U.S. political and electoral processes, including the 2016 presidential election, and other crimes including identity theft.
     
     - `Defendant INTERNET RESEARCH AGENCY LLC (“ORGANIZATION”) is a Russian organization engaged in operations to interfere with elections and political processes. Defendants MIKHAIL IVANOVICH BYSTROV, MIKHAIL LEONIDOVICH BURCHIK, ALEKSANDRA YURYEVNA KRYLOVA, ANNA VLADISLAVOVNA BOGACHEVA, SERGEY PAVLOVICH POLOZOV, MARIA ANATOLYEVNA BOVDA, ROBERT SERGEYEVICH BOVDA, DZHEYKHUN NASIMI OGLY ASLANOV, VADIM VLADIMIROVICH PODKOPAEV, GLEB IGOREVICH VASILCHENKO, IRINA VIKTOROVNA KAVERZINA, and VLADIMIR VENKOV worked in various capacities to carry out Defendant ORGANIZATION’s interference operations targeting the United States. From in or around 2014 to the present, Defendants knowingly and intentionally conspired with each other (and with persons known and unknown to the Grand Jury) to defraud the United States by impairing, obstructing, and defeating the lawful functions of the government through fraud and deceit for the purpose of interfering with the U.S. political and electoral processes, including the presidential election of 2016.` [link](https://www.justice.gov/file/1035477/download)
@@ -817,16 +818,16 @@
     - I react with pleasure," Prigozhin said in the statement. "I've never just been the financier of the Internet Research Agency. I invented it, I created it, I managed it for a long time. It was founded to protect the Russian information space from boorish aggressive propaganda of anti-Russian narrative from the West."`  
     - [link](https://edition.cnn.com/2023/02/14/europe/russia-yevgeny-prigozhin-internet-research-agency-intl/index.html)
     
-### `Main Intelligence Directorate` Criminal Inditements
+#### `Main Intelligence Directorate` Criminal Inditements
 - On 13 July 2018,
     - [link](https://www.justice.gov/file/1080281/download) - GRU inditement
-### George Papadopoulos, Ex-Trump Foreign Policy Adviser
+#### George Papadopoulos, Ex-Trump Foreign Policy Adviser
 - [Wiki](https://en.wikipedia.org/wiki/George_Papadopoulos\#Arrest_and_guilty_plea)
 - [link](https://www.justice.gov/archives/sco/file/1007341/download) - U.S. V Papadopoulos - Plea Offer
 - [link](https://www.justice.gov/archives/sco/file/1007346/download) - U.S. V Papadopoulos - Statement of the Offense
 - [link](https://www.politico.com/f/?id=00000165-4ab8-d0d5-af75-fbfc1ad30001) - U.S. V Papadopoulos - Government’s Sentencing Memorandum
 - On 22 December 2020, Papadopoulos was pardoned by Trump. [link](https://www.justice.gov/pardon/page/file/1348921/download)
-### Michael Flynn, Former National Security Adviser
+#### Michael Flynn, Former National Security Adviser
 - Days before Flynn's scheduled sentencing, attorney general Bill Barr appointed Jeffrey Jensen, the U.S. attorney for the United States District Court for the Eastern District of Missouri, to examine Flynn's prosecution. [link](https://www.nytimes.com/2020/02/14/us/politics/michael-flynn-prosecutors-barr.html)
 - On February 10, 2020, Flynn's sentencing was postponed indefinitely, to allow both sides to prepare arguments in response to his claim that his previous lawyers violated his constitutional rights by providing inadequate legal counsel. [link](https://thehill.com/regulation/court-battles/482395-judge-delays-flynn-sentencing-for-second-time)
 - On May 7, 2020, the Department of Justice (DOJ) said it would move to drop all charges against Flynn. Jensen said Barr had agreed with his recommendation. [link](https://apnews.com/ae1ad252bb13490db2ceffc5d17b6d92)
@@ -838,22 +839,22 @@
     - [link](https://www.buzzfeednews.com/article/jasonleopold/mueller-memos-michael-flynn-fbi-interviews)
 - [link](https://s3.documentcloud.org/documents/20457322/leopold-fbi-foia-mueller-probe-michale-flynn-302.pdf) - Flynn FBI Redacted Interview Notes used in U.S. V Flynn
 - On 25 November 2020, Flynn was pardoned by Trump. [link](https://www.justice.gov/pardon/page/file/1341606/download)
-### Paul Manafort, Ex-Trump Campaign Manager
+#### Paul Manafort, Ex-Trump Campaign Manager
 - [Wiki](https://en.wikipedia.org/wiki/Paul_Manafort\#Russia_investigations)
 - On 23 December 2020, Manafort was pardoned by Trump. [link](https://www.justice.gov/file/1349071/download)
-### Rick Gates, Ex-Deputy Chairman Of The Trump Campaign
+#### Rick Gates, Ex-Deputy Chairman Of The Trump Campaign
 - [Wiki](https://en.wikipedia.org/wiki/Rick_Gates_(political_consultant)\#Russia_investigation)
-### Steve Bannon, Ex-Chief Executive Of The Trump Campaign, "We Build the Wall" Campaign Charges
+#### Steve Bannon, Ex-Chief Executive Of The Trump Campaign, "We Build the Wall" Campaign Charges
 - [Wiki](https://en.wikipedia.org/wiki/Steve_Bannon\#Charges_related_to_%22We_Build_the_Wall%22_campaign)
 - On 19 January 2021, Bannon was pardoned by Trump. [link](https://www.justice.gov/file/1358426/download)
-### Michael Cohen, Ex-Trump Lawyer, Campaign Finance Charges
+#### Michael Cohen, Ex-Trump Lawyer, Campaign Finance Charges
 - [Wiki](https://en.wikipedia.org/wiki/Michael_Cohen_(lawyer)\#Federal_investigations)
 - .
 - In May 2017, two congressional panels asked Cohen to provide information about any communications he had with people connected to the Russian government.
-### Roger Stone, Ex-Trump Campaign Adviser
+#### Roger Stone, Ex-Trump Campaign Adviser
 - [Wiki](https://en.wikipedia.org/wiki/Roger_Stone\#Relations_with_Wikileaks_and_Russia_before_the_2016_United_States_elections)
 - On 23 December 2020, Stone was pardoned by Trump. [link](https://www.justice.gov/file/1349096/download)
-### Elliott Broidy, Fmr. RNC Finance Chairman
+#### Elliott Broidy, Fmr. RNC Finance Chairman
 - [Wiki](https://en.wikipedia.org/wiki/Elliott_Broidy\#Donald_Trump_administration)
 - [link](https://www.nytimes.com/2020/10/20/us/politics/elliott-broidy-foreign-lobbying.html)
 - On 19 January 2021, Broidy was pardoned by Trump. [link](https://www.justice.gov/file/1358426/download)
