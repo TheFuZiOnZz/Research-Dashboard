@@ -1,4 +1,3 @@
-## Falling Rate of Profit
 - A 1976 paper found that:
     - `The above very sketchy review of the literature on Marx's law of the tendency of the rate of profit to fall has shown us that-at present-no satisfactory formulation of this law exists.` - [Marx and the Falling Rate of Profit, Christiansen, 1976](https://sci-hub.st/https://www.jstor.org/stable/1817193?seq=1)
 - A 2007 journal found that:

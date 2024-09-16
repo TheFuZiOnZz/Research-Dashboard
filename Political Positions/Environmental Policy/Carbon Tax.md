@@ -1,4 +1,3 @@
-## Carbon Tax/Dividend
 - A 2013 study found that:
     - `during the first 20 years alone, a CF&D policy would lead to: A 50% reduction of carbon emissions below 1990 levels, The addition of 2.8 million jobs above baseline, driven by the steady economic stimulus of the energy dividend, The avoidance of 230,000 premature deaths due to reduction in air pollutants that often accompany carbon emissions` - [link](https://citizensclimatelobby.org/remi-report/)
 - A 2017 paper found that:

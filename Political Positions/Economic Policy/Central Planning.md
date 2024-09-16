@@ -1,4 +1,3 @@
-## Central Planning
 - “Social-Anarchism and Parallel Economic Computation” by Emmi Bevensee [https://c4ss.org/content/52963](https://c4ss.org/content/52963) [EN] (left-market anarchist publication, decentralized planning and computation)
 - “Maximum Viable Economic Planning” by Emmi Bevensee [https://c4ss.org/content/53166](https://c4ss.org/content/53166) [EN] (left-market anarchist publication, decentralized planning and computation)
 - “In Soviet Union, Optimization Problem Solves You!” by Cosma Shalizi [https://crookedtimber.org/2012/05/30/in-soviet-union-optimization-problem-solves-you/](https://crookedtimber.org/2012/05/30/in-soviet-union-optimization-problem-solves-you/) [EN]

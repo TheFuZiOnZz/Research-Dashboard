@@ -1,4 +1,3 @@
-## Modern Monetary Theory
 - MMT doesn't have a testable, falsifiable hypothesis that we can compare to neoclassical economics.
     - `ME/MMT is distinguished by its explicit recognition that the currency itself is a public monopoly, which is the micro foundation of fiat currency. MEMMT then builds the ramifications of that fundamental understanding.` - [link](http://www00.unibg.it/dati/corsi/910003/64338-Warren%20Mosler%20Bergamo%20paper%20March%2010.pdf)
 - MMT claims that currency is a tax credit but doesn't explain the format of that tax credit, unlike conventional tax credits which are in dollars, which would make tax credits - currency - tax credits which is circular.

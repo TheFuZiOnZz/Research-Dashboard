@@ -1,4 +1,3 @@
-## Government Assistance Doesn’t Make People Lazy
 - A 2010 Paper found that ` ` - [link](https://sci-hub.ee/10.1086/649831)
     - Looks at the Earned Income Tax Credit in the United States
     - “The empirical evidence on labor supply and marriage indicates that the incentives of the EITC are remarkably favorable given the resources transferred. Studies of the effects of the EITC on employment imply that the credit has sharply increased the fraction of single mothers who work.”

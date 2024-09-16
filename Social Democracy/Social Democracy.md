@@ -100,6 +100,6 @@ The Great Gatsby curve is a chart plotting the relationship between inequality a
 # Environmental Regulation
 [[Carbon Tax]]
 [[Emissions Trading]]
-[[EPA]]
+[[1970- Environmental Protection Agency]]
 # Anti-Social Democracy Debunks
 [[Government Assistance Doesn’t Make People Lazy]]

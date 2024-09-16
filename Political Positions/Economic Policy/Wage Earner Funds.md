@@ -1,4 +1,3 @@
-## Wage Earner Funds
 - **ARTICLE** – An Analysis of Wage-Earner Funds in Sweden: Distinguishing Myth from Reality. [(Link)](https://sci-hub.ee/10.1177/0143831X04044833)
     - Wage-Earner Funds have been a core policy objective of re-appropriating the power of investment from the hands of Capital.
     - Whyman offers a mixed, but hopeful review of the (watered-down) Wage-Earner Funds implemented for a brief period in Sweden.

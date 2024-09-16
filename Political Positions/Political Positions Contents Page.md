@@ -15,6 +15,7 @@
 [[News-based Economic Sentiment]]
 [[Reform Vs Revolution]]
 [[Trigger Warnings]]
+[[Well-Being Gap between Liberals and Conservatives]]
 
 # Criminal Justice Policy
 [[Rehabilitative Justice]]
@@ -44,8 +45,8 @@
 [[Labor Theory Of Value]]
 [[Modern Monetary Theory]]
 [[Central Planning]]
-[[Unemployment benefits
-[[Unions]]]]
+[[Unemployment benefits]]
+[[Unions]]
 [[Flat Tax]]
 [[$15 Minimum wage]]
 [[De-platforming]]
@@ -53,6 +54,7 @@
 [[Green New Deal]]
 [[Supply Side Economics]]
 [[Unequal Exchange]]
+[[Western Imperialism of Trade]]
 # Immigration Policy
 [[Trump's Wall]]
 [[More Open Immigration]]
@@ -64,7 +66,7 @@
 [[Renewables]]
 [[Carbon Tax]]
 [[Emissions Trading]]
-[[EPA]]
+[[1970- Environmental Protection Agency]]
 # Voting Policy
 # Healthcare Policy
 # Housing Policy

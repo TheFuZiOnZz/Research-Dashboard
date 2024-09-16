@@ -1,4 +1,3 @@
-## Multilateral & Liberalized Trade
 ### Liberalization of Trade
 - A 2004 paper found that:
     - `Theory provides a strong presumption that trade liberalization will be poverty-alleviating in the long run and on average. The empirical evidence broadly supports this view, and, in particular, lends no support to the position that trade liberalization generally has an adverse impact.` - [Trade Liberalization and Poverty: The Evidence So Far, Winters et al., 2004](https://annas-archive.org/scidb/10.1257/002205104773558056)

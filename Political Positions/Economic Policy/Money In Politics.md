@@ -1,4 +1,3 @@
-## Money In Politics
 - A 1994 paper found that:
     - `This paper finds that once district-specific factors and the quality of the competing candidates are controlled for, the impact of campaign spending on election outcomes, regardless of incumbency status, is small but positive.` - [Using Repeat Challengers to Estimate the Effect of Campaign Spending on Election Outcomes in the U.S. House, Levitt, 1994](https://annas-archive.org/scidb/10.1086/261954)
 - A 2003 Paper found that:

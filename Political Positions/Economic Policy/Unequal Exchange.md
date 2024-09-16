@@ -1,4 +1,3 @@
-## Unequal Exchange
 - [link](https://www.youtube.com/watch?v=zP55ugKorZA)
 - [link](https://www.youtube.com/watch?v=2vkJt_O3OAw)
 - [link](https://www.youtube.com/watch?v=HVwChsPPSPU&t)

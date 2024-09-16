@@ -1,4 +1,3 @@
-## Labor Theory Of Value
 - The Labor Theory of Value claims that Goods + Labor Inputs + Surplus Value = Value of the Commodity
 - The Labor Theory of Value is defined by four different elements:
     - Abstract Labour: economically valuable work time

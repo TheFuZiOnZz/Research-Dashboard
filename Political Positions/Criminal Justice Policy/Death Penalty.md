@@ -1,4 +1,3 @@
-## Death Penalty
 - A 2003 report found that
     - `Cases in which the death penalty was sought and imposed could cost about 70% more than cases in which the death penalty wasn’t sought. The estimated median cost of a case in which the death sentence was given was $1.2 million, compared to the same estimated costs for a non-death penalty case of about $740,000.` - [Costs Incurred for Death Penalty Cases: A K-GOAL Audit of the Department of Corrections](https://web.archive.org/web/20151109015151/http://www.kslpa.org/assets/files/reports/04pa03a.pdf)
 - In Tennessee, death penalty trials cost an average of 48% more than the average cost of trials in which prosecutors seek life imprisonment. [link](http://www.deathpenaltyinfo.org/documents/deathpenalty.pdf)

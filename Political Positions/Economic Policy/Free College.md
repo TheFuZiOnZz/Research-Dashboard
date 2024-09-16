@@ -1,4 +1,3 @@
-## Free College
 - Bernie supports [**Free College**](https://berniesanders.com/issues/free-college-cancel-debt/), **which isn't necessarily bad**, but he supports it for every single person in the US.
 - It forces taxpayers to **foot the bill for even wealthy students**, which [constitute a significant portion of college students](https://www.nytimes.com/interactive/2017/01/18/upshot/some-colleges-have-more-students-from-the-top-1-percent-than-the-bottom-60.html).
 - It also **doesn't cover** [**living or textbook costs**](https://www.edmit.me/blog/how-much-does-the-average-college-student-spend-on-textbooks). This is **literally throwing money at the issue rather than solving it**.

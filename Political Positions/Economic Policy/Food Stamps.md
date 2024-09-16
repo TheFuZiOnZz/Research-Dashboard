@@ -1,4 +1,3 @@
-## Food Stamps
 - A 2015 paper concluded that:
     - `SNAP effectively alleviates food insecurity in terms of caloric, macronutrient, and micronutrient intake. Still, SNAP participants are struggling more than income-eligible and higher-income nonparticipants to meet key dietary guidelines. Future policies should ensure that this vital food assistance program addresses diet quality while reducing food insecurity.` - [Dietary Quality of Americans by Supplemental Nutrition Assistance Program Participation Status: A Systematic Review, Andreyeva et al., 2015](https://annas-archive.org/scidb/10.1016/j.amepre.2015.04.035)
 - A 2015 report found that:

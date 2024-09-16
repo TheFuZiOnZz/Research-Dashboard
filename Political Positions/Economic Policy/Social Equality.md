@@ -1,4 +1,4 @@
-## Social Equality
+
 - Gender pay gap
     - [link](https://rationalwiki.org/wiki/Gender_pay_gap)
     - [link](https://gender-pay-gap.service.gov.uk/public/assets/pdf/Evidence-based_actions_for_employers.pdf)

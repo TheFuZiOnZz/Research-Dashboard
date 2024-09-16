@@ -1,4 +1,3 @@
-## Worker Benefits
 ### Paid Time Off
 - [link](https://en.wikipedia.org/wiki/Paid_time_off)
 ### Paid Sick Leave

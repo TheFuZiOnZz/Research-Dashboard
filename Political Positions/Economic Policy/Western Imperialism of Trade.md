@@ -1,4 +1,3 @@
-## Western Imperialism of Trade
 - A 2015 paper found that:
     - `Two main findings emerge from this analysis. First, at its peak in 1996, trade from territories designated under the Basel Convention as Annex VII [composed of the Organization for Economic Cooperation and Development (OECD), the European Community (EC) and Lichtenstein] to non-Annex VII territories (all other signatories) accounted for just over 35% of total trade. By 2012 trade from Annex VII to non-Annex VII territories accounted for less than 1% of total trade. Second, between 1996 and 2012 the two groups of territories evolved different regional trade orientations: Annex VII territories are predominantly trading intra-regionally, with 73–82% of total trade moving between Annex VII territories.` - [The changing geography of global trade in electronic discards: time to rethink the e‐waste problem, Lepawsky, 2015](https://sci-hub.ee/10.1111/geoj.12077)
 - A 2018 paper found that:
