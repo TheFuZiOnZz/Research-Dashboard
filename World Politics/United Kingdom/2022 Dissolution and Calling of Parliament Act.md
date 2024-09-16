@@ -1,0 +1,3 @@
+### 2022 Dissolution and Calling of Parliament Act
+- [https://en.wikipedia.org/wiki/Dissolution_and_Calling_of_Parliament_Act_2022](https://en.wikipedia.org/wiki/Dissolution_and_Calling_of_Parliament_Act_2022)
+- The Dissolution and Calling of Parliament Act 2022 is an Act of the Parliament of the United Kingdom that repealed the Fixed-term Parliaments Act 2011 and reinstated the prior constitutional situation, by reviving the prerogative powers of the monarch to dissolve and summon parliament. As the monarch exercises this power at the request of the prime minister, this restored the power of the prime minister to have a general election called at a time of their choosing.
