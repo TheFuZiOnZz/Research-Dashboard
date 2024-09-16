@@ -1,0 +1,78 @@
+Donald Trump - 20 January 2017 - 20 January 2021 
+- [Wiki](https://en.wikipedia.org/wiki/Donald_Trump)
+## Social Policy
+[[2017-2021 Trans Military Ban]]
+[[2017 Discrimination Against LGBTQ+ People]]
+[[2017 Affordable Care Act Defunding]]
+[[Trump on Abortion]]
+[[Trump on Common Core Schooling]]
+[[Gun Control]]
+[[2020 Trump Vape Ban]]
+[[2020 Trump and the George Floyd Incident]]
+[[2020 Trump Social Media Executive Order and Opinion on Mail-In Voting]]
+## Economic Policy
+[[Trump’s Inherited Economy]]
+[[2017 Tax Cuts and Jobs Act]]
+[[$15 Minimum wage]]
+[[Multilateral & Liberalized Trade]]
+[[2017 Trump Withdraws U.S. from Trans Pacific Partnership]]
+[[2019 Trump's Protectionism and Tariffs]]
+[[2018-21 China-US Trade War]]
+## Immigration Policy
+[[2017-21 Trump's Wall]]`
+[[Trump's Mass deportation of illegal immigrants]]
+[[2017-20 Trump's Attempts to remove DACA]]
+## Environmental Policy
+- See Energy Factsheet for More Energy and Climate Change info - [link](https://docs.google.com/document/d/1xuJ5J2zuhBYGud_6p4G2U4Y_hkugtu4Lkw4_I045CYQ/edit)
+- See the wiki for more info on the Scientific consensus on climate change - [Wiki](https://en.wikipedia.org/wiki/Scientific_consensus_on_climate_change)
+
+[[Trump's Climate Change Denial]]
+[[2017 Trump Pulls the U.S. out of the Paris Climate Accord]]
+[[Green New Deal]]
+[[2017 Trump And The Removal Of EPA Regulations]]
+[[Trump And Coal]]
+## Foreign Policy
+[[2018 North Korea Denuclearisation Attempts]]
+[[2017 U.S Missile Strike on Syria]]
+[[2017 ‘Muslim’ Travel Ban]]
+[[2015 Joint Comprehensive Plan of Action]]
+[[Trump on the Iran Deal (JCPOA)]]
+[[2020 Soleimani Airport airstrike]]
+[[2016-21 Trump Drone Strikes]]
+[[2017 Trump and Saudi Arabia Arms Deal]]
+## Coronavirus Policy
+[[2020 Trump's Unheeded Warnings]]
+[[2020 Effects Of Trump's Delayed Response]]
+[[2020 Trump’s Attempt to Downplay the Coronavirus Pandemic]]
+[[2020 Trump's and Funding for N95 Masks Stockpile]]
+[[2020 Trump and Coronavirus Being Called ‘China’ Virus]]
+[[2020 Trump Suggesting Use of Hydroxychloroquine]]
+[[2020 Trump Suggesting Use of Disinfectant and Light solution]]
+[[2020 Trump on the `Released From Wuhan Laboratories` Conspiracy]]
+[[2020 Trump Withdrawing All U.S. Funding From The W.H.O. During Global Pandemic]]
+[[2020 Trump’s Firing Rick A. Bright and FireFauci Retweet]]
+[[2020 Pence Disbanding Coronavirus Task Force]]
+[[2020 Trump Administration Ignoring The CDC On Reopening Us During Pandemic]]
+[[2020 Trump Not Being A ‘Civilian’ To Avoid Wearing A Mask]]
+[[2020 Trump Making American Lives Worse During a Global Pandemic]]
+[[2020 The Academic Response to Trump Pandemic Response]]
+[[2020 Biden on Coronavirus]]
+## Controversy’s
+[[2016 Uranium One Controversy]]
+[[2016 Clinton Email Controversy]]
+[[2016 Election `Fraud` Conspiracy]]
+[[2016-19 Mueller’s Special Counsel Investigation]]
+[[2018 `Spygate` Conspiracy]]
+[[2019 Trump-Ukraine Controversy, 1st Impeachment]]
+[[2019-23 Durham’s Special Counsel Investigation]]
+[[2020 Election `Fraud` Conspiracy, 2nd Impeachment]]
+## Post-Presidency Controversy’s
+[[2019-24 Business Fraud Civil Suit]]
+[[2019-24 Business Fraud Criminal Suit]]
+[[2019-23 E. Jean Carroll v. Donald J. Trump]]
+[[2020- Georgia Election Interference Case]]
+[[2022- Smith’s Special Counsel Investigation]]
+[[2023-24 Trump v. United States, Absolute Immunity SCOTUS Case]]
+[[2023-24 Trump v. Anderson, 14th Amendment, Section 3 Disqualification Case]]
+[[2023 Trump’s Legal Penalty]]
+[[2024 House Oversight Committee Report `White House for Sale`]]
