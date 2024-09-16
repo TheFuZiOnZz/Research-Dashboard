@@ -339,7 +339,7 @@
 - [Wiki](https://en.wikipedia.org/wiki/United_States_House_Oversight_Committee_investigation_into_the_Biden_family)
 - [link](https://oversight.house.gov/the-bidens-influence-peddling-timeline/) - Majority’s purporting timeline
 - The United States House Oversight Committee investigation into the Biden family is an investigation by the United States House of Representatives into whether US President Joe Biden is improperly involved in his family's foreign business practices, with allegations of "international influence peddling schemes", bribery, and a Justice Department cover-up. The investigation was initiated on 11 January 2023, by Republican committee chairman James Comer and includes examination of the foreign business activities of Biden's son, Hunter, and brother, James. The committee is also investigating Twitter's involvement in the Hunter Biden laptop controversy.
-### The FBI FD-1023 Form
+#### The FBI FD-1023 Form
 - On 3 May 2023, Chairman Comer’s and Senator Grassley request the FD-1023 from the FBI.
     - `Senate Budget Committee Ranking Member and long-time whistleblower advocate Chuck Grassley (R-Iowa) and House Committee on Oversight and Accountability Chairman James Comer (R-Ky.) today are demanding the FBI produce an unclassified record alleging a criminal scheme involving then-Vice President Joe Biden and a foreign national. The document, an FBI-generated FD-1023 form, allegedly details an arrangement involving an exchange of money for policy decisions. Comer issued a subpoena today following legally protected disclosures to Grassley’s office.  
           
@@ -386,7 +386,7 @@
     - `That same day, Smirnov was arrested in the District of Nevada as he returned to the United States on an international flight. Smirnov was scheduled to leave the United States two days later, on February 16, 2024, for a months-long, multi-country trip that, by his own description, involved meetings with officials of foreign intelligence agencies and governments. During his custodial interview on February 14, Smirnov admitted that officials associated with Russian intelligence were involved in passing a story about Businessperson  
         1.`  
         [link](https://www.grassley.senate.gov/imo/media/doc/grassley_to_justice_deptfbi1023followup.pdf)
-### Alexander Smirnov, the FD-1023 FBI CHS Indited
+#### Alexander Smirnov, the FD-1023 FBI CHS Indited
 - On 14 February 2024, The FBI Confidential Human Source, Alexander Smirnov, who filed the original FD-1023 was charged with giving false statements and creating a false and fictitious record, namely the 2020 FD-1023.
     - `The Defendant’s 2020 story was a fabrication.  
           

@@ -1,4 +1,3 @@
-### 2021-24 Hur’s Special Counsel Investigation
 - [Wiki](https://en.wikipedia.org/wiki/Joe_Biden_classified_documents_incident)
 - The Hur special counsel investigation is an investigation opened by Attorney General Merrick Garland and appointed Robert K. Hur as special counsel to investigate "possible unauthorized removal and retention of classified documents or other records".
 - The next day, the House Judiciary Committee opened a separate investigation into the documents.
