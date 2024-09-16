@@ -1,0 +1,17 @@
+### 2020 Biden on Coronavirus
+- Biden is in support of:
+    
+    - `Ensure that every person who needs a test can get one – and that testing for those who need it is free.` as he recognises `Individuals should also not have to pay anything out of their own pockets for the visit at which the test is ordered` [link](https://joebiden.com/covid19/)
+    
+    - `Establish at least ten mobile testing sites and drive-through facilities per state to speed testing and protect health care workers.` as he recognises `Starting in large cities and rapidly expanding beyond, the CDC must work with private labs and manufacturers to ensure adequate production capacity, quality control, training, and technical assistance`
+    
+    - `Expand CDC sentinel surveillance programs and other surveillance programs` as he recognises `vulnerable populations like nursing home patients and people with underlying medical conditions. This must be done in collaboration with private sector health care entities.`
+    
+    - `Preparing to stand up multi-hundred-bed temporary hospitals in any city on short notice by deploying existing Federal Medical Stations in the strategic national stockpile and preemptively defining potential locations for their use as needed.`
+    
+    - `Directing the U.S. Department of Defense (DOD) to prepare for potential deployment of military resources, both the active and reserve components, and work with governors to prepare for potential deployment of National Guard resources, to provide medical facility capacity, logistical support, and additional medical personnel if necessary. This includes activating the Medical Reserve Corps, which consists of nearly 200,000 volunteer health care professionals who stand ready to serve across America; training and deploying additional surge capacity, including U.S. Department of Veterans Affairs/DOD medical equipment and U.S. Department of Health and Human Services (HHS) Disaster Assistance Medical Teams; and directing and assisting existing hospitals to surge care for 20% more patients than current capacity through flexible staffing, use of telemedicine support, and delaying elective procedures.`
+    
+    - `Instructing the CDC to establish real-time dashboards tracking (1) hospital admissions related to COVID-19, especially for ICUs and emergency departments, in concert with the American Hospital Association and large hospital chains, for which the HHS must ensure data is able to be shared, as needed; and (2) supply chain information – including availability, allocation, and shipping – for essential equipment and personal protective equipment, including in the various places where there may be federal reserves. The strategic national stockpile must be used to supplement any shortages that exist, especially for essential medical supplies, like oxygen, ventilators, and personal protective equipment.`
+    
+    - `Ensuring that training, materials, and resources reach federally qualified health centers, rural health clinics, and safety-net hospitals, which are typically resource-poor and care disproportionately for vulnerable populations that will bear the brunt of COVID-19. This effort will lay the foundation for a deeper and more lasting public health infrastructure for accessible national health care for all.`
+    
