@@ -2,5 +2,5 @@
 [[2022 Johnson’s Misleading Comments]]
 [[2022 Ministerial Resignation Letters]]
 [[2020-23 Chris Pincher Scandal Leading to Johnson’s PM Resignation]]
-[[2023 Pincher Report]]
 [[2022 Johnson’s PM Resignation]]
+[[2023 Pincher Report]]
