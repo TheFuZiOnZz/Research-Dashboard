@@ -1,4 +1,3 @@
-## Renewables
 - [Stanford: Jacobson et al. 2015](http://web.stanford.edu/group/efmh/jacobson/Articles/I/CombiningRenew/CONUSGridIntegration.pdf) ([cited](https://www.ewg.org/energy/22422/100-percent-renewable-energy-us-possible-yes-0))
 - **100 percent wind and solar power** could provide electricity to the continental U.S. more reliably than the current system by 2050, and at lower projected costs
     - This is in conjunction with energy efficiency, energy storage and other advances to complement renewables

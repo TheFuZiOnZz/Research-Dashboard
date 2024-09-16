@@ -1,4 +1,3 @@
-## Reform Vs Revolution
 - [video](https://www.youtube.com/watch?v=7cPhCt1UJgw) - Martin Luther King and Malcolm X: How Different? by Lonerbox
     - details MLK peaceful methods vs Malcolm X more violent proposals and its effects
 - A 2013 paper concluded that:

@@ -1,4 +1,3 @@
-## Public Transport
 - [link](https://www.vox.com/2021/3/10/22303355/gen-z-high-speed-rail-biden-map-meme-buttigieg)
 - A 2012 paper found that
     - `The nine papers identified in this review report a range of 8–33 minutes of additional physical activity associated with public transport use, with several papers reporting 12–15 minutes. Using bootstrapping analyses, we found that if public transport use by inactive adults was to increase, there would be a significant dose-response increase in the population level of sufficiently active adults in NSW.` - [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3407915/)

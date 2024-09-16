@@ -1,4 +1,3 @@
-## Nuclear Power
 - [Kharecha and Hansen 13](https://pubs.acs.org/doi/abs/10.1021/es3051197?source=cen)
 - Global nuclear power has prevented:
     - **1.84 million deaths** related to air pollution

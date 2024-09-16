@@ -1,0 +1,2 @@
+## The Problem With ‘Axioms’
+When defined by ‘A unjustified, foundational belief’, it is immediately defined as a dishonest belief to hold. A belief with no basis is not a belief one ought to hold. We ought not hold ‘A’ and ‘Not A’ as these are contradictory positions, we need reasons to hold beliefs and if reason is used to justify them, they are not axiomatic.

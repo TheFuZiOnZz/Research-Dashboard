@@ -1,2 +1,1 @@
-## Well-Being Gap between Liberals and Conservatives
 - - ` ` [link](https://americanaffairsjournal.org/2023/03/how-to-understand-the-well-being-gap-between-liberals-and-conservatives/) - How to Understand the Well-Being Gap between Liberals and Conservatives, al-Gharbi, 2023

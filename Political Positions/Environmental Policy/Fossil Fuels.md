@@ -1,4 +1,3 @@
-## Fossil Fuels
 - [EESI - Coleman and Dietz 19](https://www.eesi.org/papers/view/fact-sheet-fossil-fuel-subsidies-a-closer-look-at-tax-breaks-and-societal-costs#targetText=According%20to%20the%20IMF%2C%20%22fossil,by%203.8%20percent%20of%20GDP.%22)
 - AIR AND LAND DESTRUCTION FROM FOSSIL FUELS
 - Burning fossil fuels creates **air pollutants** such as:
