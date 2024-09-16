@@ -22,3 +22,6 @@
 - `China's 're-education'/concentration camps in Xinjiang/East Turkestan and the wider campaign of forced assimilation targeting Uyghurs, Kazakhs, etc` - 1377 page Bibliography of News and Academic works - [link](https://docs.uhrp.org/pdf/China's%20're-education'%20concentration%20camps%20in%20Xinjiang%20-%20BIBLIO.pdf)
 - [link](https://docs.google.com/document/d/17hvyxhJZN4LbhM51cM0MfphSxeUVyW5mp8tky9dtY-Q/edit)
 - [link](https://docs.google.com/document/d/1oaJAqOlhfDiPwZK6PKPEqHihXg_zYp80-IO0oqHpuCk/edit)
+
+### 2021 Uyghur Forced Labor Prevention Act
+- [Wiki](https://en.wikipedia.org/wiki/Uyghur_Forced_Labor_Prevention_Act)

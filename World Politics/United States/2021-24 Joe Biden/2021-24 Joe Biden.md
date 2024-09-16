@@ -10,79 +10,29 @@
 [[2021 American Rescue Plan Act]]
 [[2021 Infrastructure Investment and Jobs Act]]
 [[2022 Inflation Reduction Act]]
-### 2022 Bipartisan Safer Communities Act
-- On 25 June 2022, Biden signed The Bipartisan Safer Communities Act, in which
-- [Wiki](https://en.wikipedia.org/wiki/Bipartisan_Safer_Communities_Act)
-### 2022 CHIPS and Science Act
-- On 9 August 2022, Biden signed The CHIPS and Science Act, in which
-- [Wiki](https://en.wikipedia.org/wiki/Bipartisan_Safer_Communities_Act)
+[[2022 Bipartisan Safer Communities Act]]
+[[2022 CHIPS and Science Act]]
 ## Immigration Policy
-### 2021 Stopping Trump's Wall
-- On January 20th 2021, Biden signed a Proclamation to stop construction of border wall and revoking Trumps Proclamation on `Declaring a National Emergency Concerning the Southern Border of the United States` [link](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/proclamation-termination-of-emergency-with-respect-to-southern-border-of-united-states-and-redirection-of-funds-diverted-to-border-wall-construction/)
+[[2021 Stopping Trump's Wall]]
 ## Environmental Policy
-### 2021 Re-joining the Paris Climate Accord
-- The aim of the agreement is to decrease global warming described in its Article 2, "enhancing the implementation" of the UNFCCC through: [link](http://unfccc.int/resource/docs/2015/cop21/eng/l09r01.pdf)
-    - (a) Holding the increase in the global average temperature to well below 2 °C above pre-industrial levels and to pursue efforts to limit the temperature increase to 1.5 °C above pre-industrial levels, recognizing that this would significantly reduce the risks and impacts of climate change;
-    - (b) Increasing the ability to adapt to the adverse impacts of climate change and foster climate resilience and low greenhouse gas emissions development, in a manner that does not threaten food production;
-    - (c) Making finance flows consistent with a pathway towards low greenhouse gas emissions and climate-resilient development.
-- On 3rd September 2016, Obama signed the U.S onto the Paris Climate Accord. [[obamaandpresidentxiofchinavow]]
-- On 4th November 2019, Trump revoked that signing. [link](https://www.washingtonpost.com/climate-environment/2019/11/04/trump-makes-it-official-us-will-withdraw-paris-climate-accord/)
-- On 20th January 2021, Biden then resigned the U.S onto the Paris Climate Accord. [link](https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/20/paris-climate-agreement/)
-- A pair of studies in Nature have said that, as of 2017, none of the major industrialized nations were implementing the policies they had envisioned and they have not met their pledged emission reduction targets, and even if they had, the sum of all member pledges (as of 2016) would not keep global temperature rise "well below 2 °C".
-    - ` ` [link](https://www.nature.com/articles/548025a.pdf) -
-    - ` ` [link](https://annas-archive.org/scidb/10.1038/nature18307) -
-- A 2018 published study points at a threshold at which temperatures could rise to 4 or 5 degrees (ambiguous phrase, continuity would be “4-5 °C”) compared to the pre-industrial levels, through self-reinforcing feedbacks in the climate system, suggesting this threshold is below the 2-degree temperature target, agreed upon by the Paris climate deal. Study author Katherine Richardson stresses:
-    - "We note that the Earth has never in its history had a quasi-stable state that is around 2 °C warmer than the pre-industrial and suggest that there is substantial risk that the system, itself, will 'want' to continue warming because of all of these other processes – even if we stop emissions. This implies not only reducing emissions but much more." [link](https://www.pnas.org/content/115/33/8252)
-### 2021 Keystone XL Pipeline
-- On January 20th 2021, Biden signed an Executive Order to review all climate policy during the Trump Administration period, restoring national monuments, Revoking Trumps Permit for the Keystone XL Pipeline and removing a series of Trump climate based Executive Orders. [link](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-protecting-public-health-and-environment-and-restoring-science-to-tackle-climate-crisis/)
-- On June 9th 2021,
-    
-    > `TC Energy reportedly will announce it is canceling the controversial Keystone XL tar sands pipeline, putting an end to a fossil fuel project that endangered waterways, communities and the climate, which President Biden denied a key permit for on his first day in office.` [link](https://www.nrdc.org/media/2021/210609-1)
-    
-### 2021 Comprehensive Climate Executive Order
-- On January 27th 2021, President Biden signed a executive order on climate change, that puts climate the forefront of all of the federal government’s decision making. [link](https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/27/fact-sheet-president-biden-takes-executive-actions-to-tackle-the-climate-crisis-at-home-and-abroad-create-jobs-and-restore-scientific-integrity-across-federal-government/)
-- It establishes the White House Office of Domestic Climate Policy, led by first ever National Climate advisor John Kerry. It also creates National Climate Task force to take a whole of government approach to climate change, assembling leaders from 21 different federal agencies and departments. The order put on hold new environmental regulations issued by the previous administration for review. The order instructs federal agencies to procure carbon pollution free electricity and zero emission vehicles, and is part of President Biden’s plan to replace the entire federal fleet with electric vehicles. [[bidenplanstoreplacegov]] The federal government employees around 2 million people, owns or leases 376.9 million square feet of office space, and makes $600 billion in purchases a year. It is an absolutely massive economic engine, and putting climate at the top of the focus of how the government conducts it’s operations makes a big deal.
-- The order also took action to eliminate fossil fuel subsidies, by instructing federal agencies to eliminate all fossil fuel subsidies under their control. While most fossil fuel subsidies are congressionally authorized, this is expected to eliminate billions in fossil fuel subsidies per year. [link](https://grist.org/politics/biden-is-eliminating-fossil-fuel-subsidies-but-he-cant-end-them-all/)
-- Additionally, the order halted all new oil and gas leases for 60 days. This ban was extended until the end of June, however it has been put on hold by a Trump appointed judge. [link](https://apnews.com/article/joe-biden-climate-change-environment-and-nature-business-9751c4909a8b1baba28f3bcff9d5fa6e) However, this led to a prohibition on new leases for 4 1/2 months, and the Interior Department still has considerable discretion over how the process plays out.
-### 2021 Approving Offshore Wind Farms
-- To transition to carbon free power by 2035, we need a lot of new energy. And to that end, the Biden administration has implemented a plan to deliver at least 30 GW of offshore wind by 2030, a 1000x increase from offshore wind levels when the President took office (which were almost non-existent in the US). This plan has already led to the first major offshore wind farm to be approved, [link](https://www.cnn.com/2021/05/16/business/offshore-wind-farm-vineyard-wind/index.html#:~:text=The%20federal%20government%20this%20week,commercial%20scale%20offshore%20wind%20farm.) which will provide enough power for about 400,000 homes. The plan includes: [link](https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/29/fact-sheet-biden-administration-jumpstarts-offshore-wind-energy-projects-to-create-jobs/)
-    - Announcing a new priority Wind Energy Area offshore of New York and New Jersey with new lease sales scheduled for late 2021 or early 2022.
-    - Speeding up review of wind projects by having the DOI’s Bureau of Ocean Energy Management (BOEM) review at least 16 Construction and Operations Plans (COPs) by 2025
-    - Advancing the approval process for the stalled Ocean Winds project, which will have total generation capacity of 1.1GW (enough to power 500k homes).
-    - Investing $230 million in port infrastructure to support offshore wind
-    - $3 billion in loans through the DOE loan program for offshore wind projects
-    - $8 million in R&D grants for 15 offshore wind research and development projects
-    - $1 million grant to study the impact of offshore wind on coastal communities
-    - A data sharing agreement with Ørsted, an offshore wind development company, to help NOAA fill in gaps in ocean science areas. This agreement will be a model for similar arrangements with other companies
-- The administration took further action and designated an offshore wind area off the coast of California. [link](https://www.washingtonpost.com/climate-solutions/2021/05/25/wind-power-west-coast/)
+[[2021 Re-joining the Paris Climate Accord]]
+[[2021 Keystone XL Pipeline]]
+[[2021 Comprehensive Climate Executive Order]]
+[[2021 Approving Offshore Wind Farms]]
 ## Foreign Policy
-### 2021 Ending U.S. Support For Saudi-led Offensive In Yemen
-- [Wiki](https://en.wikipedia.org/wiki/United_States_support_for_Saudi_Arabian%E2%80%93led_operations_in_Yemen)
-- On 4 February 2021,
-- [link](https://apnews.com/article/biden-end-support-saudi-offenseive-yemen-b68f58493dbfc530b9fcfdb80a13098f)
-### 2021 Myanmar Sanctions
-- On 10 February 2021, Biden announced sanctions on Myanmar military leaders and their business associates in reaction to the Myanmar State Counsellor Aung San Suu Kyi being overthrown in a military coup led by Min Aung Hlaing.
-- [link](https://www.reuters.com/article/us-myanmar-politics-blacklist-idUSKBN2AW2SL)
-- [link](https://www.politico.com/news/2021/02/10/biden-myanmar-sanctions-468401)
-### 2021 Recognising Armenian Genocide
-- On 24 April 2021, Biden recognized the Armenian genocide by releasing a statement on Armenian Remembrance Day, becoming the first U.S. president to do so.
-    - `Each year on this day, we remember the lives of all those who died in the Ottoman-era Armenian genocide and recommit ourselves to preventing such an atrocity from ever again occurring. Beginning on April 24, 1915, with the arrest of Armenian intellectuals and community leaders in Constantinople by Ottoman authorities, one and a half million Armenians were deported, massacred, or marched to their deaths in a campaign of extermination. We honor the victims of the Meds Yeghern so that the horrors of what happened are never lost to history. And we remember so that we remain ever-vigilant against the corrosive influence of hate in all its forms.` [link](https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/24/statement-by-president-joe-biden-on-armenian-remembrance-day/)
-- [link](https://edition.cnn.com/2021/04/24/politics/armenian-genocide-biden-erdogan-turkey/index.html)
-### 2021 Withdrawal from Afghanistan
-- [Wiki](https://en.wikipedia.org/wiki/Withdrawal_of_United_States_troops_from_Afghanistan_(2020%E2%80%932021))
-- On 30 August 2021, The United States Armed Forces completed their withdrawal from Afghanistan marking the end of the War in Afghanistan.
-### 2021 Uyghur Forced Labor Prevention Act
-- [Wiki](https://en.wikipedia.org/wiki/Uyghur_Forced_Labor_Prevention_Act)
-### 2022 Ukraine Democracy Defense Lend-Lease Act
-- On 9 May 2022, The Ukraine Democracy Defense Lend-Lease Act of 2022
-- [Wiki](https://en.wikipedia.org/wiki/Ukraine_Democracy_Defense_Lend-Lease_Act_of_2022)
+[[2021 Ending U.S. Support For Saudi-led Offensive In Yemen]]
+[[2021 U.S. Sanctions on Myanmar Coup Leaders]]
+[[2021 Recognising Armenian Genocide]]
+[[2021 U.S. Withdrawal From Afghanistan]]
+[[2021 Uyghur Forced Labor Prevention Act]]
+[[2022 Ukraine Democracy Defense Lend-Lease Act]]
 ## Coronavirus Policy
 ### Day 1 Executive Orders
 - On January 20th 2021, Inauguration Day, Biden signed a plethora of Executive orders, first that required face masks on federal property to tackle COVID-19. [link](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-protecting-the-federal-workforce-and-requiring-mask-wearing/)
 - Biden also signed an order to rejoin the World Health Organisation and create a position of COVID-19 Response Coordinator `In order to effectively, fully, and immediately respond to COVID-19`. [link](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-organizing-and-mobilizing-united-states-government-to-provide-unified-and-effective-response-to-combat-covid-19-and-to-provide-united-states-leadership-on-global-health-and-security/)
 - Biden also formally wrote to the Secretary-General of the United Nations asking to retract Trump's letter withdrawing from the World Health Organisation. [link](https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/20/letter-his-excellency-antonio-guterres/)
 - Biden also signed an Executive order to set plans for further tackling COVID-19. [link](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-organizing-and-mobilizing-united-states-government-to-provide-unified-and-effective-response-to-combat-covid-19-and-to-provide-united-states-leadership-on-global-health-and-security/)
-### Vaccine Rollout
+### 2021 Vaccine Rollout
 - Had a goal of 100 million in 100 days of office, got 200 million. [[covidvaccinebidentohitgoalof10]] [link](https://www.theguardian.com/us-news/2021/apr/21/us-vaccinations-200m-100-days-biden)
 - Biden pledges $2 billion for the COVAX program under WHO. [link](https://www.businessinsider.in/international/news/us-president-joe-biden-pledges-2-billion-for-covax/articleshow/81122942.cms)
 - Biden announces that all American adults will be eligible to receive a COVID-19 vaccination by May 1, 2021. [[covidvaccinebidenwilldirectsta]]

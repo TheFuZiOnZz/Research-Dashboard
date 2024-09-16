@@ -1,0 +1,2 @@
+### 2021 Stopping Trump's Wall
+- On January 20th 2021, Biden signed a Proclamation to stop construction of border wall and revoking Trumps Proclamation on `Declaring a National Emergency Concerning the Southern Border of the United States` [link](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/proclamation-termination-of-emergency-with-respect-to-southern-border-of-united-states-and-redirection-of-funds-diverted-to-border-wall-construction/)

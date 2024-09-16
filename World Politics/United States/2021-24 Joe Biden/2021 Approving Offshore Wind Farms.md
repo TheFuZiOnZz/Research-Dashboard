@@ -1,0 +1,11 @@
+### 2021 Approving Offshore Wind Farms
+- To transition to carbon free power by 2035, we need a lot of new energy. And to that end, the Biden administration has implemented a plan to deliver at least 30 GW of offshore wind by 2030, a 1000x increase from offshore wind levels when the President took office (which were almost non-existent in the US). This plan has already led to the first major offshore wind farm to be approved, [link](https://www.cnn.com/2021/05/16/business/offshore-wind-farm-vineyard-wind/index.html#:~:text=The%20federal%20government%20this%20week,commercial%20scale%20offshore%20wind%20farm.) which will provide enough power for about 400,000 homes. The plan includes: [link](https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/29/fact-sheet-biden-administration-jumpstarts-offshore-wind-energy-projects-to-create-jobs/)
+    - Announcing a new priority Wind Energy Area offshore of New York and New Jersey with new lease sales scheduled for late 2021 or early 2022.
+    - Speeding up review of wind projects by having the DOI’s Bureau of Ocean Energy Management (BOEM) review at least 16 Construction and Operations Plans (COPs) by 2025
+    - Advancing the approval process for the stalled Ocean Winds project, which will have total generation capacity of 1.1GW (enough to power 500k homes).
+    - Investing $230 million in port infrastructure to support offshore wind
+    - $3 billion in loans through the DOE loan program for offshore wind projects
+    - $8 million in R&D grants for 15 offshore wind research and development projects
+    - $1 million grant to study the impact of offshore wind on coastal communities
+    - A data sharing agreement with Ørsted, an offshore wind development company, to help NOAA fill in gaps in ocean science areas. This agreement will be a model for similar arrangements with other companies
+- The administration took further action and designated an offshore wind area off the coast of California. [link](https://www.washingtonpost.com/climate-solutions/2021/05/25/wind-power-west-coast/)
