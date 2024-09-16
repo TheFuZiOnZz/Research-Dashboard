@@ -1,4 +1,3 @@
-# 1997-2010 Labour
 Tony Blair - 2 May 1997 to 27 June 2007  
 Gordon Brown - 27 June 2007 to 11 May 2010  
 ## Economic Policy

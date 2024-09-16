@@ -1,4 +1,3 @@
-# 1964-70 Labour
 Harold Wilson - 16 October 1964 to 19 June 1970
 ## Economic Policy
 

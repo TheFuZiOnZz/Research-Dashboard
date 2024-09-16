@@ -1,4 +1,3 @@
-# 1979-97 Conservative
 Margret Thatcher - 4 May 1979 to 20 November 1990  
 John Major - 20 November 1990 to 2 May 1997  
 ## Economic Policy
