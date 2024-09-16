@@ -1,40 +1,40 @@
 Joe Biden - 20 January 2021 - 20 January 2025 
 [Wiki](https://en.wikipedia.org/wiki/Joe_Biden)
-## Social Policy
+# Social Policy
 
 [[2021 Overturning the Trans Military Ban]]
 [[2022 Consolidated Appropriations Act]]
 [[2022 Speak Out Act]]
 [[2022 Respect for Marriage Act]]
 [[2023 Consolidated Appropriations Act]]
-## Economic Policy
+# Economic Policy
 [[2021 American Rescue Plan Act]]
 [[2021 Infrastructure Investment and Jobs Act]]
 [[2022 Inflation Reduction Act]]
 [[2022 Bipartisan Safer Communities Act]]
 [[2022 CHIPS and Science Act]]
-## Immigration Policy
+# Immigration Policy
 [[2021 Stopping Trump's Wall]]
 ## Environmental Policy
 [[2021 Re-joining the Paris Climate Accord]]
 [[2021 Keystone XL Pipeline]]
 [[2021 Comprehensive Climate Executive Order]]
 [[2021 Approving Offshore Wind Farms]]
-## Foreign Policy
+# Foreign Policy
 [[2021 Ending U.S. Support For Saudi-led Offensive In Yemen]]
 [[2021 U.S. Sanctions on Myanmar Coup Leaders]]
 [[2021 Recognising Armenian Genocide]]
 [[2021 U.S. Withdrawal From Afghanistan]]
 [[2021 Uyghur Forced Labor Prevention Act]]
 [[2022 Ukraine Democracy Defense Lend-Lease Act]]
-## Coronavirus Policy
+# Coronavirus Policy
 [[2021 Day 1 Executive Orders]]
 [[2021 Vaccine Rollout]]
 [[2021 PPP Extension]]
-## Controversy’s
+# Controversy’s
 [[2021-24 Hur’s Special Counsel Investigation]]
 [[2023- Weiss Special Counsel Investigation]]
-## To-Do
+# To-Do
 - [link](https://whatbidenhasdone.wordpress.com/2022/01/20/year-one-what-biden-has-done-mega-thread/)
 - [link](https://twitter.com/What46HasDone/status/1528073957911449602)
 - How do the U.S. Political Parties Vote on Congressional Bills?
