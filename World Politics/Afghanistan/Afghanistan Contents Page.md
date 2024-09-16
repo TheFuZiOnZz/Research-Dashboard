@@ -1,4 +1,4 @@
-# 1926-1973 Kingdom of Afghanistan
+United Kingdom# 1926-1973 Kingdom of Afghanistan
 
 [[1929 Red Army Intervention in Afghanistan]]
 [[1930 Red Army Intervention in Afghanistan]]

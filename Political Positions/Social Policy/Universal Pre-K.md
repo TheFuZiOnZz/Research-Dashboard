@@ -1,4 +1,3 @@
-## Universal Pre-K
 - A 2017 paper found that:
     - `Like the TPS pre-K program, CAP’s Head Start program yields persistent gains in math and a reduction in grade retention. It is not associated with higher enrollment in honors courses, but it is associated with less chronic absenteeism.` - [The Effects of Tulsa's Pre-K Program on Middle School Student Performance, Gormley et al., 2018](https://annas-archive.org/scidb/10.1002/pam.22023)
 - A 2013 paper found that:

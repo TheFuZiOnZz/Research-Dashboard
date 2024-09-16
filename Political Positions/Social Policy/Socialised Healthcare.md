@@ -1,4 +1,3 @@
-## Socialised Healthcare
 ### Medicare for All
 #### Economic Analysis of Medicare for All, Pollin et al., 2018
 - A 2018 paper by The Political Economy Research Institute identifies that in 2017 the US was spending $3.24 trillion on personal healthcare but other high income countries spend around 40% less and produce better healthcare outcomes. Medicare for all would reduce healthcare spending by nearly 10% to $2.93 trillion and create `stable access to good care for all US residents.`

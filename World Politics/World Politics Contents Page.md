@@ -64,143 +64,25 @@
 [[Saudi Arabia Contents Page]]
 # Sierra Leone
 [[Sierra Leone Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-# Afghanistan
-[[Afghanistan Contents Page]]
-
+# Somalia
+[[Somalia Contents Page]]
+# Sudan
+[[Sudan Contents Page]]
+# Syria
+[[Syria Contents Page]]
+# Turkey
+[[Turkey Contents Page]]
+# United Arab Emirates
+[[United Arab Emirates Contents Page]]
+# United Kingdom
+[[United Kingdom Contents Page]]
+# United States
+[[United States Contents Page]]
+# Vietnam
+[[Vietnam Contents Page]]
+# Worldwide
+[[Worldwide Contents Page]]
+# Yemen
+[[Yemen Contents Page]]
+# Yugoslavia
+[[Yugoslavia Contents Page]]
