@@ -1,4 +1,3 @@
-## 1973 Afghan coup d'état
 - [link](https://en.wikipedia.org/wiki/1973_Afghan_coup_d%27%C3%A9tat)
 - [link](https://www.youtube.com/watch?v=LrcHIY-30S8&t=186s)
 - On 25 June 1973, King Mohammad Zahir Shah left Afghanistan for London, via Rome, for hemorrhaging treatment after injuring his eye. After treatment he went back to Italy spending time in the island of Ischia.
