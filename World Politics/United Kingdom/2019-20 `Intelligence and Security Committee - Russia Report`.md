@@ -1,0 +1,4 @@
+### 2019-20 `Intelligence and Security Committee - Russia Report`
+- [Wiki](https://en.wikipedia.org/wiki/Intelligence_and_Security_Committee_Russia_report)
+- "The Russia report" is the report of the UK Intelligence and Security Committee of Parliament (ISC) into allegations of Russian interference in British politics, including alleged Russian interference in the 2016 Brexit referendum and the 2014 Scottish independence referendum. The committee completed the report in March 2019 and it was published in July 2020, after claims were made that delays to its publication were due to government machinations.
+- According to the report, [link](https://isc.independent.gov.uk/wp-content/uploads/2021/01/20200721_HC632_CCS001_CCS1019402408-001_ISC_Russia_Report_Web_Accessible.pdf)
