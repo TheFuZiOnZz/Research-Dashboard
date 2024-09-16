@@ -27,3 +27,6 @@
     
     > `Priti Patel has reached a six-figure settlement with a senior civil servant after claims that he was forced out of his job for intervening in her alleged bullying of fellow staff, it has emerged. Whitehall sources said Sir Philip Rutnam, a former permanent secretary in the Home Office, received a £340,000 settlement with a further £30,000 in costs. He had threatened to take the home secretary to an employment tribunal hearing in September.` [link](https://www.theguardian.com/politics/2021/mar/04/priti-patel-reaches-six-figure-settlement-with-ex-home-office-chief-philip-rutnam)
     
+
+## Virtue Ethics
+[link](https://plato.stanford.edu/entries/ethics-virtue/)

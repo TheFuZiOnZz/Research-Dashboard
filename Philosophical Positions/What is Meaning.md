@@ -1,6 +1,3 @@
-[Wiki](https://en.wikipedia.org/wiki/Special_Inspector_General_for_Afghanistan_Reconstruction)
-[Special Inspector General for Afghanistan Reconstruction, Lessons Learned in Afghanistan](https://www.sigar.mil/pdf/lessonslearned/SIGAR-21-46-LL.pdf)
-
 ## What is Meaning
 [link](https://www.youtube.com/watch?v=C7MNbSovFMg)
 Theories of meaning being analogous to theories of truth

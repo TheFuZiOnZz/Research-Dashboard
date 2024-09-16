@@ -1,0 +1,15 @@
+## Idealism
+Everything is reduce to the mind, monism
+It examines the relationship between epistemological idealism (the view that the contents of human knowledge are ineluctably determined by the structure of human thought) and ontological idealism (the view that epistemological idealism delivers truth because reality itself is a form of thought and human thought participates in it).
+There have been two fundamental conceptions of idealism:
+1. something mental (the mind, spirit, reason, will) is the ultimate foundation of all reality, or even exhaustive of reality,
+2. although the existence of something independent of the mind is conceded, everything that we can know about this mind-independent “reality” is held to be so permeated by the creative, formative, or constructive activities of the mind (of some kind or other) that all claims to knowledge must be considered, in some sense, to be a form of self-knowledge.
+Idealism in sense (1) may be called “metaphysical” or “ontological idealism”, while idealism in sense (2) may be called “formal” or “epistemological idealism”. The modern paradigm of idealism in sense (1) might be considered to be George Berkeley’s “immaterialism”, according to which all that exists are ideas and the minds, less than divine or divine, that have them. (Berkeley himself did not use the term “idealism”.) The fountainhead for idealism in sense (2) might be the position that Immanuel Kant asserted (if not clearly in the first edition of his Critique of Pure Reason (1781) then in his Prolegomena to Any Future Metaphysics (1783) and in the “Refutation of Idealism” in the second edition of the Critique) according to which idealism does “not concern the existence of things”, but asserts only that our “modes of representation” of them, above all space and time, are not “determinations that belong to things in themselves” but features of our own minds.
+George Dicker provides a compelling initial representation of Kant’s argument:
+- P1: I am conscious of my own existence in time; that is, I am aware, and can be aware, that I have experiences that occur in a specific temporal order.
+- P2: I can be aware of having experiences that occur in a specific temporal order only if I perceive something permanent by reference to which I can determine their temporal order.
+- P3: No conscious state of my own can serve as the permanent entity by reference to which I can determine the temporal order of my experiences.
+- P4: Time itself cannot serve as this permanent entity by reference to which I can determine the temporal order of my experiences.
+- P5: If P2, P3, and P4, are true, then I can be aware of having experiences that occur in a specific temporal order only if I perceive persisting objects in space outside me by reference to which I can determine the temporal order of my experiences.
+- C1: Therefore, I perceive persisting objects in space outside me by reference to which I can determine the temporal order of my experiences.
+**KANT’S TRANSCENDENTAL IDEALISM IS NOT THE SAME TYPE OF IDEALISM** - [link](https://plato.stanford.edu/entries/kant-transcendental-idealism/)

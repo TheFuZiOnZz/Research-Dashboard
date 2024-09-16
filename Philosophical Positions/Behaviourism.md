@@ -1,0 +1,6 @@
+## Behaviourism
+When you're in pain, you exhibit a behaviour that we classify as `being in pain` classified as a disposition of behaviour. This was devoid of metaphysics as it came from the logical positivist. The issues with this is what about a belief state? How do I go about expressing this belief in a behaviour as it is purely a mental state? A conflict of beliefs can cause behaviours to be misinterpreted or unperformable unless you rely on purely mental beliefs on things like beliefs on language making the behaviourist concede the behaviourist position as it has to posit purely mental states that aren't represented by a behaviour.
+Argument Against Behaviourism
+- P1: If behaviorism is true, it is not possible for there to be a perfect actor or doppelgänger who behaves just like me but has different mental states or none at all.
+- P2: But it is possible for there to be a perfect actor or doppelgänger who behaves just like me but has different mental states or none at all.
+- C1: Therefore, behaviorism is not true. (by modus tollens)

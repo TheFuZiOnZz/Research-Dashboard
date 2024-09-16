@@ -1,0 +1,2 @@
+## Menos Problem
+What's come to be called the Meno problem is a problem in need of a solution. How can knowledge be more valuable than merely being confident in the truth when being confident in the truth leads to success when you act on it just as well as knowledge?
