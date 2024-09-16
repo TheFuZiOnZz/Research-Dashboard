@@ -1,0 +1,8 @@
+### 1998 UNSC Resolution 1207
+- On 17 November 1998, the UN Security Council adopted Resolution 1207.
+    - `1. Reiterates its decision that all States shall cooperate fully with the Tribunal and its organs in accordance with resolution 827 (1993) and the Statute of the Tribunal, including the obligation of States to comply with requests for assistance or orders issued by a Trial Chamber under Article 29 of the Statute, to execute arrest warrants transmitted to them by the Tribunal, and to comply with its requests for information and investigations;  
+          
+        2. Calls again upon the Federal Republic of Yugoslavia, and all other States which have not already done so, to take any measures necessary under their domestic law to implement the provisions of resolution 827 (1993) and the Statute of the Tribunal, and affirms that a State may not invoke provisions of its domestic law as justification for its failure to perform binding obligations under international law;  
+          
+        3. Condemns the failure to date of the Federal Republic of Yugoslavia to execute the arrest warrants issued by the Tribunal against the three individuals referred to in the letter of 8 September 1998, and demands the immediate and unconditional execution of those arrest warrants, including the transfer to the custody of the Tribunal of those individuals;`  
+        [link](https://digitallibrary.un.org/record/264009?ln=en)

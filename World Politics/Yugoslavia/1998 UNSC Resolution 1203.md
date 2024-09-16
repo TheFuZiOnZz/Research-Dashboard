@@ -1,0 +1,6 @@
+### 1998 UNSC Resolution 1203
+- On 24 October 1998, the UN Security Council adopted Resolution 1203.
+    - `1. Endorses and supports the agreements signed in Belgrade on 16 October 1998 between the Federal Republic of Yugoslavia and the OSCE, and on 15 October 1998 between the Federal Republic of Yugoslavia and NATO, concerning the verification of compliance by the Federal Republic of Yugoslavia and all others concerned in Kosovo with the requirements of its resolution 1199 (1998), and demands the full and prompt implementation of these agreements by the Federal Republic of Yugoslavia;  
+          
+        2. Notes the endorsement by the Government of Serbia of the accord reached by the President of the Federal Republic of Yugoslavia and the United States Special Envoy (S/1998/953, annex), and the public commitment of the Federal Republic of Yugoslavia to complete negotiations on a framework for a political settlement by 2 November 1998, and calls for the full implementation of these commitments;`  
+        [link](https://digitallibrary.un.org/record/262334?ln=en)
