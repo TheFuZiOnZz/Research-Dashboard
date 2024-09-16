@@ -1,0 +1,18 @@
+# 1986 South Yemen Civil War
+- [Link](https://en.wikipedia.org/wiki/South_Yemen_Civil_War)
+- Background
+    - The National Liberation Front was handed power over the country following negotiations in Geneva with the British government.
+    - Ismael would go on to become the General Secretary after the NLF gained power over the country, adopting a Marxist-Leninist scientific socialism as the official state ideology.
+    - The government supported Marxist paramilitary organizations around the Arabian Peninsula, including the PFLOAG and PFLO.
+    - They supported the PFLO during the Dhofar Rebellion, in Oman.
+    - Eventually, due to Ismail's failures in Oman and during the Yemenite War of 1979, he resigned and went into exile, succeeded by Ali Nasir Muhammad, who favored less interventionalist.
+    - The Soviet Union attempted to mediate from the naval base in Yemen which hosted 1,000-1,800 troops in 1986.
+    - In 1985, the YSP politburo adopted a resolution stating political violence to settle political disputes was considered criminal.
+- War
+    - On January 13th, 1986, bodyguards of Ali Nasir Muhammad opened fire on members of the YSP politburo as they were due to meet. The ensuing firefight caused multiple high ranking officials to die, including Abdul Fattah Ismail.
+    - Abdul Fattah Ismail came back, they fought for 12 days, he died.
+    - Ali Nasir Muhammad and some 60,000 members of his brigade fled to the YAR.
+- Succession
+    - A former politburo member, al-Beidh, took the top position in the YSP following the 12-day civil war.
+- Aftermath
+    - Suffering a loss of more than half it's USSR aid from 1986-1989, al-Beidh's government worked towards unification with North Yemen.
