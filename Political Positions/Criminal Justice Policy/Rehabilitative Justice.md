@@ -1,4 +1,3 @@
-## Rehabilitative Justice
 - A 2005 meta-analysis found that:
     - `restorative justice programs, on average, yielded reductions in recidivism compared to nonrestorative approaches to criminal behavior. In fact, compared to the comparison and/or control groups who did not participate in a restorative justice program, offenders in the treatment groups were significantly more successful during the follow-up periods` - [The Effectiveness of Restorative Justice Practices: A Meta-Analysis, Latimer et al., 2005](https://annas-archive.org/scidb/10.1177/0032885505276969)
 - A 2014 RAND meta-analysis found that:

@@ -1,4 +1,3 @@
-## Subsidizing Contraception
 ### Money is saved by the state
 - A 2009 paper found that:
     - `We found all contraceptive methods dispensed through Family PACT to be cost-effective. Long-term methods are very cost-effective. Barrier methods and emergency contraceptives tend to yield the lowest savings per dollar spent because of their relatively low efficacy and short duration of use. Higher costs and fewer months of contraceptive protection from the contraceptive patch and ring result in lower cost savings than for oral contraceptives; however, these easier-to-use methods offer enhanced convenience for clients.` - [Cost savings from the provision of specific methods of contraception in a publicly funded program, Foster et al., 2009](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2661445/pdf/446.pdf)

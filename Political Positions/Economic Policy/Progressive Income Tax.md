@@ -1,4 +1,3 @@
-## Progressive Income Tax
 - A progressive income tax is a tax on income in which the tax rate increases as the taxable amount increases.
 ### 1979 Thatcher Tax Cuts
 - In the first budget after her election victory in 1979, the top rate was reduced from 83% to 60% and the basic rate from 33% to 30%. [link]

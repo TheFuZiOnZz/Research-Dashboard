@@ -1,4 +1,3 @@
-## Abortion
 - A 2014 WHO document found that:
     - `Based on 2008 data, WHO estimates that there are approximately 22 million unsafe abortions annually, resulting in 47,000 deaths, and more than 5 million complications such as: incomplete abortion (failure to remove or expel all of the pregnancy tissue from the uterus); haemorrhage (heavy leeding); infection; uterine perforation (caused when the uterus is pierced by a sharp object); and damage to the genital tract and internal organs by inserting dangerous objects such as sticks, knitting needles, or broken glass into the vagina or anus.` `Globally, unsafe abortion accounts for an estimated 13% of all pregnancy-related deaths.` - [Preventing Unsafe Abortion, Fact Sheet, World Health Organisation, 2014](https://apps.who.int/iris/bitstream/handle/10665/112321/WHO_RHR_14.09_eng.pdf;jsessionid=481B6A58181BB579E0C654F97A1ADEAF?sequence=1)
 - A 2015 WHO document found that:

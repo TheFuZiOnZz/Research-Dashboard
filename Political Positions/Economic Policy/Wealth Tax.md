@@ -1,4 +1,3 @@
-## Wealth Tax
 - Bernie supports [**Wealth Tax**](https://berniesanders.com/issues/tax-extreme-wealth/).
 - Bernie says it will raise an estimated $4.35 trillion. According to the [**Tax Foundation**](https://taxfoundation.org/wealth-tax/), it would **only raise $2.6 trillion**.
 - The effect of the Swiss tax and Warren tax on wealth inequality is [**miniscule**](http://www.pse-journal.hr/upload/files/pse/2020/2/1.pdf).

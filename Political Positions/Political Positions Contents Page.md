@@ -3,7 +3,6 @@
 [[Socialised Healthcare]]
 [[Universal Pre-K]]
 [[Socialised Housing]]
-[[Unions]]
 [[Abortion]]
 [[Subsidizing Contraception]]
 [[Gun Control]]
@@ -35,7 +34,8 @@
 [[Labor Theory Of Value]]
 [[Modern Monetary Theory]]
 [[Central Planning]]
-[[Unemployment benefits]]
+[[Unemployment benefits
+[[Unions]]]]
 # Immigration Policy
 [[Trump's Wall]]
 [[More Open Immigration]]

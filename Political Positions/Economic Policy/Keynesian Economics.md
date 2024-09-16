@@ -1,4 +1,3 @@
-## Keynesian Economics
 ### Deficit Spending
 - Deficit Spending is when a government's expenditures exceed its revenues during a fiscal period, causing it to run a budget deficit. The phrase `deficit spending` often implies a Keynesian approach to economic stimulus, in which the government takes on debt while using its spending power to create demand and stimulate the economy. [link](https://www.investopedia.com/terms/d/deficit-spending.asp)
     - [link](https://www.investopedia.com/terms/k/keynesianeconomics.asp)

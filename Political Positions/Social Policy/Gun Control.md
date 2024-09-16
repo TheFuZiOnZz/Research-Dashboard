@@ -1,4 +1,3 @@
-## Gun Control
 ### Problems
 - A 2009 paper found that:
     - `On average, guns did not protect those who possessed them from being shot in an assault. Although successful defensive gun uses occur each year, the probability of success may be low for civilian gun users in urban areas. Such users should reconsider their possession of guns or, at least, understand that regular possession necessitates careful safety countermeasures.` - [Investigating the Link Between Gun Possession and Gun Assault, Branas et al., 2009](https://annas-archive.org/scidb/10.2105/AJPH.2008.143099)
