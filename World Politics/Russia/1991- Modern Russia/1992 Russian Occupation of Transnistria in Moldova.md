@@ -1,4 +1,3 @@
-## 1992 Russian Occupation of Transnistria in Moldova
 - In 1992, between 2 March and 1 July 1992, Russia lead in creating a breakaway state away from Moldova.
 - Russian forces were decisive in the conflict as the 2 primary parties military forces weren't at a effective capacity.
     - `Neither side had a proper military force. The intervention of the Russian Fourteenth Army and its commander General Alexander Lebed on behalf of the Transdniestrians was decisive.` - [Uncertain Ground - Engaging With Europe’s De Facto States and Breakaway Territories, Thomas De Waal, 2018](https://carnegieendowment.org/files/deWaal_UncertainGround_final.pdf)
