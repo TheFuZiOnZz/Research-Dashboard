@@ -1,0 +1,2 @@
+### 2021 PPP Extension
+- Biden signed the PPP Extension Act of 2021, a bill that would extend the Paycheck Protection Program deadline from March 31 to May 31. [link](https://www.cbsnews.com/news/ppp-extension-law-deadline-may-31/)
