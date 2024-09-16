@@ -1,6 +1,6 @@
   
 [[1935-45 Conservative]]
-[[1951-64 Labour]]
+[[1945-51 Labour]]
 [[1951-64 Conservative]]
 [[1964-70 Labour]]
 [[1970-74 Conservative]]
