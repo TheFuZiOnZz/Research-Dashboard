@@ -1,4 +1,4 @@
-- On 15 March 2023, Chancellor Hunt announced the Spring Budget in which revealed a list of economic and fiscal policies. The policy’s included, [link](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1144441/Web_accessible_Budget_2023.pdf)
+- On 15 March 2023, Chancellor Hunt announced the Spring Budget in which revealed a list of economic and fiscal policies. The policy’s included, [Spring Budget 2023, HM Treasury, 2023](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1144441/Web_accessible_Budget_2023.pdf)
     - Corporation Tax for business with profits over £250,000 to increase from 19% to 25% from April 2023.
     - Companies with profits between £50,000 and £250,000 to pay between 19% and 25% in Corporation Tax from April 2023.
     - £80m announced for 12 new investment zones where companies will enjoy tax breaks and other benefits.
@@ -18,15 +18,13 @@
     - A £63m programme is announced to encouraged retirees over 50 to return to work.
 ### Economic Analysis
 - On 15 March 2023, The Office of Budget Responsibility released a `Economic and Fiscal Outlook` Report on the Spring Budget which said:
-    
-    - `Despite more positive economic news since November, structural weaknesses remain that have been exacerbated by recent shocks:  
-    -   
-    - Business investment has stagnated since 2016, with uncertainty surrounding the UK’s future trading relationship with the EU, the pandemic, the energy crisis, and rises in the post-tax cost of capital all weighing on investment decisions since then.  
-    -   
-    - Labour market participation, having risen since 2010 (despite the ageing of the population), has fallen dramatically in the wake of the pandemic, especially among older workers. This has left the total labour force 520,000 people smaller than we expected prior to the pandemic. And population ageing continues to weigh on participation over the forecast period.  
-    -   
-    - Productivity has grown at less than half its pre-financial crisis rate since 2010 and has been disrupted more recently by the pandemic and higher cost of energy. This reflects both the stagnation in business investment and weak growth in total factor productivity.`  
-    - [link](https://obr.uk/docs/dlm_uploads/OBR-EFO-March-2023_Web_Accessible.pdf)
+    - `Despite more positive economic news since November, structural weaknesses remain that have been exacerbated by recent shocks:`
+      
+      `Business investment has stagnated since 2016, with uncertainty surrounding the UK’s future trading relationship with the EU, the pandemic, the energy crisis, and rises in the post-tax cost of capital all weighing on investment decisions since then.`
+      
+      `Labour market participation, having risen since 2010 (despite the ageing of the population), has fallen dramatically in the wake of the pandemic, especially among older workers. This has left the total labour force 520,000 people smaller than we expected prior to the pandemic. And population ageing continues to weigh on participation over the forecast period.`
+      
+      `Productivity has grown at less than half its pre-financial crisis rate since 2010 and has been disrupted more recently by the pandemic and higher cost of energy. This reflects both the stagnation in business investment and weak growth in total factor productivity.` - [Economic and Fiscal Outlook, March 2023, Office for Budget Resposibility](https://obr.uk/docs/dlm_uploads/OBR-EFO-March-2023_Web_Accessible.pdf)
     
     - `Real household disposable income (RHDI) per person – a measure of real living standards – is expected to fall by a cumulative 5.7 per cent over the two financial years 2022-23 and 2023-24. While this is 1.4 percentage points less than forecast in November, it would still be the largest two-year fall since records began in 1956-57. The fall in RHDI per person mainly reflects the rise in the price of energy and other tradeable goods of which the UK is a net importer, resulting in inflation being above nominal wage growth. This means that real living standards are still 0.4 per cent lower than their pre-pandemic levels in 2027-28. But they are 0.6 per cent higher than we forecast in November thanks to lower market expectations for medium-term gas prices and the upward revision to potential output.` [link](https://obr.uk/docs/dlm_uploads/OBR-EFO-March-2023_Web_Accessible.pdf)
     
