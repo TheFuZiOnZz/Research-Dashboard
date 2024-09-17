@@ -9,7 +9,7 @@ Rishi Sunak - from 25 October 2022 to 4 July 2024
 [[2010-13 Privatisation of Royal Mail]]
 [[2011 Budget Responsibility and National Audit Act]]
 [[2012 Welfare Reform Act]]
-[[2016-20 UK Withdrawal from the European Union]]
+[[2016-20 UK Withdrawal from the European Union (Brexit)]]
 [[2021 National Insurance Rise for Health and Social Care]]
 [[2021 Universal Credit COVID Uplift Cut]]
 [[2021- Cost of Living Crisis]]
@@ -20,7 +20,7 @@ Rishi Sunak - from 25 October 2022 to 4 July 2024
 [[2023 Spring Budget]]
 [[2023 Autumn Statement]]
 ## Energy Policy
-[[2019- Fracking]]
+[[2019-24 Fracking]]
 [[2014-22 Woodhouse Colliery Coal Coke Mine]]
 ## Foreign Policy
 [[2010 Strategic Defence and Security Review]]
@@ -47,7 +47,7 @@ Rishi Sunak - from 25 October 2022 to 4 July 2024
 [[2020 School Exam Grading Controversy]]
 [[2020 Eat-Out-to-Help-Out Scheme]]
 [[2021 `Coronavirus, lessons learned to date` Report]]
-[[2019- `40 New Hospitals` Manifesto Pledge]]
+[[2019-24 `40 New Hospitals` Manifesto Pledge]]
 ## Transport Policy
 [[2010- High Speed 2 (HS2)]]
 ## Voting Policy
