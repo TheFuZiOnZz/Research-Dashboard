@@ -4,10 +4,10 @@
   
 - On 7 December 2022, The Housing minister Michael Gove approved the Woodhouse Colliery coal mine facility
     
-    > `Michael Gove has approved the first new UK coal mine in 30 years despite concern about its climate impacts among Conservative MPs and experts.  
-    >   
-    > The proposed mine in Cumbria would dig up coking coal for steel production in the UK and across the world.`  
-    > [link](https://www.bbc.co.uk/news/uk-politics-63892381)
+    - `Michael Gove has approved the first new UK coal mine in 30 years despite concern about its climate impacts among Conservative MPs and experts.  
+    -   
+    - The proposed mine in Cumbria would dig up coking coal for steel production in the UK and across the world.`  
+    - [link](https://www.bbc.co.uk/news/uk-politics-63892381)
     
 - [link](https://www.bbc.co.uk/news/uk-england-cumbria-63899345)
 - [link](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1122625/22-12-07_Whitehaven_-_Decision_Letter_and_IR.pdf)

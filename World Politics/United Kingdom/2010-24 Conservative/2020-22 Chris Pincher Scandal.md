@@ -1,6 +1,7 @@
-### 2020-22 Chris Pincher Scandal
-- On 30 June 2022, Pincher resigned as a Government Deputy Chief Whip, after he admitted being very drunk the night before at the private Carlton Club, a private members' club, in St James's, London and having "embarrassed myself and other people". [link](https://www.bbc.co.uk/news/uk-politics-62014765)
-- Before appointing him as the chief whip, `The prime minister is said to have referred to the MP as “handsy” and joked about him being “Pincher by name, pincher by nature” as early as 2020.` [[chrispinchergrop]]
+
+- - On 30 June 2022, Pincher resigned as a Government Deputy Chief Whip, after he admitted being very drunk the night before at the private Carlton Club, a private members' club, in St James's, London and having "embarrassed myself and other people". 
+- [link](https://www.bbc.co.uk/news/uk-politics-62014765)
+- Before appointing him as the chief whip, `The prime minister is said to have referred to the MP as “handsy” and joked about him being “Pincher by name, pincher by nature” as early as 2020.` [link](https://www.independent.co.uk/news/uk/politics/chris-pincher-grope-allegations-boris-johnson-b2114609.html)
 - On 3 July 2022, Chris Pincher admission about the incident after reflection.
     
     - "As I told the prime minister, I drank far too much on Wednesday night, embarrassing myself and others, and I am truly sorry for the upset I caused. "The stresses of the last few days, coming on top of those over the last several months, have made me accept that I will benefit from professional medical support. "I am in the process of seeking that now, and I hope to be able to return to my constituency duties as soon as possible." [link](https://www.notion.sobbc.co.uk/news/uk-62023278)
