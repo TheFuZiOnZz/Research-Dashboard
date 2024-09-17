@@ -47,19 +47,16 @@
       
       `Michael Spencer and partner` - [link](https://www.theguardian.com/politics/2012/mar/26/cash-for-access-dinner-guest-list)
 - On 31 July 2013, Cruddas won £180,000 in damages in a libel case against The Sunday Times.
-    
-    - `The former Conservative party co-treasurer Peter Cruddas has won £180,000 damages in his high court libel action over a Sunday Times allegation about charging £250,000 to meet David Cameron.  
-    -   
-    - The 59-year-old businessman brought the claim against Times Newspapers Ltd and two members of the newspaper's Insight team over three articles which appeared in March 2012.  
-    -   
-    - He complained they meant that, in return for cash donations to the Conservative party, he corruptly offered for sale the opportunity to influence government policy and gain unfair advantage through secret meetings with the prime minister and other senior ministers.  
-    -   
-    - During the litigation, the court of appeal ruled that "corruptly" meant in a way that was "inappropriate, unacceptable and wrong and gave rise to an impression of impropriety".`  
-    - [link](https://www.theguardian.com/politics/2013/jul/31/peter-cruddas-damages-libel-sunday-times)
+    - `The former Conservative party co-treasurer Peter Cruddas has won £180,000 damages in his high court libel action over a Sunday Times allegation about charging £250,000 to meet David Cameron.`
+      
+      `The 59-year-old businessman brought the claim against Times Newspapers Ltd and two members of the newspaper's Insight team over three articles which appeared in March 2012.`
+      
+      `He complained they meant that, in return for cash donations to the Conservative party, he corruptly offered for sale the opportunity to influence government policy and gain unfair advantage through secret meetings with the prime minister and other senior ministers.`
+      
+      `During the litigation, the court of appeal ruled that "corruptly" meant in a way that was "inappropriate, unacceptable and wrong and gave rise to an impression of impropriety".` - [link](https://www.theguardian.com/politics/2013/jul/31/peter-cruddas-damages-libel-sunday-times)
 - On 17 March 2015, The Sunday Times won a appeal on the libel case and Cruddas was found to have solicited paid influence on government ministers including Prime Minister David Cameron.
     
     - `Today, three judges allowed the group’s appeal on the claims for libel and malicious falsehood in relation to the allegation that, in return for cash donations to the Tory party, Cruddas offered to sell the opportunity to influence government policy and gain unfair advantage through secret meetings with prime minister David Cameron and other senior ministers.` [link](https://www.theguardian.com/media/greenslade/2015/mar/17/appeal-court-reduces-damages-award-against-sunday-times-to-50000)
-    
     - The statement said the court of appeal ruled that it was “ unacceptable, inappropriate and wrong” for Cruddas to make such an offer. It continued:  
     -   
     - “This was an important public interest story. Our journalists acted with professionalism and integrity and with the full support of the newspaper’s editors and lawyers. They and the newspaper have fought this case for three years.  
