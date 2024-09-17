@@ -26,16 +26,14 @@
     - `Rishi Sunak is to consult his ethics adviser on Monday to discuss Suella Braverman's handling of a speeding offence.` - [Rishi Sunak to consult ethics adviser over Suella Braverman speeding claims, BBC News, 2023](https://www.bbc.co.uk/news/uk-politics-65659053)
     - `The prime minister apparently did not know anything about what happened until the story broke in the Sunday Times.` - [Rishi Sunak to consult ethics adviser over Suella Braverman speeding claims, BBC News, 2023](https://www.bbc.co.uk/news/uk-politics-65659053)
 - On 22 May 2023, Braverman says nothing untoward happened on speeding offence.
-    - `Ms Braverman was today asked by reporters whether she asked civil servants to arrange a private awareness course after she was caught for speeding - something she did not directly deny.  
-    -   
-    - "First and foremost, I'm focused on the priorities for the British people as home secretary - that's cutting serious crime with more police officers, that's standing up for victims of child sexual abuse," she said. "It's about stopping the boats.  
-    -   
-    - "And I'm not going to take a backward step from working on those issues."`  
-    - [link](https://news.sky.com/story/suella-braverman-regrets-speeding-fine-but-says-nothing-untoward-happened-amid-claims-over-conduct-12886845?utm_source=ground.news&utm_medium=referral)
+    - `Ms Braverman was today asked by reporters whether she asked civil servants to arrange a private awareness course after she was caught for speeding - something she did not directly deny.`
+      
+      `"First and foremost, I'm focused on the priorities for the British people as home secretary - that's cutting serious crime with more police officers, that's standing up for victims of child sexual abuse," she said. "It's about stopping the boats.`
+      
+      `"And I'm not going to take a backward step from working on those issues."` - [link](https://news.sky.com/story/suella-braverman-regrets-speeding-fine-but-says-nothing-untoward-happened-amid-claims-over-conduct-12886845?utm_source=ground.news&utm_medium=referral)
 - On 24 May 2023, Sunak decided against an investigation on Braverman by ethics adviser.
-    - ‘Suella Braverman is to remain in her post as home secretary after the prime minister said "further investigation is not necessary" into her handling of a speeding offence.  
-    -   
-    - In his letter to the home secretary, the prime minister said he had consulted with his independent ethics adviser, Sir Laurie Magnus, who advised that "on this occasion further investigation is not necessary" and that he had "accepted that advice".’  
-    - [link](https://news.sky.com/story/suella-braverman-to-stay-in-post-after-rishi-sunak-says-speeding-investigation-not-necessary-12886648)
+    - `Suella Braverman is to remain in her post as home secretary after the prime minister said "further investigation is not necessary" into her handling of a speeding offence.`
+      
+      `In his letter to the home secretary, the prime minister said he had consulted with his independent ethics adviser, Sir Laurie Magnus, who advised that "on this occasion further investigation is not necessary" and that he had "accepted that advice".’` - [link](https://news.sky.com/story/suella-braverman-to-stay-in-post-after-rishi-sunak-says-speeding-investigation-not-necessary-12886648)
     
     - Bravermans Letter: ‘I accept that I was speeding and regret doing so. At no point did I try to avoid sanction. My actions were always directed toward finding an appropriate way to participate in the speed awareness course, taking into account my new role as Home Secretary and the necessary security and privacy issues that this raised. My interactions with officials intended to provide appropriate clarification of the options available to me in my role as Home Secretary. Whenever I was informed that a possible option was not available, I accepted that. At no point did I instruct officials to behave contrary to the advice that was provided.’ [link](https://news.sky.com/story/bravermans-letter-to-pm-and-sunaks-response-in-full-12888249)
