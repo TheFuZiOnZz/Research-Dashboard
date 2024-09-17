@@ -1,6 +1,12 @@
 - Brexit was the withdrawal of the United Kingdom from the European Union at 23:00 GMT on 31 January 2020. A UK-wide referendum was held on 23 June 2016, in which 51.89 per cent voted in favour of leaving the EU and 48.11 per cent voted to remain a member.
 - In 2017, the Financial Times reported that there were approximately 759 international agreements, spanning 168 non-EU countries, that the UK would no longer be a party to upon leaving the EU.
     - `Through analysis of the EU treaty database, the FT found 759 separate EU bilateral agreements with potential relevance to Britain, covering trade in nuclear goods, customs, fisheries, trade, transport and regulatory co-operation in areas such as antitrust or financial services. This includes multilateral agreements based on consensus, where Britain must re-approach 132 separate parties. Around 110 separate opt-in accords at the UN and World Trade Organization are excluded from the estimates, as are narrow agreements on the environment, health, research and science. Some additional UK bilateral deals, outside the EU framework, may also need to be revised because they make reference to EU law.` [link](https://www.ft.com/content/f1435a8e-372b-11e7-bce4-9023f8c0fd2e)
+# Invoking Article 50
+- [Wiki](https://en.wikipedia.org/wiki/United_Kingdom_invocation_of_Article_50_of_the_Treaty_on_European_Union)
+- On 29 March 2017, 
+# 2017 Snap Election
+- [Wiki](https://en.wikipedia.org/wiki/2017_United_Kingdom_general_election)
+- On 18 April 2017, 
 # Chequers Agreement
 - [Wiki](https://en.wikipedia.org/wiki/Chequers_plan)
 # Prorogation of Parliament
