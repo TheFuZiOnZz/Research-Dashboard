@@ -4,9 +4,9 @@
 - On 29 March 2023, the UK was accepted into the CPTPP.
     - `Britain will be welcomed into an Indo-Pacific trade bloc late Thursday as ministers from the soon-to-be 12-nation trade pact meet in a virtual ceremony across multiple time zones.  
     -   
-    - Chief negotiators and senior officials from member countries agreed Wednesday that Britain has met the high bar to join the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP), four people familiar with the talks told POLITICO.  
-    -   
-    - Negotiations are “done” and Britain’s accession is “all agreed [and] confirmed,” said a diplomat from one member nation. They were granted anonymity as they were unauthorized to discuss deliberations.`  
+    - `Chief negotiators and senior officials from member countries agreed Wednesday that Britain has met the high bar to join the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP), four people familiar with the talks told POLITICO.`
+      
+      `Negotiations are “done” and Britain’s accession is “all agreed [and] confirmed,” said a diplomat from one member nation. They were granted anonymity as they were unauthorized to discuss deliberations.`
     - [link](https://www.politico.eu/article/britain-secures-agreement-to-join-indo-pacific-trade-bloc/)
 - A 2021 Department of International Trade White Paper found that the estimated percentage increase in domestic greenhouse gas is higher than the increase of GDP to the UK.
     - `While joining CPTPP11 is estimated to increase the UK’s domestic greenhouse gas (GHG) emissions, it is estimated to reduce emissions intensity. GHG emissions are expected to increase by 0.025% over projected levels in 2035. This is less than the estimated percentage increase in GDP, which is 0.08%.` [link](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1027860/dit-cptpp-uk-accession-strategic-approach.pdf)q
