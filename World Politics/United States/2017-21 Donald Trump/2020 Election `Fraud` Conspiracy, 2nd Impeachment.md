@@ -1,4 +1,3 @@
-### 2020 Election `Fraud` Conspiracy, 2nd Impeachment
 [link](https://youtu.be/-QiSWnvrb24?t=2358)
 [link](https://www.thetrumparchive.com/)
 ### Pre-Election
@@ -140,11 +139,9 @@
 [link](https://election-integrity.info/2020_Election_Cases.htm)
 [link](https://docs.google.com/document/d/1pIH1Y7E8PU-QCAcWnLVKzVKe8jHt7bQsZdfsK347FcA/edit)
 [link](https://lostnotstolen.org//wp-content/uploads/2022/07/Lost-Not-Stolen-The-Conservative-Case-that-Trump-Lost-and-Biden-Won-the-2020-Presidential-Election-July-2022.pdf) - Lost, Not Stolen: The Conservative Case that Trump Lost and Biden Won the 2020 Presidential Election
-  
+[link](https://campaignlegal.org/results-lawsuits-regarding-2020-elections)
 - There was a total of 64 pre and post-election lawsuits in regards to Trump’s claims of voter integrity & fraud.
-    
     - `Of the 64 cases brought by Trump and his supporters, twenty were dismissed before a hearing on the merits, fourteen were voluntarily dismissed by Trump and his supporters before a hearing on the merits, and 30 cases included a hearing on the merits. Only in one Pennsylvania case involving far too few votes to overturn the results did Trump and his supporters prevail.` [link](https://drive.google.com/file/d/1aqorZ61AYFqZU-EDQBBzjqfvAoC5nKcB/view)
-    
 #### SCOTUS
 ##### Mike Kelly, et al. v. Pennsylvania, et al.
 - On 3 December 2020, 28 Republican politicians, led by Rep. Mike Kelly, asked the US Supreme Court to block the certification of Pennsylvania's election results alleging that “no excuse” absentee voting law unlawfully expanded the scope of absentee voting. Plaintiffs sought a temporary restraining order against certification while the courts ruled on the issue. [link](https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/20-810.html)
