@@ -1,8 +1,9 @@
 - [Wiki](https://en.wikipedia.org/wiki/News_International_phone_hacking_scandal)
 - [Wiki](https://en.wikipedia.org/wiki/Timeline_of_the_News_Corporation_scandal)
 - [Wiki](https://en.wikipedia.org/wiki/Leveson_Inquiry)
-### Leveson Inquiry: 
-#### Part 1
+# Leveson Inquiry
+
+# Part 1
 - [Wiki](https://en.wikipedia.org/wiki/Leveson_Inquiry)
 - On 20 July 2011,
 - On 29 November 2012,
@@ -17,6 +18,6 @@
     
     - `` [link](https://assets.publishing.service.gov.uk/media/5a7cc986ed915d63cc65cd86/0780_iv.pdf) - An inquiry into the culture, practices and ethics of the press: Volume 4
     
-#### Part 2
+## Part 2
 - [Wiki](https://en.wikipedia.org/wiki/Leveson_Inquiry)
 - On
