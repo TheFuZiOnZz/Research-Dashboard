@@ -23,12 +23,8 @@
       
       `"I think you can see first-hand what I have been doing over the last day or so but I understand that she's expressed regret for speeding, accepted the penalty and paid the fine."` - [Rishi Sunak refuses to back Suella Braverman after speeding course row, Sky News, 2023](https://news.sky.com/story/labour-calls-for-investigation-after-suella-braverman-accused-of-trying-to-shirk-group-speeding-course-12885503)
 - On 21 May 2023, Sunak is planned to speak to an ethics adviser about a possible investigation.
-    - `Rishi Sunak is to consult his ethics adviser on Monday to discuss Suella Braverman's handling of a speeding offence.  
-    -   
-    - ...  
-    -   
-    - The prime minister apparently did not know anything about what happened until the story broke in the Sunday Times.`  
-    - [link](https://www.bbc.co.uk/news/uk-politics-65659053)
+    - `Rishi Sunak is to consult his ethics adviser on Monday to discuss Suella Braverman's handling of a speeding offence.` - [Rishi Sunak to consult ethics adviser over Suella Braverman speeding claims, BBC News, 2023](https://www.bbc.co.uk/news/uk-politics-65659053)
+    - `The prime minister apparently did not know anything about what happened until the story broke in the Sunday Times.` - [Rishi Sunak to consult ethics adviser over Suella Braverman speeding claims, BBC News, 2023](https://www.bbc.co.uk/news/uk-politics-65659053)
 - On 22 May 2023, Braverman says nothing untoward happened on speeding offence.
     - `Ms Braverman was today asked by reporters whether she asked civil servants to arrange a private awareness course after she was caught for speeding - something she did not directly deny.  
     -   
