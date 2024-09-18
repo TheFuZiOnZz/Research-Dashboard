@@ -1,9 +1,7 @@
 ### 2016-22 Antisemitism in the Labour Party
 - [Wiki](https://en.wikipedia.org/wiki/Antisemitism_in_the_UK_Labour_Party)
 #### Shah, Livingstone and Walker's comments
-- [link]
-- - `` [link]
-    
+- 
 #### Chakrabarti Inquiry
 - [Wiki](https://en.wikipedia.org/wiki/Chakrabarti_Inquiry)
 - On 30 June 2016, Shami Chakrabarti’s inquiry presented its findings stating that although antisemitism and other types of racism were not endemic within Labour.
@@ -48,9 +46,7 @@
     -   
     - 19. I recommend that no part of the Party should be subject to "special measures" for more than six months without NEC review of that decision. Further the NEC must provide a plan as to how the local party is to improve its practice and return to full democratic rights within the Party.  
     -   
-    - 20. The Party should increase the ethnic diversity of its staff.`  
-    - [link](https://labour.org.uk/wp-content/uploads/2017/10/Chakrabarti-Inquiry-Report-30June16.pdf) - Chakrabarti Inquiry
-    
+    - `20. The Party should increase the ethnic diversity of its staff.` - [Chakrabarti Inquiry Report](https://labour.org.uk/wp-content/uploads/2017/10/Chakrabarti-Inquiry-Report-30June16.pdf)
 #### Home Affairs Committee `Antisemitism in the UK` Report
 - [link](https://committees.parliament.uk/work/3187/antisemitism-inquiry/publications/)
 - On 16 October 2016,
