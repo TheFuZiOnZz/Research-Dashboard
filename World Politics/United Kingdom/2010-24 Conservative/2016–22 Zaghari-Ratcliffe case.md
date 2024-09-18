@@ -1,3 +1,2 @@
-### 2016–22 Zaghari-Ratcliffe case
 - [Wiki](https://en.wikipedia.org/wiki/Nazanin_Zaghari-Ratcliffe)
 - Nazanin Zaghari-Ratcliffe is an Iranian-British dual citizen who was detained in Iran from 3 April 2016 as part of a long running dispute between Britain and Iran. In early September 2016, she was sentenced to five years in prison after being found guilty of plotting to topple the Iranian government.
