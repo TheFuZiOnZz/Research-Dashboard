@@ -62,6 +62,7 @@
 - [Wiki]()
 - On 24 May 2019, the day after the European Parliament elections, Theresa May announces that she will resign as prime minister and leader of the Conservative Party, effective 7 June, and that she will continue as caretaker prime minister until a new leader is chosen.
 - On 24 July 2019, Boris Johnson becomes Prime Minister.
+	- ` ` - [Boris Johnson takes over as prime minister of a divided Great Britain, vowing "to get Brexit done", CBS News, 2019](https://www.cbsnews.com/news/boris-johnson-prime-minister-united-kingdom-queen-elizabeth-today-theresa-may-resigns-live-updates-2019-07-24/)
 # 2019 Prorogation of Parliament
 - On 28 August 2019, Johnson declared he had asked the Queen to prorogue parliament from 10 September until 14 October, narrowing the window in which parliament could block a no-deal Brexit.
 	- ` ` - [link](https://www.theguardian.com/politics/2019/aug/28/chancellor-sajid-javid-fast-tracked-spending-review-fuels-talk-of-early-election)
