@@ -95,7 +95,7 @@
 	  
 	  `Thus the Advocate General’s appeal in the case of Cherry is dismissed and Mrs Miller’s appeal is allowed. The same declarations and orders should be made in each case.` - [R (on the application of Miller) v The Prime Minister; Cherry and Others v Advocate General for Scotland, Judgment, United Kingdom Supreme Court, 2019](https://www.bailii.org/uk/cases/UKSC/2019/41.pdf)
 - On 25 September 2019, Following the Supreme Court's verdict, MPs are recalled to the House of Commons.
-	- ` ` - [Boris Johnson returns to UK to face Parliament after Supreme Court ruling. CNN, 2019](https://edition.cnn.com/uk/live-news/boris-johnson-parliament-returns-dle-intl/index.html)
+	- ` ` - [Parliament: MPs and peers return after court rules suspension unlawful, BBC News, 2019](https://www.bbc.co.uk/news/uk-politics-49820038)
 - On  September 2019, 
 	- ` ` - []()
 # 2019 General Election
