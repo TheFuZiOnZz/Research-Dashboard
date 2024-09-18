@@ -268,23 +268,21 @@
 - On 2 March 2017, It was reported that Sessions did meet with a Russian Government Official, Sergey Kislyak, Russian Ambassador to the United States. The contents of the meetings were not disclosed.
     - `Attorney General Jeff Sessions met twice last year with the top Russian diplomat in Washington whose interactions with President Donald Trump’s former national security adviser Michael Flynn led to Flynn’s firing, according to the Justice Department.`
       
-      `Sessions did not mention either meeting during his confirmation hearings when he said he knew of no contacts between Trump surrogates and Russians. A Justice official said Sessions didn’t mislead senators during his confirmation.` 
-    - [link](http://edition.cnn.com/2017/03/01/politics/jeff-sessions-russian-ambassador-meetings/index.html)
+      `Sessions did not mention either meeting during his confirmation hearings when he said he knew of no contacts between Trump surrogates and Russians. A Justice official said Sessions didn’t mislead senators during his confirmation.` - [Sessions met with top Russian official twice, CNN, 2017](http://edition.cnn.com/2017/03/01/politics/jeff-sessions-russian-ambassador-meetings/index.html)
 - On 2 March 2017, Sessions recused himself from any investigations into Russian interference in the 2016 United States elections.
-    - `Attorney General Jeff Sessions today issued the following statement:  
-    -   
-    - “During the course of the confirmation proceedings on my nomination to be Attorney General, I advised the Senate Judiciary Committee that ‘[i]f a specific matter arose where I believed my impartiality might reasonably be questioned, I would consult with Department ethics officials regarding the most appropriate way to proceed.’  
-    -   
-    - “During the course of the last several weeks, I have met with the relevant senior career Department officials to discuss whether I should recuse myself from any matters arising from the campaigns for President of the United States.  
-    -   
-    - “Having concluded those meetings today, I have decided to recuse myself from any existing or future investigations of any matters related in any way to the campaigns for President of the United States.  
-    -   
-    - “I have taken no actions regarding any such matters, to the extent they exist.  
-    -   
-    - “This announcement should not be interpreted as confirmation of the existence of any investigation or suggestive of the scope of any such investigation.  
-    -   
-    - “Consistent with the succession order for the Department of Justice, Acting Deputy Attorney General and U.S. Attorney for the Eastern District of Virginia Dana Boente shall act as and perform the functions of the Attorney General with respect to any matters from which I have recused myself to the extent they exist.”`  
-    - [link](https://www.justice.gov/opa/pr/attorney-general-sessions-statement-recusal)
+    - `Attorney General Jeff Sessions today issued the following statement:`
+      
+      `“During the course of the confirmation proceedings on my nomination to be Attorney General, I advised the Senate Judiciary Committee that ‘[i]f a specific matter arose where I believed my impartiality might reasonably be questioned, I would consult with Department ethics officials regarding the most appropriate way to proceed.’`
+      
+      `“During the course of the last several weeks, I have met with the relevant senior career Department officials to discuss whether I should recuse myself from any matters arising from the campaigns for President of the United States.`
+      
+      `“Having concluded those meetings today, I have decided to recuse myself from any existing or future investigations of any matters related in any way to the campaigns for President of the United States.`
+      
+      `“I have taken no actions regarding any such matters, to the extent they exist.`
+      
+      `“This announcement should not be interpreted as confirmation of the existence of any investigation or suggestive of the scope of any such investigation.`
+      
+      `“Consistent with the succession order for the Department of Justice, Acting Deputy Attorney General and U.S. Attorney for the Eastern District of Virginia Dana Boente shall act as and perform the functions of the Attorney General with respect to any matters from which I have recused myself to the extent they exist.”` - [Office of Public Affairs, Attorney General Sessions Statement on Recusal, Department of Justice, 2017](https://www.justice.gov/opa/pr/attorney-general-sessions-statement-recusal)
 - On 4 March 2017, Trump asks Sessions to unrecuse himself at Mar-a-Lago.
     - `That weekend, Sessions and McGahn flew to Mar-a-Lago to meet with the President. Sessions recalled that the President pulled him aside to speak to him alone and suggested that Sessions should “unrecuse” from the Russia investigation. The President contrasted Sessions with Attorneys General Holder and Kennedy, who had developed a strategy to help their presidents where Sessions had not. Sessions said he had the impression that the President feared that the investigation could spin out of control and disrupt his ability to govern, which Sessions could have helped avert if he were still overseeing it.` - [Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Department of Justice, 2019](https://www.justice.gov/archives/sco/file/1373816/download)
 # Trump Firing Comey, Starting Mueller’s Investigation
