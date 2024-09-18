@@ -11,16 +11,13 @@
 - 
 ## GRU’s Persona `Guccifer 2.0`
 - On 12 January 2017, `Guccifer 2.0` released a blog post stating that accusations of ties with the Russian Government were unfounded.
-    
-    - `I really hope you’ve missed me a lot. Though I see they didn’t let you forget my name. The U.S. intelligence agencies have published several reports of late claiming I have ties with Russia.  
-    -   
-    - I’d like to make it clear enough that these accusations are unfounded. I have totally no relation to the Russian government. I’d like to tell you once again I was acting in accordance with my personal political views and beliefs.  
-    -   
-    - The technical evidence contained in the reports doesn’t stand up to scrutiny. This is a crude fake.  
-    -   
-    - Any IT professional can see that a malware sample mentioned in the Joint Analysis Report was taken from the web and was commonly available. A lot of hackers use it. I think it was inserted in the report to make it look a bit more plausible.`  
-    - [link](https://guccifer2.wordpress.com/2017/01/12/fake-evidence/)
-    
+    - `I really hope you’ve missed me a lot. Though I see they didn’t let you forget my name. The U.S. intelligence agencies have published several reports of late claiming I have ties with Russia.`
+      
+      `I’d like to make it clear enough that these accusations are unfounded. I have totally no relation to the Russian government. I’d like to tell you once again I was acting in accordance with my personal political views and beliefs.`
+      
+      `The technical evidence contained in the reports doesn’t stand up to scrutiny. This is a crude fake.`
+      
+      `Any IT professional can see that a malware sample mentioned in the Joint Analysis Report was taken from the web and was commonly available. A lot of hackers use it. I think it was inserted in the report to make it look a bit more plausible.` - [Here i am again my Friends!, Guccifer 2.0, 2017](https://guccifer2.wordpress.com/2017/01/12/fake-evidence/)
 ## Wikileaks
 - [link](https://www.theatlantic.com/politics/archive/2017/11/the-secret-correspondence-between-donald-trump-jr-and-wikileaks/545738/) assange telling trump jr to tell trump not to concede if trump lost 2016
 - [Wiki](https://en.wikipedia.org/wiki/2016_Democratic_National_Committee_email_leak)
@@ -32,30 +29,19 @@
 # Meeting at Trump Tower with Veselnitskaya
 - [Wiki](https://en.wikipedia.org/wiki/Trump_Tower_meeting)
 - On 9 June 2016, Trump held a meeting with Russian attorney, Natalia Veselnitskaya, and other members of the Trump Campaign on receiving damaging information on Clinton.
-    
     - `On June 9, 2016, senior representatives of the Trump Campaign met in Trump Tower with a Russian attorney expecting to receive derogatory information about Hillary Clinton from the Russian government. The meeting was proposed to Donald Trump Jr. in an email from Robert Goldstone, at the request of his then-client Emin Agalarov, the son of Russian real-estate developer Aras Agalarov. Goldstone relayed to Trump Jr. that the “Crown prosecutor of Russia... offered to provide the Trump Campaign with some official documents and information that would incriminate Hillary and her dealings with Russia” as part of Russia and its government’s support for Mr. Trump.” Trump Jr. immediately responded that “if it’s what you say I love it,” and arranged the meeting through a series of emails and telephone calls.` - [Report On The Investigation Into Russian Interference In The 2016 Presidential Election ](https://www.justice.gov/archives/sco/file/1373816/download)
-    
 - On 9 June 2016, Trump .
-    
     - ` ` - [Report On The Investigation Into Russian Interference In The 2016 Presidential Election ](https://www.justice.gov/archives/sco/file/1373816/download)
-    
 # Papadopoulos’ Meets Mifsud About `dirt` on Clinton, Opening Crossfire Hurricane Investigation
 - On 26 April 2016, Papadopoulos’ Meets Mifsud, Mifsud says they have thousands of Clinton’s emails, namely `dirt`.
-    
-    - `After a stop in Rome, Mifsud returned to England on April 25, 2016. The next day, Papadopoulos met Mifsud for breakfast at the Andaz Hotel (the same location as their last meeting). During that meeting, Mifsud told Papadopoulos that he had met with high-level  
-    - Russian government officials during his recent trip to Moscow. Mifsud also said that, on the trip, he learned that the Russians had obtained “dirt” on candidate Hillary Clinton. As Papadopoulos later stated to the FBI, Mifsud said that the “dirt” was in the form of “emails of Clinton,” and that they “have thousands of emails.”` - Mueller Report  
-    - [link](https://www.justice.gov/archives/sco/file/1373816/download)
-    
+    - `After a stop in Rome, Mifsud returned to England on April 25, 2016. The next day, Papadopoulos met Mifsud for breakfast at the Andaz Hotel (the same location as their last meeting). During that meeting, Mifsud told Papadopoulos that he had met with high-level Russian government officials during his recent trip to Moscow. Mifsud also said that, on the trip, he learned that the Russians had obtained “dirt” on candidate Hillary Clinton. As Papadopoulos later stated to the FBI, Mifsud said that the “dirt” was in the form of “emails of Clinton,” and that they “have thousands of emails.”` - [Report On The Investigation Into Russian Interference In The 2016 Presidential Election ](https://www.justice.gov/archives/sco/file/1373816/download)
 - On 6 May 2016, Papadopoulos’ relays this `dirt` to Alexander Downer, the Australian High Commissioner to the United Kingdom.
-    
     - `On May 6, 2016, 10 days after that meeting with Mifsud, Papadopoulos suggested to a representative of a foreign government that the Trump Campaign had received indications from the Russian government that it could assist the Campaign through the anonymous release of information that would be damaging to Hillary Clinton.` - [Report On The Investigation Into Russian Interference In The 2016 Presidential Election ](https://www.justice.gov/archives/sco/file/1373816/download)
-    
-    - `In late April, at a London hotel, Mr. Mifsud told Mr. Papadopoulos that he had just learned from high-level Russian officials in Moscow that the Russians had “dirt” on Mrs. Clinton in the form of “thousands of emails,” according to court documents. Although Russian hackers had been mining data from the Democratic National Committee’s computers for months, that information was not yet public. Even the committee itself did not know.  
-    -   
-    - Whether Mr. Papadopoulos shared that information with anyone else in the campaign is one of many unanswered questions. He was mostly in contact with the campaign over emails. The day after Mr. Mifsud’s revelation about the hacked emails, he told Mr. Miller in an email only that he had “interesting messages coming in from Moscow” about a possible trip. The emails obtained by The Times show no evidence that Mr. Papadopoulos discussed the stolen messages with the campaign.  
-    -   
-    - Not long after, however, he opened up to Mr. Downer, the Australian diplomat, about his contacts with the Russians. It is unclear whether Mr. Downer was fishing for that information that night in May 2016. The meeting at the bar came about because of a series of connections, beginning with an Israeli Embassy official who introduced Mr. Papadopoulos to another Australian diplomat in London.`  
-    - [[howfbirussiainve]]
+    - `In late April, at a London hotel, Mr. Mifsud told Mr. Papadopoulos that he had just learned from high-level Russian officials in Moscow that the Russians had “dirt” on Mrs. Clinton in the form of “thousands of emails,” according to court documents. Although Russian hackers had been mining data from the Democratic National Committee’s computers for months, that information was not yet public. Even the committee itself did not know.`
+      
+      `Whether Mr. Papadopoulos shared that information with anyone else in the campaign is one of many unanswered questions. He was mostly in contact with the campaign over emails. The day after Mr. Mifsud’s revelation about the hacked emails, he told Mr. Miller in an email only that he had “interesting messages coming in from Moscow” about a possible trip. The emails obtained by The Times show no evidence that Mr. Papadopoulos discussed the stolen messages with the campaign.`
+      
+      `Not long after, however, he opened up to Mr. Downer, the Australian diplomat, about his contacts with the Russians. It is unclear whether Mr. Downer was fishing for that information that night in May 2016. The meeting at the bar came about because of a series of connections, beginning with an Israeli Embassy official who introduced Mr. Papadopoulos to another Australian diplomat in London.` - [How the Russia Inquiry Began: A Campaign Aide, Drinks and Talk of Political Dirt - The New York Times](https://www.nytimes.com/2017/12/30/us/politics/how-fbi-russia-investigation-began-george-papadopoulos.html)
     
 - On 26 July 2016, The Australian High Commissioner to the United Kingdom tells the U.S. Government about this `dirt` after the emails are released publicly through WikiLeaks.
     
