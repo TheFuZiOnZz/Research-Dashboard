@@ -64,9 +64,17 @@
 - On 24 July 2019, Boris Johnson becomes Prime Minister.
 	- ` ` - [Boris Johnson takes over as prime minister of a divided Great Britain, vowing "to get Brexit done", CBS News, 2019](https://www.cbsnews.com/news/boris-johnson-prime-minister-united-kingdom-queen-elizabeth-today-theresa-may-resigns-live-updates-2019-07-24/)
 # 2019 Prorogation of Parliament
+- [Wiki](https://en.wikipedia.org/wiki/R_(Miller)_v_The_Prime_Minister_and_Cherry_v_Advocate_General_for_Scotland)
 - On 28 August 2019, Johnson declared he had asked the Queen to prorogue parliament from 10 September until 14 October, narrowing the window in which parliament could block a no-deal Brexit.
 	- ` ` - [link](https://www.theguardian.com/politics/2019/aug/28/chancellor-sajid-javid-fast-tracked-spending-review-fuels-talk-of-early-election)
-- On 2 September 2019, 
+- On 2 September 2019, Hilary Benn drafts a bill to extend the Article 50 period to 31 January 2020.
+	- ` ` - [Proponents of the new Bill to stop No Deal face a significant dilemma over Queen’s Consent, London School of Economics Blog, 2019](https://blogs.lse.ac.uk/brexit/2019/09/02/proponents-of-the-new-bill-to-stop-no-deal-face-a-significant-dilemma-over-queens-consent/)
+- On 3 September 2019, Phillip Lee, a Conservative MP, crosses the floor to join the Liberal Democrats. In doing so, Johnson loses his majority in the House of Commons. Conservative MP Oliver Letwin tables a motion for Benn's bill to be passed through each stage of the House of Commons the following day. The motion passes by 328 to 301, with 21 Conservative MPs voting to support it.
+	- ` ` - []()
+- - On 4 September 2019, 
+	- ` ` - []()
+- On 4 September 2019, 
+	- ` ` - []()
 - On 11 September 2019, The UK Supreme Courts found that
     - `In our view, the decision of the Prime Minister to advise Her Majesty the Queen to prorogue Parliament is not justiciable in Her Majesty's courts.` [link](https://www.bailii.org/ew/cases/EWHC/QB/2019/2381.html)
 # 2019 General Election
