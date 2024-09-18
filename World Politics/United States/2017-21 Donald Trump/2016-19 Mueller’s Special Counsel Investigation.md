@@ -83,47 +83,29 @@
 - On 6 January 2017, The Office of the Director of National Intelligence released a report on `Assessing Russian Activities and Intentions in Recent US Elections`. The report includes an assessment by the National Security Agency, the Central Intelligence Agency, and the Federal Bureau of Investigation of the type and breadth of actions undertaken by Russia and affiliated elements during the 2016 elections.
     - `We assess with high confidence that Russian President Vladimir Putin ordered an influence campaign in 2016 aimed at the US presidential election, the consistent goals of which were to undermine public faith in the US democratic process, denigrate Secretary Clinton, and harm her electability and potential presidency. We further assess Putin and the Russian Government developed a clear preference for President-elect Trump. When it appeared to Moscow that Secretary Clinton was likely to win the election, the Russian influence campaign then focused on undermining her expected presidency.` - [Assessing Russian Activities and Intentions in Recent US Elections, Office of the Director of National Intellignence, 2017](https://www.dni.gov/files/documents/ICA_2017_01.pdf)
     - `Moscow’s use of disclosures during the US election was unprecedented, but its influence campaign otherwise followed a longstanding Russian messaging strategy that blends covert intelligence operations—such as cyber activity—with overt efforts by Russian Government agencies, state-funded media, third-party intermediaries, and paid social media users or “trolls.”` - [Assessing Russian Activities and Intentions in Recent US Elections, Office of the Director of National Intellignence, 2017](https://www.dni.gov/files/documents/ICA_2017_01.pdf)
-    - `Russia’s intelligence services conducted cyber operations against targets associated with the 2016 US presidential election,  
-    - including targets associated with both major US political parties.  
-    -   
-    - We assess Russian intelligence services collected against the US primary campaigns, think tanks, and lobbying groups they viewed as likely to shape future US policies. In July 2015, Russian intelligence gained access to Democratic National Committee (DNC) networks and maintained that access until at least June 2016.`  
-    - [link](https://www.dni.gov/files/documents/ICA_2017_01.pdf) - Assessing Russian Activities and Intentions in Recent US Elections
-    
+    - `Russia’s intelligence services conducted cyber operations against targets associated with the 2016 US presidential election, including targets associated with both major US political parties.`
+      
+      `We assess Russian intelligence services collected against the US primary campaigns, think tanks, and lobbying groups they viewed as likely to shape future US policies. In July 2015, Russian intelligence gained access to Democratic National Committee (DNC) networks and maintained that access until at least June 2016.`  - [Assessing Russian Activities and Intentions in Recent US Elections, Office of the Director of National Intellignence, 2017](https://www.dni.gov/files/documents/ICA_2017_01.pdf)
     - `We assess with high confidence that the GRU used the Guccifer 2.0 persona, DCLeaks.com, and WikiLeaks to release US victim data obtained in cyber operations publicly and in exclusives to media outlets.` - [Assessing Russian Activities and Intentions in Recent US Elections, Office of the Director of National Intellignence, 2017](https://www.dni.gov/files/documents/ICA_2017_01.pdf)
-    
     - `We assess with high confidence that the GRU relayed material it acquired from the DNC and senior Democratic officials to WikiLeaks. Moscow most likely chose WikiLeaks because of its self-proclaimed reputation for authenticity. Disclosures through WikiLeaks did not contain any evident forgeries.` - [Assessing Russian Activities and Intentions in Recent US Elections, Office of the Director of National Intellignence, 2017](https://www.dni.gov/files/documents/ICA_2017_01.pdf)
-    
     - `Russia’s state-run propaganda machine—comprised of its domestic media apparatus, outlets targeting global audiences such as RT and Sputnik, and a network of quasi-government trolls—contributed to the influence campaign by serving as a platform for Kremlin messaging to Russian and international audiences. State-owned Russian media made increasingly favorable comments about President-elect Trump as the 2016 US and primary election campaigns progressed while consistently offering negative coverage of Secretary Clinton.` - [Assessing Russian Activities and Intentions in Recent US Elections, Office of the Director of National Intellignence, 2017](https://www.dni.gov/files/documents/ICA_2017_01.pdf)
-    
     - `Russia’s effort to influence the 2016 US presidential election represented a significant escalation in directness, level of activity, and scope of effort compared to previous operations aimed at US elections. We assess the 2016 influence campaign reflected the Kremlin’s recognition of the worldwide effects that mass disclosures of US Government and other private data—such as those conducted by WikiLeaks and others—have achieved in recent years, and their understanding of the value of orchestrating such disclosures to maximize the impact of compromising information.` - [Assessing Russian Activities and Intentions in Recent US Elections, Office of the Director of National Intellignence, 2017](https://www.dni.gov/files/documents/ICA_2017_01.pdf)
-    
     - `We assess Moscow will apply lessons learned from its campaign aimed at the US presidential election to future influence efforts in the United States and worldwide, including against US allies and their election processes. We assess the Russian intelligence services would have seen their election influence campaign as at least a qualified success because of their perceived ability to impact public discussion.` - [Assessing Russian Activities and Intentions in Recent US Elections, Office of the Director of National Intellignence, 2017](https://www.dni.gov/files/documents/ICA_2017_01.pdf)
-    
 # Michael Flynn Discussing with Russian Officials Leading to Firing
 - On 16 November 2016, Kislyak had a Meeting with Jared Kushner and Michael Flynn in Trump Tower Following the Election Victory.
-    
-    - `On November 16, 2016, Catherine Vargas, an executive assistant to Kushner, received a request for a meeting with Russian Ambassador Sergey Kislyak. That same day, Vargas sent Kushner an email with the subject, “MISSED CALL: Russian Ambassador to the US, Sergey  
-    - Ivanovich Kislyak . . . .” The text of the email read, “RE: setting up a time to meet w/you on 12/1. LMK how to proceed.” Kushner responded in relevant part, “I think I do this one -- confirm with Dimitri [Simes of CNI] that this is the right guy.” After reaching out to a colleague of Simes at CNI, Vargas reported back to Kushner that Kislyak was “the best go-to guy for routine matters in the US,” while Yuri Ushakov, a Russian foreign policy advisor, was the contact for “more direct/substantial matters.”` - Mueller Report  
-    - [link](https://www.justice.gov/archives/sco/file/1373816/download)
-    
+    - `On November 16, 2016, Catherine Vargas, an executive assistant to Kushner, received a request for a meeting with Russian Ambassador Sergey Kislyak. That same day, Vargas sent Kushner an email with the subject, “MISSED CALL: Russian Ambassador to the US, Sergey Ivanovich Kislyak . . . .” The text of the email read, “RE: setting up a time to meet w/you on 12/1. LMK how to proceed.” Kushner responded in relevant part, “I think I do this one -- confirm with Dimitri [Simes of CNI] that this is the right guy.” After reaching out to a colleague of Simes at CNI, Vargas reported back to Kushner that Kislyak was “the best go-to guy for routine matters in the US,” while Yuri Ushakov, a Russian foreign policy advisor, was the contact for “more direct/substantial matters.”` - [Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Department of Justice, 2019](https://www.justice.gov/archives/sco/file/1373816/download)    
 - On 18 November 2016, Michael Flynn accepted Trump's offer for the position of National Security Advisor.
-    
-    - `President-elect Donald Trump announced he will tap Army Lt. Gen. Michael Flynn for the role of national security advisor, the transition announced Friday.  
-    -   
-    - The announcement Friday said that Flynn was among three high profile national security positions – including Mike Pompeo for CIA director and Jeff Sessions for attorney general – that had been offered and accepted.  
-    -   
-    - Flynn, 57, was a top adviser and high-profile surrogate to Trump during his campaign, introducing the President-elect at rallies and serving as a top cheerleader on his hyper-active Twitter feed.`  
-    - [link](http://edition.cnn.com/2016/11/17/politics/trump-offers-flynn-job-of-national-security-adviser)
-    
+    - `President-elect Donald Trump announced he will tap Army Lt. Gen. Michael Flynn for the role of national security advisor, the transition announced Friday.`
+      
+      `The announcement Friday said that Flynn was among three high profile national security positions – including Mike Pompeo for CIA director and Jeff Sessions for attorney general – that had been offered and accepted.`
+      
+      `Flynn, 57, was a top adviser and high-profile surrogate to Trump during his campaign, introducing the President-elect at rallies and serving as a top cheerleader on his hyper-active Twitter feed.` - [Donald Trump offers Michael Flynn job of national security advisor, CNN, 2016](http://edition.cnn.com/2016/11/17/politics/trump-offers-flynn-job-of-national-security-adviser)
 - On 29 December 2016, Obama announced sanctions on Russia and expelled Russian diplomats in response to the Election Interference.
-    
-    - `The White House has announced new actions targeting Russia in response to what U.S. officials say were cyberattacks intended to interfere with the U.S. election.  
-    -   
-    - In a statement Thursday, President Obama said, "All Americans should be alarmed by Russia's actions," referring to hacks of the Democratic National Committee. Obama also cited an "unacceptable level of harassment" of American diplomats by Russian security services and police in Moscow.  
-    -   
-    - The immediate impact of the president's executive order is that 35 Russian diplomats will be expelled from the U.S. and two Russian compounds will be closed.`  
-    - [link](https://www.npr.org/sections/thetwo-way/2016/12/29/507430861/u-s-retaliates-against-russia-over-cyberattacks)
-    
+    - `The White House has announced new actions targeting Russia in response to what U.S. officials say were cyberattacks intended to interfere with the U.S. election.`
+      
+      `In a statement Thursday, President Obama said, "All Americans should be alarmed by Russia's actions," referring to hacks of the Democratic National Committee. Obama also cited an "unacceptable level of harassment" of American diplomats by Russian security services and police in Moscow.
+      
+      `The immediate impact of the president's executive order is that 35 Russian diplomats will be expelled from the U.S. and two Russian compounds will be closed.` - [Obama Announces Sanctions Against Russia In Response To Alleged Hacking, NPR, 2016](https://www.npr.org/sections/thetwo-way/2016/12/29/507430861/u-s-retaliates-against-russia-over-cyberattacks)
 - On 29 December 2016, Flynn spoke to Kislyak about the sanctions and expelled Russian diplomats.
     
     - `On December 29, 2016, as noted in Volume II, Section II.A.4, supra, the Obama Administration announced that it was imposing sanctions and other measures on several Russian individuals and entities. That day, multiple members of the PTT exchanged emails about the sanctions and the impact they would have on the incoming Administration, and Flynn informed members of the PTT that he would be speaking to the Russian Ambassador later in the day.` - [Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Department of Justice, 2019](https://www.justice.gov/archives/sco/file/1373816/download)
