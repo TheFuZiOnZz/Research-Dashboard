@@ -98,9 +98,16 @@
 	- ` ` - [Parliament: MPs and peers return after court rules suspension unlawful, BBC News, 2019](https://www.bbc.co.uk/news/uk-politics-49820038)
 - On  September 2019, 
 	- ` ` - []()
+# 2019 No-Deal Readiness Report
+-
 # 2019 General Election
 - [Wiki](https://en.wikipedia.org/wiki/2019_United_Kingdom_general_election)
-- 
+- On 31 October 2019, the Early Parliamentary General Election Act 2019 is given royal assent causing a general election will now be held on 12 December 2019.
+	- `The following Acts were given Royal Assent:`
+	  
+	  `Early Parliamentary General Election Act`
+	  
+	  `Northern Ireland Budget Act.` - [Royal Assent for Early Parliamentary General Election Act, UK Parliament, 2019](https://hansard.parliament.uk/lords/2019-10-31/debates/E095C72C-6D9D-489F-BD54-CB67D51A195E/RoyalAssent)
 # 2020 Brexit Withdrawal Agreement
 - [Wiki](https://en.wikipedia.org/wiki/Brexit_withdrawal_agreement)
 - The Brexit withdrawal agreement, officially titled Agreement on the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union and the European Atomic Energy Community, is a treaty between the European Union (EU), Euratom, and the United Kingdom (UK), signed on 24 January 2020, setting the terms of the withdrawal of the UK from the EU and Euratom.
