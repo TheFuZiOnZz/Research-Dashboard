@@ -32,6 +32,9 @@
 	- ` ` - [Theresa May loses amendment vote 312-308 as MPs push to reject no-deal Brexit completely, The Guardian, 2019](https://inews.co.uk/news/brexit/no-deal-brexit-amendment-caroline-spelman-269122)
 - On 14 March 2019, With the UK set to leave the EU on 29 March without a deal in place, MPs vote on an amended motion on whether Article 50 should be extended beyond 29 March. By 413 votes to 202, the motion passes.
 	- ` ` - [MPs back Brexit delay as votes lay bare cabinet divisions, The Guardian, 2019](https://www.theguardian.com/politics/2019/mar/14/mps-vote-by-majority-of-210-to-extend-article-50-and-delay-brexit)
+# Extensions to Triggering Article 50
+- On 20 March 2019, the Prime Minister wrote to European Council President Tusk requesting that Brexit be postponed until 30 June 2019.
+	- ` ` - [Brexit: 'Tired' public needs a decision, says Theresa May. BBC News, 2019](https://www.bbc.co.uk/news/uk-politics-47647515)
 # Operation Yellowhammer
 - [Wiki](https://en.wikipedia.org/wiki/Operation_Yellowhammer)
 - On 25 March 2019, 
