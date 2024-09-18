@@ -1,4 +1,4 @@
-### Russian Social `Active Measures` Campaign
+# Russian Social `Active Measures` Campaign
 - [link](https://rationalwiki.org/wiki/Mueller_investigation)
 - [link](https://www.nytimes.com/interactive/2019/04/18/us/politics/mueller-report-document.html)
 - On 7 October 2016,
@@ -6,10 +6,10 @@
 - [link](https://web.archive.org/web/20221209090405/https://intelligence.house.gov/uploadedfiles/2018_02_27_13_40_38_twitter_suppression.pdf) - examples of the social media content disseminated by Russian Trolls
 - [link](https://web.archive.org/web/20221209090443/https://intelligence.house.gov/social-media-content/social-media-advertisements.htm) - multiple packs of examples of the social media content disseminated by Russian Trolls
 - [link](https://web.archive.org/web/20221209090440/https://intelligence.house.gov/uploadedfiles/hpsci_minority_exhibits_memo_11.1.17.pdf) - Numbers from the social media platforms on Russia-Linked Accounts
-### Russian Hacking & Dumping Operations
-#### GRU’s Persona `DCLeaks`
+# Russian Hacking & Dumping Operations
+## GRU’s Persona `DCLeaks`
 - 
-#### GRU’s Persona `Guccifer 2.0`
+## GRU’s Persona `Guccifer 2.0`
 - On 12 January 2017, `Guccifer 2.0` released a blog post stating that accusations of ties with the Russian Government were unfounded.
     
     - `I really hope you’ve missed me a lot. Though I see they didn’t let you forget my name. The U.S. intelligence agencies have published several reports of late claiming I have ties with Russia.  
@@ -21,7 +21,7 @@
     - Any IT professional can see that a malware sample mentioned in the Joint Analysis Report was taken from the web and was commonly available. A lot of hackers use it. I think it was inserted in the report to make it look a bit more plausible.`  
     - [link](https://guccifer2.wordpress.com/2017/01/12/fake-evidence/)
     
-#### Wikileaks
+## Wikileaks
 - [link](https://www.theatlantic.com/politics/archive/2017/11/the-secret-correspondence-between-donald-trump-jr-and-wikileaks/545738/) assange telling trump jr to tell trump not to concede if trump lost 2016
 - [Wiki](https://en.wikipedia.org/wiki/2016_Democratic_National_Committee_email_leak)
 - [Wiki](https://en.wikipedia.org/wiki/Podesta_emails)
@@ -33,7 +33,7 @@
     
     - `On October 7, 2016, four days after the Assange press conference, the Washington Post published an Access Hollywood video that ... captured comments by candidate Trump some years earlier and that was expected to adversely affect the Campaign. Less than an hour after the video’s publication, WikiLeaks released the first set of emails stolen by the GRU from the account of Clinton Campaign chairman John Podesta.` - Mueller Report [link](https://www.justice.gov/archives/sco/file/1373816/download)
     
-### Meeting at Trump Tower with Veselnitskaya
+# Meeting at Trump Tower with Veselnitskaya
 - [Wiki](https://en.wikipedia.org/wiki/Trump_Tower_meeting)
 - On 9 June 2016, Trump held a meeting with Russian attorney, Natalia Veselnitskaya, and other members of the Trump Campaign on receiving damaging information on Clinton.
     
