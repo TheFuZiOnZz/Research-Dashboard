@@ -1,4 +1,3 @@
-### 2019- `40 New Hospitals` Manifesto Pledge
 - On 24 November 2019, in the 2019 Conservative Party Manifesto, they pledged to build 40 new hospitals and upgrade 20 by 2030.
     
     - `We will build and fund 40 new hospitals over the next 10 years. This is on top of the 20 hospital upgrades announced in the summer.` [link](https://assets-global.website-files.com/5da42e2cae7ebd3f8bde353c/5dda924905da587992a064ba_Conservative%202019%20Manifesto.pdf)

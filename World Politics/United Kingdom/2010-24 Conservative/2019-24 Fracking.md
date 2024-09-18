@@ -1,4 +1,3 @@
-### 2019- Fracking
 - In the 2019 Conservative Manifesto, it mentioned not supporting fracking.
     
     - `We placed a moratorium on fracking in England with immediate effect. Having listened to local communities, we have ruled out changes to the planning system. We will not support fracking unless the science shows categorically that it can be done safely.` [link](https://assets-global.website-files.com/5da42e2cae7ebd3f8bde353c/5dda924905da587992a064ba_Conservative%202019%20Manifesto.pdf)
@@ -40,7 +39,7 @@
     - During his first prime minister’s questions in the House of Commons on Wednesday, the new UK prime minister told MPs that he “stands by” the Conservative party’s 2019 manifesto commitment that halted fracking. The overarching ban was briefly lifted by Truss during her brief period as prime minister.`  
     - [link](https://www.ft.com/content/919a8582-f86b-4a3f-abbe-abe92ace1ed4)
     
-### Research Studies
+# Research Studies
 - A 2014 Government Report found that:
     
     - `At present there is limited environmental and health surveillance data within the published literature in relation to existing shale gas extraction operations. There have been very few epidemiological studies and those that have been carried out generally lack robust exposure assessments. A few studies have suggested associations between adverse health impacts and shale gas extraction activities; however, the authors have highlighted a number of limitations within these studies and it is evident that further work is required. The UK has an opportunity, in advance of significant development of shale gas extraction activities, to consider appropriate environmental and epidemiological studies to strengthen the evidence base on potential health impacts. However, the challenge for any investigation is that potential  
