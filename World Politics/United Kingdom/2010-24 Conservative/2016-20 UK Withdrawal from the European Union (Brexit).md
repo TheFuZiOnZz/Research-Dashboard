@@ -16,8 +16,8 @@
 - [Wiki](https://en.wikipedia.org/wiki/Chequers_plan)
 - On 6 July 2018,
 - On 9 July 2018,
-	- ` ` - [Brexit secretary David Davis resigns plunging government into crisis](https://www.theguardian.com/politics/2018/jul/08/david-davis-resigns-as-brexit-secretary-reports-say)
-	- ` ` - [May's plan 'sticks in the throat', says Boris Johnson as he resigns over Brexit](https://www.theguardian.com/politics/2018/jul/09/boris-johnson-resigns-as-foreign-secretary-brexit)
+	- ` ` - [Brexit secretary David Davis resigns plunging government into crisis, The Guardian, 2018](https://www.theguardian.com/politics/2018/jul/08/david-davis-resigns-as-brexit-secretary-reports-say)
+	- ` ` - [May's plan 'sticks in the throat', says Boris Johnson as he resigns over Brexit, The Guardian, 2018](https://www.theguardian.com/politics/2018/jul/09/boris-johnson-resigns-as-foreign-secretary-brexit)
 - On 12 July 2018, 
 	- ` ` - [The Future Relationship Between the United Kingdom And the European Union, HM Government, 2018](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/786626/The_Future_Relationship_between_the_United_Kingdom_and_the_European_Union_120319.pdf)
 # First Draft of EU-UK Withdrawal Agreement
@@ -27,11 +27,11 @@
 - On 15 November 2018, Four ministers, including Raab, resign from the government.
 	- ` ` - [Four resignations and a threat: Read the letters in full, Sky News, 2018](https://news.sky.com/story/we-quit-read-each-ministers-resignation-letters-in-full-11554767)
 - On 12 March 2019, The House of Commons holds the second meaningful vote on the deal. MPs again reject the deal, this time by 391 votes against to 242 in favour, a majority of 149.
-	- ` ` - [Theresa May loses Brexit vote by crushing margin of 149 - and is now expected to come out against no-deal](https://www.telegraph.co.uk/politics/2019/03/12/brexit-vote-latest-news-meaningful-vote-result-theresa-may-deal/)
+	- ` ` - [Theresa May loses Brexit vote by crushing margin of 149 - and is now expected to come out against no-deal, The Guardian, 2019](https://www.telegraph.co.uk/politics/2019/03/12/brexit-vote-latest-news-meaningful-vote-result-theresa-may-deal/)
 - On 13 March 2019, an amendment to the government's Brexit plans—that the UK must not leave the EU without a deal—is debated by the House of Commons. MPs vote in favour of the amendment, thereby rejecting a no-deal Brexit, by 312 to 308.
-	- ` ` - [Theresa May loses amendment vote 312-308 as MPs push to reject no-deal Brexit completely](https://inews.co.uk/news/brexit/no-deal-brexit-amendment-caroline-spelman-269122)
+	- ` ` - [Theresa May loses amendment vote 312-308 as MPs push to reject no-deal Brexit completely, The Guardian, 2019](https://inews.co.uk/news/brexit/no-deal-brexit-amendment-caroline-spelman-269122)
 - On 14 March 2019, With the UK set to leave the EU on 29 March without a deal in place, MPs vote on an amended motion on whether Article 50 should be extended beyond 29 March. By 413 votes to 202, the motion passes.
-	- ` ` - [MPs back Brexit delay as votes lay bare cabinet divisions](https://www.theguardian.com/politics/2019/mar/14/mps-vote-by-majority-of-210-to-extend-article-50-and-delay-brexit)
+	- ` ` - [MPs back Brexit delay as votes lay bare cabinet divisions, The Guardian, 2019](https://www.theguardian.com/politics/2019/mar/14/mps-vote-by-majority-of-210-to-extend-article-50-and-delay-brexit)
 # Operation Yellowhammer
 - [Wiki](https://en.wikipedia.org/wiki/Operation_Yellowhammer)
 - On 25 March 2019, 
