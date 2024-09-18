@@ -76,9 +76,9 @@
 - On 4 September 2019, Conservative Chief Whip Mark Spencer phones the 21 MPs who voted in favour of Letwin's motion to suspend them from the Conservative Party. Johnson now has a majority of minus 43.
 	- ` ` - [Tory whip removed: The 21 Conservative MPs who voted against Boris Johnson's government, The Standard, 2019](https://www.standard.co.uk/news/politics/tory-rebellion-the-21-conservative-mps-who-will-have-the-whip-withdrawn-after-voting-against-the-government-a4228391.html)
 - On 4 September 2019, The European Union (Withdrawal) (No. 6) Bill passes all its stages in the House of Commons. In its third reading, MPs vote in its favour by 327 to 299.
-	- ` ` - []()
+	- ` ` - [Brexit: MPs back bill aimed at blocking no deal, BBC News, 2019](https://www.bbc.co.uk/news/uk-politics-49580185)
 - On 5 September 2019, Answering a question during a Q&A at a police training college in Wakefield, Johnson asserts that he would rather be "dead in a ditch" than request another extension to the Article 50 period.
-	- ` ` - []()
+	- ` ` - [Boris Johnson: I would rather be dead in a ditch than ask for an extension to Brexit, PoliticsHome, 2019](https://www.politicshome.com/news/article/boris-johnson-i-would-rather-be-dead-in-a-ditch-than-ask-for-an-extension-to-brexit)
 - On 6 September 2019, A panel of three senior judges in the High Court in England reject an appeal brought by Miller against the prorogation, R (Miller) v The Prime Minister, and rule that the decision is not justiciable, i.e., it is a political question rather than a legal one. The court therefore declines to intervene.
 	- ` ` - []()
 - On 9 September 2019, Benn's bill achieves royal assent and becomes the European Union (Withdrawal) (No. 2) Act 2019.
