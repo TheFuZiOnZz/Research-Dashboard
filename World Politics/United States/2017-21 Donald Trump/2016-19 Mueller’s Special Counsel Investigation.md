@@ -212,23 +212,18 @@
       
       `The documents do not disclose what Mr. Trump knew about Mr. Flynn’s discussions. But in at least one instance, prosecutors say, Mr. Flynn was directed by a “very senior member” of the presidential transition team to discuss a United Nations resolution. Mr. Trump’s lawyers believe that unnamed aide was Mr. Trump’s son-in-law and close adviser, Jared Kushner, according to a lawyer briefed on the matter.` - [Michael Flynn Pleads Guilty to Lying to the F.B.I. and Will Cooperate With Russia Inquiry, The New York Times, 2017](https://www.nytimes.com/2017/12/01/us/politics/michael-flynn-guilty-russia-investigation.html)
 - On 2 December 2017, President Trump stated that he "had to fire General Flynn because he lied to the Vice President and the FBI", noting that Flynn had "pled guilty to those lies".
-    
-    - `President Donald Trump in a tweet on Saturday said he fired his former National Security Adviser Michael Flynn because Flynn lied to the vice president — and the FBI.  
-    -   
-    - If that is indeed the case, that means Trump knew that Flynn had lied to the FBI when he asked FBI Director James Comey to drop his inquiry into Flynn and then fired Comey when he failed to do so.  
-    -   
-    - “I had to fire General Flynn because he lied to the Vice President and the FBI,” Trump said in a midday tweet. “He has pled guilty to those lies. It is a shame because his actions during the transition were lawful. There was nothing to hide!”`  
-    - [link](https://www.vox.com/2017/12/2/16727988/trump-michael-flynn-fbi-lies-obstruction)
-    
+    - `President Donald Trump in a tweet on Saturday said he fired his former National Security Adviser Michael Flynn because Flynn lied to the vice president — and the FBI.`
+      
+      `If that is indeed the case, that means Trump knew that Flynn had lied to the FBI when he asked FBI Director James Comey to drop his inquiry into Flynn and then fired Comey when he failed to do so.`
+      
+      `“I had to fire General Flynn because he lied to the Vice President and the FBI,” Trump said in a midday tweet. “He has pled guilty to those lies. It is a shame because his actions during the transition were lawful. There was nothing to hide!”` - [Trump: I knew Michael Flynn lied to the FBI when I fired him, Vox, 2017](https://www.vox.com/2017/12/2/16727988/trump-michael-flynn-fbi-lies-obstruction)
 - On 21 December 2017, Pence stated to CBS News that by the time Flynn departed the Trump administration, "I knew that he lied to me". Pence also said that Trump "made the right decision" to remove Flynn.
-    
-    - `Vice President Mike Pence told CBS News' Margaret Brennan Thursday that he knew former National Security Adviser Michael Flynn had lied to him about his contacts with the Russians when Flynn was fired in February. Brennan spoke with Pence during the vice president's surprise trip to Afghanistan.  
-    -   
-    - Flynn, who's now cooperating with special counsel Robert Mueller's probe of Russian election interference, pled guilty last month to lying to the FBI. He told investigators he'd never discussed U.S. sanctions against Russia with a Russian ambassador when those sanctions were imposed by the Obama administration shortly after the 2016 election.  
+    - `Vice President Mike Pence told CBS News' Margaret Brennan Thursday that he knew former National Security Adviser Michael Flynn had lied to him about his contacts with the Russians when Flynn was fired in February. Brennan spoke with Pence during the vice president's surprise trip to Afghanistan.`
+      
+      `Flynn, who's now cooperating with special counsel Robert Mueller's probe of Russian election interference, pled guilty last month to lying to the FBI. He told investigators he'd never discussed U.S. sanctions against Russia with a Russian ambassador when those sanctions were imposed by the Obama administration shortly after the 2016 election.  
     -   
     - Before Flynn's claim was publicly revealed as a lie, however, it was repeated by Pence during a January 15 interview with Face the Nation moderator John Dickerson. Pence said he'd spoken with Flynn about his Christmas Day interaction with a Russian envoy. "He had sent a text to the Russian ambassador to express not only Christmas wishes but sympathy for the loss of life in the airplane crash that took place," Pence said. "It was strictly coincidental that they had a conversation. They did not discuss anything having to do with the United States' decision to expel diplomats or impose censure against Russia."  
     - [link](https://www.cbsnews.com/news/pence-i-knew-flynn-lied-to-me-about-russian-contacts-when-he-was-fired/)
-    
 # Steele Dossier & it Becoming Public
 - The Steele Dossier is a unfinished 35-page political opposition research report of raw intelligence written from June to December 2016 based on information from initially anonymous sources known to the author, counterintelligence specialist, Christopher Steele, a former head of the Russia Desk for British intelligence (MI6), containing allegations of misconduct, conspiracy, and cooperation between Donald Trump's presidential campaign and the government of Russia prior to and during the 2016 election campaign.
 - On 19 September 2016, Steele's FBI handling agent sent six of Steele's reports (80, 94, 95, 100, 101, and 102) to the Crossfire Hurricane team, 3 months after the investigation started. This was the first time they and their leader, Deputy Assistant Director of the FBI's Counterespionage Section, Peter Strzok, received any of Steele's reporting.
