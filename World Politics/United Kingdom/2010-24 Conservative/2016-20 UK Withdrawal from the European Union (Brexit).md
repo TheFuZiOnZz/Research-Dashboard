@@ -83,12 +83,15 @@
 	- ` ` - []()
 - On 9 September 2019, Benn's bill achieves royal assent and becomes the European Union (Withdrawal) (No. 2) Act 2019.
 	- ` ` - []()
-- On 11 September 2019, The UK Supreme Courts found that
+- On 11 September 2019, The England and Wales High Court found that
     - `In our view, the decision of the Prime Minister to advise Her Majesty the Queen to prorogue Parliament is not justiciable in Her Majesty's courts.` [link](https://www.bailii.org/ew/cases/EWHC/QB/2019/2381.html)
-- On  September 2019, 
+- On 24 September 2019, The Supreme Court delivers its verdict on the Miller and the Cherry cases. Sitting en banc for only the second time in the court's history, the judges unanimously reverse the High Court's decision, saying that Johnson's decision is justiciable. They also rule that the prorogation was "unlawful, null and of no effect", i.e., Parliament was never prorogued.
 	- ` ` - []()
-- On  September 2019, 
-	- ` ` - []()
+- On 25 September 2019, Following the Supreme Court's verdict, MPs are recalled to the House of Commons.
+	- `For the purposes of the present case, therefore, the relevant limit upon the power to prorogue can be expressed in this way: that a decision to prorogue Parliament (or to advise the monarch to prorogue Parliament) will be unlawful if the prorogation has the effect of frustrating or preventing, without reasonable justification, the ability of Parliament to carry out its constitutional functions as a legislature and as the body responsible for the supervision of the executive. In such a situation, the court will intervene if the effect is sufficiently serious to justify such an exceptional course.` - [R (on the application of Miller) v The Prime Minister; Cherry and Others v Advocate General for Scotland, Judgment, United Kingdom Supreme Court, 2019](https://www.bailii.org/uk/cases/UKSC/2019/41.html)
+	- `It follows that Parliament has not been prorogued and that this court should make declarations to that effect. We have been told by counsel for the Prime Minister that he will “take all necessary steps to comply with the terms of any declaration made by the court” and we expect him to do so. However, it appears to us that, as Parliament is not prorogued, it is for Parliament to decide what to do next. There is no need for Parliament to be recalled under the Meeting of Parliament Act 1797. Nor has Parliament voted to adjourn or go into recess. Unless there is some Parliamentary rule to the contrary of which we are unaware, the Speaker of the House of Commons and the Lord Speaker can take immediate steps to enable each House to meet as soon as possible to decide upon a way forward. That would, of course, be a proceeding in Parliament which could not be called in question in this or any other court.`
+	  
+	  `Thus the Advocate General’s appeal in the case of Cherry is dismissed and Mrs Miller’s appeal is allowed. The same declarations and orders should be made in each case.` - [R (on the application of Miller) v The Prime Minister; Cherry and Others v Advocate General for Scotland, Judgment, United Kingdom Supreme Court, 2019](https://www.bailii.org/uk/cases/UKSC/2019/41.html)
 - On  September 2019, 
 	- ` ` - []()
 # 2019 General Election
