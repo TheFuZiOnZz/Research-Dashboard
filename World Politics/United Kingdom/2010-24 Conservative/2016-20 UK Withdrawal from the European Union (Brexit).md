@@ -80,7 +80,11 @@
 - On 5 September 2019, Answering a question during a Q&A at a police training college in Wakefield, Johnson asserts that he would rather be "dead in a ditch" than request another extension to the Article 50 period.
 	- ` ` - [Boris Johnson: I would rather be dead in a ditch than ask for an extension to Brexit, PoliticsHome, 2019](https://www.politicshome.com/news/article/boris-johnson-i-would-rather-be-dead-in-a-ditch-than-ask-for-an-extension-to-brexit)
 - On 9 September 2019, Benn's bill achieves royal assent and becomes the European Union (Withdrawal) (No. 2) Act 2019.
-	- ` ` - [European Union (Withdrawal) (No. 2) Act, Stages, ](https://bills.parliament.uk/bills/2454/stages)
+	- `The following Acts were given Royal Assent:`
+	  
+	  `Kew Gardens (Leases) Act`
+	  
+	  `European Union (Withdrawal) (No. 2) Act.` - [Royal Assent for European Union (Withdrawal) (No. 2) Act, UK Parliament, 2019](https://hansard.parliament.uk/lords/2019-09-09/debates/673DE0AD-F610-4C88-8B12-9CA778B46C59/RoyalAssent)
 - On 24 September 2019, The Supreme Court delivers its verdict on the Miller and the Cherry cases. Sitting en banc for only the second time in the court's history, the judges unanimously reverse the High Court's decision, saying that Johnson's decision is justiciable. They also rule that the prorogation was "unlawful, null and of no effect", i.e., Parliament was never prorogued.
 	- `For the purposes of the present case, therefore, the relevant limit upon the power to prorogue can be expressed in this way: that a decision to prorogue Parliament (or to advise the monarch to prorogue Parliament) will be unlawful if the prorogation has the effect of frustrating or preventing, without reasonable justification, the ability of Parliament to carry out its constitutional functions as a legislature and as the body responsible for the supervision of the executive. In such a situation, the court will intervene if the effect is sufficiently serious to justify such an exceptional course.`
 	  
@@ -91,7 +95,7 @@
 	  
 	  `Thus the Advocate General’s appeal in the case of Cherry is dismissed and Mrs Miller’s appeal is allowed. The same declarations and orders should be made in each case.` - [R (on the application of Miller) v The Prime Minister; Cherry and Others v Advocate General for Scotland, Judgment, United Kingdom Supreme Court, 2019](https://www.bailii.org/uk/cases/UKSC/2019/41.pdf)
 - On 25 September 2019, Following the Supreme Court's verdict, MPs are recalled to the House of Commons.
-	- ` ` - []()
+	- ` ` - [Boris Johnson returns to UK to face Parliament after Supreme Court ruling. CNN, 2019](https://edition.cnn.com/uk/live-news/boris-johnson-parliament-returns-dle-intl/index.html)
 - On  September 2019, 
 	- ` ` - []()
 # 2019 General Election
