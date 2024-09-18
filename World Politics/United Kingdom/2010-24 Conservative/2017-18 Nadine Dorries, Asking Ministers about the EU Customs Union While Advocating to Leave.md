@@ -9,4 +9,4 @@
       
       `Kemi Badenoch, one of the Tories' rising stars, replied minutes later, reminding Dorries of the ERG's position: Britain won’t be free to strike its own trade deals with countries such as the US unless it withdraws fully from the EU’s customs union.`
       
-      `"But, other countries who are members of the CU do," Dorries replied. "That's why I asked. Do they have exceptions? This was a question in a discussion last night. I need to find out what countries are members and have free trade agreements with other countries first."` - [link](https://www.buzzfeed.com/alexspence/heres-a-leaked-whatsapp-chat-showing-tory-leavers-confusion)    
+      `"But, other countries who are members of the CU do," Dorries replied. "That's why I asked. Do they have exceptions? This was a question in a discussion last night. I need to find out what countries are members and have free trade agreements with other countries first."` - [Here's A Leaked WhatsApp Chat Showing Tory Leavers' Confusion About One Of Their Key Brexit Demands, BuzzFeed News, 2018](https://www.buzzfeed.com/alexspence/heres-a-leaked-whatsapp-chat-showing-tory-leavers-confusion)
