@@ -30,7 +30,8 @@
 	- ` ` - [Theresa May loses Brexit vote by crushing margin of 149 - and is now expected to come out against no-deal](https://www.telegraph.co.uk/politics/2019/03/12/brexit-vote-latest-news-meaningful-vote-result-theresa-may-deal/)
 - On 13 March 2019, an amendment to the government's Brexit plans—that the UK must not leave the EU without a deal—is debated by the House of Commons. MPs vote in favour of the amendment, thereby rejecting a no-deal Brexit, by 312 to 308.
 	- ` ` - [Theresa May loses amendment vote 312-308 as MPs push to reject no-deal Brexit completely](https://inews.co.uk/news/brexit/no-deal-brexit-amendment-caroline-spelman-269122)
-- On 14 March 2019, With the UK set to leave the EU on 29 March without a deal in place, MPs vote on an amended motion on whether Article 50 should be extended beyond 29 March. By 413 votes to 202, the motion passes.[185]
+- On 14 March 2019, With the UK set to leave the EU on 29 March without a deal in place, MPs vote on an amended motion on whether Article 50 should be extended beyond 29 March. By 413 votes to 202, the motion passes.
+	- ` ` - [MPs back Brexit delay as votes lay bare cabinet divisions](https://www.theguardian.com/politics/2019/mar/14/mps-vote-by-majority-of-210-to-extend-article-50-and-delay-brexit)
 # Operation Yellowhammer
 - [Wiki](https://en.wikipedia.org/wiki/Operation_Yellowhammer)
 - On 25 March 2019, 
