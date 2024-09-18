@@ -43,7 +43,7 @@
     
     - `` - Mueller Report [link](https://www.justice.gov/archives/sco/file/1373816/download)
     
-### Papadopoulos’ Meets Mifsud About `dirt` on Clinton, Opening Crossfire Hurricane Investigation
+# Papadopoulos’ Meets Mifsud About `dirt` on Clinton, Opening Crossfire Hurricane Investigation
 - On 26 April 2016, Papadopoulos’ Meets Mifsud, Mifsud says they have thousands of Clinton’s emails, namely `dirt`.
     
     - `After a stop in Rome, Mifsud returned to England on April 25, 2016. The next day, Papadopoulos met Mifsud for breakfast at the Andaz Hotel (the same location as their last meeting). During that meeting, Mifsud told Papadopoulos that he had met with high-level  
@@ -69,7 +69,7 @@
     
     - `July 2016 was also the month WikiLeaks first released emails stolen by the GRU from the DNC. On July 22, 2016, WikiLeaks posted thousands of internal DNC documents revealing information about the Clinton Campaign. Within days, there was public reporting that U.S. intelligence agencies had “high confidence” that the Russian government was behind the theft of emails and documents from the DNC. And within a week of the release, a foreign government informed the FBI about its May 2016 interaction with Papadopoulos and his statement that the Russian government could assist the Trump Campaign. On July 31, 2016, based on the foreign government reporting, the FBI opened an investigation into potential coordination between the Russian government and individuals associated with the Trump Campaign.` - Mueller Report [link](https://www.justice.gov/archives/sco/file/1373816/download)
     
-### Trump Campaign’s Response to Reports About Russian Support for Trump
+# Trump Campaign’s Response to Reports About Russian Support for Trump
 - On 26 February 2016, Reuters reported Russian ties to Flynn.
     
     - `Donald Trump is receiving foreign policy advice from a former U.S. military intelligence chief who wants the United States to work more closely with Russia to resolve global security issues, according to three sources.  
@@ -121,7 +121,7 @@
     - The activities of Trump adviser Carter Page, who has extensive business interests in Russia, have been discussed with senior members of Congress during recent briefings about suspected efforts by Moscow to influence the presidential election, the sources said. After one of those briefings, Senate minority leader Harry Reid wrote FBI Director James Comey, citing reports of meetings between a Trump adviser (a reference to Page) and “high ranking sanctioned individuals” in Moscow over the summer as evidence of “significant and disturbing ties” between the Trump campaign and the Kremlin that needed to be investigated by the bureau.`  
     - [[usintelofficialsprobetiesbetwee]]
     
-### Intelligence Community Report
+# Intelligence Community Report
 - On 6 January 2017, The Office of the Director of National Intelligence released a report on `Assessing Russian Activities and Intentions in Recent US Elections`. The report includes an assessment by the National Security Agency, the Central Intelligence Agency, and the Federal Bureau of Investigation of the type and breadth of actions undertaken by Russia and affiliated elements during the 2016 elections.
     
     - `We assess with high confidence that Russian President Vladimir Putin ordered an influence campaign in 2016 aimed at the US presidential election, the consistent goals of which were to undermine public faith in the US democratic process, denigrate Secretary Clinton, and harm her electability and potential presidency. We further assess Putin and the Russian Government developed a clear preference for President-elect Trump. When it appeared to Moscow that Secretary Clinton was likely to win the election, the Russian influence campaign then focused on undermining her expected presidency.` [link](https://www.dni.gov/files/documents/ICA_2017_01.pdf) - Assessing Russian Activities and Intentions in Recent US Elections
@@ -144,7 +144,7 @@
     
     - `We assess Moscow will apply lessons learned from its campaign aimed at the US presidential election to future influence efforts in the United States and worldwide, including against US allies and their election processes. We assess the Russian intelligence services would have seen their election influence campaign as at least a qualified success because of their perceived ability to impact public discussion.` [link](https://www.dni.gov/files/documents/ICA_2017_01.pdf) - Assessing Russian Activities and Intentions in Recent US Elections
     
-### Michael Flynn Discussing with Russian Officials Leading to Firing
+# Michael Flynn Discussing with Russian Officials Leading to Firing
 - On 16 November 2016, Kislyak had a Meeting with Jared Kushner and Michael Flynn in Trump Tower Following the Election Victory.
     
     - `On November 16, 2016, Catherine Vargas, an executive assistant to Kushner, received a request for a meeting with Russian Ambassador Sergey Kislyak. That same day, Vargas sent Kushner an email with the subject, “MISSED CALL: Russian Ambassador to the US, Sergey  
@@ -329,7 +329,7 @@
     - Before Flynn's claim was publicly revealed as a lie, however, it was repeated by Pence during a January 15 interview with Face the Nation moderator John Dickerson. Pence said he'd spoken with Flynn about his Christmas Day interaction with a Russian envoy. "He had sent a text to the Russian ambassador to express not only Christmas wishes but sympathy for the loss of life in the airplane crash that took place," Pence said. "It was strictly coincidental that they had a conversation. They did not discuss anything having to do with the United States' decision to expel diplomats or impose censure against Russia."  
     - [link](https://www.cbsnews.com/news/pence-i-knew-flynn-lied-to-me-about-russian-contacts-when-he-was-fired/)
     
-### Steele Dossier & it Becoming Public
+# Steele Dossier & it Becoming Public
 - The Steele Dossier is a unfinished 35-page political opposition research report of raw intelligence written from June to December 2016 based on information from initially anonymous sources known to the author, counterintelligence specialist, Christopher Steele, a former head of the Russia Desk for British intelligence (MI6), containing allegations of misconduct, conspiracy, and cooperation between Donald Trump's presidential campaign and the government of Russia prior to and during the 2016 election campaign.
 - On 19 September 2016, Steele's FBI handling agent sent six of Steele's reports (80, 94, 95, 100, 101, and 102) to the Crossfire Hurricane team, 3 months after the investigation started. This was the first time they and their leader, Deputy Assistant Director of the FBI's Counterespionage Section, Peter Strzok, received any of Steele's reporting.
     
@@ -384,7 +384,7 @@
     - We asked the Supervisory Intel Analyst whether the FBI sought to determine who was financing Steele's election related research. He said that the focus of the analysts was on Russian interference in the campaign and on any connections between Russia and the Trump campaign. He stated that he was aware of the potential for political influences on the reporting. He said that, because of that awareness, whether the reporting was "opposition research" that was politically motivated was not an issue that occupied his or his analysts' attention and that further research on the issue was nearly "immaterial." He explained that because "opposition research can be true, it can be false," his focus was on vetting the reporting to determine whether its contents were accurate.` - Review of Four FISA Applications and Other Aspects of the FBI’s Crossfire Hurricane Investigation  
     - [link](https://www.justice.gov/storage/120919-examination.pdf)
     
-### Sessions’ Recuses From any Russia Investigation
+# Sessions’ Recuses From any Russia Investigation
 - On 10 January 2017, During Jeff Sessions' Judiciary Committee confirmation hearing, Senator Al Franken asked him what he would do as Attorney General if there is any evidence that anyone affiliated with the Trump campaign communicated with the Russian government in the course of this campaign. Franken was referring to the Steele Dossier.
     
     - `SEN. AL FRANKEN: “If there was any evidence that anyone affiliated with the Trump campaign communicated with the Russian government in the course of this (2016) campaign, what would you do?,” the Minnesota Democrat asked.  
@@ -429,7 +429,7 @@
     
     - `That weekend, Sessions and McGahn flew to Mar-a-Lago to meet with the President. Sessions recalled that the President pulled him aside to speak to him alone and suggested that Sessions should “unrecuse” from the Russia investigation. The President contrasted Sessions with Attorneys General Holder and Kennedy, who had developed a strategy to help their presidents where Sessions had not. Sessions said he had the impression that the President feared that the investigation could spin out of control and disrupt his ability to govern, which Sessions could have helped avert if he were still overseeing it.` - Mueller Report [link](https://www.justice.gov/archives/sco/file/1373816/download)
     
-### Trump Firing Comey, Starting Mueller’s Investigation
+# Trump Firing Comey, Starting Mueller’s Investigation
 - On 26 April - 2 May 2017, Trump told advisors that he wanted Comey to make public that Trump was not under investigation at Comey’s upcoming hearing and if not that this would be Comey’s final straw.
     
     - `McGahn recalled that in the week leading up to the hearing the President said that it would be the last straw if Comey did not take the opportunity to set the record straight by publicly announcing that the President was not under investigation. The President  
@@ -500,7 +500,7 @@
     - Then the President asked why there had been a congressional hearing about Russia the previous week – at which I had, as the Department of Justice directed, confirmed the investigation into possible coordination between Russia and the Trump campaign. I explained the demands from the leadership of both parties in Congress for more information, and that Senator Grassley had even held up the confirmation of the Deputy Attorney General until we briefed him in detail on the investigation. I explained that we had briefed the leadership of Congress on exactly which individuals we were investigating and that we had told those Congressional leaders that we were not personally investigating President Trump. I reminded him I had previously told him that. He repeatedly told me, “We need to get that fact out.” (I did not tell the President that the FBI and the Department of Justice had been reluctant to make public statements that we did not have an open case on President Trump for a number of reasons, most importantly because it would create a duty to correct, should that change.)` Comey’s Statement for the Record for the Senate Select Committee on Intelligence -  
     - [link](https://www.intelligence.senate.gov/sites/default/files/documents/os-jcomey-060817.pdf)
     
-### Trump Reacts to Mueller’s Investigation
+# Trump Reacts to Mueller’s Investigation
 - On 17 May 2017, Just after Mueller’s appointment, Trump expresses his discontent about Mueller’s Investigation to White House Staff and Sessions, claims that `This is the end of my Presidency` and that Sessions should of protected him.
     
     - `On May 17, 2017, Acting Attorney General Rosenstein appointed Robert S. Mueller, III as Special Counsel and authorized him to conduct the Russia investigation and matters that arose from the investigation. The President learned of the Special Counsel’s appointment from Sessions, who was with the President, Hunt, and McGahn conducting interviews for a new FBI Director. Sessions stepped out of the Oval Office to take a call from Rosenstein, who told him about the Special Counsel appointment, and Sessions then returned to inform the President of the news. According to notes written by Hunt, when Sessions told the President that a Special Counsel had been appointed, the President slumped back in his chair and said, “Oh my God. This is terrible. This is the end of my Presidency. I’m fucked.” The President became angry and lambasted the Attorney General for his decision to recuse from the investigation, stating, “How could you let this happen, Jeff?” The President said the position of Attorney General was his most important appointment and that Sessions had “let [him] down,” contrasting him to Eric Holder and Robert Kennedy. Sessions recalled that the President said to him, “you were supposed to protect me,” or words to that effect. The President returned to the consequences of the appointment and said, “Everyone tells me if you get one of these independent counsels it ruins your presidency. It takes years and years and I won’t be able to do anything. This is the worst thing that ever happened to me.”` - Mueller Report [link](https://www.justice.gov/archives/sco/file/1373816/download)
@@ -526,7 +526,7 @@
     
     - `It was not until May 30, three days after the President returned from the trip, that the President returned the letter to Sessions with a notation saying, “Not accepted.”` - Mueller Report [link](https://www.justice.gov/archives/sco/file/1373816/download)
     
-### Trump Tries to Remove Mueller
+# Trump Tries to Remove Mueller
 - On 14 June 2017, The Washington Post releases an article revealing that Trump is under investigation for Obstruction of Justice.
     
     - `The special counsel overseeing the investigation into Russia’s role in the 2016 election is interviewing senior intelligence officials as part of a widening probe that now includes an examination of whether President Trump attempted to obstruct justice, officials said.  
@@ -557,7 +557,7 @@
     - That evening, McGahn called both Priebus and Bannon and told them that he intended to resign. McGahn recalled that, after speaking with his attorney and given the nature of the President’s request, he decided not to share details of the President’s request with other White House staff. Priebus recalled that McGahn said that the President had asked him to “do crazy shit,” but he thought McGahn did not tell him the specifics of the President’s request because McGahn was trying to protect Priebus from what he did not need to know. Priebus and Bannon both urged McGahn not to quit, and McGahn ultimately returned to work that Monday and remained in his position. He had not told the President directly that he planned to resign, and when they next saw each other the President did not ask McGahn whether he had followed through with calling Rosenstein.` - Mueller Report  
     - [link](https://www.justice.gov/archives/sco/file/1373816/download)
     
-### Trump Tries to Limit Mueller’s Investigation
+# Trump Tries to Limit Mueller’s Investigation
 - On 19 July 2017, Trump meets with former campaign manager Corey Lewandowski and discusses Sessions’ recusal, which led to Trump voicing a draft speech for Sessions.
     
     - `On June 19, 2017, two days after the President directed McGahn to have the Special Counsel removed, the President met one-on-one in the Oval Office with his former campaign manager Corey Lewandowski. Senior White House advisors described Lewandowski as a “devotee” of the President and said the relationship between the President and Lewandowski was “close.”  
@@ -621,7 +621,7 @@
     
     - `Over the next several days, the President tweeted about Sessions. On the morning of Monday, July 24, 2017, the President criticized Sessions for neglecting to investigate Clinton and called him “beleaguered.” On July 25, the President tweeted, “Attorney General Jeff Sessions has taken a VERY weak position on Hillary Clinton crimes (where are Emails & DNC server) & Intel leakers!” The following day, July 26, the President tweeted, “Why didn’t A.G. Sessions replace Acting FBI Director Andrew McCabe, a Comey friend who was in charge of Clinton investigation.” According to Hunt, in light of the President’s frequent public attacks, Sessions prepared another resignation letter and for the rest of the year carried it with him in his pocket every time he went to the White House.` - Mueller Report [link](https://www.justice.gov/archives/sco/file/1373816/download)
     
-### Trump Orders McGahn to Deny That Trump Tried Removing Mueller
+# Trump Orders McGahn to Deny That Trump Tried Removing Mueller
 - On 25 January 2018, the New York Times reported that in June 2017, Trump had ordered McGahn to have the Department of Justice fire the Special Counsel.
     
     - `On January 25, 2018, the New York Times reported that in June 2017, the President had ordered McGahn to have the Department of Justice fire the Special Counsel. According to the article, “[a]mid the first wave of news media reports that Mr. Mueller was examining a possible obstruction case, the president began to argue that Mr. Mueller had three conflicts of interest that disqualified him from overseeing the investigation.” The article further reported that “[a]fter receiving the president’s order to fire Mr. Mueller, the White House counsel . . . refused to ask the Justice Department to dismiss the special counsel, saying he would quit instead.” The article stated that the president “ultimately backed down after the White House counsel threatened to resign rather than carry out the directive.”` - Mueller Report [link](https://www.justice.gov/archives/sco/file/1373816/download)
@@ -671,7 +671,7 @@
     - Later that day, Porter spoke to McGahn to deliver the President’s message. Porter told McGahn that he had to write a letter to dispute that he was ever ordered to terminate the Special Counsel. McGahn shrugged off the request, explaining that the media reports were true. McGahn told Porter that the President had been insistent on firing the Special Counsel and that McGahn had planned to resign rather than carry out the order, although he had not personally told the President he intended to quit. Porter told McGahn that the President suggested that McGahn would be fired if he did not write the letter. McGahn dismissed the threat, saying that the optics would be terrible if the President followed through with firing him on that basis. McGahn said he would not write the letter the President had requested. Porter said that to his knowledge the issue of McGahn’s letter never came up with the President again, but Porter did recall telling Kelly about his conversation with McGahn.` - Mueller Report  
     - [link](https://www.justice.gov/archives/sco/file/1373816/download)
     
-### Nunes & Schiff Memos
+# Nunes & Schiff Memos
 - On 18 January 2018, Devin Nunes, the then-Chairman of the House Permanent Select Committee on Intelligence, released a memorandum that detailed alleged surveillance abuses by the FBI & DOJ during the investigation.
 - The Nunes memo alleges that the FBI, in the process of seeking a FISA warrant from the Foreign Intelligence Surveillance Court to monitor the communications of Carter Page, a foreign policy advisor to Donald Trump's 2016 presidential campaign, relied on the Steele dossier, an opposition research document funded by the DNC and the Hillary Clinton campaign, without adequately disclosing its political origins. The memo further alleges that the FBI failed to disclose to the FISC that the Steele dossier was partially funded by the DNC and the Clinton campaign, and that a source in the dossier was in touch with a senior DOJ official.
     
@@ -731,7 +731,7 @@
     - The Committee Majority's memorandum, which draws selectively on highly sensitive classified information, includes other distortions and misrepresentations that are contradicted by the underlying classified documents, which the vast majority of Members of the Committee and the House have not had the opportunity to review and which Chairman Nunes chose not to read himself.` - Schiff Memo  
     - [link](https://s3.documentcloud.org/documents/4387026/Unclassified-Schiff-Memo.pdf)
     
-### Barr Letter
+# Barr Letter
 - On 24 March 2019, Barr sent a letter to leaders of the House and Senate Judiciary Committees detailing the purported "principal conclusions" of the Mueller report. The letter included some brief fragments from the Mueller report, but when the document is public, his selections came under scrutiny.
     
     - `In making this determination, we noted that the special counsel recognized that ‘the evidence does not establish that the president was involved in an underlying crime related to Russian election interference,’ and that, while not determinative, the absence of such evidence bears upon the president’s intent with respect to obstruction.` - Barr Letter [link](https://web.archive.org/web/20190401160320/https://judiciary.house.gov/sites/democrats.judiciary.house.gov/files/documents/AG%20March%2024%202019%20Letter%20to%20House%20and%20Senate%20Judiciary%20Committees.pdf)
@@ -764,12 +764,12 @@
     - [link](https://int.nyt.com/data/documenthelper/796-mueller-letter-to-barr/02499959cbfa313c36d4/optimized/full.pdf)
     
 - On 18 April 2019, a redacted version of the Mueller Report was released to the public.
-### Criminal Inditements & Charges
+# Criminal Inditements & Charges
 - [Wiki](https://en.wikipedia.org/wiki/Criminal_charges_brought_in_the_Mueller_special_counsel_investigation)
 - [link](https://www.washingtonpost.com/world/national-security/sessions-discussed-trump-campaign-related-matters-with-russian-ambassador-us-intelligence-intercepts-show/2017/07/21/3e704692-6e44-11e7-9c15-177740635e83_story.html)
 - [link](https://www.washingtonpost.com/graphics/national/trump-russia/)
 - [link](https://www.washingtonpost.com/graphics/2017/national/robert-mueller-special-counsel-indictments-timeline/)
-#### Inditing of a Sitting President
+## Inditing of a Sitting President
 - On 24 September 1973, The Office of Legal Counsel wrote a memo advising the then-Assistant Attorney General Robert Dixon, on the question of `Amenability of the President, Vice President and other Civil Officers to Federal Criminal Prosecution while in Office`.
     
     - `In sum, an interpretation of the Constitution which requires the completion of impeachment proceedings before a criminal prosecution can be instituted would enable persons who are or were employed by the Government to raise a number of extremely technical and complex defenses. It also would pressure Congress to conduct a large number of impeachment proceedings which would weigh heavily on its limited time. Such an interpretation of the Constitution is prima facie erroneous.` - 1973 OLC Memo [link](https://irp.fas.org/agency/doj/olc/092473.pdf)
@@ -795,7 +795,7 @@
     - Third, we considered whether to evaluate the conduct we investigated under the Justice Manual standards governing prosecution and declination decisions, but we determined not to apply an approach that could potentially result in a judgment that the President committed crimes. The threshold step under the Justice Manual standards is to assess whether a person’s conduct “constitutes a federal offense.” U.S. Dep’t of Justice, Justice Manual § 9-27.220(2018) (Justice Manual). Fairness concerns counseled against potentially reaching that judgment when no charges can be brought. The ordinary means for an individual to respond to an accusation is through a speedy and public trial, with all the procedural protections that surround a criminal case. An individual who believes he was wrongly accused can use that process to seek to clear his name. In contrast, a prosecutor’s judgment that crimes were committed, but that no charges will be brought, affords no such adversarial opportunity for public name-clearing before an impartial adjudicator.` - Mueller Report  
     - [link](https://www.justice.gov/archives/sco/file/1373816/download)
     
-#### `Internet Research Agency` Criminal Inditements
+## `Internet Research Agency` Criminal Inditements
 - On 16 February 2018, Yevgeny Prigozhin, the Internet Research Agency, Concord Management, and other connected Russian individuals were indicted by a US grand jury. He was charged with funding and organizing operations for the purpose of interference with the U.S. political and electoral processes, including the 2016 presidential election, and other crimes including identity theft.
     
     - `Defendant INTERNET RESEARCH AGENCY LLC (“ORGANIZATION”) is a Russian organization engaged in operations to interfere with elections and political processes. Defendants MIKHAIL IVANOVICH BYSTROV, MIKHAIL LEONIDOVICH BURCHIK, ALEKSANDRA YURYEVNA KRYLOVA, ANNA VLADISLAVOVNA BOGACHEVA, SERGEY PAVLOVICH POLOZOV, MARIA ANATOLYEVNA BOVDA, ROBERT SERGEYEVICH BOVDA, DZHEYKHUN NASIMI OGLY ASLANOV, VADIM VLADIMIROVICH PODKOPAEV, GLEB IGOREVICH VASILCHENKO, IRINA VIKTOROVNA KAVERZINA, and VLADIMIR VENKOV worked in various capacities to carry out Defendant ORGANIZATION’s interference operations targeting the United States. From in or around 2014 to the present, Defendants knowingly and intentionally conspired with each other (and with persons known and unknown to the Grand Jury) to defraud the United States by impairing, obstructing, and defeating the lawful functions of the government through fraud and deceit for the purpose of interfering with the U.S. political and electoral processes, including the presidential election of 2016.` [link](https://www.justice.gov/file/1035477/download)
@@ -818,16 +818,16 @@
     - I react with pleasure," Prigozhin said in the statement. "I've never just been the financier of the Internet Research Agency. I invented it, I created it, I managed it for a long time. It was founded to protect the Russian information space from boorish aggressive propaganda of anti-Russian narrative from the West."`  
     - [link](https://edition.cnn.com/2023/02/14/europe/russia-yevgeny-prigozhin-internet-research-agency-intl/index.html)
     
-#### `Main Intelligence Directorate` Criminal Inditements
+## `Main Intelligence Directorate` Criminal Inditements
 - On 13 July 2018,
     - [link](https://www.justice.gov/file/1080281/download) - GRU inditement
-#### George Papadopoulos, Ex-Trump Foreign Policy Adviser
+## George Papadopoulos, Ex-Trump Foreign Policy Adviser
 - [Wiki](https://en.wikipedia.org/wiki/George_Papadopoulos\#Arrest_and_guilty_plea)
 - [link](https://www.justice.gov/archives/sco/file/1007341/download) - U.S. V Papadopoulos - Plea Offer
 - [link](https://www.justice.gov/archives/sco/file/1007346/download) - U.S. V Papadopoulos - Statement of the Offense
 - [link](https://www.politico.com/f/?id=00000165-4ab8-d0d5-af75-fbfc1ad30001) - U.S. V Papadopoulos - Government’s Sentencing Memorandum
 - On 22 December 2020, Papadopoulos was pardoned by Trump. [link](https://www.justice.gov/pardon/page/file/1348921/download)
-#### Michael Flynn, Former National Security Adviser
+## Michael Flynn, Former National Security Adviser
 - Days before Flynn's scheduled sentencing, attorney general Bill Barr appointed Jeffrey Jensen, the U.S. attorney for the United States District Court for the Eastern District of Missouri, to examine Flynn's prosecution. [link](https://www.nytimes.com/2020/02/14/us/politics/michael-flynn-prosecutors-barr.html)
 - On February 10, 2020, Flynn's sentencing was postponed indefinitely, to allow both sides to prepare arguments in response to his claim that his previous lawyers violated his constitutional rights by providing inadequate legal counsel. [link](https://thehill.com/regulation/court-battles/482395-judge-delays-flynn-sentencing-for-second-time)
 - On May 7, 2020, the Department of Justice (DOJ) said it would move to drop all charges against Flynn. Jensen said Barr had agreed with his recommendation. [link](https://apnews.com/ae1ad252bb13490db2ceffc5d17b6d92)
@@ -839,26 +839,26 @@
     - [link](https://www.buzzfeednews.com/article/jasonleopold/mueller-memos-michael-flynn-fbi-interviews)
 - [link](https://s3.documentcloud.org/documents/20457322/leopold-fbi-foia-mueller-probe-michale-flynn-302.pdf) - Flynn FBI Redacted Interview Notes used in U.S. V Flynn
 - On 25 November 2020, Flynn was pardoned by Trump. [link](https://www.justice.gov/pardon/page/file/1341606/download)
-#### Paul Manafort, Ex-Trump Campaign Manager
+## Paul Manafort, Ex-Trump Campaign Manager
 - [Wiki](https://en.wikipedia.org/wiki/Paul_Manafort\#Russia_investigations)
 - On 23 December 2020, Manafort was pardoned by Trump. [link](https://www.justice.gov/file/1349071/download)
-#### Rick Gates, Ex-Deputy Chairman Of The Trump Campaign
+## Rick Gates, Ex-Deputy Chairman Of The Trump Campaign
 - [Wiki](https://en.wikipedia.org/wiki/Rick_Gates_(political_consultant)\#Russia_investigation)
-#### Steve Bannon, Ex-Chief Executive Of The Trump Campaign, "We Build the Wall" Campaign Charges
+## Steve Bannon, Ex-Chief Executive Of The Trump Campaign, "We Build the Wall" Campaign Charges
 - [Wiki](https://en.wikipedia.org/wiki/Steve_Bannon\#Charges_related_to_%22We_Build_the_Wall%22_campaign)
 - On 19 January 2021, Bannon was pardoned by Trump. [link](https://www.justice.gov/file/1358426/download)
-#### Michael Cohen, Ex-Trump Lawyer, Campaign Finance Charges
+## Michael Cohen, Ex-Trump Lawyer, Campaign Finance Charges
 - [Wiki](https://en.wikipedia.org/wiki/Michael_Cohen_(lawyer)\#Federal_investigations)
 - .
 - In May 2017, two congressional panels asked Cohen to provide information about any communications he had with people connected to the Russian government.
-#### Roger Stone, Ex-Trump Campaign Adviser
+## Roger Stone, Ex-Trump Campaign Adviser
 - [Wiki](https://en.wikipedia.org/wiki/Roger_Stone\#Relations_with_Wikileaks_and_Russia_before_the_2016_United_States_elections)
 - On 23 December 2020, Stone was pardoned by Trump. [link](https://www.justice.gov/file/1349096/download)
-#### Elliott Broidy, Fmr. RNC Finance Chairman
+## Elliott Broidy, Fmr. RNC Finance Chairman
 - [Wiki](https://en.wikipedia.org/wiki/Elliott_Broidy\#Donald_Trump_administration)
 - [link](https://www.nytimes.com/2020/10/20/us/politics/elliott-broidy-foreign-lobbying.html)
 - On 19 January 2021, Broidy was pardoned by Trump. [link](https://www.justice.gov/file/1358426/download)
-### Inspector General Report on the Crossfire Hurricane Investigation
+# Inspector General Report on the Crossfire Hurricane Investigation
 - On 28 March 2018, Department of Justice Inspector General Michael Horowitz announced that his office would initiate a review of the Crossfire Hurricane investigation.
     
     - `Department of Justice (DOJ) Inspector General Michael E. Horowitz announced today that, in response to requests from the Attorney General and Members of Congress, the Office of the Inspector General (OIG) will initiate a review that will examine the Justice Department’s and the Federal Bureau of Investigation’s (FBI) compliance with legal requirements, and with applicable DOJ and FBI policies and procedures, in applications filed with the U.S. Foreign Intelligence Surveillance Court (FISC) relating to a certain U.S. person. As part of this examination, the OIG also will review information that was known to the DOJ and the FBI at the time the applications were filed from or about an alleged FBI confidential source. Additionally, the OIG will review the DOJ’s and FBI’s relationship and communications with the alleged source as they relate to the FISC applications.  
@@ -874,7 +874,7 @@
     - So, too, did Connecticut U.S. Attorney John Durham, whom Barr handpicked to conduct an investigation similar to that of Horowitz. “Our investigation has included developing information from other persons and entities, both in the U.S. and outside of the U.S.,” Durham said in a statement. “Based on the evidence collected to date, and while our investigation is ongoing, last month we advised the Inspector General that we do not agree with some of the report’s conclusions as to predication and how the FBI case was opened.”`  
     - [link](https://www.washingtonpost.com/national-security/inspector-general-report-trump-russia-investigation/2019/12/09/d5940d88-184c-11ea-a659-7d69641c6ff7_story.html)
     
-#### Origins of Crossfire Hurricane
+## Origins of Crossfire Hurricane
 - The FBI’s decision to open the Crossfire Hurricane investigation was unanimous amongst major leaders of the FBI including Comey, McCabe and ultimately Priestap, that the Australian diplomats information regarding Papadopoulos was a tipping point in total with prior information the FBI had.
     
     - `McCabe told us that he recalled discussing the FFG information with Priestap, Strzok, then Special Counsel to the Deputy Director Lisa Page, and Comey, sometime before Crossfire Hurricane was opened, and he agreed with opening a counterintelligence investigation based on the FFG information. He told us the decision to open the case was unanimous. McCabe said the FBI viewed the FFG information in the context of Russian attempts to interfere with the 2016 U.S. elections in the years and months prior, as well as the FBI's ongoing investigation into the DNC hack by a Russian Intelligence Service (RIS). He also said that when the FBI received the FFG information it was a "tipping point" in terms of opening a counterintelligence investigation regarding Russia's attempts to influence and interfere with the 2016 U.S. elections because not only was there information that Russia was targeting U.S. political institutions, but now the FBI had received an allegation from a trusted partner that there had been some sort of contact between the Russians and the Trump campaign.` - Review of Four FISA Applications and Other Aspects of the FBI’s Crossfire Hurricane Investigation [link](https://www.justice.gov/storage/120919-examination.pdf)
@@ -898,7 +898,7 @@
     
     - `We similarly concluded that the FBI had sufficient predication to open full counterintelligence investigations of Papadopoulos, Page, Flynn, and Manafort in August 2016. The investigation of Papadopoulos was predicated upon his alleged statements in May 2016 to an employee of the FFG. According to the opening EC, Papadopoulos was "identical to the individual who made statements indicating that he is knowledgeable that the Russians made a suggestion to the Trump team that they could assist the Trump campaign with an anonymous release of information during the campaign that would be damaging to the Clinton campaign." The three other cases were predicated on information developed by the Crossfire Hurricane team through law enforcement database and open source searches, conducted to determine which individuals associated with the Trump campaign may have been in a position to have received the alleged offer of assistance from Russia. As described in Chapter Three, through these efforts, the Crossfire Hurricane team identified three individuals-Page, Manafort, and Flynn-associated with the Trump campaign with either ties to Russia or a history of travel to Russia, two of whom (Page and Manafort) were already the subjects of open FBI investigations pertaining to, in part, their Russia-related activities. The FBI determined that this information, taken together with the information from the FFG indicating Russia had made a suggestion to the Trump team that it could assist by releasing information damaging to candidate Clinton, stated an articulable factual basis reasonably indicating activity may be occurring that may constitute a federal crime or a threat to national security. As with the opening of Crossfire Hurricane, we concluded that the quantum of information articulated by the FBI to open these individual investigations was sufficient to satisfy the low threshold established by Department and FBI predication policy, particularly in the context of the FBI's separate and ongoing investigative efforts to address Russian interference in 2016 U.S. elections.` - Review of Four FISA Applications and Other Aspects of the FBI’s Crossfire Hurricane Investigation [link](https://www.justice.gov/storage/120919-examination.pdf)
     
-#### FBI’s Evaluation of Steele’s Reporting Before First Carter Page FISA Application
+## FBI’s Evaluation of Steele’s Reporting Before First Carter Page FISA Application
 - On 5 July 2016, Steele’s reporting was handed over to the Steele’s FBI Handling Agent and expressed concern that if Trump was to become president that it was concerning if Trump was compromised by Russians.
     
     - `Shortly before the Fourth of July 2016, Handling Agent 1 told the OIG that he received a call from Steele requesting an in-person meeting as soon as possible. Handling Agent 1 said he departed his duty station in Europe on July 5 and met with Steele in Steele's office that day. During their meeting, Steele provided Handling Agent 1 with a copy of Report 80 and explained that he had been hired by Fusion GPS to collect information on the relationship between candidate Trump's businesses and Russia. Handling Agent 1 said Steele had become concerned about the possibility of the Russians compromising Trump in the event Trump became President. According to Handling Agent 1, Steele informed him that Fusion GPS had been hired by a law firm to conduct research, though Steele stated that he did not know the law firm's name or its political affiliation. Handling Agent 1 told the OIG, however, that he did not have to ask Steele to know that the request for the research was politically motivated as the connection to politics was obvious to Handling Agent 1 from the circumstances. Handling Agent 1 also told us that he asked Steele to try to identify the law firm. However, Handling Agent 1 said that he did not "continually ask" Steele about the firm's identity as his work with Steele progressed. When asked by the OIG about an October 2016 email from a member of the Crossfire Hurricane team stating that Handling Agent 1 had avoided tasking Steele to obtain the name of the law firm, Handling Agent 1 told us that information was incorrect and that he would never avoid asking a material question. When we asked the email's author about the email, he stated that it accurately represented what Handling Agent 1 had told him during a telephone call in October 2016.` - Review of Four FISA Applications and Other Aspects of the FBI’s Crossfire Hurricane Investigation [link](https://www.justice.gov/storage/120919-examination.pdf)
@@ -923,7 +923,7 @@
     
     - `On September 19, 2016, the Crossfire Hurricane team received the Steele reporting for the first time when Handling Agent 1 emailed SSA 1 six reports for SSA 1 to upload himself to the sub-file: Reports 80 and 94, and four additional reports (Reports 95, 100, 101, and 102) that Handling Agent 1 had since received from Steele. 226 FBI officials we interviewed told us that the length of time it took for Steele's election reporting to reach FBI Headquarters was excessive and that the reports should have been sent promptly after their receipt by the Legat. Members of the Crossfire Hurricane team told us that their assessment of the Steele election reporting could have started much earlier if the reporting had been made available to them.` - Review of Four FISA Applications and Other Aspects of the FBI’s Crossfire Hurricane Investigation [link](https://www.justice.gov/storage/120919-examination.pdf)
     
-#### First Carter Page FISA Application
+## First Carter Page FISA Application
 - On 19-21 September 2016, The Crossfire Hurricane team begin the first discussions of a FISA application based on the receipt of the Steele Reporting on Carter Page and are noted as the line of establishing probable cause was crossed based on the Steele Reporting.
     
     - `Also on September 19, the team began discussions with OGC to consider Steele's reporting as part of a FISA application targeting Carter Page. In an email to the OGC Unit Chief and OGC Attorney, the Supervisory Intelligence Analyst (Supervisory Intel Analyst) forwarded an excerpt from Steele's Report 94 ( described in more detail below) concerning Page's alleged secret meeting with Igor Divyekin in July 2016 and asked, "Does this put us at least _that_ much closer to a full FISA on [Carter Page]?" (Emphasis in original). The Supervisory Intel Analyst told us that, earlier that day, he had researched information on Divyekin that "elevated" the significance of this particular allegation. He said that he wondered whether OGC would find that this information, along with the totality of the other information on Carter Page, brought them closer to probable cause on Page. Similarly, Case Agent 1 told us that the team's receipt of the reporting from Steele supplied missing information in terms of what Page may have been doing during his July 2016 visit to Moscow and provided enough information on Page's recent activities that Case Agent 1 thought would satisfy OI.  
@@ -962,7 +962,7 @@
     
     - `At the request of the FBI, the Department filed four applications with the Foreign Intelligence Surveillance Court FISC seeking FISA authority to conduct electronic surveillance targeting Carter Page: the first application on October 21, 2016, and three renewal applications on January 12, April 7, and June 29, 2017. A different FISC judge considered each application and issued the requested orders, collectively resulting in approximately 11 months of FISA coverage targeting Carter Page from October 21, 2016, to September 22, 2017.` - Review of Four FISA Applications and Other Aspects of the FBI’s Crossfire Hurricane Investigation [link](https://www.justice.gov/storage/120919-examination.pdf)
     
-#### FBI’s Activities to Assess Steele’s Reporting After First Carter Page FISA Application
+## FBI’s Activities to Assess Steele’s Reporting After First Carter Page FISA Application
 - On 31 October 2016, Mother Jones published an article titled "A Veteran Spy Has Given the FBI Information Alleging a Russian Operation to Cultivate Donald Trump." which included report 80 of the Steele Dossier provided by Steele.
     
     - `At the end of October 2016, Steele provided a briefing to a Mother Jones reporter in which Steele disclosed that he had provided the FBI with information showing connections between candidate Trump and his campaign and the Russian government. On October 31, 2016, three days after then FBI Director James Comey's public announcement that the FBI was reopening its investigation into then Secretary Clinton's use of a private email server based on the receipt of new evidence, Mother Jones published an article titled "A Veteran Spy Has Given the FBI Information Alleging a Russian Operation to Cultivate Donald Trump." The article described the work of a "well-placed Western intelligence source" with a background in Russian intelligence who was sharing information with the FBI. The article presented information contained in Report 80, and quoted the officer as stating that, based on his interactions with the FBI, "[i]t's quite clear there was or is a pretty substantial inquiry going on."` - Review of Four FISA Applications and Other Aspects of the FBI’s Crossfire Hurricane Investigation [link](https://www.justice.gov/storage/120919-examination.pdf)
@@ -981,7 +981,7 @@
     
 - > `` - Review of Four FISA Applications and Other Aspects of the FBI’s Crossfire Hurricane Investigation [link](https://www.justice.gov/storage/120919-examination.pdf)
     
-#### Three Renewals of Carter Page FISA Application
+## Three Renewals of Carter Page FISA Application
 - On 12 January 2017, The first FISA application renewal is approved on the surveillance of Carter Page.
     
     - `At the request of the FBI, the Department filed four applications with the Foreign Intelligence Surveillance Court FISC seeking FISA authority to conduct electronic surveillance targeting Carter Page: the first application on October 21, 2016, and three renewal applications on January 12, April 7, and June 29, 2017. A different FISC judge considered each application and issued the requested orders, collectively resulting in approximately 11 months of FISA coverage targeting Carter Page from October 21, 2016, to September 22, 2017.` - Review of Four FISA Applications and Other Aspects of the FBI’s Crossfire Hurricane Investigation [link](https://www.justice.gov/storage/120919-examination.pdf)
@@ -1000,7 +1000,7 @@
     
 - > `` - Review of Four FISA Applications and Other Aspects of the FBI’s Crossfire Hurricane Investigation [link](https://www.justice.gov/storage/120919-examination.pdf)
     
-#### Errors in Carter Page FISA Renewal Application
+## Errors in Carter Page FISA Renewal Application
 - > `` - Review of Four FISA Applications and Other Aspects of the FBI’s Crossfire Hurricane Investigation [link](https://www.justice.gov/storage/120919-examination.pdf)
     
 - Horowitz concluded that the review did not find evidence that `political bias or improper motivation influenced the FBI's decision to seek FISA authority on Carter Page`.
@@ -1042,22 +1042,13 @@
     -   
     - The inspector general found no evidence that the Crossfire Hurricane team asked for more information about Page’s relationship with the CIA before asking a court for a surveillance warrant to monitor him.`  
     - [link](https://www.washingtonpost.com/national-security/in-opening-an-investigation-of-the-trump-campaign-the-fbi-felt-it-had-reached-a-tipping-point-ig-found/2019/12/09/49f0da38-1ab6-11ea-b4c1-fd0d91b60d9e_story.html)
-    
-#### Use of Confidential Human Sources in Crossfire Hurricane
-- > `` - Review of Four FISA Applications and Other Aspects of the FBI’s Crossfire Hurricane Investigation [link](https://www.justice.gov/storage/120919-examination.pdf)
-    
-### Senate Intelligence Committee Report
+## Use of Confidential Human Sources in Crossfire Hurricane
+- ` ` - [Review of Four FISA Applications and Other Aspects of the FBI’s Crossfire Hurricane Investigation](https://www.justice.gov/storage/120919-examination.pdf)
+# Senate Intelligence Committee Report
 - [Wiki](https://en.wikipedia.org/wiki/Senate_Intelligence_Committee_report_on_Russian_interference_in_the_2016_United_States_presidential_election)
-    
-    - `` - Report of the Select Committee on Intelligence United States Senate on Russian Active Measures Campaigns and Interference in the 2016 U.S. Election Volume 1: Russian Efforts Against Election Infrastructure with Additional Views [link](https://www.intelligence.senate.gov/sites/default/files/documents/Report_Volume1.pdf)
-    
-    - `` - Report of the Select Committee on Intelligence United States Senate on Russian Active Measures Campaigns and Interference in the 2016 U.S. Election Volume 2: Russia's Use of Social Media with Additional Views [link](https://www.intelligence.senate.gov/sites/default/files/documents/Report_Volume2.pdf)
-    
-    - `` - Report of the Select Committee on Intelligence United States Senate on Russian Active Measures Campaigns and Interference in the 2016 U.S. Election Volume 3: U.S. Government Response to Russian Activities [link](https://www.intelligence.senate.gov/sites/default/files/documents/Report_Volume3.pdf)
-    
-    - `` - Report of the Select Committee on Intelligence United States Senate on Russian Active Measures Campaigns and Interference in the 2016 U.S. Election Volume 4: Review of the Intelligence Community Assessment [link](https://www.intelligence.senate.gov/sites/default/files/documents/Report_Volume4.pdf)
-    
-    - `` - Additional declassifications of “Volume 4: Review of Intelligence Community Assessment” [link](https://www.intelligence.senate.gov/sites/default/files/documents/Report_Volume4_Excerpt.pdf)
-    
-    - `` - Report of the Select Committee on Intelligence United States Senate on Russian Active Measures Campaigns and Interference in the 2016 U.S. Election Volume 5: Counterintelligence Threats and Vulnerabilities [link](https://www.intelligence.senate.gov/sites/default/files/documents/report_volume5.pdf)
-    
+    - ` ` - [Report of the Select Committee on Intelligence United States Senate on Russian Active Measures Campaigns and Interference in the 2016 U.S. Election Volume 1: Russian Efforts Against Election Infrastructure with Additional Views](https://www.intelligence.senate.gov/sites/default/files/documents/Report_Volume1.pdf)
+    - ` ` - [Report of the Select Committee on Intelligence United States Senate on Russian Active Measures Campaigns and Interference in the 2016 U.S. Election Volume 2: Russia's Use of Social Media with Additional Views](https://www.intelligence.senate.gov/sites/default/files/documents/Report_Volume2.pdf)
+    - ` ` - [Report of the Select Committee on Intelligence United States Senate on Russian Active Measures Campaigns and Interference in the 2016 U.S. Election Volume 3: U.S. Government Response to Russian Activities](https://www.intelligence.senate.gov/sites/default/files/documents/Report_Volume3.pdf)
+    - ` ` - [Report of the Select Committee on Intelligence United States Senate on Russian Active Measures Campaigns and Interference in the 2016 U.S. Election Volume 4: Review of the Intelligence Community Assessment](https://www.intelligence.senate.gov/sites/default/files/documents/Report_Volume4.pdf)
+    - ` ` - [Additional declassifications of “Volume 4: Review of Intelligence Community Assessment](https://www.intelligence.senate.gov/sites/default/files/documents/Report_Volume4_Excerpt.pdf)
+    - ` ` - [Report of the Select Committee on Intelligence United States Senate on Russian Active Measures Campaigns and Interference in the 2016 U.S. Election Volume 5: Counterintelligence Threats and Vulnerabilities](https://www.intelligence.senate.gov/sites/default/files/documents/report_volume5.pdf)    

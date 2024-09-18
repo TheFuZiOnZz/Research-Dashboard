@@ -2,7 +2,7 @@
 - [Wiki](https://en.wikipedia.org/wiki/Biden%E2%80%93Ukraine_conspiracy_theory)
 - [link](https://mediaite.com/wp-content/uploads/2023/09/Memo-Appendix-Impeachment-Claims-Debunked-14pp.pdf)
 - The Weiss special counsel investigation is a investigation into Hunter Biden, the son of U.S. President Joe Biden in relation to alleged corruption tax fraud and gun charges.
-#### Zlochevsky, Burisma Holdings & Hunter Biden
+## Zlochevsky, Burisma Holdings & Hunter Biden
 - Burisma Holdings Limited was a holding company based in Kyiv, Ukraine for a group of energy exploration and production companies. It was registered in Limassol, Cyprus, until being dissolved in 2023. Burisma Holdings operated in the Ukrainian natural gas market since 2002. It was one of the largest private natural gas producers in Ukraine, circa 2019. It was owned by Ukrainian oligarch Mykola Zlochevsky through his company Brociti Investments Limited.
 - In 2010-12, Viktor Pshonka, the Ukrainian prosecutor general at the time, began investigating Zlochevsky, over allegations of money laundering, tax evasion, and corruption during his time as Minister of Ecology and Natural Resources from July 2010 until April 2012.
     - `The National Anti-Corruption Bureau of Ukraine (NABU) said an investigation was ongoing into permits granted by officials at the Ministry of Ecology for the use of natural resources to a string of companies managed by Burisma.  
@@ -113,7 +113,7 @@
           
         Like many on wanted lists in their home country, Zlochevsky’s Cypriot passport allows him to live beyond the reach of Ukrainian law enforcement.`  
         [link](https://www.aljazeera.com/news/2020/8/23/exclusive-cyprus-sold-passports-to-criminals-and-fugitives)
-### Shokin’s Removal & the Loan Guarantee
+# Shokin’s Removal & the Loan Guarantee
 - On 10 February 2015, Viktor Shokin was appointed Prosecutor General of Ukraine, replacing Vitaly Yarema.
     - `To replace Mr. Yarema, the Verkhovna Rada on February 10 approved the president’s nomination of Viktor Shokin, who was appointed deputy procurator general in December 2004 and has served in that position ever since.` [link](https://web.archive.org/web/20170613175247/http://www.ukrweekly.com/uwwp/shokin-replaces-yarema-as-top-prosecutor/)
 - He was a controversial appointee due to his perceived role in blocking prosecutions against those accused of shooting demonstrators in the [[World Politics]] and was accused of blocking major cases against allies and influential figures and hindering the fight against corruption in Ukraine which caused the EU, IMF, U.S and others to call for his removal.
@@ -227,11 +227,11 @@
           
         A Yes.`  
         [link](https://docs.house.gov/meetings/IG/IG00/CPRT-116-IG00-D009.pdf)
-### Hunter Bidens Laptop Controversy
+# Hunter Bidens Laptop Controversy
 - [Wiki](https://en.wikipedia.org/wiki/Hunter_Biden_laptop_controversy)
 - On 26 September 2023, Hunter Biden files a lawsuit against Giuliani for Violation of the Computer Fraud and Abuse Act and Violation of the California Computer Data Access and Fraud Act.
     - ` ` [link](https://storage.courtlistener.com/recap/gov.uscourts.cacd.899829/gov.uscourts.cacd.899829.1.0.pdf)
-### Blue Star Strategies Lobbying
+# Blue Star Strategies Lobbying
 - [link](https://www.politico.com/news/2021/06/03/blue-star-burisma-justice-department-investigation-491681)
 - [link](https://www.grassley.senate.gov/news/news-releases/johnson-grassley-seek-information-regarding-blue-star-strategies-work-burisma)
 - On 2 December 2015, Blue Star Strategies sends a letter to Burisma disclosing an itinerary of VP Biden’s trip to Ukraine. The letter doesn’t mention Burisma in the planned messaging.
@@ -276,7 +276,7 @@
           
         According to FARA filings dated May 12, 2022, Ms. Tramontano and Ms. Painter disclosed under penalty of perjury their meetings with government officials on behalf of Burisma and Mr. Zlochevsky. The form noted that in February 2016, Blue Star Strategies emailed and met with then-State Department official Amos Hochstein to “introduce Mr. Zlochevsky’s attorney so he could present an explanation of the adverse proceedings in the U.K. and Ukraine involving Mr. Zlochevsky.”`  
         [link](https://www.grassley.senate.gov/imo/media/doc/johnson_grassley_to_doj_-_blue_star_strategies.pdf)
-### Conspiracy Theory Starts
+# Conspiracy Theory Starts
 - On
     - ` ` [link]
 - [Wiki](https://en.wikipedia.org/wiki/Andrii_Derkach) - Andrii Derkach
@@ -297,7 +297,7 @@
           
         I am willing to testify under oath in Congress regarding any of these matters, and answer any questions that you might have, or provide you with any texts or correspondence in these situations I have described in this letter.`  
         [link](https://oversightdemocrats.house.gov/sites/democrats.oversight.house.gov/files/Parnas%2C%20COA%20Letter%2C%20July%2018%2C%202023.pdf)
-### Senate Homeland Security and Finance Committees
+# Senate Homeland Security and Finance Committees
 - On 20 May 2020, Blue Star Strategies’ Chief Executive, Karen Tramontan sends a letter to the Senate Committee on Homeland Security and Governmental Affairs on confusion of reasons for the possible subpoenas as there had been full co-operation with the committee.
     - `My firm, Blue Star Strategies, received a letter from you on December 3, 2019, asking us to assist in the Homeland Security and Governmental Affairs Committee's investigation into "certain officials within the Obama Administration." We responded immediately and agreed to cooperate. Two weeks later, on December 17, 2019, we submitted answers in writing to the Committee's questions and we provided documents about our meetings with the U.S. Government regarding Burisma.  
           
@@ -323,7 +323,7 @@
 - On
     - ` ` [link](https://www.washingtonpost.com/politics/2020/09/23/gops-hunter-biden-report-doesnt-back-up-trumps-actual-conspiracy-theory-or-anything-close-it/)
     - ` ` [link](https://www.nytimes.com/2020/09/23/us/politics/biden-inquiry-republicans-johnson.html)
-### Intelligence Community Report
+# Intelligence Community Report
 - On 15 March 2021, The Office of the Director of National Intelligence declassified and released a report on `Foreign Threats to the 2020 US Federal Elections`
     - `We assess that Russia's intelligence services, Ukraine-linked individuals with ties to Russian intelligence and their networks, and Russian state media, trolls, and online proxies engaged in activities targeting the 2020 US presidential election. The primary effort the IC uncovered revolved around a narrative-that Russian actors began spreading as early as 2014-alleging corrupt ties between President Biden, his family, and other US officials and Ukraine. Russian intelligence services relied on Ukraine-linked proxies and these proxies' networks-including their US contacts-to spread this narrative to give Moscow plausible deniability of their involvement. We assess that the goals of this effort went beyond the US presidential campaign to include reducing the Trump administration's support for Ukraine. As the US presidential election neared, Moscow placed increasing emphasis on undermining the candidate it saw as most detrimental to its global interests. We have no evidence suggesting the Ukrainian Government was involved in any of these efforts.  
           
@@ -333,13 +333,13 @@
           
         As part of his plan to secure the reelection of former President Trump, Derkach publicly released audio recordings four times in 2020 in attempts to implicate President Biden and other current or former US Government officials in allegedly corrupt activities related to Ukraine. Derkach also worked to initiate legal proceedings in Ukraine and the US related to these allegations. Former Ukrainian officials associated with Derkach sought to promote similar claims throughout late 2019 and 2020, including through direct outreach to senior US Government officials.`  
         [link](https://s3.documentcloud.org/documents/20515484/icadeclass16mar21.pdf) - Foreign Threats to the 2020 US Federal Elections
-### House Oversight Committee investigation into the Biden family,
+# House Oversight Committee investigation into the Biden family,
 - On
     - ` ` [link]
 - [Wiki](https://en.wikipedia.org/wiki/United_States_House_Oversight_Committee_investigation_into_the_Biden_family)
 - [link](https://oversight.house.gov/the-bidens-influence-peddling-timeline/) - Majority’s purporting timeline
 - The United States House Oversight Committee investigation into the Biden family is an investigation by the United States House of Representatives into whether US President Joe Biden is improperly involved in his family's foreign business practices, with allegations of "international influence peddling schemes", bribery, and a Justice Department cover-up. The investigation was initiated on 11 January 2023, by Republican committee chairman James Comer and includes examination of the foreign business activities of Biden's son, Hunter, and brother, James. The committee is also investigating Twitter's involvement in the Hunter Biden laptop controversy.
-#### The FBI FD-1023 Form
+## The FBI FD-1023 Form
 - On 3 May 2023, Chairman Comer’s and Senator Grassley request the FD-1023 from the FBI.
     - `Senate Budget Committee Ranking Member and long-time whistleblower advocate Chuck Grassley (R-Iowa) and House Committee on Oversight and Accountability Chairman James Comer (R-Ky.) today are demanding the FBI produce an unclassified record alleging a criminal scheme involving then-Vice President Joe Biden and a foreign national. The document, an FBI-generated FD-1023 form, allegedly details an arrangement involving an exchange of money for policy decisions. Comer issued a subpoena today following legally protected disclosures to Grassley’s office.  
           
@@ -386,7 +386,7 @@
     - `That same day, Smirnov was arrested in the District of Nevada as he returned to the United States on an international flight. Smirnov was scheduled to leave the United States two days later, on February 16, 2024, for a months-long, multi-country trip that, by his own description, involved meetings with officials of foreign intelligence agencies and governments. During his custodial interview on February 14, Smirnov admitted that officials associated with Russian intelligence were involved in passing a story about Businessperson  
         1.`  
         [link](https://www.grassley.senate.gov/imo/media/doc/grassley_to_justice_deptfbi1023followup.pdf)
-#### Alexander Smirnov, the FD-1023 FBI CHS Indited
+## Alexander Smirnov, the FD-1023 FBI CHS Indited
 - On 14 February 2024, The FBI Confidential Human Source, Alexander Smirnov, who filed the original FD-1023 was charged with giving false statements and creating a false and fictitious record, namely the 2020 FD-1023.
     - `The Defendant’s 2020 story was a fabrication.  
           
@@ -406,7 +406,7 @@
         [link](https://s3.documentcloud.org/documents/24429138/govuscourtscacd91506210.pdf) Alexander Smirnov Inditement
     - `That on or about June 26, 2020, the defendant ALEXANDER SMIRNOV, did willfully and knowingly make a materially false, fictitious, and fraudulent statement and representation in a matter within the jurisdiction of the executive branch of the Government of the United States, to a special agent of the Federal Bureau of Investigation at Los Angeles, California, in the Central District of California` [link](https://s3.documentcloud.org/documents/24429138/govuscourtscacd91506210.pdf) Alexander Smirnov Inditement
     - `Between on or about June 26 and 30, 2020, in the Central District of California, the defendant, ALEXANDER SMIRNOV, did knowingly cause the making of a false entry in an FBI Form 1023, a record and document, with the intent to impede, obstruct, and influence a matter that the Defendant knew and contemplated was within the jurisdiction of the United States Department of Justice, a department and agency of the United States, in violation of Title 18, United States Code, Section 1519, and Title 18, United States Code, Section 2.` [link](https://s3.documentcloud.org/documents/24429138/govuscourtscacd91506210.pdf) Alexander Smirnov Inditement
-#### IRS Whistle-blowers
+## IRS Whistle-blowers
 - [link](https://www.bbc.co.uk/news/world-us-canada-66252781)
 - [link](https://www.nytimes.com/2023/07/10/us/politics/david-weiss-hunter-biden-irs.html)
 - [[hunt]]
@@ -473,7 +473,7 @@
         [link](https://static.foxnews.com/foxnews.com/content/uploads/2023/07/2023.06.30-David-Weiss-1.pdf)
 - On 18 September 2023, Hunter Biden files charges against the IRS Whistle-blowers claiming violation of privacy and unlawful disclosure of tax information.
     - `Plaintiff Robert Hunter Biden (“Mr. Biden” or “Plaintiff”), by and through his undersigned counsel, brings this action against the United States Internal Revenue Service (the “IRS” or “Defendant”), to seek redress for the (1) unlawful disclosure of Mr. Biden’s confidential tax return information in violation of 26 U.S.C. § 6103 and 28 U.S.C. § 7431, and (2) willful and intentional failure to establish appropriate administrative, technical, and/or physical safeguards over the IRS’s records system to insure the security and confidentiality of Mr. Biden’s confidential tax return information in violation of the Privacy Act, 5 U.S.C. § 552a.` [link](https://storage.courtlistener.com/recap/gov.uscourts.dcd.259799/gov.uscourts.dcd.259799.1.0_1.pdf)
-#### Weiss on Possible Testimony
+## Weiss on Possible Testimony
 - On 29 June 2023, Jordan and Smith sends a letter to Garland requesting first hand testimony from 11 DoJ employees given to the committee by Shapley & Zielger.
     - `From recent testimony before the Ways and Means Committee, we have identified several Department employees who we believe to possess information concerning allegations of politicization and misconduct with respect to the Department’s investigation of Hunter Biden. Specifically, the Committees seek to examine whistleblower claims that the Department’s investigation of Hunter Biden was purposely slow-walked and subjected to improper and politically motivated interference. The Committees must obtain the first-hand testimony from these individuals to fully assess the serious allegations raised by these brave IRS whistleblowers. Accordingly, we ask that you initially make the following Department employees available for transcribed interviews before the Judiciary Committee promptly:  
           
@@ -497,7 +497,7 @@
         [link](https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/evo-media-document/2023-07-21-jdj-js-jc-to-garland-re-doj-response.pdf)
 - On 24 July 2023, Assistant Attorney General Carlos Felipe Uriarte sends a letter to Chairman Comer informing that David Weiss would be available for congressional testimony if requested.
     - `The Department believes it is strongly in the public interest for the American people and for Congress to hear directly from U.S. Attorney Weiss on these assertions and questions about his authority at a public hearing. To address these issues, U.S. Attorney Weiss is available to appear at a public hearing before the Committee, consistent with the law and Department policy, after the House returns from its August district work period. U.S. Attorney Weiss is available on September 27, September 28, October 18, and October 19. To be clear, the most appropriate time for any testimony on these subjects is after the matter is closed, especially under the circumstances where the matter is pending before a court and subject to judicial supervision, not to mention legal and ethical bars that limit what the Department can say while the matter is pending in court. While testimony at this early juncture must be appropriately limited to protect the ongoing matter and important confidentiality interests, the Department acknowledges your stated interest in addressing aspects of this matter in the near term, such as U.S. Attorney Weiss’s authority and jurisdiction to bring charges wherever he deems appropriate.` [link](https://www.politico.com/f/?id=00000189-8a0b-dda6-a3c9-aa4b83510000)
-#### Devon Archer Testimony
+## Devon Archer Testimony
 - On 31 July 2023, the Committee on Oversight and Accountability interviewed Hunter Biden’s business partner Devon Archer.
 - Archer testifies that Hunter or Burisma had no influence on Joe Biden and U.S. foreign policy
     - `Q You -- do you have any basis to disagree with the conclusion that "Hunter Biden's presence on the board of the Ukrainian gas company Burisma had no effect on U.S. foreign policy"?  
@@ -648,7 +648,7 @@
           
         Mr. Archer. D.C., D.C.`  
         [link](https://oversight.house.gov/wp-content/uploads/2023/08/Devon-Archer-Transcript.pdf) - Oversight Committee Interview of Devon Archer
-### Biden Impeachment Inquiry
+# Biden Impeachment Inquiry
 - On 12 September 2023, McCarthy announced the direction to open an Impeachment inquiry.
     - `Speaker Kevin McCarthy announced Tuesday he is directing the U.S. House to open an impeachment inquiry into President Joe Biden over his family’s business dealings, launching historic proceedings ahead of the 2024 election.  
           
@@ -656,7 +656,7 @@
           
         “These are allegations of abuse of power, obstruction and corruption, and they warrant further investigation by the House of Representatives,” McCarthy, R-Calif., said at the Capitol, announcing he was directing the House led by the Oversight Committee “to open a formal impeachment inquiry.”`  
         [link](https://apnews.com/article/mccarthy-biden-impeachment-shutdown-house-republicans-b187202be8814f7acbdd6e2e937e23d4)
-#### Hunter Biden Testimony
+## Hunter Biden Testimony
 - On 28 February 2024, Hunter Biden appeared in front of the Committees representing the impeachment inquiry.
     - `Mr. Biden. Thank you.  
           
@@ -668,7 +668,7 @@
         [link](https://oversight.house.gov/wp-content/uploads/2024/02/Hunter-Biden-Transcript_Redacted.pdf) Hunter Biden Deposition Transcript
     - ` ` [link](https://oversight.house.gov/wp-content/uploads/2024/02/Hunter-Biden-Transcript_Redacted.pdf) Hunter Biden Deposition Transcript
     - ` ` [link](https://oversight.house.gov/wp-content/uploads/2024/02/Hunter-Biden-Transcript_Redacted.pdf) Hunter Biden Deposition Transcript
-### Justice Department Opens Tax Fraud Investigation
+# Justice Department Opens Tax Fraud Investigation
 - On 9 December 2020, Hunter Biden announced that he had been under investigation since late 2018 for potential criminal violations of tax and money laundering laws.
     - `The Justice Department is investigating the tax affairs of President-elect Joseph R. Biden Jr.’s son Hunter, he disclosed in a statement on Wednesday.  
           
@@ -706,7 +706,7 @@
           
         Barr also said that he hopes the Biden administration will handle the Hunter Biden probe “responsibly.”`  
         [[attorneygeneralbarrwontnames]]
-### Hunter Biden Tax Fraud Indictment
+# Hunter Biden Tax Fraud Indictment
 - On 20 June 2023, Weiss filed a federal inditement for Hunter Biden on charges of tax fraud for 2017 & 2018 tax years.
     - `During the calendar year 2017, the defendant Robert Hunter Biden, who was a resident of the District of Columbia, had and received taxable income in excess of $1,500,000.00 on which taxable income there was owing to the United States of America an income tax in excess of $100,000.00. He was required by law to pay, on or before April 17, 2018, that income tax to the Internal Revenue Service Center, at Hartford, Connecticut, or to another Internal Revenue Service office permitted by the Commissioner of Internal Revenue. Well knowing and believing all of the foregoing, Robert Hunter Biden did willfully fail, on or about April 17, 2018, in the District of Columbia and elsewhere, to pay the income tax due.  
           
@@ -721,7 +721,7 @@
 - On 26 July 2023, Hunter Biden pled not guilty as plea deal fell apart.
     - [link](https://www.politico.com/f/?id=00000189-9524-df68-afbb-bdaf61fa0000) - Diversion agreement
     - [link](https://s3.documentcloud.org/documents/23888608/transcript-of-july-26-2023-hearing.pdf) - Transcript of the hearing
-### Weiss Made Special Counsel
+# Weiss Made Special Counsel
 - On 11 August 2023, David Weiss is appointed Special Counsel by Garland and was authorized to continue Weiss’ prior investigations into Hunter Biden and other associated matters.
     - `In 2019, United States Attorney David C. Weiss, along with federal law enforcement partners, began investigating allegations of certain criminal conduct by, among others, Robert Hunter Biden. That investigation includes the investigation and prosecutions referenced and described in United States v. Robert Hunter Biden, Criminal Action Nos. 23-mj-274 (MN) and 23-61 (MN) (D. Dei.). By virtue of the authority vested in the Attorney General, including 28 U.S.C 509, 510, 515, and 533, in order to discharge my responsibility to provide supervision and management of the Department of Justice, and to ensure a full and thorough investigation of certain matters, I hereby order as follows:  
           
@@ -733,16 +733,16 @@
           
         (d) Sections 600.4 to 600.10 of Title 28 of the Code of Federal Regulations are applicable to the Special Counsel.`  
         [link](https://www.justice.gov/media/1309991/dl?inline)
-### Hunter Biden Gun Charges Indictment
+# Hunter Biden Gun Charges Indictment
 - On 14 September 2023, Weiss filed a federal inditement for Hunter Biden on charges of knowingly made a false and fictious written statement, intended and likely to deceive that dealer with respect to a fact material to the lawfulness of the sale of the firearm while knowing that he was an unlawful user of and addicted to any stimulant, narcotic drug, and any other controlled substance.
     - `On or about October 12, 2018, in the District of Delaware, the defendant, Robert Hunter Biden, in connection with the acquisition of a firearm, that is, a Colt Cobra 38SPL revolver with serial number RA 551363 from Company 1, licensed under the provisions of Chapter 44, Title 18, United States Code, knowingly made a false and fictious written statement, intended and likely to deceive that dealer with respect to a fact material to the lawfulness of the sale of the firearm under the provisions of Chapter 44, Title 18, United States Code, in that defendant, Robert Hunter Biden, provided a written statement on Form 4473 certifying he was not an unlawful user of, and addicted to, any stimulant, narcotic drug, and any other controlled substance, when in fact, as he knew, that statement was false and fictitious.` [United States of America v. Robert Hunter Biden](https://storage.courtlistener.com/recap/gov.uscourts.ded.82797/gov.uscourts.ded.82797.40.0.pdf)
     - `On or about October 12, 2018, in the District of Delaware, the defendant, Robert Hunter Biden, in connection with the acquisition of a firearm, that is, a Colt Cobra 38SPL revolver with serial number RA 551363, knowingly made a false statement and representation to Company 1, licensed under the provisions of Chapter 44, Title 18, United States Code, with respect to information required by the provisions of Chapter 44, Title 18, United States Code, to be kept in the FFL holder's records, in that defendant, Robert Hunter Biden, certified on the Form 4473 that he was not an unlawful user of, and addicted to, any stimulant, narcotic drug, and any other controlled substance, when in fact, as he knew, that statement was false and fictitious.` [United States of America v. Robert Hunter Biden,](https://storage.courtlistener.com/recap/gov.uscourts.ded.82797/gov.uscourts.ded.82797.40.0.pdf)
     - `On or about October 12, 2018, through on or about October 23, 2018, in the District of Delaware, the defendant Robert Hunter Biden, knowing that he was an unlawful user of and addicted to any stimulant, narcotic drug, and any other controlled substance as defined in Title 21, United States Code, Section 802, did knowingly possess a firearm, that is, a Colt Cobra 38SPL revolver with serial number RA 551363, said firearm having been shipped and transported in interstate commerce.` [United States of America v. Robert Hunter Biden,](https://storage.courtlistener.com/recap/gov.uscourts.ded.82797/gov.uscourts.ded.82797.40.0.pdf)
-### Gal Luft Indited for FARA Violations
+# Gal Luft Indited for FARA Violations
 - [link](https://www.nytimes.com/2023/07/11/us/politics/gal-luft-hunter-biden-indictment-justice-department.html)
 - On 10 July 2023, Gal Luft was indited of eight charges including acting as an unregistered foreign agent of Chinese entities under the US Foreign Agents Registration Act, violating trade sanctions against Iran, at the behest of Chinese entities, recruited and paid an unnamed adviser to then-president-elect Donald Trump to adopt pro-Chinese positions.
     - ``    - [link](https://www.justice.gov/usao-sdny/file/1304911/dl?inline)
-### Tony Bobulinski
+# Tony Bobulinski
 - [Wiki](https://en.wikipedia.org/wiki/Hunter_Biden_laptop_controversy#Hunter_Biden_story_pitch)
-### Jason Galanis
+# Jason Galanis
 - [link]
