@@ -5,11 +5,11 @@
 - [Wiki](https://en.wikipedia.org/wiki/Brexit_plan)
 - On 2 February 2017, 
 	- ` ` - [The United Kingdom’s exit from and new partnership with the European Union, HM Government, 2017](https://assets.publishing.service.gov.uk/media/5a74b934e5274a3f93b4849b/The_United_Kingdoms_exit_from_and_partnership_with_the_EU_Web.pdf)
-# Invoking Article 50
+# 2017 Invoking Article 50
 - [Wiki](https://en.wikipedia.org/wiki/United_Kingdom_invocation_of_Article_50_of_the_Treaty_on_European_Union)
 - On 16 March 2017, The European Union (Notification of Withdrawal) Act 2017 was passed to empower the Prime Minister to give to the Council of the European Union the formal notice required by Article 50 of the Treaty on European Union for starting negotiations for the United Kingdom's withdrawal from the European Union
 - On 29 March 2017, The Permanent Representative of the United Kingdom to the European Union Tim Barrow hand delivers a letter from May to Donald Tusk that officially invokes Article 50. A two-year negotiating process begins, with the UK due to leave the EU on 29 March 2019.
-# Great Repeal Bill
+# 2017-18 Great Repeal Bill
 - [Wiki](https://en.wikipedia.org/wiki/European_Union_(Withdrawal)_Act_2018)
 - On 30 March 2017, The Repeal Bill plan, officially known as Legislating for the United Kingdom’s withdrawal from the European Union, was a UK Government white paper setting out the Government's proposals for repealing the European Communities Act 1972 and how to maintain a fully functioning statute book after the United Kingdom had left the European Union. It was published the day after the UK triggered Article 50 by the Department for Exiting the European Union.
 	- ` ` - [Legislating for the United Kingdom’s withdrawal from the European Union, Department for Exiting the European Union, 2017](https://assets.publishing.service.gov.uk/media/5a81e1b340f0b62305b91508/Great_repeal_bill_white_paper_accessible.pdf)
@@ -21,7 +21,7 @@
 - [Wiki](https://en.wikipedia.org/wiki/2017_United_Kingdom_general_election)
 - On 18 April 2017, 
 - On 8 June 2017, The general election is held, with 32,204,184 votes being cast for a turnout of 68.7%. The Conservatives win 318 seats in total, a net loss of 13. Although still the largest party in the House of Commons, they no longer have a parliamentary majority, resulting in a hung parliament.
-# Chequers Agreement
+# 2018 Chequers Agreement
 - [Wiki](https://en.wikipedia.org/wiki/Chequers_plan)
 - On 6 July 2018,
 - On 9 July 2018,
@@ -29,11 +29,11 @@
 	- ` ` - [May's plan 'sticks in the throat', says Boris Johnson as he resigns over Brexit, The Guardian, 2018](https://www.theguardian.com/politics/2018/jul/09/boris-johnson-resigns-as-foreign-secretary-brexit)
 - On 12 July 2018, 
 	- ` ` - [The Future Relationship Between the United Kingdom And the European Union, HM Government, 2018](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/786626/The_Future_Relationship_between_the_United_Kingdom_and_the_European_Union_120319.pdf)
-# Brexit Withdrawal Agreement Plan
+# 2018 Brexit Withdrawal Agreement Plan
 - [Wiki](https://en.wikipedia.org/wiki/Brexit_withdrawal_agreement_plan)
 - On 24 July 2018, 
 	- ` ` - [Legislating for the Withdrawal Agreement between the United Kingdom and the European Union, Department for Exiting the European Union, 2018](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/728757/6.4737_Cm9674_Legislating_for_the_withdrawl_agreement_FINAL_230718_v3a_WEB_PM.pdf)
-# First Draft of EU-UK Withdrawal Agreement
+# 2018 First Draft of EU-UK Withdrawal Agreement
 - On 14 November 2018, The EU and UK negotiating teams agree on the draft text of the withdrawal agreement, which is published as a 585-page document.
 	- ` ` - [Draft Agreement on the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union and the European Atomic Energy Community, HM Government, 2018](https://assets.publishing.service.gov.uk/media/5bec6bf0e5274a082c807619/14_November_Draft_Agreement_on_the_Withdrawal_of_the_United_Kingdom_of_Great_Britain_and_Northern_Ireland_from_the_European_Union.pdf)
 	- ` ` - [Explainer for the agreement on the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union, HM Government, 2018](https://assets.publishing.service.gov.uk/media/5bec6ee9e5274a08321546d8/14_November_Explainer_for_the_agreement_on_the_withdrawal_of_the_United_Kingdom_of_Great_Britain_and_Northern_Ireland_from_the_European_Union___1_.pdf)
@@ -45,7 +45,7 @@
 	- ` ` - [Theresa May loses amendment vote 312-308 as MPs push to reject no-deal Brexit completely, The Guardian, 2019](https://inews.co.uk/news/brexit/no-deal-brexit-amendment-caroline-spelman-269122)
 - On 14 March 2019, With the UK set to leave the EU on 29 March without a deal in place, MPs vote on an amended motion on whether Article 50 should be extended untill 12 April 2020. By 413 votes to 202, the motion passes.
 	- ` ` - [MPs back Brexit delay as votes lay bare cabinet divisions, The Guardian, 2019](https://www.theguardian.com/politics/2019/mar/14/mps-vote-by-majority-of-210-to-extend-article-50-and-delay-brexit)
-# Extensions to Triggering Article 50
+# 2019 Extension to Triggering Article 50
 - On 20 March 2019, the Prime Minister wrote to European Council President Tusk requesting that Brexit be postponed until 30 June 2019.
 	- ` ` - [Brexit: 'Tired' public needs a decision, says Theresa May. BBC News, 2019](https://www.bbc.co.uk/news/uk-politics-47647515)
 - On 8 April 2019, the UK Parliament passed the European Union (Withdrawal) Act 2019, commonly referred to as the Cooper–Letwin Act
@@ -53,7 +53,7 @@
 - [Wiki](https://en.wikipedia.org/wiki/Operation_Yellowhammer)
 - On 25 March 2019, 
 - On 18 August 2019, an official cabinet Yellowhammer document from earlier that month was leaked
-# Prorogation of Parliament
+# 2019 Prorogation of Parliament
 - On 28 August 2019, Johnson declared he had asked the Queen to prorogue parliament from 10 September until 14 October, narrowing the window in which parliament could block a no-deal Brexit.
 	- ` ` - [link](https://www.theguardian.com/politics/2019/aug/28/chancellor-sajid-javid-fast-tracked-spending-review-fuels-talk-of-early-election)
 - On 11 September 2019, The UK Supreme Courts found that
@@ -61,7 +61,7 @@
 # 2019 General Election
 - [Wiki](https://en.wikipedia.org/wiki/2019_United_Kingdom_general_election)
 - 
-# Brexit Withdrawal Agreement
+# 2020 Brexit Withdrawal Agreement
 - [Wiki](https://en.wikipedia.org/wiki/Brexit_withdrawal_agreement)
 - The Brexit withdrawal agreement, officially titled Agreement on the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union and the European Atomic Energy Community, is a treaty between the European Union (EU), Euratom, and the United Kingdom (UK), signed on 24 January 2020, setting the terms of the withdrawal of the UK from the EU and Euratom.
 # Economic Impacts
