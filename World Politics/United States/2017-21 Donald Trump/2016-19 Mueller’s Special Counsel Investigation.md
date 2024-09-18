@@ -199,23 +199,18 @@
       
       `The investigators are speaking to multiple witnesses in coming days to gain more information surrounding Flynn's lobbying work, including whether he laundered money or lied to federal agents about his overseas contacts, according to three sources familiar with the investigation.` - [Mueller Has Enough Evidence to Bring Charges in Flynn Investigation](https://www.nbcnews.com/news/us-news/mueller-has-enough-evidence-bring-charges-flynn-investigation-n817666)
 - On 1 December 2017, Flynn and special counsel Robert Mueller agreed to a plea bargain in the District of Columbia's U.S. District Court. In the agreement, Flynn pleaded guilty to "willfully and knowingly" making "false, fictitious and fraudulent statements" to the FBI regarding conversations with Russia's ambassador.
-    
-    - `Michael Flynn, President Donald Trump’s former national security adviser, pleaded guilty Friday to lying to the FBI about his postelection contacts with Russia’s ambassador to the United States — and is now cooperating with a probe into links between the Trump campaign and Russia.  
-    -   
-    - Flynn surrendered Friday morning before a hearing in Washington federal court, where he admitted guilty to a single criminal count of knowingly making materially false, fictitious and fraudulent statements to FBI agents.  
-    -   
-    - That charge against the retired Army lieutentant general was lodged by prosecutors for special counsel Robert Mueller, who is probing alleged connections between the Trump presidential campaign with Russians.  
-    -   
-    - Mueller’s office in a court filing said “Flynn’s false statements and omissions impeded and otherwise had a material impact on the FBI’s ongoing investigation into the existence of any links or coordination between individuals associated with the Campaign and Russia’s effort to interfere with the 2016 presidential election.”`  
-    - [[courtschedu]]
-    
-    - `President Trump’s former national security adviser, Michael T. Flynn, pleaded guilty on Friday to lying to the F.B.I. about conversations with the Russian ambassador last December, becoming the first senior White House official to cut a cooperation deal in the special counsel’s wide-ranging inquiry into election interference.  
-    -   
-    - Mr. Flynn’s discussions with Sergey I. Kislyak, the Russian ambassador, were part of a coordinated effort by Mr. Trump’s aides to create foreign policy before they were in power, documents released as part of Mr. Flynn’s plea agreement show. Their efforts undermined the existing policy of President Barack Obama and flouted a warning from a senior Obama administration official to stop meddling in foreign affairs before the inauguration.  
-    -   
-    - The documents do not disclose what Mr. Trump knew about Mr. Flynn’s discussions. But in at least one instance, prosecutors say, Mr. Flynn was directed by a “very senior member” of the presidential transition team to discuss a United Nations resolution. Mr. Trump’s lawyers believe that unnamed aide was Mr. Trump’s son-in-law and close adviser, Jared Kushner, according to a lawyer briefed on the matter.`  
-    - [[micha]]
-    
+    - `Michael Flynn, President Donald Trump’s former national security adviser, pleaded guilty Friday to lying to the FBI about his postelection contacts with Russia’s ambassador to the United States — and is now cooperating with a probe into links between the Trump campaign and Russia.`
+      
+      `Flynn surrendered Friday morning before a hearing in Washington federal court, where he admitted guilty to a single criminal count of knowingly making materially false, fictitious and fraudulent statements to FBI agents.`
+      
+      `That charge against the retired Army lieutentant general was lodged by prosecutors for special counsel Robert Mueller, who is probing alleged connections between the Trump presidential campaign with Russians.`
+      
+      `Mueller’s office in a court filing said “Flynn’s false statements and omissions impeded and otherwise had a material impact on the FBI’s ongoing investigation into the existence of any links or coordination between individuals associated with the Campaign and Russia’s effort to interfere with the 2016 presidential election.”` - [Trump's ex-adviser Flynn pleads guilty to lying to FBI, is cooperating, CNBC, 2017](https://www.cnbc.com/2017/12/01/court-schedules-plea-hearing-for-flynn-at-1030-am-et.html)
+    - `President Trump’s former national security adviser, Michael T. Flynn, pleaded guilty on Friday to lying to the F.B.I. about conversations with the Russian ambassador last December, becoming the first senior White House official to cut a cooperation deal in the special counsel’s wide-ranging inquiry into election interference.`
+      
+      `Mr. Flynn’s discussions with Sergey I. Kislyak, the Russian ambassador, were part of a coordinated effort by Mr. Trump’s aides to create foreign policy before they were in power, documents released as part of Mr. Flynn’s plea agreement show. Their efforts undermined the existing policy of President Barack Obama and flouted a warning from a senior Obama administration official to stop meddling in foreign affairs before the inauguration.`
+      
+      `The documents do not disclose what Mr. Trump knew about Mr. Flynn’s discussions. But in at least one instance, prosecutors say, Mr. Flynn was directed by a “very senior member” of the presidential transition team to discuss a United Nations resolution. Mr. Trump’s lawyers believe that unnamed aide was Mr. Trump’s son-in-law and close adviser, Jared Kushner, according to a lawyer briefed on the matter.` - [Michael Flynn Pleads Guilty to Lying to the F.B.I. and Will Cooperate With Russia Inquiry, The New York Times, 2017](https://www.nytimes.com/2017/12/01/us/politics/michael-flynn-guilty-russia-investigation.html)
 - On 2 December 2017, President Trump stated that he "had to fire General Flynn because he lied to the Vice President and the FBI", noting that Flynn had "pled guilty to those lies".
     
     - `President Donald Trump in a tweet on Saturday said he fired his former National Security Adviser Michael Flynn because Flynn lied to the vice president — and the FBI.  
@@ -772,7 +767,7 @@
     - [link](https://oig.justice.gov/press/2018/2018-03-28b.pdf)
     
 - On 9 December 2019, the Office of the Inspector General, released a redacted report by Inspector General Michael E. Horowitz called `Review of Four FISA Applications and Other Aspects of the FBI’s Crossfire Hurricane Investigation` [link](https://www.justice.gov/storage/120919-examination.pdf)
-- On 9 December 2019, U.S. Attorney John Durham, who conducted the [[United States Contents Page]] at the behest of Barr, disagreed with the report's findings.
+- On 9 December 2019, U.S. Attorney John Durham, who conducted the [United States Contents Page] at the behest of Barr, disagreed with the report's findings.
     
     - `In a statement, Attorney General William P. Barr disagreed with one of the inspector general’s key conclusions, saying the FBI launched an investigation of a presidential campaign “on the thinnest of suspicions that, in my view, were insufficient to justify the steps taken. It is also clear that, from its inception, the evidence produced by the investigation was consistently exculpatory.”  
     -   
