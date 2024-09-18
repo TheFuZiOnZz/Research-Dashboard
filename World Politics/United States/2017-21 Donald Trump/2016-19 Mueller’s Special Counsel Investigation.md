@@ -119,47 +119,44 @@
       
       `Kislyak agrees. Now when FSB and GRU are sanctioned and Kislyak asks himself, does it mean that the U.S. is not willing to work on terrorist threats, Kislyak poses a question. Flynn says, yes.`
       
-      `Kislyak says he heard Flynn and he will try people in Moscow to understand.` - [Michael Flynn Declassified Transcripts of Phone Calls, Senate Judiciary Committee, 2020](https://d3i6fh83elv35t.cloudfront.net/static/2020/05/FlynnTranscripts.pdf)
-    - `FLYNN: Yeah. Yeah, yeah. I understand. Okay, um, okay. Listen. uh, a couple of things. Number one, what I would ask you guys to do and make sure you, make sure that you convey this, okay? — do not, do not uh, allow this administration to box us in, right now, okay? Um —  
-    -   
-    - KISLYAK: We have conveyed it. And -  
-    -   
-    - FLYNN: Yeah.  
-    -   
-    - KISLYAK: It's, uh, it's uh, very very specifically and transparently, openly.  
-    -   
-    - FLYNN: So, you know, depending on, depending on what uh, actions they take over this current issue of the cyber stuff, you know, where they're looking like they're gonna, they're gonna dismiss some number of Russians out of the country, I understand ali that and I understand that, that, you know, the information that they have and all that, but what I would ask Russia to do is to not — is - is if anything because I know you have to have some sort of action — to, to only make it reciprocal. Make it reciprocal. Don't don't make it — don't go any further than you have to. Because I don't want us to get into something that has to escalate, on a, you know, on a tit for tat. You follow me, Ambassador?  
-    -   
-    - KISLYAK: I understand what you're saying, but you know, you might appreciate the sentiments that are raging now in Moscow.  
-    -   
-    - FLYNN: I know, I believe me, I do appreciate it, I very much appreciate it. But I really don't want us to get into a situation where we're going, you know. where we do this and then you do something bigger, and then you know, everybody's got to go back and forth and everybody's got to be the tough guy here, you know?  
-    -   
-    - [Timestamp 07:00]  
-    -   
-    - FLYNN: We don't need to, we don't need that right now, we need to we need cool heads to prevail, and uh, and we need to be very steady about what we're going to do because we have absolutely a common uh, threat in the Middle East right now  
-    -   
-    - KISLYAK: We agree.  
-    -   
-    - FLYNN: We have to eliminate this common threat.  
-    -   
-    - KISLYAK: We agree. One of the problems among the measures that have been announced today is that now FSB and GRU are sanctions, are sanctioned, and I ask myself, uh, does it mean that the United States isn't willing to work on terrorist threats?  
-    -   
-    - FLYNN: Yeah, yeah.  
-    -   
-    - KISLYAK: Because that's the people who are exactly, uh, fighting the terrorists.  
-    -   
-    - FLYNN: Yeah, yeah, yep.  
-    -   
-    - KISLYAK: So that's something that we have to deal with. But I've heard what you say, and I certainly will try  
-    -   
-    - FLYNN: Yeah.  
-    -   
-    - KISLYAK: - to get the people in Moscow to understand it.  
-    -   
-    - FLYNN: Yeah.  
-    -   
-    - [Timestamp 08:00]`  
-    - [link](https://int.nyt.com/data/documenthelper/6976-flynn-kislyak-transcripts/cd9e96e708a9b0c8ba58/optimized/full.pdf)
+      `Kislyak says he heard Flynn and he will try people in Moscow to understand.` - [Michael Flynn Declassified Transcripts of Phone Calls with Kislyak, Senate Judiciary Committee, 2020](https://d3i6fh83elv35t.cloudfront.net/static/2020/05/FlynnTranscripts.pdf)
+    - `FLYNN: Yeah. Yeah, yeah. I understand. Okay, um, okay. Listen. uh, a couple of things. Number one, what I would ask you guys to do and make sure you, make sure that you convey this, okay? — do not, do not uh, allow this administration to box us in, right now, okay? Um —`
+      
+      `KISLYAK: We have conveyed it. And - `
+      
+      `FLYNN: Yeah.`
+      
+      `KISLYAK: It's, uh, it's uh, very very specifically and transparently, openly.`
+      
+      `FLYNN: So, you know, depending on, depending on what uh, actions they take over this current issue of the cyber stuff, you know, where they're looking like they're gonna, they're gonna dismiss some number of Russians out of the country, I understand ali that and I understand that, that, you know, the information that they have and all that, but what I would ask Russia to do is to not — is - is if anything because I know you have to have some sort of action — to, to only make it reciprocal. Make it reciprocal. Don't don't make it — don't go any further than you have to. Because I don't want us to get into something that has to escalate, on a, you know, on a tit for tat. You follow me, Ambassador?`
+      
+      `KISLYAK: I understand what you're saying, but you know, you might appreciate the sentiments that are raging now in Moscow.`
+      
+      `FLYNN: I know, I believe me, I do appreciate it, I very much appreciate it. But I really don't want us to get into a situation where we're going, you know. where we do this and then you do something bigger, and then you know, everybody's got to go back and forth and everybody's got to be the tough guy here, you know?`
+      
+      `[Timestamp 07:00]`
+      
+      `FLYNN: We don't need to, we don't need that right now, we need to we need cool heads to prevail, and uh, and we need to be very steady about what we're going to do because we have absolutely a common uh, threat in the Middle East right now`
+      
+      `KISLYAK: We agree.`
+      
+      `FLYNN: We have to eliminate this common threat.`
+      
+      `KISLYAK: We agree. One of the problems among the measures that have been announced today is that now FSB and GRU are sanctions, are sanctioned, and I ask myself, uh, does it mean that the United States isn't willing to work on terrorist threats?`
+      
+      `FLYNN: Yeah, yeah.`
+      
+      `KISLYAK: Because that's the people who are exactly, uh, fighting the terrorists.`
+      
+      `FLYNN: Yeah, yeah, yep.`
+      
+      `KISLYAK: So that's something that we have to deal with. But I've heard what you say, and I certainly will try`
+      
+      `FLYNN: Yeah.`
+      
+      `KISLYAK: - to get the people in Moscow to understand it.`
+      
+      `FLYNN: Yeah.` - [Michael Flynn Declassified Transcripts of Phone Calls with Kislyak, Senate Judiciary Committee, 2020](https://int.nyt.com/data/documenthelper/6976-flynn-kislyak-transcripts/cd9e96e708a9b0c8ba58/optimized/full.pdf)
     
 - On 12 January 2017, Flynn Makes False Public Statements About his Communications with Kislyak to Incoming Administration Officials, the Media, and the FBI.
     
