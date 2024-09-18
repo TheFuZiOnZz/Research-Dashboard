@@ -16,11 +16,16 @@
 - [Wiki](https://en.wikipedia.org/wiki/Chequers_plan)
 - On 6 July 2018,
 - On 9 July 2018,
+	- ` ` - [Brexit secretary David Davis resigns plunging government into crisis](https://www.theguardian.com/politics/2018/jul/08/david-davis-resigns-as-brexit-secretary-reports-say)
+	- ` ` - [May's plan 'sticks in the throat', says Boris Johnson as he resigns over Brexit](https://www.theguardian.com/politics/2018/jul/09/boris-johnson-resigns-as-foreign-secretary-brexit)
 - On 12 July 2018, 
 	- ` ` - [The Future Relationship Between the United Kingdom And the European Union, HM Government, 2018](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/786626/The_Future_Relationship_between_the_United_Kingdom_and_the_European_Union_120319.pdf)
 # First Draft of EU-UK Withdrawal Agreement
-- [Link]()
-- 
+- On
+	- ` ` - [Draft Agreement on the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union and the European Atomic Energy Community, HM Government, 2018](https://assets.publishing.service.gov.uk/media/5bec6bf0e5274a082c807619/14_November_Draft_Agreement_on_the_Withdrawal_of_the_United_Kingdom_of_Great_Britain_and_Northern_Ireland_from_the_European_Union.pdf)
+	- ` ` - [Explainer for the agreement on the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union, HM Government, 2018](https://assets.publishing.service.gov.uk/media/5bec6ee9e5274a08321546d8/14_November_Explainer_for_the_agreement_on_the_withdrawal_of_the_United_Kingdom_of_Great_Britain_and_Northern_Ireland_from_the_European_Union___1_.pdf)
+- On 15 November 2018, 
+	- ` ` - [Four resignations and a threat: Read the letters in full, Sky News, 2018](https://news.sky.com/story/we-quit-read-each-ministers-resignation-letters-in-full-11554767)
 
 # Operation Yellowhammer
 - [Wiki](https://en.wikipedia.org/wiki/Operation_Yellowhammer)
