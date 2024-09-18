@@ -8,7 +8,7 @@
 # 2017 Brexit White Paper
 - On
 	- ` ` - [The United Kingdom’s exit from and new partnership with the European Union, HM Government, 2017](https://assets.publishing.service.gov.uk/media/5a74b934e5274a3f93b4849b/The_United_Kingdoms_exit_from_and_partnership_with_the_EU_Web.pdf)
-# 2017 Snap Election
+# 2017 Snap General Election
 - [Wiki](https://en.wikipedia.org/wiki/2017_United_Kingdom_general_election)
 - On 18 April 2017, 
 - On 8 June 2017, The general election is held, with 32,204,184 votes being cast for a turnout of 68.7%. The Conservatives win 318 seats in total, a net loss of 13. Although still the largest party in the House of Commons, they no longer have a parliamentary majority, resulting in a hung parliament.
@@ -44,6 +44,9 @@
 	- ` ` - [link](https://www.theguardian.com/politics/2019/aug/28/chancellor-sajid-javid-fast-tracked-spending-review-fuels-talk-of-early-election)
 - On 11 September 2019, The UK Supreme Courts found that
     - `In our view, the decision of the Prime Minister to advise Her Majesty the Queen to prorogue Parliament is not justiciable in Her Majesty's courts.` [link](https://www.bailii.org/ew/cases/EWHC/QB/2019/2381.html)
+# 2019 General Election
+- [Wiki](https://en.wikipedia.org/wiki/2019_United_Kingdom_general_election)
+- 
 # Brexit Withdrawal Agreement
 - [Wiki](https://en.wikipedia.org/wiki/Brexit_withdrawal_agreement)
 - The Brexit withdrawal agreement, officially titled Agreement on the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union and the European Atomic Energy Community, is a treaty between the European Union (EU), Euratom, and the United Kingdom (UK), signed on 24 January 2020, setting the terms of the withdrawal of the UK from the EU and Euratom.
