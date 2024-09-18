@@ -1,13 +1,14 @@
 - Brexit was the withdrawal of the United Kingdom from the European Union at 23:00 GMT on 31 January 2020. A UK-wide referendum was held on 23 June 2016, in which 51.89 per cent voted in favour of leaving the EU and 48.11 per cent voted to remain a member.
 - In 2017, the Financial Times reported that there were approximately 759 international agreements, spanning 168 non-EU countries, that the UK would no longer be a party to upon leaving the EU.
     - `Through analysis of the EU treaty database, the FT found 759 separate EU bilateral agreements with potential relevance to Britain, covering trade in nuclear goods, customs, fisheries, trade, transport and regulatory co-operation in areas such as antitrust or financial services. This includes multilateral agreements based on consensus, where Britain must re-approach 132 separate parties. Around 110 separate opt-in accords at the UN and World Trade Organization are excluded from the estimates, as are narrow agreements on the environment, health, research and science. Some additional UK bilateral deals, outside the EU framework, may also need to be revised because they make reference to EU law.` [link](https://www.ft.com/content/f1435a8e-372b-11e7-bce4-9023f8c0fd2e)
+# 2017 Brexit White Paper
+- [Wiki](https://en.wikipedia.org/wiki/Brexit_plan)
+- On 2 February 2017, 
+	- ` ` - [The United Kingdom’s exit from and new partnership with the European Union, HM Government, 2017](https://assets.publishing.service.gov.uk/media/5a74b934e5274a3f93b4849b/The_United_Kingdoms_exit_from_and_partnership_with_the_EU_Web.pdf)
 # Invoking Article 50
 - [Wiki](https://en.wikipedia.org/wiki/United_Kingdom_invocation_of_Article_50_of_the_Treaty_on_European_Union)
 - On 16 March 2017, The European Union (Notification of Withdrawal) Act 2017 was passed to empower the Prime Minister to give to the Council of the European Union the formal notice required by Article 50 of the Treaty on European Union for starting negotiations for the United Kingdom's withdrawal from the European Union
 - On 29 March 2017, The Permanent Representative of the United Kingdom to the European Union Tim Barrow hand delivers a letter from May to Donald Tusk that officially invokes Article 50. A two-year negotiating process begins, with the UK due to leave the EU on 29 March 2019.
-# 2017 Brexit White Paper
-- On
-	- ` ` - [The United Kingdom’s exit from and new partnership with the European Union, HM Government, 2017](https://assets.publishing.service.gov.uk/media/5a74b934e5274a3f93b4849b/The_United_Kingdoms_exit_from_and_partnership_with_the_EU_Web.pdf)
 # 2017 Snap General Election
 - [Wiki](https://en.wikipedia.org/wiki/2017_United_Kingdom_general_election)
 - On 18 April 2017, 
