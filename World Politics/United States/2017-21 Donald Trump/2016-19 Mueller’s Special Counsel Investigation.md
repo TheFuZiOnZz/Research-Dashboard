@@ -119,7 +119,7 @@
       
       `Kislyak agrees. Now when FSB and GRU are sanctioned and Kislyak asks himself, does it mean that the U.S. is not willing to work on terrorist threats, Kislyak poses a question. Flynn says, yes.`
       
-      `Kislyak says he heard Flynn and he will try people in Moscow to understand.` - [link](https://d3i6fh83elv35t.cloudfront.net/static/2020/05/FlynnTranscripts.pdf)    
+      `Kislyak says he heard Flynn and he will try people in Moscow to understand.` - [Michael Flynn Declassified Transcripts of Phone Calls, Senate Judiciary Committee, 2020](https://d3i6fh83elv35t.cloudfront.net/static/2020/05/FlynnTranscripts.pdf)
     - `FLYNN: Yeah. Yeah, yeah. I understand. Okay, um, okay. Listen. uh, a couple of things. Number one, what I would ask you guys to do and make sure you, make sure that you convey this, okay? — do not, do not uh, allow this administration to box us in, right now, okay? Um —  
     -   
     - KISLYAK: We have conveyed it. And -  
