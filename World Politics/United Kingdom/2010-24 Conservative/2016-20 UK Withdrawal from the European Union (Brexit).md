@@ -66,6 +66,7 @@
 # 2019 Prorogation of Parliament
 - On 28 August 2019, Johnson declared he had asked the Queen to prorogue parliament from 10 September until 14 October, narrowing the window in which parliament could block a no-deal Brexit.
 	- ` ` - [link](https://www.theguardian.com/politics/2019/aug/28/chancellor-sajid-javid-fast-tracked-spending-review-fuels-talk-of-early-election)
+- On 2 September 2019, 
 - On 11 September 2019, The UK Supreme Courts found that
     - `In our view, the decision of the Prime Minister to advise Her Majesty the Queen to prorogue Parliament is not justiciable in Her Majesty's courts.` [link](https://www.bailii.org/ew/cases/EWHC/QB/2019/2381.html)
 # 2019 General Election
