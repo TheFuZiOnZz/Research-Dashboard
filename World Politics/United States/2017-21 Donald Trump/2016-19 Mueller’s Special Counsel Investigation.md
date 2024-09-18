@@ -109,20 +109,17 @@
 - On 29 December 2016, Flynn spoke to Kislyak about the sanctions and expelled Russian diplomats.
     
     - `On December 29, 2016, as noted in Volume II, Section II.A.4, supra, the Obama Administration announced that it was imposing sanctions and other measures on several Russian individuals and entities. That day, multiple members of the PTT exchanged emails about the sanctions and the impact they would have on the incoming Administration, and Flynn informed members of the PTT that he would be speaking to the Russian Ambassador later in the day.` - [Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Department of Justice, 2019](https://www.justice.gov/archives/sco/file/1373816/download)
-    
-    - `Flynn wants to convey the following [to Moscow]: Do not allow this administration to box us in right now! Kislyak says the have conveyed it very clearly.  
-    -   
-    - Flynn: So, depending on what actions they take over this current issue of cyber stuff, where they are looking like they are going to dismiss some number of Russians out of the country. I understand all that and I understand that the information that they have and all that. But I ask Russia to do is to not, if anything, I know you have to have some sort of action, to only make it reciprocal; don't go any further than you have to because I don't want us to get into something that have to escalate to tit-for-tat. Do you follow me?  
-    -   
-    - Kislyak says he understands what Flynn is saying, but Flynn might appreciate the sentiments that are raging now in Moscow.  
-    -   
-    - Flynn: I know! Believe me I do! I very much appreciate it! But I really do not want us to get into the situation where we everybody goes back and forth and everybody had to be a tough guy here. We don't need that right now. We need cool heads to prevail. And we need to be very steady about what we are going to do because we have absolutely a common threat in the Middle East.  
-    -   
-    - Kislyak agrees. Now when FSB and GRU are sanctioned and Kislyak asks himself, does it mean that the U.S. is not willing to work on terrorist threats, Kislyak poses a question. Flynn says, yes.  
-    -   
-    - Kislyak says he heard Flynn and he will try people in Moscow to understand.`  
-    - [link](https://d3i6fh83elv35t.cloudfront.net/static/2020/05/FlynnTranscripts.pdf)
-    
+    - `Flynn wants to convey the following [to Moscow]: Do not allow this administration to box us in right now! Kislyak says the have conveyed it very clearly.`
+      
+      `Flynn: So, depending on what actions they take over this current issue of cyber stuff, where they are looking like they are going to dismiss some number of Russians out of the country. I understand all that and I understand that the information that they have and all that. But I ask Russia to do is to not, if anything, I know you have to have some sort of action, to only make it reciprocal; don't go any further than you have to because I don't want us to get into something that have to escalate to tit-for-tat. Do you follow me?`
+      
+      `Kislyak says he understands what Flynn is saying, but Flynn might appreciate the sentiments that are raging now in Moscow.`
+      
+      `Flynn: I know! Believe me I do! I very much appreciate it! But I really do not want us to get into the situation where we everybody goes back and forth and everybody had to be a tough guy here. We don't need that right now. We need cool heads to prevail. And we need to be very steady about what we are going to do because we have absolutely a common threat in the Middle East.`
+      
+      `Kislyak agrees. Now when FSB and GRU are sanctioned and Kislyak asks himself, does it mean that the U.S. is not willing to work on terrorist threats, Kislyak poses a question. Flynn says, yes.`
+      
+      `Kislyak says he heard Flynn and he will try people in Moscow to understand.` - [link](https://d3i6fh83elv35t.cloudfront.net/static/2020/05/FlynnTranscripts.pdf)    
     - `FLYNN: Yeah. Yeah, yeah. I understand. Okay, um, okay. Listen. uh, a couple of things. Number one, what I would ask you guys to do and make sure you, make sure that you convey this, okay? — do not, do not uh, allow this administration to box us in, right now, okay? Um —  
     -   
     - KISLYAK: We have conveyed it. And -  
