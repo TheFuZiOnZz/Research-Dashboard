@@ -99,7 +99,8 @@
 - On  September 2019, 
 	- ` ` - []()
 # 2019 No-Deal Readiness Report
--
+- On 8 October 2019, In anticipation of the UK leaving the EU without an agreement, the government publishes the "No-Deal Readiness Report", outlining its plans for a no-deal Brexit.
+	- ` ` - [No-Deal Readiness Report, HM Government, 2019](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/837632/No_deal_readiness_paper.PDF)
 # 2019 General Election
 - [Wiki](https://en.wikipedia.org/wiki/2019_United_Kingdom_general_election)
 - On 31 October 2019, the Early Parliamentary General Election Act 2019 is given royal assent causing a general election will now be held on 12 December 2019.
