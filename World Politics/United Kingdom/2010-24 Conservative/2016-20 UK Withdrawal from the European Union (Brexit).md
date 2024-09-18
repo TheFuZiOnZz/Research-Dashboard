@@ -113,7 +113,12 @@
 - [Wiki](https://en.wikipedia.org/wiki/Brexit_withdrawal_agreement)
 - [Wiki](https://en.wikipedia.org/wiki/European_Union_(Withdrawal_Agreement)_Act_2020)
 - On 31 January 2020, The Brexit withdrawal agreement, officially titled Agreement on the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union and the European Atomic Energy Community, is a treaty between the European Union (EU), Euratom, and the United Kingdom (UK), setting the terms of the withdrawal of the UK from the EU and Euratom.
-- 
+# 2020 EU–UK Trade and Cooperation Agreement
+- [Wiki](https://en.wikipedia.org/wiki/EU%E2%80%93UK_Trade_and_Cooperation_Agreement)
+- On 30 December 2020
+# 2023 Windsor Framework
+- [Wiki](https://en.wikipedia.org/wiki/Windsor_Framework)
+- On 
 # Economic Impacts
 - A 2017 paper found that:
     - `While soft Brexit would not be without significant challenges for UK financial services, it would surely be a lower-risk option for the City than the other possible outcomes we have considered. However, soft Brexit would require one of the parties to soften its current stance on free movement, which seems unlikely. Hard Brexit, on the other hand, would cause UK firms to lose their exports to the EU where 3CE provisions are not in place (such as banking), and likely subject the UK to intensifying competition from the US in those areas in which 3CE provisions could be relied upon (such as wholesale markets). The best outcome for the UK, absent breaking the deadlock on free movement, would be for a negotiated agreement on financial services that offers something more than the patchwork of 3CE provisions discussed above.` - [Brexit and financial services, Armour, 2017](https://annas-archive.org/scidb/10.1093/oxrep/grx014)
