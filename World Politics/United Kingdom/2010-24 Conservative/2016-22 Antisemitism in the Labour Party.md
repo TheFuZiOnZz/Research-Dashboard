@@ -6,31 +6,31 @@
 - [Wiki](https://en.wikipedia.org/wiki/Chakrabarti_Inquiry)
 - On 30 June 2016, Shami Chakrabarti’s inquiry presented its findings stating that although antisemitism and other types of racism were not endemic within Labour.
     
-    - `my key recommendations are as follows:  
-    -   
-    - 1. Epithets such as "Paki", "Zio" and others should have no place in Labour Party discourse going forward.  
-    -   
-    - 2. Critical and abusive reference to any particular person or group based on actual or perceived physical characteristics cannot be tolerated.  
-    -   
-    - 3. Racial or religious tropes and stereotypes about any group of people should have no place in our modern Labour Party.  
-    -   
-    - 4. Labour members should resist the use of Hitler, Nazi and Holocaust metaphors, distortions and comparisons in debates about Israel-Palestine in particular.  
-    -   
-    - 5. Excuse for, denial, approval or minimisation of the Holocaust and attempts to blur responsibility for it have no place in the Labour Party.  
-    -   
-    - 6. Beliefs out-with the Labour Party's values are not to be protected when considering whether a member has acted in a way which is prejudicial or grossly detrimental to the party.  
-    -   
-    - 7. The Code of Conduct approved in May 2016 should be amended so as to comprehensively rule out all forms of prejudice, but in the light of this and the guidance in my Report, I do not find other substantive (as opposed to procedural) rule changes to be strictly necessary.  
-    -   
-    - 8. I recommend procedural rule changes (a draft is annexed to this Report) to improve the Party's disciplinary process (as well as a wider review of the relevant provisions of the rules and procedural guidelines in the light of those recommendations) and the adoption and publication of a complaints procedure.  
-    -   
-    - 9. I recommend the appointment of a General Counsel to the Labour Party and additional and appropriately expert staff.  
-    -   
-    - 10. I recommend that the power of interim suspension be vested in the NCC and give guidance as to how it might be exercised more proportionately.  
-    -   
-    - 11. I recommend the appointment of a Legal Panel of volunteer lawyers of standing so as to assist the NCC in its functions and to provide a review on procedural and proportionality grounds in cases of suspension or expulsion from the Party.  
-    -   
-    - 12. I recommend consideration of a greater range of NCC sanctions short of suspension and expulsion.  
+    - `my key recommendations are as follows:`
+      
+      `1. Epithets such as "Paki", "Zio" and others should have no place in Labour Party discourse going forward.`
+      
+      `2. Critical and abusive reference to any particular person or group based on actual or perceived physical characteristics cannot be tolerated.`
+      
+      `3. Racial or religious tropes and stereotypes about any group of people should have no place in our modern Labour Party.`
+      
+      `4. Labour members should resist the use of Hitler, Nazi and Holocaust metaphors, distortions and comparisons in debates about Israel-Palestine in particular.`
+      
+      `5. Excuse for, denial, approval or minimisation of the Holocaust and attempts to blur responsibility for it have no place in the Labour Party.`
+      
+      `6. Beliefs out-with the Labour Party's values are not to be protected when considering whether a member has acted in a way which is prejudicial or grossly detrimental to the party.`
+      
+      `7. The Code of Conduct approved in May 2016 should be amended so as to comprehensively rule out all forms of prejudice, but in the light of this and the guidance in my Report, I do not find other substantive (as opposed to procedural) rule changes to be strictly necessary.`
+      
+      `8. I recommend procedural rule changes (a draft is annexed to this Report) to improve the Party's disciplinary process (as well as a wider review of the relevant provisions of the rules and procedural guidelines in the light of those recommendations) and the adoption and publication of a complaints procedure.`
+      
+      `9. I recommend the appointment of a General Counsel to the Labour Party and additional and appropriately expert staff.`
+      
+      `10. I recommend that the power of interim suspension be vested in the NCC and give guidance as to how it might be exercised more proportionately.`
+      
+      `11. I recommend the appointment of a Legal Panel of volunteer lawyers of standing so as to assist the NCC in its functions and to provide a review on procedural and proportionality grounds in cases of suspension or expulsion from the Party.`
+      
+      `12. I recommend consideration of a greater range of NCC sanctions short of suspension and expulsion.  
     -   
     - 13. I do not recommend lifetime bans from the Labour Party and recommend time limits on the bringing of disciplinary charges.  
     -   
