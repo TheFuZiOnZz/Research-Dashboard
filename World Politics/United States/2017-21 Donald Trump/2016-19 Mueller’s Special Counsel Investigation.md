@@ -173,24 +173,21 @@
       
       `It isn’t clear when the counterintelligence inquiry began, whether it produced any incriminating evidence or if it is continuing. Mr. Flynn, a retired general who became national security adviser with Mr. Trump’s inauguration, plays a key role in setting U.S. policy toward Russia.` - [U.S. Eyes Michael Flynn’s Links to Russia, The Wall Street Journal, 2017](https://www.wsj.com/articles/u-s-eyes-michael-flynns-links-to-russia-1485134942)
 - On 13 February 2017, Flynn resigned as National Security Advisor, writing that he had given "incomplete information" of his conversations with Kislyak.
-    - `In the course of my duties as the incoming National Security Advisor, I held numerous phone calls with foreign counterparts, ministers, and ambassadors. These calls were to facilitate a smooth transition and begin to build the necessary relationships between the President, his advisors and foreign leaders. Such calls are standard practice in any transition of this magnitude.  
-    -   
-    - Unfortunately, because of the fast pace of events, I inadvertently briefed the Vice President Elect and others with incomplete information regarding my phone calls with the Russian Ambassador. I have sincerely apologized to the President and the Vice President, and they have accepted apology.  
-    -   
-    - Throughout my over thirty three years of honorable military service, and my tenure as the National Security Advisor, I have always performed my duties with the upmost of integrity and honesty to those I have served, to include the President of the United States.  
-    -   
-    - `I am tendering resignation, honored to have served our nation and the American people in such a distinguished way.` - [Michael Flynn's Resignation Letter, The White House, 2017](https://s3.documentcloud.org/documents/3461325/Read-Michael-Flynn-s-resignation-letter.pdf)
+    - `In the course of my duties as the incoming National Security Advisor, I held numerous phone calls with foreign counterparts, ministers, and ambassadors. These calls were to facilitate a smooth transition and begin to build the necessary relationships between the President, his advisors and foreign leaders. Such calls are standard practice in any transition of this magnitude.`
+      
+      `Unfortunately, because of the fast pace of events, I inadvertently briefed the Vice President Elect and others with incomplete information regarding my phone calls with the Russian Ambassador. I have sincerely apologized to the President and the Vice President, and they have accepted apology.`
+      
+      `Throughout my over thirty three years of honorable military service, and my tenure as the National Security Advisor, I have always performed my duties with the upmost of integrity and honesty to those I have served, to include the President of the United States.`
+      
+      `I am tendering resignation, honored to have served our nation and the American people in such a distinguished way.` - [Michael Flynn's Resignation Letter, The White House, 2017](https://s3.documentcloud.org/documents/3461325/Read-Michael-Flynn-s-resignation-letter.pdf)
 - On 14 February 2017, White House Press Secretary Sean Spicer said that Trump had asked for Flynn to resign, "not based on a legal issue, but based on a trust issue", due to "misleading the Vice President and others, or the possibility that he had forgotten critical details of this important conversation", which "created a critical mass and an unsustainable situation".
-    
-    - `Q: No — the other question is, just getting back to what was asked a few moments ago about trust and being misled. Are you saying that the national security advisor was intentionally misleading the President, the Vice President, yourself when he made these comments to you about that conversation?  
-    -   
-    - MR. SPICER: No, look, the trust is given by the President. It’s a relationship between he and any individual. And so, as I mentioned in the comments, maybe it was because — I don’t know that it was intentional, he may have just forgotten, but I think at some point trust isn’t just —  
-    -   
-    - Q: Isn’t that kind of a weird thing to forget, though, in a conversation where you talk about —  
-    -   
-    - MR. SPICER: But that’s the point, Jim, is that at some point that trust eroded to a point where the President did not feel comfortable with him serving in that position, and asked for and received his resignation.`  
-    - [link](https://web.archive.org/web/20210116172142/https://www.whitehouse.gov/briefings-statements/press-briefing-press-secretary-sean-spicer-021417/)
-    
+    - `Q: No — the other question is, just getting back to what was asked a few moments ago about trust and being misled. Are you saying that the national security advisor was intentionally misleading the President, the Vice President, yourself when he made these comments to you about that conversation?`
+      
+      `MR. SPICER: No, look, the trust is given by the President. It’s a relationship between he and any individual. And so, as I mentioned in the comments, maybe it was because — I don’t know that it was intentional, he may have just forgotten, but I think at some point trust isn’t just —`
+      
+      `Q: Isn’t that kind of a weird thing to forget, though, in a conversation where you talk about —`
+      
+      `MR. SPICER: But that’s the point, Jim, is that at some point that trust eroded to a point where the President did not feel comfortable with him serving in that position, and asked for and received his resignation.` - [link](https://web.archive.org/web/20210116172142/https://www.whitehouse.gov/briefings-statements/press-briefing-press-secretary-sean-spicer-021417/)
 - On 15 February 2017, Flynn was Interviewed in a Deposition to the FBI, in which he said he didn’t ask Kislyak about escalation from Russia because of the sanctions end expelling of diplomats.
     
     - `The interviewing agents asked FLYNN if he recalled any with KISLYAK in which the expulsions were discussed, where FLYNN might have encouraged KISLYAK not to escalate the situation, to keep the Russian response reciprocal, or not to engage in a "tit—for—tat. t'  
