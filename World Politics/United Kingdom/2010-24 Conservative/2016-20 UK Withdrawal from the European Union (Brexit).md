@@ -5,6 +5,8 @@
 - [Wiki](https://en.wikipedia.org/wiki/Brexit_plan)
 - On 2 February 2017, 
 	- ` ` - [The United Kingdom’s exit from and new partnership with the European Union, HM Government, 2017](https://assets.publishing.service.gov.uk/media/5a74b934e5274a3f93b4849b/The_United_Kingdoms_exit_from_and_partnership_with_the_EU_Web.pdf)
+	- ` ` - [The United Kingdom’s exit from and new partnership with the European Union, HM Government, 2017](https://assets.publishing.service.gov.uk/media/5a74b934e5274a3f93b4849b/The_United_Kingdoms_exit_from_and_partnership_with_the_EU_Web.pdf)
+	- ` ` - [The United Kingdom’s exit from and new partnership with the European Union, HM Government, 2017](https://assets.publishing.service.gov.uk/media/5a74b934e5274a3f93b4849b/The_United_Kingdoms_exit_from_and_partnership_with_the_EU_Web.pdf)
 # 2017 Invoking Article 50
 - [Wiki](https://en.wikipedia.org/wiki/United_Kingdom_invocation_of_Article_50_of_the_Treaty_on_European_Union)
 - On 16 March 2017, The European Union (Notification of Withdrawal) Act 2017 was passed to empower the Prime Minister to give to the Council of the European Union the formal notice required by Article 50 of the Treaty on European Union for starting negotiations for the United Kingdom's withdrawal from the European Union
