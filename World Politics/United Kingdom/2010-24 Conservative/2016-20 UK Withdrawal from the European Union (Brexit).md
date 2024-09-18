@@ -15,6 +15,8 @@
 	- ` ` - [Legislating for the United Kingdom’s withdrawal from the European Union, Department for Exiting the European Union, 2017](https://assets.publishing.service.gov.uk/media/5a81e1b340f0b62305b91508/Great_repeal_bill_white_paper_accessible.pdf)
 - On 13 July 2017, in Parliament, the government introduces the Great Repeal Bill (now officially called the European Union (Withdrawal) Bill) to the House of Commons.
 	- ` ` - []()
+- On 26 June 2018, the UK Parliament passes the European Union (Withdrawal) Act 2018 which repeals the European Communities Act 1972, and implements a parliamentary approval to be required for any withdrawal agreement negotiated between the Government of the United Kingdom and the European Union.
+	- ` ` - []()
 # 2017 Snap General Election
 - [Wiki](https://en.wikipedia.org/wiki/2017_United_Kingdom_general_election)
 - On 18 April 2017, 
