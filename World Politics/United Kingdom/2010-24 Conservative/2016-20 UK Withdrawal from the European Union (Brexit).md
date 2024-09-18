@@ -69,14 +69,26 @@
 	- ` ` - [link](https://www.theguardian.com/politics/2019/aug/28/chancellor-sajid-javid-fast-tracked-spending-review-fuels-talk-of-early-election)
 - On 2 September 2019, Hilary Benn drafts a bill to extend the Article 50 period to 31 January 2020.
 	- ` ` - [Proponents of the new Bill to stop No Deal face a significant dilemma over Queen’s Consent, London School of Economics Blog, 2019](https://blogs.lse.ac.uk/brexit/2019/09/02/proponents-of-the-new-bill-to-stop-no-deal-face-a-significant-dilemma-over-queens-consent/)
-- On 3 September 2019, Phillip Lee, a Conservative MP, crosses the floor to join the Liberal Democrats. In doing so, Johnson loses his majority in the House of Commons. Conservative MP Oliver Letwin tables a motion for Benn's bill to be passed through each stage of the House of Commons the following day. The motion passes by 328 to 301, with 21 Conservative MPs voting to support it.
+- On 3 September 2019, Phillip Lee, a Conservative MP, crosses the floor to join the Liberal Democrats. In doing so, Johnson loses his majority in the House of Commons.
 	- ` ` - []()
-- - On 4 September 2019, 
+- On 3 September 2019, Conservative MP Oliver Letwin tables a motion for Benn's bill to be passed through each stage of the House of Commons the following day. The motion passes by 328 to 301, with 21 Conservative MPs voting to support it.
 	- ` ` - []()
-- On 4 September 2019, 
+- On 4 September 2019, Conservative Chief Whip Mark Spencer phones the 21 MPs who voted in favour of Letwin's motion to suspend them from the Conservative Party. Johnson now has a majority of minus 43.
+	- ` ` - []()
+- On 4 September 2019, The European Union (Withdrawal) (No. 6) Bill passes all its stages in the House of Commons. In its third reading, MPs vote in its favour by 327 to 299.
+	- ` ` - []()
+- On 5 September 2019, Answering a question during a Q&A at a police training college in Wakefield, Johnson asserts that he would rather be "dead in a ditch" than request another extension to the Article 50 period.
+	- ` ` - []()
+- On 6 September 2019, A panel of three senior judges in the High Court in England reject an appeal brought by Miller against the prorogation, R (Miller) v The Prime Minister, and rule that the decision is not justiciable, i.e., it is a political question rather than a legal one. The court therefore declines to intervene.
+	- ` ` - []()
+- On 9 September 2019, Benn's bill achieves royal assent and becomes the European Union (Withdrawal) (No. 2) Act 2019.
 	- ` ` - []()
 - On 11 September 2019, The UK Supreme Courts found that
     - `In our view, the decision of the Prime Minister to advise Her Majesty the Queen to prorogue Parliament is not justiciable in Her Majesty's courts.` [link](https://www.bailii.org/ew/cases/EWHC/QB/2019/2381.html)
+- On  September 2019, 
+	- ` ` - []()
+- On  September 2019, 
+	- ` ` - []()
 # 2019 General Election
 - [Wiki](https://en.wikipedia.org/wiki/2019_United_Kingdom_general_election)
 - 
