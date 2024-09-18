@@ -41,6 +41,9 @@
 	- ` ` - [link](https://www.theguardian.com/politics/2019/aug/28/chancellor-sajid-javid-fast-tracked-spending-review-fuels-talk-of-early-election)
 - On 11 September 2019, The UK Supreme Courts found that
     - `In our view, the decision of the Prime Minister to advise Her Majesty the Queen to prorogue Parliament is not justiciable in Her Majesty's courts.` [link](https://www.bailii.org/ew/cases/EWHC/QB/2019/2381.html)
+# Brexit Withdrawal Agreement
+- [Wiki](https://en.wikipedia.org/wiki/Brexit_withdrawal_agreement)
+- The Brexit withdrawal agreement, officially titled Agreement on the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union and the European Atomic Energy Community, is a treaty between the European Union (EU), Euratom, and the United Kingdom (UK), signed on 24 January 2020, setting the terms of the withdrawal of the UK from the EU and Euratom.
 # Economic Impacts
 - A 2017 paper found that:
     - `While soft Brexit would not be without significant challenges for UK financial services, it would surely be a lower-risk option for the City than the other possible outcomes we have considered. However, soft Brexit would require one of the parties to soften its current stance on free movement, which seems unlikely. Hard Brexit, on the other hand, would cause UK firms to lose their exports to the EU where 3CE provisions are not in place (such as banking), and likely subject the UK to intensifying competition from the US in those areas in which 3CE provisions could be relied upon (such as wholesale markets). The best outcome for the UK, absent breaking the deadlock on free movement, would be for a negotiated agreement on financial services that offers something more than the patchwork of 3CE provisions discussed above.` [link](https://annas-archive.org/scidb/10.1093/oxrep/grx014) - Brexit and financial services, Armour, 2017
