@@ -9,10 +9,12 @@
 - [Wiki](https://en.wikipedia.org/wiki/United_Kingdom_invocation_of_Article_50_of_the_Treaty_on_European_Union)
 - On 16 March 2017, The European Union (Notification of Withdrawal) Act 2017 was passed to empower the Prime Minister to give to the Council of the European Union the formal notice required by Article 50 of the Treaty on European Union for starting negotiations for the United Kingdom's withdrawal from the European Union
 - On 29 March 2017, The Permanent Representative of the United Kingdom to the European Union Tim Barrow hand delivers a letter from May to Donald Tusk that officially invokes Article 50. A two-year negotiating process begins, with the UK due to leave the EU on 29 March 2019.
-# Repeal Bill plan
+# Great Repeal Bill
+- [Wiki](https://en.wikipedia.org/wiki/European_Union_(Withdrawal)_Act_2018)
 - On 30 March 2017, The Repeal Bill plan, officially known as Legislating for the United Kingdom’s withdrawal from the European Union (Cm 9446), was a UK Government white paper setting out the Government's proposals for repealing the European Communities Act 1972 and how to maintain a fully functioning statute book after the United Kingdom had left the European Union. It was published the day after the UK triggered Article 50 by the Department for Exiting the European Union.
 	- ` ` - [Legislating for the United Kingdom’s withdrawal from the European Union, Department for Exiting the European Union, 2017](https://assets.publishing.service.gov.uk/media/5a81e1b340f0b62305b91508/Great_repeal_bill_white_paper_accessible.pdf)
-- On 13 July 2017 In Parliament, the government introduces the Great Repeal Bill (now called the European Union (Withdrawal) Bill) to the House of Commons.
+- On 13 July 2017, in Parliament, the government introduces the Great Repeal Bill (now officially called the European Union (Withdrawal) Bill) to the House of Commons.
+	- ` ` - []()
 # 2017 Snap General Election
 - [Wiki](https://en.wikipedia.org/wiki/2017_United_Kingdom_general_election)
 - On 18 April 2017, 
