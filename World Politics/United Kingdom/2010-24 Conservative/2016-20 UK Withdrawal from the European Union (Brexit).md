@@ -48,6 +48,7 @@
 # Extensions to Triggering Article 50
 - On 20 March 2019, the Prime Minister wrote to European Council President Tusk requesting that Brexit be postponed until 30 June 2019.
 	- ` ` - [Brexit: 'Tired' public needs a decision, says Theresa May. BBC News, 2019](https://www.bbc.co.uk/news/uk-politics-47647515)
+- On 8 April 2019, the UK Parliament passed the European Union (Withdrawal) Act 2019, commonly referred to as the Cooper–Letwin Act
 # Operation Yellowhammer
 - [Wiki](https://en.wikipedia.org/wiki/Operation_Yellowhammer)
 - On 25 March 2019, 
