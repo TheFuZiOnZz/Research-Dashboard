@@ -187,12 +187,10 @@
       
       `Q: Isn’t that kind of a weird thing to forget, though, in a conversation where you talk about —`
       
-      `MR. SPICER: But that’s the point, Jim, is that at some point that trust eroded to a point where the President did not feel comfortable with him serving in that position, and asked for and received his resignation.` - [link](https://web.archive.org/web/20210116172142/https://www.whitehouse.gov/briefings-statements/press-briefing-press-secretary-sean-spicer-021417/)
+      `MR. SPICER: But that’s the point, Jim, is that at some point that trust eroded to a point where the President did not feel comfortable with him serving in that position, and asked for and received his resignation.` - [Press Briefing by Press Secretary Sean Spicer, The White House, 2017](https://web.archive.org/web/20210116172142/https://www.whitehouse.gov/briefings-statements/press-briefing-press-secretary-sean-spicer-021417/)
 - On 15 February 2017, Flynn was Interviewed in a Deposition to the FBI, in which he said he didn’t ask Kislyak about escalation from Russia because of the sanctions end expelling of diplomats.
-    
     - `The interviewing agents asked FLYNN if he recalled any with KISLYAK in which the expulsions were discussed, where FLYNN might have encouraged KISLYAK not to escalate the situation, to keep the Russian response reciprocal, or not to engage in a "tit—for—tat. t'  
-    - FLYNN responded, "Not really. I don't It wasn't, t Don't do anything. remember. The U.S. Government 's response was a total surprise to FLYNN. FLYNN did not know about the Persona Non—Grata (PNG) action until it was in the media. KISLYAK and FLYNN were starting off on a good footing and FLYNN was looking forward to the relationship. With regard to the scope of the Russians who were expelled, FLYNN said he did not understand it. FLYNN stated he could understand one PNG, but not thirty—five.` - Flynn FBI Interview Report  
-    - [link](https://s3.documentcloud.org/documents/5633264/12-17-18-Redacted-Flynn-Interview-302.pdf)
+    - FLYNN responded, "Not really. I don't It wasn't, t Don't do anything. remember. The U.S. Government 's response was a total surprise to FLYNN. FLYNN did not know about the Persona Non—Grata (PNG) action until it was in the media. KISLYAK and FLYNN were starting off on a good footing and FLYNN was looking forward to the relationship. With regard to the scope of the Russians who were expelled, FLYNN said he did not understand it. FLYNN stated he could understand one PNG, but not thirty—five.` - [Flynn FBI Interview Report](https://s3.documentcloud.org/documents/5633264/12-17-18-Redacted-Flynn-Interview-302.pdf)
     
 - On 5 November 2017, NBC News reported that Robert Mueller had enough evidence for charges against Flynn and his son, Michael G. Flynn.
     
