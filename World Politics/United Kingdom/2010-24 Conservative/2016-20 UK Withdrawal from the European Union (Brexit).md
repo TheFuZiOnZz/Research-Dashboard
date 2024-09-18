@@ -4,7 +4,7 @@
 # 2017 Brexit White Paper
 - [Wiki](https://en.wikipedia.org/wiki/Brexit_plan)
 - On 2 February 2017, 
-	- ` ` - [The United Kingdom’s exit from and new partnership with the European Union, HM Government, 2017](https://assets.publishing.service.gov.uk/media/5a74b934e5274a3f93b4849b/The_United_Kingdoms_exit_from_and_partnership_with_the_EU_Web.pdf)
+	- `The sovereignty of Parliament is a fundamental principle of the UK constitution. Whilst Parliament has remained sovereign throughout our membership of the EU, it has not always felt like that.` - [The United Kingdom’s exit from and new partnership with the European Union, HM Government, 2017](https://assets.publishing.service.gov.uk/media/5a74b934e5274a3f93b4849b/The_United_Kingdoms_exit_from_and_partnership_with_the_EU_Web.pdf)
 	- ` ` - [The United Kingdom’s exit from and new partnership with the European Union, HM Government, 2017](https://assets.publishing.service.gov.uk/media/5a74b934e5274a3f93b4849b/The_United_Kingdoms_exit_from_and_partnership_with_the_EU_Web.pdf)
 	- ` ` - [The United Kingdom’s exit from and new partnership with the European Union, HM Government, 2017](https://assets.publishing.service.gov.uk/media/5a74b934e5274a3f93b4849b/The_United_Kingdoms_exit_from_and_partnership_with_the_EU_Web.pdf)
 # 2017 Invoking Article 50
