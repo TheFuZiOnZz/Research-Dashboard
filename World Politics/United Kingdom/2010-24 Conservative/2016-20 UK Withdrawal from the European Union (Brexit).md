@@ -18,7 +18,8 @@
 - On 12 July 2018, 
 	- ` ` - [The Future Relationship Between the United Kingdom And the European Union, HM Government, 2018](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/786626/The_Future_Relationship_between_the_United_Kingdom_and_the_European_Union_120319.pdf)
 # Operation Yellowhammer
-- 
+- [Wiki](https://en.wikipedia.org/wiki/Operation_Yellowhammer)
+- On 18 August 2019
 # Prorogation of Parliament
 - On 28 August 2019, Johnson declared he had asked the Queen to prorogue parliament from 10 September until 14 October, narrowing the window in which parliament could block a no-deal Brexit.
 	- ` ` - [link](https://www.theguardian.com/politics/2019/aug/28/chancellor-sajid-javid-fast-tracked-spending-review-fuels-talk-of-early-election)
