@@ -7,9 +7,9 @@
       
       `Later: Mr Cummings drove up to Durham with his family, arriving "at roughly midnight". "I was worried that if my wife and I were both seriously ill, possibly hospitalised, there was nobody in London we could reasonably ask to look after our child and expose themselves to Covid.`
       
-      `"My wife had felt on the edge of being able to look after him safely a few hours earlier." Mr Cummings did not say that at the point the family drove north his wife was unable to look after their child.` - [link](https://www.bbc.co.uk/news/uk-politics-52784290)
+      `"My wife had felt on the edge of being able to look after him safely a few hours earlier." Mr Cummings did not say that at the point the family drove north his wife was unable to look after their child.` - [Dominic Cummings: Did he break lockdown rules?, BBC News, 2020](https://www.bbc.co.uk/news/uk-politics-52784290)
 - On 28 March 2020, According to Cummings, he woke up with COVID-19-like symptoms, which got worse in that he barely left his bed over the following days.
-    - `Mr Cummings says he woke up "in pain and clearly had Covid symptoms, including a bad headache and a serious fever".` [link](https://www.bbc.co.uk/news/uk-politics-52784290)
+    - `Mr Cummings says he woke up "in pain and clearly had Covid symptoms, including a bad headache and a serious fever".` - [Dominic Cummings: Did he break lockdown rules?, BBC News, 2020](https://www.bbc.co.uk/news/uk-politics-52784290)
 - On 30 March 2020, the government confirmed that Cummings had displayed symptoms of COVID-19 and was self-isolating at home but did not test.
     - `Following reports, Number 10 confirmed Mr Cummings and his wife Mary Wakefield had started showing symptoms of coronavirus “over the weekend”. The spokesman said Mr Cummings was self-isolating and staying in contact with Downing Street. He was not tested for coronavirus. Reports say around this time Mr Cummings made his trip to Durham.` [link](https://www.itv.com/news/2020-05-26/dominic-cummings-durham-trip-timeline/)
 - On 2 April 2020, according to Cummings, his son became ill and was taken to hospital by ambulance following medical advice. He was tested for COVID-19 and the result given later was that he was not suffering from the virus. Cummings said he was too ill to go to the hospital, but his wife went.
