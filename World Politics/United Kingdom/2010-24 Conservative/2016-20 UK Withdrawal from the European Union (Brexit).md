@@ -83,7 +83,7 @@
 	- ` ` - []()
 - On 9 September 2019, Benn's bill achieves royal assent and becomes the European Union (Withdrawal) (No. 2) Act 2019.
 	- ` ` - []()
-- On 11 September 2019, The England and Wales High Court found that
+- On 11 September 2019, The England and Wales High Court found that these courts cannot 
     - `In our view, the decision of the Prime Minister to advise Her Majesty the Queen to prorogue Parliament is not justiciable in Her Majesty's courts.` [link](https://www.bailii.org/ew/cases/EWHC/QB/2019/2381.html)
 - On 24 September 2019, The Supreme Court delivers its verdict on the Miller and the Cherry cases. Sitting en banc for only the second time in the court's history, the judges unanimously reverse the High Court's decision, saying that Johnson's decision is justiciable. They also rule that the prorogation was "unlawful, null and of no effect", i.e., Parliament was never prorogued.
 	- ` ` - []()
