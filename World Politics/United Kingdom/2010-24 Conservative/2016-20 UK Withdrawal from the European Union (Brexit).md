@@ -58,9 +58,10 @@
 - [Wiki](https://en.wikipedia.org/wiki/Operation_Yellowhammer)
 - On 25 March 2019, 
 - On 18 August 2019, an official cabinet Yellowhammer document from earlier that month was leaked
-# UK Prime Minister Changes
+# 2019 UK Prime Minister Changes
 - [Wiki]()
-- On 
+- On 24 May 2019, the day after the European Parliament elections, Theresa May announces that she will resign as prime minister and leader of the Conservative Party, effective 7 June, and that she will continue as caretaker prime minister until a new leader is chosen.
+- On 24 July 2019, Boris Johnson becomes Prime Minister.
 # 2019 Prorogation of Parliament
 - On 28 August 2019, Johnson declared he had asked the Queen to prorogue parliament from 10 September until 14 October, narrowing the window in which parliament could block a no-deal Brexit.
 	- ` ` - [link](https://www.theguardian.com/politics/2019/aug/28/chancellor-sajid-javid-fast-tracked-spending-review-fuels-talk-of-early-election)
