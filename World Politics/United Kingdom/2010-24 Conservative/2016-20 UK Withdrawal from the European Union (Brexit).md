@@ -29,6 +29,10 @@
 	- ` ` - [May's plan 'sticks in the throat', says Boris Johnson as he resigns over Brexit, The Guardian, 2018](https://www.theguardian.com/politics/2018/jul/09/boris-johnson-resigns-as-foreign-secretary-brexit)
 - On 12 July 2018, 
 	- ` ` - [The Future Relationship Between the United Kingdom And the European Union, HM Government, 2018](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/786626/The_Future_Relationship_between_the_United_Kingdom_and_the_European_Union_120319.pdf)
+# Brexit Withdrawal Agreement Plan
+- [Wiki](https://en.wikipedia.org/wiki/Brexit_withdrawal_agreement_plan)
+- On 24 July 2018, 
+	- ` ` - [Legislating for the Withdrawal Agreement between the United Kingdom and the European Union, Department for Exiting the European Union, 2018](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/728757/6.4737_Cm9674_Legislating_for_the_withdrawl_agreement_FINAL_230718_v3a_WEB_PM.pdf)
 # First Draft of EU-UK Withdrawal Agreement
 - On 14 November 2018, The EU and UK negotiating teams agree on the draft text of the withdrawal agreement, which is published as a 585-page document.
 	- ` ` - [Draft Agreement on the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union and the European Atomic Energy Community, HM Government, 2018](https://assets.publishing.service.gov.uk/media/5bec6bf0e5274a082c807619/14_November_Draft_Agreement_on_the_Withdrawal_of_the_United_Kingdom_of_Great_Britain_and_Northern_Ireland_from_the_European_Union.pdf)
