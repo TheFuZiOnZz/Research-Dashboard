@@ -34,6 +34,7 @@
 - On 24 July 2018, 
 	- ` ` - [Legislating for the Withdrawal Agreement between the United Kingdom and the European Union, Department for Exiting the European Union, 2018](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/728757/6.4737_Cm9674_Legislating_for_the_withdrawl_agreement_FINAL_230718_v3a_WEB_PM.pdf)
 # 2018 First Draft of EU-UK Withdrawal Agreement
+- [Wiki](https://en.wikipedia.org/wiki/European_Union_(Withdrawal)_Act_2018)
 - On 14 November 2018, The EU and UK negotiating teams agree on the draft text of the withdrawal agreement, which is published as a 585-page document.
 	- ` ` - [Draft Agreement on the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union and the European Atomic Energy Community, HM Government, 2018](https://assets.publishing.service.gov.uk/media/5bec6bf0e5274a082c807619/14_November_Draft_Agreement_on_the_Withdrawal_of_the_United_Kingdom_of_Great_Britain_and_Northern_Ireland_from_the_European_Union.pdf)
 	- ` ` - [Explainer for the agreement on the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union, HM Government, 2018](https://assets.publishing.service.gov.uk/media/5bec6ee9e5274a08321546d8/14_November_Explainer_for_the_agreement_on_the_withdrawal_of_the_United_Kingdom_of_Great_Britain_and_Northern_Ireland_from_the_European_Union___1_.pdf)
@@ -46,9 +47,11 @@
 - On 14 March 2019, With the UK set to leave the EU on 29 March without a deal in place, MPs vote on an amended motion on whether Article 50 should be extended untill 12 April 2020. By 413 votes to 202, the motion passes.
 	- ` ` - [MPs back Brexit delay as votes lay bare cabinet divisions, The Guardian, 2019](https://www.theguardian.com/politics/2019/mar/14/mps-vote-by-majority-of-210-to-extend-article-50-and-delay-brexit)
 # 2019 Extension to Triggering Article 50
+- [Wiki](https://en.wikipedia.org/wiki/European_Union_(Withdrawal)_Act_2019)
 - On 20 March 2019, the Prime Minister wrote to European Council President Tusk requesting that Brexit be postponed until 30 June 2019.
 	- ` ` - [Brexit: 'Tired' public needs a decision, says Theresa May. BBC News, 2019](https://www.bbc.co.uk/news/uk-politics-47647515)
-- On 8 April 2019, the UK Parliament passed the European Union (Withdrawal) Act 2019, commonly referred to as the Cooper–Letwin Act
+- On 8 April 2019, the UK Parliament passed the European Union (Withdrawal) Act 2019, commonly referred to as the Cooper–Letwin Act, which gave approval to the Prime Minister an extension to the Article 50 process to 30 June 2019.
+	- ` ` - [MPs back Brexit delay bill as Theresa May heads to Berlin to plead for more time, PoliticsHome, 2019](https://www.politicshome.com/news/article/mps-back-brexit-delay-bill-as-theresa-may-heads-to-berlin-to-plead-for-more-time)
 # Operation Yellowhammer
 - [Wiki](https://en.wikipedia.org/wiki/Operation_Yellowhammer)
 - On 25 March 2019, 
