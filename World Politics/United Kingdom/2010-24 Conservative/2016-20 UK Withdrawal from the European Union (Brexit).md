@@ -108,6 +108,7 @@
 	  
 	  `Northern Ireland Budget Act.` - [Royal Assent for Early Parliamentary General Election Act, UK Parliament, 2019](https://hansard.parliament.uk/lords/2019-10-31/debates/E095C72C-6D9D-489F-BD54-CB67D51A195E/RoyalAssent)
 - On 12 December 2019, The general election is held. A total of 32,014,110 votes are cast for a turnout of 67.3%. The Conservatives win 365 seats, giving them a majority of 80 in the House of Commons. Labour win 203 seats, a net loss of 59.
+	- ` ` - [General Election 2019: results and analysis, House of Commons Library, 2020](https://researchbriefings.files.parliament.uk/documents/CBP-8749/CBP-8749.pdf)
 # 2020 Brexit Withdrawal Agreement
 - [Wiki](https://en.wikipedia.org/wiki/Brexit_withdrawal_agreement)
 - The Brexit withdrawal agreement, officially titled Agreement on the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union and the European Atomic Energy Community, is a treaty between the European Union (EU), Euratom, and the United Kingdom (UK), signed on 24 January 2020, setting the terms of the withdrawal of the UK from the EU and Euratom.
