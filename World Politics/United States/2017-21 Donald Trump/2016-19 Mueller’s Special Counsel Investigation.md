@@ -43,9 +43,17 @@
 # Meeting at Trump Tower with Veselnitskaya
 - [Wiki](https://en.wikipedia.org/wiki/Trump_Tower_meeting)
 - On 9 June 2016, Trump held a meeting with Russian attorney, Natalia Veselnitskaya, and other members of the Trump Campaign on receiving damaging information on Clinton.
-    - `On June 9, 2016, senior representatives of the Trump Campaign met in Trump Tower with a Russian attorney expecting to receive derogatory information about Hillary Clinton from the Russian government. The meeting was proposed to Donald Trump Jr. in an email from Robert Goldstone, at the request of his then-client Emin Agalarov, the son of Russian real-estate developer Aras Agalarov. Goldstone relayed to Trump Jr. that the “Crown prosecutor of Russia... offered to provide the Trump Campaign with some official documents and information that would incriminate Hillary and her dealings with Russia” as part of Russia and its government’s support for Mr. Trump.” Trump Jr. immediately responded that “if it’s what you say I love it,” and arranged the meeting through a series of emails and telephone calls.
+    - `On June 9, 2016, senior representatives of the Trump Campaign met in Trump Tower with a Russian attorney expecting to receive derogatory information about Hillary Clinton from the Russian government. The meeting was proposed to Donald Trump Jr. in an email from Robert Goldstone, at the request of his then-client Emin Agalarov, the son of Russian real-estate developer Aras Agalarov. Goldstone relayed to Trump Jr. that the “Crown prosecutor of Russia... offered to provide the Trump Campaign with some official documents and information that would incriminate Hillary and her dealings with Russia” as part of Russia and its government’s support for Mr. Trump.” Trump Jr. immediately responded that “if it’s what you say I love it,” and arranged the meeting through a series of emails and telephone calls.`
       
-      ` - [Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Department of Justice, 2019](https://www.justice.gov/archives/sco/file/1373816/download)
+      `Trump Jr. invited campaign chairman Paul Manafort and senior advisor Jared Kushner to
+attend the meeting, and both attended. Members of the Campaign discussed the meeting before it
+occurred, and Michael Cohen recalled that Trump Jr. may have told candidate Trump about an
+upcoming meeting to receive adverse information about Clinton, without linking the meeting to
+Russia. According to written answers submitted by President Trump, he has no recollection of
+learning of the meeting at the time, and the Office found no documentary evidence showing that he
+was made aware of the meeting—or its Russian connection—before it occurred. `
+      
+      `` - [Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Department of Justice, 2019](https://www.justice.gov/archives/sco/file/1373816/download)
 - On 9 June 2016, Trump .
     - ` ` - [Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Department of Justice, 2019](https://www.justice.gov/archives/sco/file/1373816/download)
 # Trump Campaign’s Response to Reports About Russian Support for Trump
