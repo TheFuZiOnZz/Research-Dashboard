@@ -401,24 +401,20 @@
 # Trump Orders McGahn to Deny That Trump Tried Removing Mueller
 - On 25 January 2018, the New York Times reported that in June 2017, Trump had ordered McGahn to have the Department of Justice fire the Special Counsel.
     - `On January 25, 2018, the New York Times reported that in June 2017, the President had ordered McGahn to have the Department of Justice fire the Special Counsel. According to the article, “[a]mid the first wave of news media reports that Mr. Mueller was examining a possible obstruction case, the president began to argue that Mr. Mueller had three conflicts of interest that disqualified him from overseeing the investigation.” The article further reported that “[a]fter receiving the president’s order to fire Mr. Mueller, the White House counsel . . . refused to ask the Justice Department to dismiss the special counsel, saying he would quit instead.” The article stated that the president “ultimately backed down after the White House counsel threatened to resign rather than carry out the directive.”` - [Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Department of Justice, 2019](https://www.justice.gov/archives/sco/file/1373816/download)
-    
     - `President Trump ordered the firing last June of Robert S. Mueller III, the special counsel overseeing the Russia investigation, according to four people told of the matter, but ultimately backed down after the White House counsel threatened to resign rather than carry out the directive.` - [Trump Ordered Mueller Fired, but Backed Off When White House Counsel Threatened to Quit, The New York Times, 2018](https://www.nytimes.com/2018/01/25/us/politics/trump-mueller-special-counsel-russia.html?module=inline)
 - On 25 January 2018, Trump tells CNN that the New York Times report was fake news.
     - `After the article was published, the President dismissed the story when asked about it by reporters, saying, “Fake news, folks. Fake news. A typical New York Times fake story.”` - [Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Department of Justice, 2019](https://www.justice.gov/archives/sco/file/1373816/download)
-    
-    - `President Donald Trump denied on Friday that he had moved to fire special counsel Robert Mueller.  
-    -   
-    - He had called for the firing last June, according to one person familiar with the matter. White House counsel Don McGahn refused to order the Justice Department to fire Mueller because he disagreed with the President’s reasoning, the source said. However, according to the source, McGahn did not threaten to resign directly to the President.  
-    -   
-    - The New York Times was first to report that Trump called for Mueller’s departure in June 2017.  
-    -   
-    - “Fake news, folks. Fake news,” Trump said when questioned about the revelation as he entered the World Economic Forum in Davos.  
-    -   
-    - “Typical New York Times,” he added.`  
-    - [link](https://edition.cnn.com/2018/01/25/politics/donald-trump-robert-mueller/index.html)
+    - `President Donald Trump denied on Friday that he had moved to fire special counsel Robert Mueller.`
+      
+      `He had called for the firing last June, according to one person familiar with the matter. White House counsel Don McGahn refused to order the Justice Department to fire Mueller because he disagreed with the President’s reasoning, the source said. However, according to the source, McGahn did not threaten to resign directly to the President.`
+      
+      `The New York Times was first to report that Trump called for Mueller’s departure in June 2017.`
+      
+      `“Fake news, folks. Fake news,” Trump said when questioned about the revelation as he entered the World Economic Forum in Davos.`
+      
+      `“Typical New York Times,” he added.` - [Trump denies he called for Mueller’s firing, CNN, 2018](https://edition.cnn.com/2018/01/25/politics/donald-trump-robert-mueller/index.html)
 - On 26 January 2018, the Washington Post reported a corroboration of the New York Times article.
     - `The next day, the Washington Post reported on the same event but added that McGahn had not told the President directly that he intended to resign rather than carry out the directive to have the Special Counsel terminated. In that respect, the Post story clarified the Times story, which could be read to suggest that McGahn had told the President of his intention to quit, causing the President to back down from the order to have the Special Counsel fired.` - [Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Department of Justice, 2019](https://www.justice.gov/archives/sco/file/1373816/download)
-    
     - `President Trump sought the firing of Robert S. Mueller III last June, shortly after the special counsel took over the investigation into Russian interference in the 2016 election, and he backed off only after White House Counsel Donald F. McGahn threatened to resign over the move.  
     -   
     - The extraordinary showdown was confirmed by two people familiar with the episode, which was first reported by the New York Times.  
