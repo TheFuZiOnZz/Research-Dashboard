@@ -7,10 +7,10 @@
 - [link](https://web.archive.org/web/20221209090443/https://intelligence.house.gov/social-media-content/social-media-advertisements.htm) - multiple packs of examples of the social media content disseminated by Russian Trolls
 - [link](https://web.archive.org/web/20221209090440/https://intelligence.house.gov/uploadedfiles/hpsci_minority_exhibits_memo_11.1.17.pdf) - Numbers from the social media platforms on Russia-Linked Accounts
 # Russian Hacking & Dumping Operations
-## GRU’s Persona `DCLeaks`
+## GRU’s Persona DCLeaks
 - 
-## GRU’s Persona `Guccifer 2.0`
-- On 12 January 2017, `Guccifer 2.0` released a blog post stating that accusations of ties with the Russian Government were unfounded.
+## GRU’s Persona Guccifer 2.0
+- On 12 January 2017, Guccifer 2.0 released a blog post stating that accusations of ties with the Russian Government were unfounded.
     - `I really hope you’ve missed me a lot. Though I see they didn’t let you forget my name. The U.S. intelligence agencies have published several reports of late claiming I have ties with Russia.`
       
       `I’d like to make it clear enough that these accusations are unfounded. I have totally no relation to the Russian government. I’d like to tell you once again I was acting in accordance with my personal political views and beliefs.`
