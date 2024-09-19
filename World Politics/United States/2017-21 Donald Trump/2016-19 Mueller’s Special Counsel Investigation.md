@@ -415,14 +415,13 @@
       `“Typical New York Times,” he added.` - [Trump denies he called for Mueller’s firing, CNN, 2018](https://edition.cnn.com/2018/01/25/politics/donald-trump-robert-mueller/index.html)
 - On 26 January 2018, the Washington Post reported a corroboration of the New York Times article.
     - `The next day, the Washington Post reported on the same event but added that McGahn had not told the President directly that he intended to resign rather than carry out the directive to have the Special Counsel terminated. In that respect, the Post story clarified the Times story, which could be read to suggest that McGahn had told the President of his intention to quit, causing the President to back down from the order to have the Special Counsel fired.` - [Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Department of Justice, 2019](https://www.justice.gov/archives/sco/file/1373816/download)
-    - `President Trump sought the firing of Robert S. Mueller III last June, shortly after the special counsel took over the investigation into Russian interference in the 2016 election, and he backed off only after White House Counsel Donald F. McGahn threatened to resign over the move.  
-    -   
-    - The extraordinary showdown was confirmed by two people familiar with the episode, which was first reported by the New York Times.  
-    -   
-    - McGahn did not deliver his resignation threat directly to Trump but was serious about his threat to leave, according to a person familiar with the episode.  
-    -   
-    - Trump denied the report Friday when asked about it during the World Economic Forum in Davos, Switzerland.`  
-    - [link](https://www.washingtonpost.com/politics/trump-moved-to-fire-mueller-in-june-bringing-white-house-counsel-to-the-brink-of-leaving/2018/01/25/9184a49e-0238-11e8-bb03-722769454f82_story.html)
+    - `President Trump sought the firing of Robert S. Mueller III last June, shortly after the special counsel took over the investigation into Russian interference in the 2016 election, and he backed off only after White House Counsel Donald F. McGahn threatened to resign over the move.`
+      
+      `The extraordinary showdown was confirmed by two people familiar with the episode, which was first reported by the New York Times.`
+      
+      `McGahn did not deliver his resignation threat directly to Trump but was serious about his threat to leave, according to a person familiar with the episode.`
+      
+      `Trump denied the report Friday when asked about it during the World Economic Forum in Davos, Switzerland.` - [Trump moved to fire Mueller in June, bringing White House counsel to the brink of leaving, The Washington Post, 2018](https://www.washingtonpost.com/politics/trump-moved-to-fire-mueller-in-june-bringing-white-house-counsel-to-the-brink-of-leaving/2018/01/25/9184a49e-0238-11e8-bb03-722769454f82_story.html)
 - On 26 January 2018, Trump asked McGahn to release a statement denying the Washington Post’s and the New York Times’ articles.
     - `On January 26, 2018, the President’s personal counsel called McGahn’s attorney and said that the President wanted McGahn to put out a statement denying that he had been asked to fire the Special Counsel and that he had threatened to quit in protest. McGahn’s attorney spoke with McGahn about that request and then called the President’s personal counsel to relay that McGahn would not make a statement. McGahn’s attorney informed the President’s personal counsel that the Times story was accurate in reporting that the President wanted the Special Counsel removed. Accordingly, McGahn’s attorney said, although the article was inaccurate in some other respects, McGahn could not comply with the President’s request to dispute the story. Hicks recalled relaying to the President that one of his attorneys had spoken to McGahn’s attorney about the issue.` - [Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Department of Justice, 2019](https://www.justice.gov/archives/sco/file/1373816/download)
 - On 4 February 2018, Priebus tells the media that Trump never requested Mueller fired.
