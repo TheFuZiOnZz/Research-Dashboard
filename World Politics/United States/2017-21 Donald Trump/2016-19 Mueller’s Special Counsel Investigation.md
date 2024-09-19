@@ -286,27 +286,25 @@
     - `That weekend, Sessions and McGahn flew to Mar-a-Lago to meet with the President. Sessions recalled that the President pulled him aside to speak to him alone and suggested that Sessions should “unrecuse” from the Russia investigation. The President contrasted Sessions with Attorneys General Holder and Kennedy, who had developed a strategy to help their presidents where Sessions had not. Sessions said he had the impression that the President feared that the investigation could spin out of control and disrupt his ability to govern, which Sessions could have helped avert if he were still overseeing it.` - [Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Department of Justice, 2019](https://www.justice.gov/archives/sco/file/1373816/download)
 # Trump Firing Comey, Starting Mueller’s Investigation
 - On 26 April - 2 May 2017, Trump told advisors that he wanted Comey to make public that Trump was not under investigation at Comey’s upcoming hearing and if not that this would be Comey’s final straw.
-    - `McGahn recalled that in the week leading up to the hearing the President said that it would be the last straw if Comey did not take the opportunity to set the record straight by publicly announcing that the President was not under investigation. The President had previously told McGahn that the perception that the President was under investigation was hurting his ability to carry out his presidential duties and deal with foreign leaders.` - Mueller Report  [link](https://www.justice.gov/archives/sco/file/1373816/download)
+    - `McGahn recalled that in the week leading up to the hearing the President said that it would be the last straw if Comey did not take the opportunity to set the record straight by publicly announcing that the President was not under investigation. The President had previously told McGahn that the perception that the President was under investigation was hurting his ability to carry out his presidential duties and deal with foreign leaders.` - [Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Department of Justice, 2019](https://www.justice.gov/archives/sco/file/1373816/download)
 - On 3 May 2017, Comey testifies at an annual FBI Oversight hearing before the Senate Judiciary Committee, in which he was asked whether Trump was under investigation.
     
     - `At the hearing, Comey declined to answer questions about the status of the Russia investigation, stating “[t]he Department of Justice ha[d] authorized [him] to confirm that [the Russia investigation] exists,” but that he was “not going to say another word about it” until the investigation was completed. Comey also declined to answer questions about whether investigators had “ruled out anyone in the Trump campaign as potentially a target of th[e] criminal investigation,” including whether the FBI had “ruled out the president of the United States.”` - [Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Department of Justice, 2019](https://www.justice.gov/archives/sco/file/1373816/download)
-    
-    - `Sen. Blumenthal: You have confirmed, I believe, that the FBI is investigating potential ties between Trump associates and the Russian interference in the 2016 campaign, correct?  
-    -   
-    - Dir. Comey: Yes.  
-    -   
-    - Sen. Blumenthal: And you have not, to my knowledge, ruled out anyone in the Trump campaign as potentially a target of that criminal investigation, correct?  
-    -   
-    - Dir. Comey: I haven‘t said anything publicly about who we have opened investigations on. I briefed the chair and ranking on who the people are. I can't go beyond that in this setting.  
-    -   
-    - Sen. Blumenthal: Have you ruled out anyone in the campaign that you can disclose?  
-    -   
-    - Dir. Comey: I don't feel comfortable answering that, senator, because I think it puts me on a slope to talk about who we are investigating.  
-    -   
-    - Sen. Blumenthal: Have you ruled out the president of the United States?  
-    -   
-    - Dir. Comey: I don‘t want people to overinterpret this answer. I'm not going to comment on anyone in particular because that puts me down a slope of, because if I say no to that then I have to answer succeeding questions. So what we’ve done is we briefed the chair and ranking on who the U.S. persons are that we have opened investigations on and that is as far as we are going to go at this point.`  
-    - [link](https://www.c-span.org/video/?c5057023/user-clip-comey-confirm-deny-trump-investigated)
+    - `Sen. Blumenthal: You have confirmed, I believe, that the FBI is investigating potential ties between Trump associates and the Russian interference in the 2016 campaign, correct?`
+      
+      `Dir. Comey: Yes.`
+      
+      `Sen. Blumenthal: And you have not, to my knowledge, ruled out anyone in the Trump campaign as potentially a target of that criminal investigation, correct?`
+      
+      `Dir. Comey: I haven‘t said anything publicly about who we have opened investigations on. I briefed the chair and ranking on who the people are. I can't go beyond that in this setting.`
+      
+      `Sen. Blumenthal: Have you ruled out anyone in the campaign that you can disclose?`
+      
+      `Dir. Comey: I don't feel comfortable answering that, senator, because I think it puts me on a slope to talk about who we are investigating.`
+      
+      `Sen. Blumenthal: Have you ruled out the president of the United States?`
+      
+      `Dir. Comey: I don‘t want people to overinterpret this answer. I'm not going to comment on anyone in particular because that puts me down a slope of, because if I say no to that then I have to answer succeeding questions. So what we’ve done is we briefed the chair and ranking on who the U.S. persons are that we have opened investigations on and that is as far as we are going to go at this point.` - [link](https://www.c-span.org/video/?c5057023/user-clip-comey-confirm-deny-trump-investigated)
     
 - On 3 May 2017, Trump privately expressed he was upset about the hearing and directed it at Sessions’ and his recusal.
     
