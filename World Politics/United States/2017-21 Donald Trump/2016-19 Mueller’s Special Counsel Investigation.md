@@ -1,4 +1,4 @@
-# Russian Social `Active Measures` Campaign
+# Russian Social Active Measures Campaign
 - [link](https://rationalwiki.org/wiki/Mueller_investigation)
 - [link](https://www.nytimes.com/interactive/2019/04/18/us/politics/mueller-report-document.html)
 - On 7 October 2016,
@@ -26,8 +26,8 @@
     - `On July 22, 2016, WikiLeaks released over 20,000 emails and other documents stolen from the DNC computer networks.` - [Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Department of Justice, 2019](https://www.justice.gov/archives/sco/file/1373816/download)
 - On 7 October 2016, WikiLeaks begins releasing emails that were stolen from the account of Hillary Clinton campaign chairman, John Podesta.
     - `On October 7, 2016, four days after the Assange press conference, the Washington Post published an Access Hollywood video that ... captured comments by candidate Trump some years earlier and that was expected to adversely affect the Campaign. Less than an hour after the video’s publication, WikiLeaks released the first set of emails stolen by the GRU from the account of Clinton Campaign chairman John Podesta.` - [Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Department of Justice, 2019](https://www.justice.gov/archives/sco/file/1373816/download)
-# Papadopoulos’ Meets Mifsud About `dirt` on Clinton, Opening Crossfire Hurricane Investigation
-- On 26 April 2016, Papadopoulos’ Meets Mifsud, Mifsud says they have thousands of Clinton’s emails, namely `dirt`.
+# Papadopoulos’ Meets Mifsud About dirt on Clinton, Opening Crossfire Hurricane Investigation
+- On 26 April 2016, Papadopoulos’ Meets Mifsud, Mifsud says they have thousands of Clinton’s emails, namely dirt.
     - `After a stop in Rome, Mifsud returned to England on April 25, 2016. The next day, Papadopoulos met Mifsud for breakfast at the Andaz Hotel (the same location as their last meeting). During that meeting, Mifsud told Papadopoulos that he had met with high-level Russian government officials during his recent trip to Moscow. Mifsud also said that, on the trip, he learned that the Russians had obtained “dirt” on candidate Hillary Clinton. As Papadopoulos later stated to the FBI, Mifsud said that the “dirt” was in the form of “emails of Clinton,” and that they “have thousands of emails.”` - [Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Department of Justice, 2019](https://www.justice.gov/archives/sco/file/1373816/download)
 - On 6 May 2016, Papadopoulos’ relays this `dirt` to Alexander Downer, the Australian High Commissioner to the United Kingdom.
     - `On May 6, 2016, 10 days after that meeting with Mifsud, Papadopoulos suggested to a representative of a foreign government that the Trump Campaign had received indications from the Russian government that it could assist the Campaign through the anonymous release of information that would be damaging to Hillary Clinton.` - [Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Department of Justice, 2019](https://www.justice.gov/archives/sco/file/1373816/download)
