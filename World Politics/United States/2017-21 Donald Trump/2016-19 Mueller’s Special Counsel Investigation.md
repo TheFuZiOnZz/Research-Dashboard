@@ -519,7 +519,7 @@
       
       `In comments posted by the press service of his Concord catering firm on Russia's Facebook equivalent VKontakte, Prigozhin said: "We have interfered (in U.S. elections), we are interfering and we will continue to interfere. Carefully, accurately, surgically and in our own way, as we know how to do."`
       
-      `The remark by the close ally of Russian President Vladimir Putin was posted on the eve of the U.S. midterm elections in response to a request for comment from a Russian news site.` - [link](https://www.reuters.com/world/us/russias-prigozhin-admits-interfering-us-elections-2022-11-07/)
+      `The remark by the close ally of Russian President Vladimir Putin was posted on the eve of the U.S. midterm elections in response to a request for comment from a Russian news site.` - [Russia's Prigozhin admits interfering in U.S. elections, Reuters, 2020](https://www.reuters.com/world/us/russias-prigozhin-admits-interfering-us-elections-2022-11-07/)
     
 - On 14 February 2023, Prigozhin stated that he founded the Internet Research Agency to interfere in U.S. elections.
     
