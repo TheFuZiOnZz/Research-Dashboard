@@ -528,7 +528,7 @@
       `I react with pleasure," Prigozhin said in the statement. "I've never just been the financier of the Internet Research Agency. I invented it, I created it, I managed it for a long time. It was founded to protect the Russian information space from boorish aggressive propaganda of anti-Russian narrative from the West."` [Wagner chief admits to founding Russian troll farm sanctioned for meddling in US elections, CNN, 2023](https://edition.cnn.com/2023/02/14/europe/russia-yevgeny-prigozhin-internet-research-agency-intl/index.html)
 ## Main Intelligence Directorate Criminal Inditements
 - On 13 July 2018,
-    - [United States v. Netyksho et al.,](https://www.justice.gov/archives/sco/file/1080281/dl) - GRU inditement
+    - [United States v. Netyksho et al., Inditement, 2018](https://www.justice.gov/archives/sco/file/1080281/dl) - GRU inditement
 ## George Papadopoulos, Ex-Trump Foreign Policy Adviser
 - [Wiki](https://en.wikipedia.org/wiki/George_Papadopoulos\#Arrest_and_guilty_plea)
 - [link](https://www.justice.gov/archives/sco/file/1007341/download) - U.S. V Papadopoulos - Plea Offer
@@ -536,10 +536,14 @@
 - [link](https://www.politico.com/f/?id=00000165-4ab8-d0d5-af75-fbfc1ad30001) - U.S. V Papadopoulos - Government’s Sentencing Memorandum
 - On 22 December 2020, Papadopoulos was pardoned by Trump. [link](https://www.justice.gov/pardon/page/file/1348921/download)
 ## Michael Flynn, Former National Security Adviser
-- Days before Flynn's scheduled sentencing, attorney general Bill Barr appointed Jeffrey Jensen, the U.S. attorney for the United States District Court for the Eastern District of Missouri, to examine Flynn's prosecution. [link](https://www.nytimes.com/2020/02/14/us/politics/michael-flynn-prosecutors-barr.html)
-- On February 10, 2020, Flynn's sentencing was postponed indefinitely, to allow both sides to prepare arguments in response to his claim that his previous lawyers violated his constitutional rights by providing inadequate legal counsel. [link](https://thehill.com/regulation/court-battles/482395-judge-delays-flynn-sentencing-for-second-time)
-- On May 7, 2020, the Department of Justice (DOJ) said it would move to drop all charges against Flynn. Jensen said Barr had agreed with his recommendation. [link](https://apnews.com/ae1ad252bb13490db2ceffc5d17b6d92)
-- On May 12, 2020, U.S. District Judge Emmet G. Sullivan ordered a hold on the Justice Department's intent to drop charges, saying he expects that independent groups and legal experts will wish to intervene. Judge Sullivan said he will set schedules for filing "friend-of-the court" or amicus briefs. [link](https://www.washingtonpost.com/local/legal-issues/us-judge-puts-on-hold-justice-dept-move-to-dismiss-michael-flynns-guilty-plea-to-hear-outside-groups-challenges/2020/05/12/2fb4e356-949d-11ea-82b4-c8db161ff6e5_story.html)
+- Days before Flynn's scheduled sentencing, attorney general Bill Barr appointed Jeffrey Jensen, the U.S. attorney for the United States District Court for the Eastern District of Missouri, to examine Flynn's prosecution. 
+	- ` ` - [Barr Installs Outside Prosecutor to Review Case Against Michael Flynn, Ex-Trump Adviser, The New York Times, 2020](https://www.nytimes.com/2020/02/14/us/politics/michael-flynn-prosecutors-barr.html)
+- On February 10, 2020, Flynn's sentencing was postponed indefinitely, to allow both sides to prepare arguments in response to his claim that his previous lawyers violated his constitutional rights by providing inadequate legal counsel.
+	- ` ` - [Judge delays Flynn sentencing for second time, The Hill, 2020](https://thehill.com/regulation/court-battles/482395-judge-delays-flynn-sentencing-for-second-time)
+- On May 7, 2020, the Department of Justice (DOJ) said it would move to drop all charges against Flynn. Jensen said Barr had agreed with his recommendation.
+	- ` ` - [Flynn dismissal a surprise? AG Barr in sync with Trump, Associated Press, 2020](https://apnews.com/ae1ad252bb13490db2ceffc5d17b6d92)
+- On May 12, 2020, U.S. District Judge Emmet G. Sullivan ordered a hold on the Justice Department's intent to drop charges, saying he expects that independent groups and legal experts will wish to intervene. Judge Sullivan said he will set schedules for filing "friend-of-the court" or amicus briefs.
+	- ` ` - [U.S. judge puts Justice Department’s move to drop charges against Michael Flynn on hold, The Washington Post, 2020](https://www.washingtonpost.com/local/legal-issues/us-judge-puts-on-hold-justice-dept-move-to-dismiss-michael-flynns-guilty-plea-to-hear-outside-groups-challenges/2020/05/12/2fb4e356-949d-11ea-82b4-c8db161ff6e5_story.html)
 - On May 13, 2020, Judge Sullivan appointed retired U.S. District Judge John Gleeson to act as an amicus curiae "to present arguments in opposition to the government's Motion to Dismiss." [link](https://www.usatoday.com/documents/6889859-Order/)
 - [link](https://storage.courtlistener.com/recap/gov.uscourts.dcd.191592/gov.uscourts.dcd.191592.4.0_1.pdf) - Inditement
 - [link](https://storage.courtlistener.com/recap/gov.uscourts.dcd.191592/gov.uscourts.dcd.191592.3.0_2.pdf) - Plea Deal
