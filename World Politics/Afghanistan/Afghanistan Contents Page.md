@@ -21,5 +21,4 @@ United Kingdom# 1926-1973 Kingdom of Afghanistan
 
 # 2021- Islamic Emirate of Afghanistan
 
-
 [[2021 Taliban Offensive on Afghanistan]]
