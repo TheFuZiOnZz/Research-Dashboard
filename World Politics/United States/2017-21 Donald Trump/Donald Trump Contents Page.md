@@ -71,7 +71,10 @@ Donald Trump - 20 January 2017 - 20 January 2021
 [[2019-24 Business Fraud Criminal Suit]]
 [[2019-23 E. Jean Carroll v. Donald J. Trump]]
 [[2020- Georgia Election Interference Case]]
+[[2022- Michigan Prosecution of Fake Electors]]
 [[2022- Smith’s Special Counsel Investigation]]
+[[2023- Nevada Prosecution of Fake Electors]]
+
 [[2023-24 Trump v. United States, Absolute Immunity SCOTUS Case]]
 [[2023-24 Trump v. Anderson, 14th Amendment, Section 3 Disqualification Case]]
 [[2023 Trump’s Legal Penalty]]
