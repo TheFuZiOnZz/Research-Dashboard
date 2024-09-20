@@ -482,6 +482,7 @@ In re: Enforcement of Election Laws and Securing Ballots Cast or Received after 
 - [link](https://www.smartmatic.com/lawsuit-updates-fact-checks/)
 ## Ruby Freeman and Wandrea’ Moss V. Rudolph W. Giuliani Defamation Lawsuit
 - [link](https://www.smartmatic.com/lawsuit-updates-fact-checks/)
+## 
 # January 6 Committee
 - [Wiki](https://en.wikipedia.org/wiki/January_6_commission)
 - [Wiki](https://en.wikipedia.org/wiki/Public_hearings_of_the_United_States_House_Select_Committee_on_the_January_6_Attack)
