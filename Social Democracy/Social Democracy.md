@@ -80,26 +80,26 @@ The Great Gatsby curve is a chart plotting the relationship between inequality a
     - `Sweden continues to be the EU innovation leader, followed by Finland, Denmark and the Netherlands.` - [link](https://ec.europa.eu/growth/industry/policy/innovation/scoreboards_en)
 - In 2020 the World bank ranked Sweden 2nd and the U.S. 3rd in the Global Innovation Index in the highest income group.  - [link](https://www.visualcapitalist.com/national-innovation-the-most-innovative-countries-by-income/)
 # Social Safety Nets
-[[Socialised Healthcare]]
-[[Wage Earner Funds]]
-[[University Financing]]
-[[Redistributive Cash Transfers]]
-[[Minimum Wage]]
-[[Socialised Housing]]
-[[Food Stamps]]
-[[Unemployment benefits]]
+[Socialised Healthcare](../Political%20Positions/Social%20Policy/Socialised%20Healthcare)
+[Wage Earner Funds](../Political%20Positions/Economic%20Policy/Wage%20Earner%20Funds)
+[University Financing](../Political%20Positions/Economic%20Policy/University%20Financing)
+[Redistributive Cash Transfers](../Political%20Positions/Economic%20Policy/Redistributive%20Cash%20Transfers)
+[Minimum Wage](../Political%20Positions/Economic%20Policy/Minimum%20Wage)
+[Socialised Housing](../Political%20Positions/Social%20Policy/Socialised%20Housing)
+[Food Stamps](../Political%20Positions/Economic%20Policy/Food%20Stamps)
+[Unemployment benefits](../Political%20Positions/Economic%20Policy/Unemployment%20benefits)
 # Economic Funding/Growth
-[[Keynesian Economics]]
-[[Progressive Income Tax]]
-[[Multilateral & Liberalized Trade]]
+[Keynesian Economics](../Political%20Positions/Economic%20Policy/Keynesian%20Economics)
+[Progressive Income Tax](../Political%20Positions/Economic%20Policy/Progressive%20Income%20Tax)
+[Multilateral & Liberalized Trade](../Political%20Positions/Economic%20Policy/Multilateral%20&%20Liberalized%20Trade)
 # Workers Rights
-[[Unions]]
-[[Capped Work Time]]
-[[Worker Benefits]]
-[[Social Equality]]
+[Unions](../Political%20Positions/Economic%20Policy/Unions)
+[Capped Work Time](../Political%20Positions/Economic%20Policy/Capped%20Work%20Time)
+[Worker Benefits](../Political%20Positions/Economic%20Policy/Worker%20Benefits)
+[Social Equality](../Political%20Positions/Economic%20Policy/Social%20Equality)
 # Environmental Regulation
-[[Carbon Tax]]
-[[Emissions Trading]]
-[[1970- Environmental Protection Agency]]
+[Carbon Tax](../Political%20Positions/Environmental%20Policy/Carbon%20Tax)
+[Emissions Trading](../Political%20Positions/Environmental%20Policy/Emissions%20Trading)
+[1970- Environmental Protection Agency](../Political%20Positions/Environmental%20Policy/1970-%20Environmental%20Protection%20Agency)
 # Anti-Social Democracy Debunks
-[[Government Assistance Doesn’t Make People Lazy]]
+[Government Assistance Doesn’t Make People Lazy](../Political%20Positions/Economic%20Policy/Government%20Assistance%20Doesn’t%20Make%20People%20Lazy)

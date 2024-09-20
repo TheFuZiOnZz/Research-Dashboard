@@ -1,25 +1,25 @@
-[[Free College]]
-[[Rent Control]]
-[[University Financing]]
-[[Wealth Tax]]
-[[Worker Co-Operatives]]
+[Free College](../Political%20Positions/Economic%20Policy/Free%20College)
+[Rent Control](../Political%20Positions/Economic%20Policy/Rent%20Control)
+[University Financing](../Political%20Positions/Economic%20Policy/University%20Financing)
+[Wealth Tax](../Political%20Positions/Economic%20Policy/Wealth%20Tax)
+[Worker Co-Operatives](../Political%20Positions/Economic%20Policy/Worker%20Co-Operatives)
 # Anti-Capitalist Critique
-[[Money In Politics]]
-[[Reform Vs Revolution]]
-[[Western Imperialism of Trade]]
+[Money In Politics](../Political%20Positions/Economic%20Policy/Money%20In%20Politics)
+[Reform Vs Revolution](../Political%20Positions/Social%20Policy/Reform%20Vs%20Revolution)
+[Western Imperialism of Trade](../Political%20Positions/Economic%20Policy/Western%20Imperialism%20of%20Trade)
 # Marxist Economic Theories
-[[Boom Bust Cycle]]
-[[Central Planning]]
-[[Falling Rate of Profit]]
-[[Labor Theory Of Value]]
-[[Modern Monetary Theory]]
-[[Unequal Exchange]]
+[Boom Bust Cycle](../Political%20Positions/Economic%20Policy/Boom%20Bust%20Cycle)
+[Central Planning](../Political%20Positions/Economic%20Policy/Central%20Planning)
+[Falling Rate of Profit](../Political%20Positions/Economic%20Policy/Falling%20Rate%20of%20Profit)
+[Labor Theory Of Value](../Political%20Positions/Economic%20Policy/Labor%20Theory%20Of%20Value)
+[Modern Monetary Theory](../Political%20Positions/Economic%20Policy/Modern%20Monetary%20Theory)
+[Unequal Exchange](../Political%20Positions/Economic%20Policy/Unequal%20Exchange)
 # Philosophical Critique
-[[Marxist Dialectical Materialism]]
+[Marxist Dialectical Materialism](../Political%20Positions/Social%20Policy/Marxist%20Dialectical%20Materialism)
 # Other
-[[`Self-Hating White People`]]
-[[Well-Being Gap between Liberals and Conservatives]]
-[[Trigger Warnings]]
-[[`American Socialism`]]
-[[`The Centre-Left moving Right` Myth]]
-[[Misc Marxist Theory Problems & Quotes]]
+[`Self-Hating White People`](../Political%20Positions/Social%20Policy/`Self-Hating%20White%20People`)
+[Well-Being Gap between Liberals and Conservatives](../Political%20Positions/Social%20Policy/Well-Being%20Gap%20between%20Liberals%20and%20Conservatives)
+[Trigger Warnings](../Political%20Positions/Social%20Policy/Trigger%20Warnings)
+[`American Socialism`](../Political%20Positions/Social%20Policy/`American%20Socialism`)
+[`The Centre-Left moving Right` Myth](../Political%20Positions/Social%20Policy/`The%20Centre-Left%20moving%20Right`%20Myth)
+[Misc Marxist Theory Problems & Quotes](../Political%20Positions/Social%20Policy/Misc%20Marxist%20Theory%20Problems%20&%20Quotes)

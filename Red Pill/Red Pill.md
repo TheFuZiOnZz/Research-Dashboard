@@ -262,9 +262,9 @@ b) shall return an order to close the case or drop charges, as under the law.
 Here are screenshots from page 27 - 29 of the 86 page document that was released. It discusses why they are really charged with setting up an organized criminal group, and it wasn’t just about TikTok. The second image discusses how one victim was manipulated into performing pornographic events and working on TikTok.
 [https://www.docdroid.net/Xctlxsd/motivare-tate-1-pdf](https://www.docdroid.net/Xctlxsd/motivare-tate-1-pdf)
 **TikTok was used to funnel customers into OnlyFans.**
-![[image2.png]]
-![[image3.png]]
-![[image1.png]]
+![image2.png](image2.png)
+![image3.png](image3.png)
+![image1.png](image1.png)
 ## What has the prosecutor been saying in court? (Statement from the prosecutor in the 10th January preventive arrest appeal hearing)
 [https://www.docdroid.net/Xctlxsd/motivare-tate-1-pdf](https://www.docdroid.net/Xctlxsd/motivare-tate-1-pdf)
 The representative of the Public Prosecutor's Office, having the floor, requests the dismissal of the appeals filed by the four defendants, considering the fact that the judge's decision of rights and liberties within the Bucharest Tribunal, which ordered the preventive arrest, is legal, thoroughly, widely, and convincingly motivated. He emphasizes that it was correctly found that the provisions of art. 202 paragraph 1 of the Penal Procedure Code are applicable, considering that from the evidence administered in this case, a reasonable suspicion arises that the defendants committed the crimes of establishing an organized criminal group and trafficking in persons, for which they are being criminally prosecuted.
