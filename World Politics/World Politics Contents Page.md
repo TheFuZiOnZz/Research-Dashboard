@@ -1,4 +1,5 @@
 # Afghanistan
+[[Afghanistan Contents Page]]
 [Afghanistan Contents Page](https://thefuzionzz.github.io/Research-Dashboard/World%20Politics/Afghanistan/Afghanistan%20Contents%20Page)
 # Algeria
 [[Algeria Contents Page]]

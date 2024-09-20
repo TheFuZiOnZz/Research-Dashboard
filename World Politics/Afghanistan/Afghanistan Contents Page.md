@@ -1,4 +1,4 @@
-United Kingdom# 1926-1973 Kingdom of Afghanistan
+# 1926-1973 Kingdom of Afghanistan
 
 [[1929 Red Army Intervention in Afghanistan]]
 [[1930 Red Army Intervention in Afghanistan]]
@@ -22,5 +22,3 @@ United Kingdom# 1926-1973 Kingdom of Afghanistan
 # 2021- Islamic Emirate of Afghanistan
 
 [[2021 Taliban Offensive on Afghanistan]]
-
-[[Wikileaks]]
