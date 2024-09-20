@@ -1,9 +1,9 @@
 # Afghanistan
 [Afghanistan Contents Page](World%20Politics/Afghanistan/Afghanistan%20Contents%20Page)
 # Algeria
-[Algeria Contents Page](Algeria%20Contents%20Page)
+[Algeria Contents Page](World%20Politics/Algeria/Algeria%20Contents%20Page)
 # Armenia
-[[Armenia Contents Page]]
+[Armenia Contents Page](Armenia%20Contents%20Page.md)
 # Azerbaijan
 [[Azerbaijan Contents Page]]
 # Bahrain
