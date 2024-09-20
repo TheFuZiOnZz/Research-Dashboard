@@ -33,7 +33,7 @@
 # Iraq
 [[Iraq Contents Page]]
 # Israel-Palestine
-[[Israel-Palestine Contents Page]]
+[Israel-Palestine Contents Page](World%20Politics/Israel-Palestine/Israel-Palestine%20Contents%20Page.md)
 # Jordan
 [[Jordan Contents Page]]
 # Kazakhstan
