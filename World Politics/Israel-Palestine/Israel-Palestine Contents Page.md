@@ -1,8 +1,8 @@
 # 1517-1917 Ottoman Period
-[[1860 Syrian Civil War]]
-[[1862 Rome and Jerusalem The Last National Question]]
-[[1877-78 Tenth Russo-Turkish War]]
-[[1881-84 Tsarist Russian Empire Pogroms]]
+[[1860 Syrian Civil War]] 
+[[1862 Rome and Jerusalem The Last National Question]]  
+[[1877-78 Tenth Russo-Turkish War]]   
+[[1881-84 Tsarist Russian Empire Pogroms]]    
 [[1881-1903 First Aliyah]]
 [[1894-1906 Dreyfus Affair]]
 [[1896 Herzl’s The Jewish State]]
