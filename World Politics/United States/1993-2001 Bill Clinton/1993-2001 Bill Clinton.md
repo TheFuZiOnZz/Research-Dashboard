@@ -11,5 +11,5 @@
 
 ## Controversy’s
 
-[[1996-98 Monica Lewinsky Scandal]]
+[1996-98 Monica Lewinsky Scandal](1996-98%20Monica%20Lewinsky%20Scandal)
 ## Post-Presidency Controversy’s

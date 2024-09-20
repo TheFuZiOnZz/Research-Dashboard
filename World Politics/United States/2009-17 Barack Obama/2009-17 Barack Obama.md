@@ -11,5 +11,5 @@
 
 # Controversy’s
 
-[[2010- Assange and Manning Leaks]]
+[2010- Assange and Manning Leaks](2010-%20Assange%20and%20Manning%20Leaks)
 # Post-Presidency Controversy’s
