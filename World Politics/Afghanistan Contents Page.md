@@ -1,6 +1,6 @@
 # 1926-1973 Kingdom of Afghanistan
 
-[1929 Red Army Intervention in Afghanistan](World%20Politics/Afghanistan/1926-73%20Kingdom%20of%20Afghanistan/1929%20Red%20Army%20Intervention%20in%20Afghanistan)
+[1929 Red Army Intervention in Afghanistan](Afghanistan/1926-73%20Kingdom%20of%20Afghanistan/1929%20Red%20Army%20Intervention%20in%20Afghanistan)
 [1930 Red Army Intervention in Afghanistan](World%20Politics/Afghanistan/1926-73%20Kingdom%20of%20Afghanistan/1930%20Red%20Army%20Intervention%20in%20Afghanistan)
 # 1973-78 Republic of Afghanistan
 
