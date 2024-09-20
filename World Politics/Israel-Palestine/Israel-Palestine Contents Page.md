@@ -1,62 +1,62 @@
 # 1517-1917 Ottoman Period
-[[1860 Syrian Civil War]]  
-[[1862 Rome and Jerusalem The Last National Question]]  
-[[1877-78 Tenth Russo-Turkish War]]  
-[[1881-84 Tsarist Russian Empire Pogroms]]  
-[[1881-1903 First Aliyah]]  
-[[1894-1906 Dreyfus Affair]]  
-[[1896 Herzl’s The Jewish State]]  
-[[1897 Basel Program]]  
-[[1901-25 Sursock Purchases]]  
-[[1903-04 Uganda Scheme]]  
-[[1904-14 Second Aliyah]]  
-[[1908 Young Turk Revolution]]  
-[[1909 Founding of al-Fatat]]  
-[[1912 Founding of the Decentralization Party]]  
-[[1913 First Arab Congress]]  
-[[1914-18 Middle Eastern Theatre of World War 1]]  
-[[1915 Damascus Protocol]]  
-[[1915-16 McMahon-Hussein Correspondence]]  
-[[1916 Sykes-Picot Agreement]]  
-[[1917 Balfour Declaration]]  
+[1860 Syrian Civil War](1517-1917%20Ottoman%20Period/1860%20Syrian%20Civil%20War)  
+[1862 Rome and Jerusalem The Last National Question](1517-1917%20Ottoman%20Period/1862%20Rome%20and%20Jerusalem%20The%20Last%20National%20Question)  
+[1877-78 Tenth Russo-Turkish War](1517-1917%20Ottoman%20Period/1877-78%20Tenth%20Russo-Turkish%20War)  
+[1881-84 Tsarist Russian Empire Pogroms](1517-1917%20Ottoman%20Period/1881-84%20Tsarist%20Russian%20Empire%20Pogroms)  
+[1881-1903 First Aliyah](1517-1917%20Ottoman%20Period/1881-1903%20First%20Aliyah)  
+[1894-1906 Dreyfus Affair](1517-1917%20Ottoman%20Period/1894-1906%20Dreyfus%20Affair)  
+[1896 Herzl’s The Jewish State](1517-1917%20Ottoman%20Period/1896%20Herzl’s%20The%20Jewish%20State)  
+[1897 Basel Program](1517-1917%20Ottoman%20Period/1897%20Basel%20Program)  
+[1901-25 Sursock Purchases](1517-1917%20Ottoman%20Period/1901-25%20Sursock%20Purchases)  
+[1903-04 Uganda Scheme](1517-1917%20Ottoman%20Period/1903-04%20Uganda%20Scheme)  
+[1904-14 Second Aliyah](1517-1917%20Ottoman%20Period/1904-14%20Second%20Aliyah)  
+[1908 Young Turk Revolution](1517-1917%20Ottoman%20Period/1908%20Young%20Turk%20Revolution)  
+[1909 Founding of al-Fatat](1517-1917%20Ottoman%20Period/1909%20Founding%20of%20al-Fatat)  
+[1912 Founding of the Decentralization Party](1517-1917%20Ottoman%20Period/1912%20Founding%20of%20the%20Decentralization%20Party)  
+[1913 First Arab Congress](1517-1917%20Ottoman%20Period/1913%20First%20Arab%20Congress)  
+[1914-18 Middle Eastern Theatre of World War 1](1517-1917%20Ottoman%20Period/1914-18%20Middle%20Eastern%20Theatre%20of%20World%20War%201)  
+[1915 Damascus Protocol](1517-1917%20Ottoman%20Period/1915%20Damascus%20Protocol)  
+[1915-16 McMahon-Hussein Correspondence](1517-1917%20Ottoman%20Period/1915-16%20McMahon-Hussein%20Correspondence)  
+[1916 Sykes-Picot Agreement](1517-1917%20Ottoman%20Period/1916%20Sykes-Picot%20Agreement)  
+[1917 Balfour Declaration](1517-1917%20Ottoman%20Period/1917%20Balfour%20Declaration)  
 # 1917-48 OETA/Mandatory Palestine Period
-[[1918 Hogarth Message]]  
-[[1918 Bassett Letter]]  
-[[1918 Declaration to the Seven]]  
-[[1918 Establishment of Muslim-Christian Associations]]  
-[[1918 Anglo-French Declaration]]  
-[[1918 Clemenceau-Lloyd George Agreement]]  
-[[1919 Feisal-Weizmann Agreement]]  
-[[1919-20 Paris Peace Conference]]  
-[[1919-22 Mandate for Palestine]]  
-[[1920 Battle of Tel Hai]]  
-[[1920 Nebi Musa Riots]]  
-[[1920 Assembly of Representatives Election]]  
-[[1921 Jaffa Riots]]  
-[[1921 Haycraft Commission]]  
-[[1922 Churchill White Paper]]  
-[[1922 League of Nations Endorses the Balfour Declaration]]  
-[[1922-23 Lausanne Conference]]  
-[[1923 Paulet-Newcombe Agreement]]  
-[[1929 Palestine Riots]]  
-[[1933-48 Aliyah Bet]]  
-[[1933 Palestine Riots]]  
-[[1936 Anglo-Egyptian Treaty]]  
-[[1936-39 Arab Revolt in Palestine]]  
-[[1936-37 Peel Commission]]  
-[[1938 Woodhead Commission]]  
-[[1939 British White Paper]]  
-[[1941-45 Holocaust]]  
-[[1942 Biltmore Conference]]  
-[[1944 Alexandria Protocol]]  
-[[1944-48 Jewish Insurgency in Mandatory Palestine]]  
-[[1945 Charter of the Arab League]]  
-[[1946 Anglo-American Committee of Inquiry]]  
-[[1946-47 London Conference]]  
-[[1947 United Nations Special Committee on Palestine]]  
-[[1947 Ad Hoc Committee on the Palestinian Question]]  
-[[1947 United Nations Partition Plan for Palestine, Resolution 181]]  
-[[1947-48 Civil War in Mandatory Palestine]]  
+[1918 Hogarth Message](1917-48%20Mandatory%20Palestine%20Period/1918%20Hogarth%20Message)  
+[1918 Bassett Letter](1917-48%20Mandatory%20Palestine%20Period/1918%20Bassett%20Letter)  
+[1918 Declaration to the Seven](1917-48%20Mandatory%20Palestine%20Period/1918%20Declaration%20to%20the%20Seven)  
+[1918 Establishment of Muslim-Christian Associations](1917-48%20Mandatory%20Palestine%20Period/1918%20Establishment%20of%20Muslim-Christian%20Associations)  
+[1918 Anglo-French Declaration](1917-48%20Mandatory%20Palestine%20Period/1918%20Anglo-French%20Declaration)  
+[1918 Clemenceau-Lloyd George Agreement](1917-48%20Mandatory%20Palestine%20Period/1918%20Clemenceau-Lloyd%20George%20Agreement)  
+[1919 Feisal-Weizmann Agreement](1917-48%20Mandatory%20Palestine%20Period/1919%20Feisal-Weizmann%20Agreement)  
+[1919-20 Paris Peace Conference](1917-48%20Mandatory%20Palestine%20Period/1919-20%20Paris%20Peace%20Conference)  
+[1919-22 Mandate for Palestine](1917-48%20Mandatory%20Palestine%20Period/1919-22%20Mandate%20for%20Palestine)  
+[1920 Battle of Tel Hai](1917-48%20Mandatory%20Palestine%20Period/1920%20Battle%20of%20Tel%20Hai)  
+[1920 Nebi Musa Riots](1917-48%20Mandatory%20Palestine%20Period/1920%20Nebi%20Musa%20Riots)  
+[1920 Assembly of Representatives Election](1917-48%20Mandatory%20Palestine%20Period/1920%20Assembly%20of%20Representatives%20Election)  
+[1921 Jaffa Riots](1917-48%20Mandatory%20Palestine%20Period/1921%20Jaffa%20Riots)  
+[1921 Haycraft Commission](1917-48%20Mandatory%20Palestine%20Period/1921%20Haycraft%20Commission)  
+[1922 Churchill White Paper](1917-48%20Mandatory%20Palestine%20Period/1922%20Churchill%20White%20Paper)  
+[1922 League of Nations Endorses the Balfour Declaration](1917-48%20Mandatory%20Palestine%20Period/1922%20League%20of%20Nations%20Endorses%20the%20Balfour%20Declaration)  
+[1922-23 Lausanne Conference](1917-48%20Mandatory%20Palestine%20Period/1922-23%20Lausanne%20Conference)  
+[1923 Paulet-Newcombe Agreement](1917-48%20Mandatory%20Palestine%20Period/1923%20Paulet-Newcombe%20Agreement)  
+[1929 Palestine Riots](1917-48%20Mandatory%20Palestine%20Period/1929%20Palestine%20Riots)  
+[1933-48 Aliyah Bet](1917-48%20Mandatory%20Palestine%20Period/1933-48%20Aliyah%20Bet)  
+[1933 Palestine Riots](1917-48%20Mandatory%20Palestine%20Period/1933%20Palestine%20Riots)  
+[1936 Anglo-Egyptian Treaty](1917-48%20Mandatory%20Palestine%20Period/1936%20Anglo-Egyptian%20Treaty)  
+[1936-39 Arab Revolt in Palestine](1917-48%20Mandatory%20Palestine%20Period/1936-39%20Arab%20Revolt%20in%20Palestine)  
+[1936-37 Peel Commission](1917-48%20Mandatory%20Palestine%20Period/1936-37%20Peel%20Commission)  
+[1938 Woodhead Commission](1917-48%20Mandatory%20Palestine%20Period/1938%20Woodhead%20Commission)  
+[1939 British White Paper](1917-48%20Mandatory%20Palestine%20Period/1939%20British%20White%20Paper)  
+[1941-45 Holocaust](1917-48%20Mandatory%20Palestine%20Period/1941-45%20Holocaust)  
+[1942 Biltmore Conference](1917-48%20Mandatory%20Palestine%20Period/1942%20Biltmore%20Conference)  
+[1944 Alexandria Protocol](1917-48%20Mandatory%20Palestine%20Period/1944%20Alexandria%20Protocol)  
+[1944-48 Jewish Insurgency in Mandatory Palestine](1917-48%20Mandatory%20Palestine%20Period/1944-48%20Jewish%20Insurgency%20in%20Mandatory%20Palestine)  
+[1945 Charter of the Arab League](1917-48%20Mandatory%20Palestine%20Period/1945%20Charter%20of%20the%20Arab%20League)  
+[1946 Anglo-American Committee of Inquiry](1917-48%20Mandatory%20Palestine%20Period/1946%20Anglo-American%20Committee%20of%20Inquiry)  
+[1946-47 London Conference](1917-48%20Mandatory%20Palestine%20Period/1946-47%20London%20Conference)  
+[1947 United Nations Special Committee on Palestine](1917-48%20Mandatory%20Palestine%20Period/1947%20United%20Nations%20Special%20Committee%20on%20Palestine)  
+[1947 Ad Hoc Committee on the Palestinian Question](1917-48%20Mandatory%20Palestine%20Period/1947%20Ad%20Hoc%20Committee%20on%20the%20Palestinian%20Question)  
+[1947 United Nations Partition Plan for Palestine, Resolution 181](1917-48%20Mandatory%20Palestine%20Period/1947%20United%20Nations%20Partition%20Plan%20for%20Palestine,%20Resolution%20181)  
+[1947-48 Civil War in Mandatory Palestine](1917-48%20Mandatory%20Palestine%20Period/1947-48%20Civil%20War%20in%20Mandatory%20Palestine)  
 # 1948- Israeli-Palestinian Period
 - [Wiki](https://en.wikipedia.org/wiki/Israeli%E2%80%93Palestinian_conflict)
 - [link](https://docs.google.com/document/d/1-x6Ea5qwrJUi1-QTjvh1PmPL2W5R2X25fglglpBhdb0/edit)
@@ -66,97 +66,97 @@
 - [Wiki](https://en.wikipedia.org/w/index.php?title=Category:United_Nations_Security_Council_resolutions_concerning_Israel&pageuntil=+1068%0AUnited+Nations+Security+Council+Resolution+1068\#mw-pages)
 - [video](https://www.youtube.com/watch?v=9hr8KVhTVfY)  
 
-[[1948 Israeli Declaration of Independence]]  
-[[1948-49 War of Independence, First Arab-Israeli War]]  
-[[1951 Assassination of King Abdullah I of Jordan]]  
-[[1951 UNSC Resolution 95]]  
-[[1954 Lavon Affair]]  
-[[1955 El Al Flight 402]]  
-[[1956 Suez Crisis, Second Arab-Israeli War]]  
-[[1959 Arab League Resolution 1547]]  
-[[1960 The Complete Diaries of Theodor Herzl]]
-[[1964 Arab League Summit (Cairo)]]
-[[1964-67 War Over Water (Jordan River)]]
-[[1964 Palestinian National Charter]]
-[[1965 Arab League Summit]]
-[[1966 Samu Incident]]
-[[1967 Six-Day War, Third Arab-Israeli War]]
-[[1967-70 War of Attrition]]
-[[1968-82 Palestinian Insurgency in South Lebanon]]
-[[1968 Palestinian National Charter]]
-[[1969 Cairo Agreement]]
-[[1970-71 Black September]]
-[[1971 Assassination of the Prime Minister of Jordan, Wasfi Tal]]
-[[1972 Lod Airport Massacre]]
-[[1972 Munich Massacre]]
-[[1972-88 Operation Bayonet]]
-[[1973 Yom Kippur War, Fourth Arab-Israeli War]]
-[[1973 Oil Crisis]]
-[[1973 Geneva Conference]]
-[[1974 Ma'alot Massacre]]
-[[1974 UNGA Resolution 3236 & 3237]]
-[[1975 UNGA Resolution 3379]]    
-[[1975-90 Lebanon Civil War]]
-[[1978 Camp David Accords]]
-[[1979 Egypt-Israel Peace Treaty]]
-[[1980 Jerusalem Law]]
-[[1981 Fahd Plan]]
-[[1981 Golan Heights Law]]
-[[1982-85 Lebanon War]]
-[[1985-2000 South Lebanon Conflict]]
-[[1987-93 First Intifada]]
-[[1988 Hamas Covenant (Charter)]]    
-[[1988 Palestinian Declaration of Independence]]
-[[1990-91 Gulf War]]
-[[1991 Madrid Conference]]
-[[1993 Oslo 1 Accords]]
-[[1994 Israel-Jordan Peace Treaty]]
-[[1995 Oslo 2 Accords]]
-[[1996 Palestinian General Election]]
-[[1996 Palestinian National Charter Nullification]]
-[[1997 Hebron Protocol]]
-[[1998 Wye River Memorandum]]
-[[1999 Sharm El Sheikh Memorandum]]
-[[2000 Camp David Summit]]
-[[2000-05 Second Intifada]]
-[[2000 The Clinton Parameters]]
-[[2001 Taba Summit]]
-[[2003 Road Map For Peace]]
-[[2003 Geneva Initiative]]
-[[2003-04 ICJ Case on the West Bank Wall]] 
-[[2005 Sharm El Sheikh Summit]]
-[[2005 Agreement on Movement and Access]]
-[[2005 Israeli Disengagement From Gaza]]
-[[2005 Palestinian Presidential Election]]
-[[2006 Palestinian Legislative Election]]
-[[2006 Gaza-Israel Conflict, Operation Summer Rains]]
-[[2006 Realignment Plan]]
-[[2006 Lebanon War, Israel-Hezbollah War]]
-[[2007 Hamas' Takeover of Gaza From Fatah]]
-[[2007 Annapolis Conference]]
-[[2008 Breach of the Egypt-Gaza border]]
-[[2008 Operation Hot Winter]]
-[[2008 Israel-Hamas Ceasefire]]
-[[2008-09 Gaza War, Operation Cast Lead]]
-[[2009 Hamas Political Violence in Gaza]]
-[[2010 Gaza Flotilla Raid]]
-[[2010-11 Mitchell-led talks]]
-[[2011 Iron Dome Deployment]]
-[[2012 Operation Returning Echo]]
-[[2012 Israeli Operation in the Gaza Strip, Operation Pillar of Defense]]
-[[2013-14 Kerry-led Talks]]
-[[2014 Operation Brother's Keeper]]
-[[2014 Gaza War, Operation Protective Edge]]
-[[2017-18 Basic Law, Israel as the Nation-State of the Jewish People]]
-[[2017 Hamas Charter]]
-[[2018 U.S. Embassy Moved to Jerusalem]]
-[[2018- International Criminal Court Investigation in Palestine]]
-[[2018-19 Great March of Return Protest]]
-[[2019 Gaza Economic Protests]]
-[[2019-20 Trump Peace Plan]]
-[[2020 Abraham Accords]]
-[[2022-24 ICJ Case on Israeli Annexation of the West Bank Legal Status]]
-[[2021 Israel-Palestine Crisis, Operation Guardian of the Walls]]
-[[2023- Israel-Hamas War, Operation Al-Aqsa Flood, Operation Iron Swords]]
+[1948 Israeli Declaration of Independence](1948-%20Israeli-Palestinian%20Period/1948%20Israeli%20Declaration%20of%20Independence)  
+[1948-49 War of Independence, First Arab-Israeli War](1948-%20Israeli-Palestinian%20Period/1948-49%20War%20of%20Independence,%20First%20Arab-Israeli%20War)  
+[1951 Assassination of King Abdullah I of Jordan](1948-%20Israeli-Palestinian%20Period/1951%20Assassination%20of%20King%20Abdullah%20I%20of%20Jordan)  
+[1951 UNSC Resolution 95](1948-%20Israeli-Palestinian%20Period/1951%20UNSC%20Resolution%2095)  
+[1954 Lavon Affair](1948-%20Israeli-Palestinian%20Period/1954%20Lavon%20Affair)  
+[1955 El Al Flight 402](1948-%20Israeli-Palestinian%20Period/1955%20El%20Al%20Flight%20402)  
+[1956 Suez Crisis, Second Arab-Israeli War](1948-%20Israeli-Palestinian%20Period/1956%20Suez%20Crisis,%20Second%20Arab-Israeli%20War)  
+[1959 Arab League Resolution 1547](1948-%20Israeli-Palestinian%20Period/1959%20Arab%20League%20Resolution%201547)  
+[1960 The Complete Diaries of Theodor Herzl](1948-%20Israeli-Palestinian%20Period/1960%20The%20Complete%20Diaries%20of%20Theodor%20Herzl)  
+[1964 Arab League Summit (Cairo)](1948-%20Israeli-Palestinian%20Period/1964%20Arab%20League%20Summit%20(Cairo))  
+[1964-67 War Over Water (Jordan River)](../Jordan/1964-67%20War%20Over%20Water%20(Jordan%20River))  
+[1964 Palestinian National Charter](1948-%20Israeli-Palestinian%20Period/1964%20Palestinian%20National%20Charter)  
+[1965 Arab League Summit](1948-%20Israeli-Palestinian%20Period/1965%20Arab%20League%20Summit)  
+[1966 Samu Incident](1948-%20Israeli-Palestinian%20Period/1966%20Samu%20Incident)  
+[1967 Six-Day War, Third Arab-Israeli War](1948-%20Israeli-Palestinian%20Period/1967%20Six-Day%20War,%20Third%20Arab-Israeli%20War)  
+[1967-70 War of Attrition](1948-%20Israeli-Palestinian%20Period/1967-70%20War%20of%20Attrition)  
+[1968-82 Palestinian Insurgency in South Lebanon](../Lebanon/1945-%20Lebanese%20Republic/1968-82%20Palestinian%20Insurgency%20in%20South%20Lebanon)  
+[1968 Palestinian National Charter](1948-%20Israeli-Palestinian%20Period/1968%20Palestinian%20National%20Charter)  
+[1969 Cairo Agreement](1948-%20Israeli-Palestinian%20Period/1969%20Cairo%20Agreement)  
+[1970-71 Black September](1948-%20Israeli-Palestinian%20Period/1970-71%20Black%20September)  
+[1971 Assassination of the Prime Minister of Jordan, Wasfi Tal](1948-%20Israeli-Palestinian%20Period/1971%20Assassination%20of%20the%20Prime%20Minister%20of%20Jordan,%20Wasfi%20Tal)  
+[1972 Lod Airport Massacre](1948-%20Israeli-Palestinian%20Period/1972%20Lod%20Airport%20Massacre)  
+[1972 Munich Massacre](1948-%20Israeli-Palestinian%20Period/1972%20Munich%20Massacre)  
+[1972-88 Operation Bayonet](1948-%20Israeli-Palestinian%20Period/1972-88%20Operation%20Bayonet)  
+[1973 Yom Kippur War, Fourth Arab-Israeli War](1948-%20Israeli-Palestinian%20Period/1973%20Yom%20Kippur%20War,%20Fourth%20Arab-Israeli%20War)  
+[1973 Oil Crisis](1948-%20Israeli-Palestinian%20Period/1973%20Oil%20Crisis)  
+[1973 Geneva Conference](1948-%20Israeli-Palestinian%20Period/1973%20Geneva%20Conference)  
+[1974 Ma'alot Massacre](1948-%20Israeli-Palestinian%20Period/1974%20Ma'alot%20Massacre)  
+[1974 UNGA Resolution 3236 & 3237](1948-%20Israeli-Palestinian%20Period/1974%20UNGA%20Resolution%203236%20&%203237)  
+[1975 UNGA Resolution 3379](1948-%20Israeli-Palestinian%20Period/1975%20UNGA%20Resolution%203379)  
+[1975-90 Lebanon Civil War](../Lebanon/1945-%20Lebanese%20Republic/1975-90%20Lebanon%20Civil%20War)  
+[1978 Camp David Accords](1948-%20Israeli-Palestinian%20Period/1978%20Camp%20David%20Accords)  
+[1979 Egypt-Israel Peace Treaty](1948-%20Israeli-Palestinian%20Period/1979%20Egypt-Israel%20Peace%20Treaty)  
+[1980 Jerusalem Law](1948-%20Israeli-Palestinian%20Period/1980%20Jerusalem%20Law)  
+[1981 Fahd Plan](1948-%20Israeli-Palestinian%20Period/1981%20Fahd%20Plan)  
+[1981 Golan Heights Law](1948-%20Israeli-Palestinian%20Period/1981%20Golan%20Heights%20Law)  
+[1982-85 Lebanon War](../Lebanon/1945-%20Lebanese%20Republic/1982-85%20Lebanon%20War)  
+[1985-2000 South Lebanon Conflict](../Lebanon/1945-%20Lebanese%20Republic/1985-2000%20South%20Lebanon%20Conflict)  
+[1987-93 First Intifada](1948-%20Israeli-Palestinian%20Period/1987-93%20First%20Intifada)  
+[1988 Hamas Covenant (Charter)](1948-%20Israeli-Palestinian%20Period/1988%20Hamas%20Covenant%20(Charter))  
+[1988 Palestinian Declaration of Independence](1948-%20Israeli-Palestinian%20Period/1988%20Palestinian%20Declaration%20of%20Independence)  
+[1990-91 Gulf War](../Iraq/1968-2003%20Ba'athist%20Iraqi%20Republic/1990-91%20Gulf%20War)  
+[1991 Madrid Conference](1948-%20Israeli-Palestinian%20Period/1991%20Madrid%20Conference)  
+[1993 Oslo 1 Accords](1948-%20Israeli-Palestinian%20Period/1993%20Oslo%201%20Accords)  
+[1994 Israel-Jordan Peace Treaty](1948-%20Israeli-Palestinian%20Period/1994%20Israel-Jordan%20Peace%20Treaty)  
+[1995 Oslo 2 Accords](1948-%20Israeli-Palestinian%20Period/1995%20Oslo%202%20Accords)  
+[1996 Palestinian General Election](1948-%20Israeli-Palestinian%20Period/1996%20Palestinian%20General%20Election)  
+[1996 Palestinian National Charter Nullification](1948-%20Israeli-Palestinian%20Period/1996%20Palestinian%20National%20Charter%20Nullification)  
+[1997 Hebron Protocol](1948-%20Israeli-Palestinian%20Period/1997%20Hebron%20Protocol)  
+[1998 Wye River Memorandum](1948-%20Israeli-Palestinian%20Period/1998%20Wye%20River%20Memorandum)  
+[1999 Sharm El Sheikh Memorandum](1948-%20Israeli-Palestinian%20Period/1999%20Sharm%20El%20Sheikh%20Memorandum)  
+[2000 Camp David Summit](1948-%20Israeli-Palestinian%20Period/2000%20Camp%20David%20Summit)  
+[2000-05 Second Intifada](1948-%20Israeli-Palestinian%20Period/2000-05%20Second%20Intifada)  
+[2000 The Clinton Parameters](1948-%20Israeli-Palestinian%20Period/2000%20The%20Clinton%20Parameters)  
+[2001 Taba Summit](1948-%20Israeli-Palestinian%20Period/2001%20Taba%20Summit)  
+[2003 Road Map For Peace](1948-%20Israeli-Palestinian%20Period/2003%20Road%20Map%20For%20Peace)  
+[2003 Geneva Initiative](1948-%20Israeli-Palestinian%20Period/2003%20Geneva%20Initiative)  
+[2003-04 ICJ Case on the West Bank Wall](1948-%20Israeli-Palestinian%20Period/2003-04%20ICJ%20Case%20on%20the%20West%20Bank%20Wall)  
+[2005 Sharm El Sheikh Summit](1948-%20Israeli-Palestinian%20Period/2005%20Sharm%20El%20Sheikh%20Summit)  
+[2005 Agreement on Movement and Access](1948-%20Israeli-Palestinian%20Period/2005%20Agreement%20on%20Movement%20and%20Access)  
+[2005 Israeli Disengagement From Gaza](1948-%20Israeli-Palestinian%20Period/2005%20Israeli%20Disengagement%20From%20Gaza)  
+[2005 Palestinian Presidential Election](1948-%20Israeli-Palestinian%20Period/2005%20Palestinian%20Presidential%20Election)  
+[2006 Palestinian Legislative Election](1948-%20Israeli-Palestinian%20Period/2006%20Palestinian%20Legislative%20Election)  
+[2006 Gaza-Israel Conflict, Operation Summer Rains](1948-%20Israeli-Palestinian%20Period/2006%20Gaza-Israel%20Conflict,%20Operation%20Summer%20Rains)  
+[2006 Realignment Plan](1948-%20Israeli-Palestinian%20Period/2006%20Realignment%20Plan)  
+[2006 Lebanon War, Israel-Hezbollah War](../Lebanon/1945-%20Lebanese%20Republic/2006%20Lebanon%20War,%20Israel-Hezbollah%20War)  
+[2007 Hamas' Takeover of Gaza From Fatah](1948-%20Israeli-Palestinian%20Period/2007%20Hamas'%20Takeover%20of%20Gaza%20From%20Fatah)  
+[2007 Annapolis Conference](1948-%20Israeli-Palestinian%20Period/2007%20Annapolis%20Conference)  
+[2008 Breach of the Egypt-Gaza border](1948-%20Israeli-Palestinian%20Period/2008%20Breach%20of%20the%20Egypt-Gaza%20border)  
+[2008 Operation Hot Winter](1948-%20Israeli-Palestinian%20Period/2008%20Operation%20Hot%20Winter)  
+[2008 Israel-Hamas Ceasefire](1948-%20Israeli-Palestinian%20Period/2008%20Israel-Hamas%20Ceasefire)  
+[2008-09 Gaza War, Operation Cast Lead](1948-%20Israeli-Palestinian%20Period/2008-09%20Gaza%20War,%20Operation%20Cast%20Lead)  
+[2009 Hamas Political Violence in Gaza](1948-%20Israeli-Palestinian%20Period/2009%20Hamas%20Political%20Violence%20in%20Gaza)  
+[2010 Gaza Flotilla Raid](1948-%20Israeli-Palestinian%20Period/2010%20Gaza%20Flotilla%20Raid)  
+[2010-11 Mitchell-led talks](1948-%20Israeli-Palestinian%20Period/2010-11%20Mitchell-led%20talks)  
+[2011 Iron Dome Deployment](1948-%20Israeli-Palestinian%20Period/2011%20Iron%20Dome%20Deployment)  
+[2012 Operation Returning Echo](1948-%20Israeli-Palestinian%20Period/2012%20Operation%20Returning%20Echo)  
+[2012 Israeli Operation in the Gaza Strip, Operation Pillar of Defense](1948-%20Israeli-Palestinian%20Period/2012%20Israeli%20Operation%20in%20the%20Gaza%20Strip,%20Operation%20Pillar%20of%20Defense)  
+[2013-14 Kerry-led Talks](1948-%20Israeli-Palestinian%20Period/2013-14%20Kerry-led%20Talks)  
+[2014 Operation Brother's Keeper](1948-%20Israeli-Palestinian%20Period/2014%20Operation%20Brother's%20Keeper)  
+[2014 Gaza War, Operation Protective Edge](1948-%20Israeli-Palestinian%20Period/2014%20Gaza%20War,%20Operation%20Protective%20Edge)  
+[2017-18 Basic Law, Israel as the Nation-State of the Jewish People](1948-%20Israeli-Palestinian%20Period/2017-18%20Basic%20Law,%20Israel%20as%20the%20Nation-State%20of%20the%20Jewish%20People)  
+[2017 Hamas Charter](1948-%20Israeli-Palestinian%20Period/2017%20Hamas%20Charter)  
+[2018 U.S. Embassy Moved to Jerusalem](1948-%20Israeli-Palestinian%20Period/2018%20U.S.%20Embassy%20Moved%20to%20Jerusalem)  
+[2018- International Criminal Court Investigation in Palestine](1948-%20Israeli-Palestinian%20Period/2018-%20International%20Criminal%20Court%20Investigation%20in%20Palestine)  
+[2018-19 Great March of Return Protest](1948-%20Israeli-Palestinian%20Period/2018-19%20Great%20March%20of%20Return%20Protest)  
+[2019 Gaza Economic Protests](1948-%20Israeli-Palestinian%20Period/2019%20Gaza%20Economic%20Protests)  
+[2019-20 Trump Peace Plan](1948-%20Israeli-Palestinian%20Period/2019-20%20Trump%20Peace%20Plan)  
+[2020 Abraham Accords](1948-%20Israeli-Palestinian%20Period/2020%20Abraham%20Accords)  
+[2022-24 ICJ Case on Israeli Annexation of the West Bank Legal Status](1948-%20Israeli-Palestinian%20Period/2022-24%20ICJ%20Case%20on%20Israeli%20Annexation%20of%20the%20West%20Bank%20Legal%20Status)  
+[2021 Israel-Palestine Crisis, Operation Guardian of the Walls](1948-%20Israeli-Palestinian%20Period/2021%20Israel-Palestine%20Crisis,%20Operation%20Guardian%20of%20the%20Walls)  
+[2023- Israel-Hamas War, Operation Al-Aqsa Flood, Operation Iron Swords](1948-%20Israeli-Palestinian%20Period/2023-%20Israel-Hamas%20War,%20Operation%20Al-Aqsa%20Flood,%20Operation%20Iron%20Swords)  
 
-[[Destiny v Finklestein Notes]]
+[Destiny v Finklestein Notes](Destiny%20v%20Finklestein%20Notes)  
