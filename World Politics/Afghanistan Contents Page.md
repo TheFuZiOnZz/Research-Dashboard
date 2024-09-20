@@ -2,7 +2,7 @@
 [1929 Red Army Intervention in Afghanistan](Afghanistan/1926-73%20Kingdom%20of%20Afghanistan/1929%20Red%20Army%20Intervention%20in%20Afghanistan),
 [1930 Red Army Intervention in Afghanistan](World%20Politics/Afghanistan/1926-73%20Kingdom%20of%20Afghanistan/1930%20Red%20Army%20Intervention%20in%20Afghanistan),
 # 1973-78 Republic of Afghanistan
-[1973 Afghan coup d'état,](World%20Politics/Afghanistan/1973-78%20Republic%20of%20Afghanistan/1973%20Afghan%20coup%20d'état)
+[1973 Afghan coup d'état](World%20Politics/Afghanistan/1973-78%20Republic%20of%20Afghanistan/1973%20Afghan%20coup%20d'état)
 # 1978-1992 Democratic Republic of Afghanistan
 [1978 Saur Revolution](World%20Politics/Afghanistan/1978-92%20Democratic%20Republic%20of%20Afghanistan/1978%20Saur%20Revolution),
 [1979-89 Soviet–Afghan War](World%20Politics/Afghanistan/1978-92%20Democratic%20Republic%20of%20Afghanistan/1979-89%20Soviet–Afghan%20War),
