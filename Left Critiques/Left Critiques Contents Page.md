@@ -17,9 +17,9 @@
 # Philosophical Critique
 [Marxist Dialectical Materialism](../Political%20Positions/Social%20Policy/Marxist%20Dialectical%20Materialism)
 # Other
-[`Self-Hating White People`](../Political%20Positions/Social%20Policy/`Self-Hating%20White%20People`)
+[Self-Hating White People](Self-Hating%20White%20People)
 [Well-Being Gap between Liberals and Conservatives](../Political%20Positions/Social%20Policy/Well-Being%20Gap%20between%20Liberals%20and%20Conservatives)
 [Trigger Warnings](../Political%20Positions/Social%20Policy/Trigger%20Warnings)
-[`American Socialism`](../Political%20Positions/Social%20Policy/`American%20Socialism`)
-[`The Centre-Left moving Right` Myth](../Political%20Positions/Social%20Policy/`The%20Centre-Left%20moving%20Right`%20Myth)
+[`American Socialism](`American%20Socialism.md)
+[The Centre-Left moving Right Myth](The%20Centre-Left%20moving%20Right%20Myth.md)
 [Misc Marxist Theory Problems & Quotes](../Political%20Positions/Social%20Policy/Misc%20Marxist%20Theory%20Problems%20&%20Quotes)
