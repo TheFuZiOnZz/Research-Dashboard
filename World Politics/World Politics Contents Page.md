@@ -1,7 +1,7 @@
 # Afghanistan
 [Afghanistan Contents Page](Afghanistan%20Contents%20Page)
 # Algeria
-[Algeria Contents Page](World%20Politics/Algeria%20Contents%20Page)
+[Algeria Contents Page](Algeria%20Contents%20Page)
 # Armenia
 [Armenia Contents Page](World%20Politics/Armenia/Armenia%20Contents%20Page)
 # Azerbaijan
