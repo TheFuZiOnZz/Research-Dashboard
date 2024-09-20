@@ -7,4 +7,4 @@
       
       `The publication of the report triggered violent demonstrations in Baghdad and Palestine; in Beirut, the US Information Center was set on fire. At least one Baghdad newspaper called for jihad: “The Arabs must proclaim a crusade [that is, holy war] to save the Holy Land from [the] western gang which understands only the language of force.” Another called on the Arabs to “annihilate all European Jews in Palestine.” The AAC report was officially condemned by the Arab League Council meeting at Bludan, Syria, on 8–10 June 1946.` - [1948: A History of the First Arab-Israeli War, Benny Morris](https://cloudflare-ipfs.com/ipfs/bafykbzaceboh6eehlb6m6qeyfzcadyiri4vhj3syboxaidhido32jriuuaj3c?filename=Benny%20Morris%20-%201948_%20A%20History%20of%20the%20First%20Arab-Israeli%20War-Yale%20University%20Press%20%282008%29.pdf)
 
-[[1946 Morrison–Grady Plan]]
+[1946 Morrison–Grady Plan](1946%20Morrison–Grady%20Plan)

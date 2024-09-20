@@ -46,8 +46,8 @@
     - 2017.05.17 - [The Secret Transcripts of the Six-Day War, Part I](https://www.tabletmag.com/sections/israel-middle-east/articles/secret-transcripts-six-day-war-1)
     - 2017.06.07 - [Israeli Security Cabinet Secret Transcripts Part II, The Accidental Occupation](https://www.tabletmag.com/sections/israel-middle-east/articles/israeli-security-cabinet-secret-transcripts-part-2)
 
-[[1967-75 Closure of the Suez Canal]]
-[[1967 USS Liberty Incident]]
-[[1967 Allon Plan]]
-[[1967 UNSC Resolution 242]]
-[[1967 Jarring Mission]]
+[1967-75 Closure of the Suez Canal](1967-75%20Closure%20of%20the%20Suez%20Canal)
+[1967 USS Liberty Incident](1967%20USS%20Liberty%20Incident)
+[1967 Allon Plan](1967%20Allon%20Plan)
+[1967 UNSC Resolution 242](1967%20UNSC%20Resolution%20242)
+[1967 Jarring Mission](1967%20Jarring%20Mission)

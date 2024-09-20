@@ -88,4 +88,4 @@
     - Photographic evidence of the torture/killings of Israeli POWs also exists.
     - The order to kill Israeli prisoners came from General Shazly, who, in a pamphlet distributed to Egyptian soldiers immediately before the war, advised his troops to kill Israeli soldiers even if they surrendered.
 
-[[1973 UNSC Resolution 338]]    
+[1973 UNSC Resolution 338](1973%20UNSC%20Resolution%20338)    

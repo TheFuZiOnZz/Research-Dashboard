@@ -1,6 +1,6 @@
 - [Wiki](https://en.wikipedia.org/wiki/1948_Arab%E2%80%93Israeli_War)
 - [Wiki](https://en.wikipedia.org/wiki/1948_Palestine_war)
-- On 15 May 1948 – 10 March 1949, a day after the [[1948 Israeli Declaration of Independence]], The First Arab-Israeli War began and was the was the Second phase of the 1947–49 Palestine War following the [[1947-48 Civil War in Mandatory Palestine]].
+- On 15 May 1948 – 10 March 1949, a day after the [1948 Israeli Declaration of Independence](1948%20Israeli%20Declaration%20of%20Independence), The First Arab-Israeli War began and was the was the Second phase of the 1947–49 Palestine War following the [1947-48 Civil War in Mandatory Palestine](../1917-48%20Mandatory%20Palestine%20Period/1947-48%20Civil%20War%20in%20Mandatory%20Palestine).
 - 
 - War had two main phases, the first began on November 30th, 1947.
     - First phase mainly fought between Jewish and Palestinian Arab militias, supported by the Arab Liberation Army and the surrounding Arab states. Escalated at the end of March 1948, when Jews went on the offensive.
@@ -27,11 +27,11 @@
 	- `The immediate trigger of the 1948 War was the November 1947 UN partition resolution. The Zionist movement, except for its fringes, accepted the proposal. Most lamented the imperative of giving up the historic heartland of Judaism, Judea and Samaria (the West Bank), with East Jerusalem’s Old City and Temple Mount at its core; and many were troubled by the inclusion in the prospective Jewish state of a large Arab minority. But the movement, with Ben-Gurion and Weizmann at the helm, said “yes.”`  - [1948: A History of the First Arab-Israeli War, Benny Morris](https://cloudflare-ipfs.com/ipfs/bafykbzaceboh6eehlb6m6qeyfzcadyiri4vhj3syboxaidhido32jriuuaj3c?filename=Benny%20Morris%20-%201948_%20A%20History%20of%20the%20First%20Arab-Israeli%20War-Yale%20University%20Press%20%282008%29.pdf)
 - 
 	- `In November 1947, days before the eruption of hostilities, General Ismail Safwat, head of the Arab League Military Committee, wrote: “Victory over the Jews—who are well trained and well equipped—by gangs and irregular forces alone is not feasible. So regular forces must be thrown into the battle, trained and equipped with the best weaponry....Asthe Arab states do not have sufficient means for a protracted war, everything must be done so that the war in Palestine will be terminated in the shortest possible time.” As the months passed and the Palestinian Arabs, beefed up by contingents of foreign volunteers, proved incapable of defeating the Yishuv, the Arab leaders began more seriously to contemplate sending in their armies. The events of April 1948—Deir Yassin, Tiberias, Haifa, Jaffa—rattled and focused their minds, and the arrival of tens of thousands of refugees drove home the urgency of direct intervention. By the end of April, they decided to invade. The following fortnight saw the leaders and their generals trying to hammer out agreed objectives, a coordinated strategy, and a unified command structure. They failed.`  - [1948: A History of the First Arab-Israeli War, Benny Morris](https://cloudflare-ipfs.com/ipfs/bafykbzaceboh6eehlb6m6qeyfzcadyiri4vhj3syboxaidhido32jriuuaj3c?filename=Benny%20Morris%20-%201948_%20A%20History%20of%20the%20First%20Arab-Israeli%20War-Yale%20University%20Press%20%282008%29.pdf)
-[[1948 Altalena Affair]]
-[[1947-49 Nakba]]
-[[1948 Bernadotte Plan]]
-[[1948 UNGA Resolution 194]]
-[[1949 UNSC Resolution 69]]
-[[1949 UNGA Resolution 273]]
-[[1922-23 Lausanne Conference]]
-[[1949 Armistice Agreements]]
+[1948 Altalena Affair](1948%20Altalena%20Affair)
+[1947-49 Nakba](1947-49%20Nakba)
+[1948 Bernadotte Plan](1948%20Bernadotte%20Plan)
+[1948 UNGA Resolution 194](1948%20UNGA%20Resolution%20194)
+[1949 UNSC Resolution 69](1949%20UNSC%20Resolution%2069)
+[1949 UNGA Resolution 273](1949%20UNGA%20Resolution%20273)
+[1922-23 Lausanne Conference](../1917-48%20Mandatory%20Palestine%20Period/1922-23%20Lausanne%20Conference)
+[1949 Armistice Agreements](1949%20Armistice%20Agreements)

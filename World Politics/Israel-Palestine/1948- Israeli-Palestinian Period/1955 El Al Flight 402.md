@@ -2,4 +2,4 @@
 - [Wiki](https://en.wikipedia.org/wiki/El_Al_Flight_402)
 - On
 
-[[1957-59 ICJ Case]]
+[1957-59 ICJ Case](1957-59%20ICJ%20Case)
