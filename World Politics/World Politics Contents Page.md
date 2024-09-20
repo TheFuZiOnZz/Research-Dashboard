@@ -1,5 +1,5 @@
 # Afghanistan
-[Afghanistan Contents Page](Afghanistan%20Contents%20Page)
+[Afghanistan Contents Page](Afghanistan/Afghanistan%20Contents%20Page)
 # Algeria
 [Algeria Contents Page](Algeria%20Contents%20Page)
 # Armenia
@@ -33,7 +33,7 @@
 # Iraq
 [[Iraq Contents Page]]
 # Israel-Palestine
-[Israel-Palestine Contents Page](World%20Politics/Israel-Palestine/Israel-Palestine%20Contents%20Page.md)
+[Israel-Palestine Contents Page](World%20Politics/Israel-Palestine/Israel-Palestine%20Contents%20Page)
 # Jordan
 [[Jordan Contents Page]]
 # Kazakhstan
