@@ -1,5 +1,5 @@
 ## 1949 UNGA Resolution 273
-- On 11 May 1949, The United Nations General Assembly Resolution 273 was adopted during the second part of the third session of the United Nations General Assembly, to admit the State of Israel to membership in the United Nations. It was passed following the approval of [[Israel-Palestine Contents Page]]. The Resolution passed by the requisite two-thirds majority, the vote in the General Assembly being 37 in favour to 12 against, with 9 abstentions.
+- On 11 May 1949, The United Nations General Assembly Resolution 273 was adopted during the second part of the third session of the United Nations General Assembly, to admit the State of Israel to membership in the United Nations. It was passed following the approval of [1949 UNSC Resolution 69](1949%20UNSC%20Resolution%2069). The Resolution passed by the requisite two-thirds majority, the vote in the General Assembly being 37 in favour to 12 against, with 9 abstentions.
     - `Having received the report of the Security Council on the application of Israel for membership in the United Nations,`
       
       `Noting that, in the judgment of the Security Council, Israel is a peace-loving State and is able and willing to carry out the obligations contained in the Charter,`

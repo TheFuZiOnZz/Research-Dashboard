@@ -294,7 +294,7 @@
     - The largest Arab demonstrations in Israel's history took place.
   
 - Operation Cast Lead was a armed conflict between Gaza Strip Palestinian paramilitary groups (Fatah, Hamas, PFLP, PIJ) and the IDF that started on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire.
-- On 4 November 2008, 53 days before the start of Cast Lead, the [[Israel-Palestine Contents Page]] was ended by a IDF raid, code named Operation Double Challenge, into Deir al-Balah, central Gaza to destroy a tunnel, killing several Hamas militants. Israel said the raid was a preemptive strike and Hamas intended to abduct Israeli soldiers.
+- On 4 November 2008, 53 days before the start of Cast Lead, the [[2008 Israel-Hamas Ceasefire]] was ended by a IDF raid, code named Operation Double Challenge, into Deir al-Balah, central Gaza to destroy a tunnel, killing several Hamas militants. Israel said the raid was a preemptive strike and Hamas intended to abduct Israeli soldiers.
     
     - `the ceasefire began to founder on 4 November 2008 following an incursion by Israeli soldiers into the Gaza Strip, which Israel stated was to close a cross-border tunnel that in Israel’s view was intended to be used by Palestinian fighters to kidnap Israeli soldiers. The soldiers attacked a house in the Wadi al-Salqa village, east of Deir al-Balah, which was alleged to be the starting point of the tunnel, killing a member of the al-Qassam Brigades. Several Israeli soldiers were wounded.` [link](https://documents-dds-ny.un.org/doc/UNDOC/GEN/G09/158/66/PDF/G0915866.pdf?OpenElement) - Goldstone Report
     
