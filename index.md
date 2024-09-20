@@ -1,1 +1,3 @@
-Welcome to TheFuZiOnZz' Research Dashboard
+# Welcome to TheFuZiOnZz' Research Dashboard
+
+[World Politics Contents Page](World%20Politics%20Contents%20Page.md)
