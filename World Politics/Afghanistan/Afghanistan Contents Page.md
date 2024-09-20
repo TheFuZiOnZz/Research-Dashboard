@@ -15,4 +15,4 @@
 # 2004-21 Islamic Republic of Afghanistan
 
 # 2021- Islamic Emirate of Afghanistan
-[2021 Taliban Offensive on Afghanistan](World%20Politics/Afghanistan/2021-%20Islamic%20Emirate%20of%20Afghanistan/2021%20Taliban%20Offensive%20on%20Afghanistan),
+[2021 Taliban Offensive on Afghanistan](Afghanistan/2021-%20Islamic%20Emirate%20of%20Afghanistan/2021%20Taliban%20Offensive%20on%20Afghanistan),
