@@ -3,7 +3,7 @@
 # Algeria
 [Algeria Contents Page](Algeria%20Contents%20Page)
 # Armenia
-[Armenia Contents Page](World%20Politics/Armenia/Armenia%20Contents%20Page)
+[Armenia Contents Page](Armenia/Armenia%20Contents%20Page)
 # Azerbaijan
 [Azerbaijan Contents Page](Azerbaijan/Azerbaijan%20Contents%20Page)
 # Bahrain
