@@ -707,4 +707,33 @@
 		  `4. However, the Kremlin official close to S. IVANOV added that s/he believed DIVEYKIN also had hinted (or indicated more strongly) that the Russian leadership also had 'kompromat' on TRUMP which the latter should bear in mind in his dealings with them.` - [Steele Dossier, 2016](https://s3.documentcloud.org/documents/3259984/Trump-Intelligence-Allegations.pdf)
 	- `Source #1 is a [REDACTED] and has been an FBI source since in or about October 2013. Source #1's reporting has been corroborated and used in criminal proceedings and the FBI assesses Source #1 to be reliable. Source has been compensated approximately $95,000 by the FBI and the FBI is unaware of any derogatory information pertaining to Source #1.`
 	  
-	  `Source #1, who now owns a foreign business/financiai intelligence firm, was approached by an identified U.S. person, who indicated to Source #1 that a U.S.-based law firm had hired the identified U.S. person to conduct research regarding Candidate #1's ties to Russia (the identified U.S. person and Source #1 have a long-standing business relationship). The identified U.S. person hired Source #1 to conduct this research. identified U.S. person never advised Source #1 as to the motivation behind the research into Candidate #1's ties to Russia. The FBI speculates that the identified U.S. person was likely looking for information that could be used to discredit Candidate #1's campaign.` - [First FISA Warrant Application for Carter Page, Department of Justice, 2016](https://www.judiciary.senate.gov/imo/media/doc/FISA%20Warrant%20Application%20for%20Carter%20Page.pdf)
+	  `Source #1, who now owns a foreign business/financiai intelligence firm, was approached by an identified U.S. person, who indicated to Source #1 that a U.S.-based law firm had hired the identified U.S. person to conduct research regarding Candidate #1's ties to Russia (the identified U.S. person and Source #1 have a long-standing business relationship). The identified U.S. person hired Source #1 to conduct this research. identified U.S. person never advised Source #1 as to the motivation behind the research into Candidate #1's ties to Russia. The FBI speculates that the identified U.S. person was likely looking for information that could be used to discredit Candidate #1's campaign.`
+	  
+	  `Source tasked his sub-source(s) to collect the requisite information. After Source #1 received information from the sub-source(s), described herein, Source#1 provided the information to the identified U.S. person who had
+hired %urce and Io the FBI. In addition to the specific information pertaining to
+Page reported in this application, %urce has provided other information relating
+to the Russian Government's efforts to influence the election that do not directly
+pertain to Page, including the possibility of the Russian's also possessing a dossier
+on Candidate #1, which Ihe FBI is currently investigating.
+(U) (RX'*X» Notwithstanding Source #1's reason for conducting the research
+into Candidate # I's ties to Russia, bascd on Source $1 's previous reporting history
+with the FBI, whereby Source #1 provided reliable infurrnation to the FBI, the FBI
+believes Source Is reporting herein to be credible. Moreover, because of outside
+corroborating circumstances discussed herein, such as the reporting from a friendly
+foreign government that a member of Candidate #1 's team received a sugg$tion
+from Russia that Russia could assist with the release of information damaging to
+Candidate and Russia's believed hack and subsequent leak of thc DNC e-mails,
+the FBI assesses that Source # I's reporting is credible.
+(U) (Xmk) Source #1 maintains a network of sub-sources, who, in many
+cases, utilize their own sub-sources. Thc source reporting in this application,
+which was provided to the FBI by Source $1, is derived primarily from a
+Source l)escripti0J
+, who uses a network of sub-sources. Thus, neither Source #1
+nor the
+ource I)escri )tt011
+reported by the sub-soumes identified herein (each sub-source will be separately
+identified herein based on the information provided by Source #1). The FBI has
+no control over the
+or any of the sub-sources used by
+Source l)escriplion
+Source l)escription` - [First FISA Warrant Application for Carter Page, Department of Justice, 2016](https://www.judiciary.senate.gov/imo/media/doc/FISA%20Warrant%20Application%20for%20Carter%20Page.pdf)
