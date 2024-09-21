@@ -18,7 +18,7 @@
       `The technical evidence contained in the reports doesn’t stand up to scrutiny. This is a crude fake.`
       
       `Any IT professional can see that a malware sample mentioned in the Joint Analysis Report was taken from the web and was commonly available. A lot of hackers use it. I think it was inserted in the report to make it look a bit more plausible.` - [Here i am again my Friends!, Guccifer 2.0 Blog, 2017](https://guccifer2.wordpress.com/2017/01/12/fake-evidence/)
-## Wikileaks
+## Wikileaks & Releasing Stolen Emails
 - [link](https://www.theatlantic.com/politics/archive/2017/11/the-secret-correspondence-between-donald-trump-jr-and-wikileaks/545738/) assange telling trump jr to tell trump not to concede if trump lost 2016
 - [Wiki](https://en.wikipedia.org/wiki/2016_Democratic_National_Committee_email_leak)
 - [Wiki](https://en.wikipedia.org/wiki/Podesta_emails)
