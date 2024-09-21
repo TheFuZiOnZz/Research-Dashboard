@@ -704,22 +704,21 @@
 	  
 	  `The FBI believes that Page is one of the individuals that Podobnyy and Sporyshev attempted to recruit, and Page is described as "Male-1" in the complaint. As noted above, Page began a relationship with Podobnyy in or about January 2013. According to the complaint, in or about April 2013, Podobnyy and Sporyshev discussed Podobnyy's efforts to recruit "Male-1," who was working as a consultant in New York City, as an intelligence source. In or about March 2016, the FBI interviewed Page about Page's relationship with Podobnyy. Based on information provided by Page during this interview, the FBI determined that Page's relationship with Podobnyy was primarily unidirectional, with Page largely providing Podobnyy open source information and contact introductions. During one interview, Page told the FBI that he approached a Russian Minister, who was surrounded by Russian officials/diplomats1 and "in the spirit of openness," Page informed the group that he was "Male-1," in the Buryakov complaint. The FBI believes that this information reveals that Page was targeted as part of an RIS recruitment operation and that Podobnyy had started the actual recruitment of Page by tasking him to respond to somewhat innocuous requests. The FBI also believes that Page knew that the RIS was attempting to recruit him by self-identifying as the individual named as "Male-1" in the complaint.` - [First FISA Warrant Application for Carter Page, Department of Justice, 2016](https://www.judiciary.senate.gov/imo/media/doc/FISA%20Warrant%20Application%20for%20Carter%20Page.pdf)
 - on
-	- `Also o`n or about April 8, 2013, IGOR SPORYSHEV and VICTOR PODOBNYY, the defendants, discussed PODOBNYY's efforts to recruit a male working as a consultant in New York City ("Male-1") as an intelligence source:`
+	- `Also on or about April 8, 2013, IGOR SPORYSHEV and VICTOR PODOBNYY, the defendants, discussed PODOBNYY's efforts to recruit a male working as a consultant in New York City ("Male-1") as an intelligence source:`
 	  
 	  `VP: [Male-1] wrote that he is sorry , he went to Moscow and forgot to check his inbox, but he wants to meet when he gets back. I think he is an idiot and forgot who I am. Plus he writes to me in Russian [to] practice the language. He flies to Moscow more often than I do. He got hooked on Gazprom thinking that if they have a project, he could be rise up. Maybe he can. I don't know, but it's obvious that he wants to earn lots of money ....`
-		  
-		  `IS: Without a doubt.`
-		  
-		  `VP: He said that they have a new project right now, new energy boom`
+	  
+	  `IS: Without a doubt.`
+	  
+	  `VP: He said that they have a new project right now, new energy boom`
 		  
 		  `VP: He says that it is about to take off. I don't say anything for now.`
 		  
 		  `IS: Yeah, first we will spend a couple of borrowed million and then ....`
 		  
-		  `VP: [UI] [laughs] it's worth it . I like that he takes on everything. For now his enthusiasm works for me. I also promised him a lot: that I have connections in the Trade
-Representation, meaning you tha t you can push contract s
-[laughs] . I wil l feed him empty promises.
-I S: Shit , then he wil l writ e me. Not even me, t o our clean
+		  `VP: [UI] [laughs] it's worth it . I like that he takes on everything. For now his enthusiasm works for me. I also promised him a lot: that I have connections in the trade Representation, meaning you that you can push contracts [laughs]. I will feed him empty promises.`
+		  
+		  `IS: Shit , then he wil l writ e me. Not even me, t o our clean
 one.
 VP: I didn' t say the Trade Representation .. . I di d not even
 indicat e tha t thi s i s connected t o a government agency. This
