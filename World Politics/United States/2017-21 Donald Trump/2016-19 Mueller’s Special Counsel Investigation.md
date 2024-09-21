@@ -705,49 +705,33 @@
 	  `The FBI believes that Page is one of the individuals that Podobnyy and Sporyshev attempted to recruit, and Page is described as "Male-1" in the complaint. As noted above, Page began a relationship with Podobnyy in or about January 2013. According to the complaint, in or about April 2013, Podobnyy and Sporyshev discussed Podobnyy's efforts to recruit "Male-1," who was working as a consultant in New York City, as an intelligence source. In or about March 2016, the FBI interviewed Page about Page's relationship with Podobnyy. Based on information provided by Page during this interview, the FBI determined that Page's relationship with Podobnyy was primarily unidirectional, with Page largely providing Podobnyy open source information and contact introductions. During one interview, Page told the FBI that he approached a Russian Minister, who was surrounded by Russian officials/diplomats1 and "in the spirit of openness," Page informed the group that he was "Male-1," in the Buryakov complaint. The FBI believes that this information reveals that Page was targeted as part of an RIS recruitment operation and that Podobnyy had started the actual recruitment of Page by tasking him to respond to somewhat innocuous requests. The FBI also believes that Page knew that the RIS was attempting to recruit him by self-identifying as the individual named as "Male-1" in the complaint.` - [First FISA Warrant Application for Carter Page, Department of Justice, 2016](https://www.judiciary.senate.gov/imo/media/doc/FISA%20Warrant%20Application%20for%20Carter%20Page.pdf)
 		  `Also on or about April 8, 2013, IGOR SPORYSHEV and VICTOR PODOBNYY, the defendants, discussed PODOBNYY's efforts to recruit a male working as a consultant in New York City ("Male-1") as an intelligence source:`
 		  
-		  `[Male—I] wrote that he is sorry, he went to Moscow and
-forgot to check his inbox, but he wants to meet when he gets
-I think he is an idiot and forgot who I am. Plus he
-back.
-He flies
-writes to me in Russian [to] practice the language.
-to Moscow more often than I do. He got hooked on Gazprom
-thinking that if they have a project, he could be rise up. Maybe
-he can. I don't know, but it's obvious that he wants to earn
-lots of money
-IS: Without a doubt.
-VP: He said that they have a new project right now,
+		  `VP: [Male-1] wrote that he is sorry , he went to Moscow and forgot to check his inbox, but he wants to meet when he gets back. I think he is an idiot and forgot who I am. Plus he writes to me in Russian [to] practice the language. He flie s
+t o Moscow more ofte n than I do. He got hooked on Gazprom
+thinkin g tha t i f they have a project , he could be ris e up. Maybe
+he can. I don't know, but it' s obvious tha t he wants t o earn
+lot s of money ... .
+I S: Without a doubt.
+VP: He sai d tha t they have a new projec t righ t now, new energy
 boom
-new energy
-VP: He says that it is about to take off. I don't say anything
-for now.
-IS: Yeah, first we will spend a couple of borrowed million and
-then
-[UI] [laughs] it's worth it.
-I like that he takes on
-VP:
-For now his enthusiasm works for me.
-everything .
-I also
-promised him a lot: that I have connections in the Trade
-Representation, meaning you that you can push contracts
-I will feed him empty promises.
-[laughs] .
-Shi t, then he will write me. Not even me, to our clean
-IS:
-one .
-I didn't say the Trade Representation . . .
-VP:
-I did not even
-indicate that this is connected to a government agency. This
-is intelligence method to cheat, how else to work with
-foreigners? You promise a favor for a favor. You get the
-documents from him and tell him to go fuck himself. But not
-to upset you, I will take you to a restaurant and give you an
-You just need to sign for it.
-expensive gift .
-This is ideal
-working method.` - [Buryakov, et al. Sealed Complaint, Department of Justice, 2016](https://www.justice.gov/sites/default/files/opa/press-releases/attachments/2015/01/26/buryakov-complaint.pdf)
+VP: He says tha t i t i s about t o take off . I don't say anythin g
+f o r now.
+I S: Yeah, firs t we wil l spend a couple of borrowed millio n and
+then ... .
+VP: [UI] [laughs] it' s worth it . I lik e tha t he takes on
+everything . For now hi s enthusiasm works fo r me. I als o
+promised him a lot : tha t I have connections i n the Trade
+Representation, meaning you tha t you can push contract s
+[laughs] . I wil l feed him empty promises.
+I S: Shit , then he wil l writ e me. Not even me, t o our clean
+one.
+VP: I didn' t say the Trade Representation .. . I di d not even
+indicat e tha t thi s i s connected t o a government agency. This
+i s intelligenc e method t o cheat, how els e t o work wit h
+foreigners ? You promise a favo r fo r a favor . You get the
+documents from him and tel l him t o go fuc k himself . But not
+t o upset you, I wil l take you t o a restauran t and giv e you an
+expensive gift . You jus t need t o sig n fo r it . This i s idea l
+working method. ` - [Buryakov, et al. Sealed Complaint, Department of Justice, 2016](https://www.justice.gov/sites/default/files/opa/press-releases/attachments/2015/01/26/buryakov-complaint.pdf)
 - The FISA application uses Report 94 from the Steele Dossier to establish a reason for FISA surveillance, Source #1 is Cristopher Steele.
 	- `According to open source information, in July 2016, Page traveled to Russia and delivered the commencement address at the New Economic School. In addition to giving this address, the FBI has learned that Page met with at least two Russian officials during this trip. First, according to information provided by an FBI confidential human source (Source #1), Sub-Source #1 reported that Page had a secret meeting with Igor Sechin, who is the President of Rosneft [a Russian energy company] and a close associate to Russian President Putin. Sub-Source #1 reported that, during the meeting, Page and Sechin discussed future bilateral energy cooperation and the prospects for an associated move to lift Western sanctions against Russia. Although Sub-Source #1 reported that Page had reacted positively to the discussions, Sub-Source #1 commented that Page was generally non-committal in a response.` - [First FISA Warrant Application for Carter Page, Department of Justice, 2016](https://www.judiciary.senate.gov/imo/media/doc/FISA%20Warrant%20Application%20for%20Carter%20Page.pdf)
 		- `1. Speaking in July 2016, a Russian source close to Rosneft President, PUTIN close associate and US-sanctioned individual, Igor SECHIN, confided the details of a recent secret meeting between him and visiting Foreign Affairs Advisor to Republican presidential candidate Donald TRUMP, Carter PAGE.`
