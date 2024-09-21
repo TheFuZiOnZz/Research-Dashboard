@@ -692,4 +692,6 @@
     - ` ` - [Report of the Select Committee on Intelligence United States Senate on Russian Active Measures Campaigns and Interference in the 2016 U.S. Election Volume 3: U.S. Government Response to Russian Activities](https://www.intelligence.senate.gov/sites/default/files/documents/Report_Volume3.pdf)
     - ` ` - [Report of the Select Committee on Intelligence United States Senate on Russian Active Measures Campaigns and Interference in the 2016 U.S. Election Volume 4: Review of the Intelligence Community Assessment](https://www.intelligence.senate.gov/sites/default/files/documents/Report_Volume4.pdf)
     - ` ` - [Additional declassifications of “Volume 4: Review of Intelligence Community Assessment](https://www.intelligence.senate.gov/sites/default/files/documents/Report_Volume4_Excerpt.pdf)
-    - ` ` - [Report of the Select Committee on Intelligence United States Senate on Russian Active Measures Campaigns and Interference in the 2016 U.S. Election Volume 5: Counterintelligence Threats and Vulnerabilities](https://www.intelligence.senate.gov/sites/default/files/documents/report_volume5.pdf)    
+    - ` ` - [Report of the Select Committee on Intelligence United States Senate on Russian Active Measures Campaigns and Interference in the 2016 U.S. Election Volume 5: Counterintelligence Threats and Vulnerabilities](https://www.intelligence.senate.gov/sites/default/files/documents/report_volume5.pdf)
+# DoJ Releases First Carter Page FISA Application and Order
+- 
