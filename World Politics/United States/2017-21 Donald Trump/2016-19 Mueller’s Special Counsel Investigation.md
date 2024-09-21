@@ -694,4 +694,5 @@
     - ` ` - [Additional declassifications of “Volume 4: Review of Intelligence Community Assessment](https://www.intelligence.senate.gov/sites/default/files/documents/Report_Volume4_Excerpt.pdf)
     - ` ` - [Report of the Select Committee on Intelligence United States Senate on Russian Active Measures Campaigns and Interference in the 2016 U.S. Election Volume 5: Counterintelligence Threats and Vulnerabilities](https://www.intelligence.senate.gov/sites/default/files/documents/report_volume5.pdf)
 # DoJ Releases First Carter Page FISA Application and Order
-- 
+- On 
+	- ` ` - [First FISA Warrant Application for Carter Page, Department of Justice, 2016](https://www.judiciary.senate.gov/imo/media/doc/FISA%20Warrant%20Application%20for%20Carter%20Page.pdf)
