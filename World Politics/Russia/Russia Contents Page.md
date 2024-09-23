@@ -1,43 +1,43 @@
 # 1832-1917 Russian Empire Period
 
-[[1905-07 Russian Revolution Attempt]]
+[1905-07 Russian Revolution Attempt](1832-1917%20Russian%20Empire%20Period/1905-07%20Russian%20Revolution%20Attempt)  
 # 1917-91 Soviet Period
 ## 1917-24 Vladimir Lenin
 
-[[1917-23 Russian Revolution]]
-[[1917-24 Leninist Dekulakization]]
+[1917-23 Russian Revolution](1917-91%20Soviet%20Period/1917-23%20Russian%20Revolution)  
+[1917-24 Leninist Dekulakization](1917-91%20Soviet%20Period/1917-24%20Leninist%20Dekulakization)  
 ## 1924-53 Joseph Stalin Era
 
-[[1924-33 Stalinist Dekulakization]]
-[[1930-53 Gulag Labor Camps]]
-[[1930-33 Asharshylyk Famine]]
-[[1932-33 Holodomor Famine]]
-[[1936-38 Great Purge]]
-[[1939-45 World War 2]]
-[[1951-53 Doctors Plot Affair]]
+[1924-33 Stalinist Dekulakization](1917-91%20Soviet%20Period/1924-33%20Stalinist%20Dekulakization)  
+[1930-53 Gulag Labor Camps](1917-91%20Soviet%20Period/1930-53%20Gulag%20Labor%20Camps)  
+[1930-33 Asharshylyk Famine](../Kazakhstan/1930-33%20Asharshylyk%20Famine)  
+[1932-33 Holodomor Famine](1917-91%20Soviet%20Period/1932-33%20Holodomor%20Famine)  
+[1936-38 Great Purge](1917-91%20Soviet%20Period/1936-38%20Great%20Purge)  
+[1939-45 World War 2](../Worldwide/1939-45%20World%20War%202)  
+[1951-53 Doctors Plot Affair](1917-91%20Soviet%20Period/1951-53%20Doctors%20Plot%20Affair)  
 ## 1953 Georgy Malenkov
 
 ## 1953-64 Nikita Khrushchev
 
-[[1954 Transfer of Crimea]]
-[[1955 Creation of the Warsaw Pact]]
-[[1956-66 Sino-Soviet Split]]
-[[1956-57 Anti Krushchev Failed Coup]]
+[1954 Transfer of Crimea](1917-91%20Soviet%20Period/1954%20Transfer%20of%20Crimea)  
+[1955 Creation of the Warsaw Pact](1917-91%20Soviet%20Period/1955%20Creation%20of%20the%20Warsaw%20Pact)  
+[1956-66 Sino-Soviet Split](../China/1949-76%20Mao%20Zedong%20Era/1956-66%20Sino-Soviet%20Split)  
+[1956-57 Anti Krushchev Failed Coup](1917-91%20Soviet%20Period/1956-57%20Anti%20Krushchev%20Failed%20Coup)  
 ## 1964-82 Leonid Brezhnev
 
-[[1979-89 Soviet–Afghan War]]
+[1979-89 Soviet–Afghan War](../Afghanistan/1978-92%20Democratic%20Republic%20of%20Afghanistan/1979-89%20Soviet–Afghan%20War)  
 ## 1982-84 Yuri Andropov
 
-[[1983 Operation INFEKTION]]
+[1983 Operation INFEKTION](1917-91%20Soviet%20Period/1983%20Operation%20INFEKTION)  
 ## 1984-85 Konstantin Chernenko
 
 ## 1985-91 Mikhail Gorbachev
 
-[[1989 Public Revealing of the Full Molotov–Ribbentrop Pact]]
-[[1990 Russian Independence]]
-[[1991 Russian Presidential Referendum and Election]]
-[[1991 Gorbachev’s General Secretary Resignation]]
-[[1991 Gorbachev’s Presidential Resignation]]
+[1989 Public Revealing of the Full Molotov–Ribbentrop Pact](1917-91%20Soviet%20Period/1989%20Public%20Revealing%20of%20the%20Full%20Molotov–Ribbentrop%20Pact)  
+[1990 Russian Independence](1917-91%20Soviet%20Period/1990%20Russian%20Independence)  
+[1991 Russian Presidential Referendum and Election](1917-91%20Soviet%20Period/1991%20Russian%20Presidential%20Referendum%20and%20Election)  
+[1991 Gorbachev’s General Secretary Resignation](1917-91%20Soviet%20Period/1991%20Gorbachev’s%20General%20Secretary%20Resignation)  
+[1991 Gorbachev’s Presidential Resignation](1917-91%20Soviet%20Period/1991%20Gorbachev’s%20Presidential%20Resignation)  
 ## Other
 - SDL - [link](https://socdoneleft.github.io/stinky_rightwinger_factsheet.html#1050_soviet_union_ussr)
 - to read - [Wiki](https://en.wikipedia.org/wiki/Category:Soviet_war_crimes)
@@ -119,18 +119,18 @@
 # 1991- Modern Russia
 ## 1991-99 Boris Yeltsin
 
-[[1992 Russian Occupation of Transnistria in Moldova]]
-[[1994 Budapest Memorandum on Security Assurances]]
-[[1993 Russian Constitutional Crisis]]
-[[1994 First Chechen War]]
-[[1995 Formation of The Union State]]
-[[1997 Treaty on Friendship, Cooperation and Partnership]]
+[1992 Russian Occupation of Transnistria in Moldova](1991-%20Modern%20Russia/1992%20Russian%20Occupation%20of%20Transnistria%20in%20Moldova)  
+[1994 Budapest Memorandum on Security Assurances](1991-%20Modern%20Russia/1994%20Budapest%20Memorandum%20on%20Security%20Assurances)  
+[1993 Russian Constitutional Crisis](1991-%20Modern%20Russia/1993%20Russian%20Constitutional%20Crisis)  
+[1994 First Chechen War](1991-%20Modern%20Russia/1994%20First%20Chechen%20War)  
+[1995 Formation of The Union State](1991-%20Modern%20Russia/1995%20Formation%20of%20The%20Union%20State)  
+[1997 Treaty on Friendship, Cooperation and Partnership](1991-%20Modern%20Russia/1997%20Treaty%20on%20Friendship,%20Cooperation%20and%20Partnership)  
 ## 1999- Vladimir Putin
 
-[[1999-2009 Second Chechen War]]
-[[2008 Russian Occupation of Abkhazia and South Ossetia, Georgia]]
-[[2014 Russian Annexation of Crimea]]
-[[2014-22 Russian Occupation of Donetsk and Luhansk, Ukraine]]
-[[2014 Glazyev tapes]]
-[[2020 Poisoning of Alexei Navalny]]
-[[2022- Russian Invasion of Ukraine]]
+[1999-2009 Second Chechen War](1991-%20Modern%20Russia/1999-2009%20Second%20Chechen%20War)  
+[2008 Russian Occupation of Abkhazia and South Ossetia, Georgia](../Georgia/2008%20Russian%20Occupation%20of%20Abkhazia%20and%20South%20Ossetia,%20Georgia)  
+[2014 Russian Annexation of Crimea](1991-%20Modern%20Russia/2014%20Russian%20Annexation%20of%20Crimea)  
+[2014-22 Russian Occupation of Donetsk and Luhansk, Ukraine](1991-%20Modern%20Russia/2014-22%20Russian%20Occupation%20of%20Donetsk%20and%20Luhansk,%20Ukraine)  
+[2014 Glazyev tapes](1991-%20Modern%20Russia/2014%20Glazyev%20tapes)  
+[2020 Poisoning of Alexei Navalny](1991-%20Modern%20Russia/2020%20Poisoning%20of%20Alexei%20Navalny)  
+[2022- Russian Invasion of Ukraine](1991-%20Modern%20Russia/2022-%20Russian%20Invasion%20of%20Ukraine)  

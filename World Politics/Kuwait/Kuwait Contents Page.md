@@ -3,4 +3,4 @@
 # 1961- State of Kuwait
 - [link](https://en.wikipedia.org/wiki/Kuwait)
 
-[[1990-91 Gulf War]]
+[1990-91 Gulf War](../Iraq/1968-2003%20Ba'athist%20Iraqi%20Republic/1990-91%20Gulf%20War)  

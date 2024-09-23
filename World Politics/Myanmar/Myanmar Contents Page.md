@@ -13,4 +13,4 @@
 - 2021 Kalay clashes
 - Karen–Mon conflict
 
-[[2016-17 Rohingya Genocide]]
+[2016-17 Rohingya Genocide](2016-17%20Rohingya%20Genocide)  
