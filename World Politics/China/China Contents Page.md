@@ -1,23 +1,23 @@
 # 1949-76 Mao Zedong Era
-[[1949-53 Land Reform Movement]]
-[[1949-79 Laogai Labor Camps]]
-[[1950-51 Annexation of Tibet]]
-[[1950-53 Campaign to Suppress Counter-Revolutionaries]]
-[[1956-66 Sino-Soviet Split]]
-[[1959–61 Great Chinese Famine]]
-[[1966-76 Mao's Cultural Revolution]]
+[1949-53 Land Reform Movement](1949-76%20Mao%20Zedong%20Era/1949-53%20Land%20Reform%20Movement)  
+[1949-79 Laogai Labor Camps](1949-76%20Mao%20Zedong%20Era/1949-79%20Laogai%20Labor%20Camps)  
+[1950-51 Annexation of Tibet](1949-76%20Mao%20Zedong%20Era/1950-51%20Annexation%20of%20Tibet)  
+[1950-53 Campaign to Suppress Counter-Revolutionaries](1949-76%20Mao%20Zedong%20Era/1950-53%20Campaign%20to%20Suppress%20Counter-Revolutionaries)  
+[1956-66 Sino-Soviet Split](1949-76%20Mao%20Zedong%20Era/1956-66%20Sino-Soviet%20Split)  
+[1959–61 Great Chinese Famine](1949-76%20Mao%20Zedong%20Era/1959–61%20Great%20Chinese%20Famine)  
+[1966-76 Mao's Cultural Revolution](1949-76%20Mao%20Zedong%20Era/1966-76%20Mao's%20Cultural%20Revolution)  
 ### Mao’s Other Wrongdoings
 - Mao had **sex with children** as he believed it would prolong his life. ([Washington City Paper](https://washingtoncitypaper.com/article/205384/was-chairman-mao-a-pedophile-and-how-would-tom-clancy/))
 - Mao had **criminalised homosexuality and considered it a mental illness**. ([The Culture Trip](https://theculturetrip.com/asia/china/articles/a-history-of-homosexuality-in-china/))
 # 1976-89 Deng Xiaoping Era
-[[1989 Tiananmen Square]]
+[1989 Tiananmen Square](1976-89%20Deng%20Xiaoping%20Era/1989%20Tiananmen%20Square)  
 # 1989-2002 Jiang Zemin Era
 
 # 2002-12 Hu Jintao Era
 
 # 2012- Xi Jinping Era
-[[2013 `Threat to Democracy` Document]]
-[[2017- Uyghur Genocide]]
+[2013 `Threat to Democracy` Document](2012-%20Xi%20Jinping%20Era/2013%20`Threat%20to%20Democracy`%20Document)  
+[2017- Uyghur Genocide](2012-%20Xi%20Jinping%20Era/2017-%20Uyghur%20Genocide)  
 ## Other
 ### Lending Policy
 - Chinese foreign loans offer much worse terms relative to the World Bank. [(Center for Global Development)](https://www.cgdev.org/publication/chinese-and-world-bank-lending-terms-systematic-comparison)
@@ -191,7 +191,7 @@
 - "Speculators zoom in on Shenzhen to flip new homes for quick profit, raising warning of ‘grey rhino’ risks and regulators’ ire" by Pearl Liu [https://www.scmp.com/business/china-business/article/3112046/speculators-zoom-shenzhen-flip-new-homes-quick-profit](https://www.scmp.com/business/china-business/article/3112046/speculators-zoom-shenzhen-flip-new-homes-quick-profit) [EN] (owned by Alibaba)
 - “US has fewer listed public companies than China” by Robin Wigglesworth [https://www.ft.com/content/73aa5bce-e433-11e9-9743-db5a370481bc](https://www.ft.com/content/73aa5bce-e433-11e9-9743-db5a370481bc) {EN] (archived: [https://archive.vn/ivZ77](https://archive.vn/ivZ77), owned by Nikkei, Inc.)
 - “China and EU 'on verge' of major investment deal” [https://www.bbc.com/news/business-55464564](https://www.bbc.com/news/business-55464564) [EN] (British state-owned media)
-- "Trending in China: All Work and No Pay - Sanitation Workers Face a Harsh Winter" by Han Xu [[trendinginchinaallworkandnopaysanitation]] [EN]
+- "Trending in China: All Work and No Pay - Sanitation Workers Face a Harsh Winter" by Han Xu [trendinginchinaallworkandnopaysanitation](trendinginchinaallworkandnopaysanitation) [EN]
 - "China is rapidly producing new billionaires despite Covid-19" by Jane Li [https://qz.com/1919974/china-created-a-record-number-of-billionaires-despite-covid-19/](https://qz.com/1919974/china-created-a-record-number-of-billionaires-despite-covid-19/) (Archive: [https://archive.vn/ax5DX](https://archive.vn/ax5DX)) [EN]
 - "Anti-eviction protest breaks out in Beijing’s Feijia Village on Human Rights Day" by Anthony Tao [https://supchina.com/2017/12/10/anti-eviction-protest-feijia-village-beijing/](https://supchina.com/2017/12/10/anti-eviction-protest-feijia-village-beijing/) (archived: [https://archive.vn/l28eG](https://archive.vn/l28eG)) [EN]
 - “China is rapidly producing new billionaires despite Covid-19” by Jane Li [https://qz.com/1919974/china-created-a-record-number-of-billionaires-despite-covid-19/](https://qz.com/1919974/china-created-a-record-number-of-billionaires-despite-covid-19/) [EN] (owned by Uzabase, Inc.)
