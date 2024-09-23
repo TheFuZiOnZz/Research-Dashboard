@@ -1,5 +1,5 @@
-[[1978-1991 Somali Rebellion]]
-[[1992-95 United Nations Intervention]]
-[[2000- Piracy off the coast]]
-[[2006-09 War in Somalia]]
-[[2009- Somali Civil War]]
+[1978-1991 Somali Rebellion](1978-1991%20Somali%20Rebellion)  
+[1992-95 United Nations Intervention](1992-95%20United%20Nations%20Intervention)  
+[2000- Piracy off the coast](2000-%20Piracy%20off%20the%20coast)  
+[2006-09 War in Somalia](2006-09%20War%20in%20Somalia)  
+[2009- Somali Civil War](2009-%20Somali%20Civil%20War)  
