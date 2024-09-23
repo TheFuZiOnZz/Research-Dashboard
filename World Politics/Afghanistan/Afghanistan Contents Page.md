@@ -13,6 +13,6 @@
 # 2002-04 Islamic Republic of Afghanistan
 [2001-21 War in Afghanistan](2002-04%20Islamic%20Republic%20of%20Afghanistan/2001-21%20War%20in%20Afghanistan)  
 # 2004-21 Islamic Republic of Afghanistan
-
+[2020 Doha Agreement](2004-21%20Islamic%20Republic%20of%20Afghanistan/2020%20Doha%20Agreement)  
 # 2021- Islamic Emirate of Afghanistan
 [2021 Taliban Offensive on Afghanistan](2021-%20Islamic%20Emirate%20of%20Afghanistan/2021%20Taliban%20Offensive%20on%20Afghanistan)  
