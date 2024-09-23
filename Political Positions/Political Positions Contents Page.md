@@ -45,7 +45,7 @@
 [Labor Theory Of Value](Economic%20Policy/Labor%20Theory%20Of%20Value)
 [Modern Monetary Theory](Economic%20Policy/Modern%20Monetary%20Theory)
 [Central Planning](Economic%20Policy/Central%20Planning)
-[Unemployment benefits](Economic%20Policy/Unemployment%20benefits)
+[Unemployment Benefits](Unemployment%20Benefits.md)
 [Unions](Economic%20Policy/Unions)
 [Flat Tax](Economic%20Policy/Flat%20Tax)
 [De-platforming](Economic%20Policy/De-platforming)
