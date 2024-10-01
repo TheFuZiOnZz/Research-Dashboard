@@ -1,4 +1,4 @@
-
+- On 7 October 2023, Hamas
 # Sources 
 
 1. "[2023 Hamas-led attack on Israel](https://en.wikipedia.org/wiki/2023_Hamas-led_attack_on_Israel#Attacks)." Wikipedia. Accessed April 28th, 2024.
@@ -13,21 +13,15 @@
 [https://twitter.com/JoeTruzman/status/1712253680022630827](https://twitter.com/JoeTruzman/status/1712253680022630827)
 ## Casualties and losses 
 
-1. [Gaza Strip](https://publish.obsidian.md/destiny/Research/Library/Geographics/Gaza+Strip)
+ Gaza Strip
     1. 1,609 militants killed
     2. 200 militants captured
 
----
-
-1. [Israel](https://publish.obsidian.md/destiny/Research/Library/Geographics/Israel)
+ Israel
     1. 1,177 killed, 872 civilians, 58 were police and 305 were soldiers
     2. 3,400 civilians and soldiers wounded
     3. 247 civilians and soldiers taken captive
     4. 1 missing
-
-# Location 
-
-- The Gaza Strip, The Gaza Envelope, Israel
 
 # Causes 
 
