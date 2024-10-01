@@ -45,15 +45,13 @@
 	  `When a shaheed was killed they had to say, "Know that the ideal end for a believer is death for the sake of Allah [i.e., in jihad]".`
 	  
 	  `For a success in battle they had to say, "Blessed be these arms, which defended the land of the homeland and guarded the land, the honor and the holy places from the impurity of the Jews," and, "May Allah protect you, jihad fighters, who with your bravery preserved our honor and raised the flag of victory."` - [Documents brought back from the Gaza Strip indicate that Hamas premeditated its atrocities against Israelis and to kidnap and maltreat them, The Meir Amit Intelligence and Terrorism Information Center, 2024](https://www.terrorism-info.org.il/app/uploads/2024/01/E_020_24.pdf)
-	- 
-- Documents brought back from the Gaza Strip indicate that Hamas premeditated its atrocities against Israelis and to kidnap and maltreat them
 - The Meir Amit Intelligence and Terrorism Information Center, January 20th, 2024.
 - There is strong evidence indicating widespread sexual violence occurred during the October 7th attacks. 2
 - The UN did an investigation related to sexual violence conducted by its own investigators and did not rely on any interrogations nor accounts collected by the Israeli intelligence bodies.
 - Many different factors complicated the identification of sexual violence, including volunteers helping to expedite burial efforts, some misinterpretations of bodies discovered in certain positions, and bodies being burned beyond recognition.
 - Due to the harsh level of scrutiny some survivors received after coming forward, further survivors were hesitant to come forward with their names or specific details attached.
-- Mission report : official visit of the Office of the SRSG-SVC to Israel and the occupied West Bank : 29 January – 14 February 2024
-- UN. Special Representative of the Secretary-General on Sexual Violence in Conflict, March 4th, 2024.
+- Mission report: official visit of the Office of the SRSG-SVC to Israel and the occupied West Bank : 29 January – 14 February 2024
+- UN Special Representative of the Secretary-General on Sexual Violence in Conflict, March 4th, 2024.
 
 The complexity and modus operandi of the attacks, which seem to have occurred over three cumulative waves, appear to demonstrate a significant level of planning, coordination and detailed prior knowledge of the targets selected.  
 ...  
