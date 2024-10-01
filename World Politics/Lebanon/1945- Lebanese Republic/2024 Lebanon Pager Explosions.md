@@ -1,7 +1,10 @@
 [Wiki](https://en.wikipedia.org/wiki/2024_Lebanon_pager_explosions)
 - On 17-18 September 2024, thousands of handheld pagers and hundreds of walkie-talkies intended for use by Hezbollah exploded simultaneously across Lebanon and Syria in an Israeli attack. 
-- As of 20 September 2024, 3,500 were wounded and 42 people had died including at least 12 civilians according to the Lebanese Health Ministry
+- As of 20 September 2024, 3,500 were wounded and 42 people had died including at least 12 civilians according to the Lebanese Health Ministry. Reuters reported that 1,500 Hezbollah fighters were taken out of action due to injuries, with many blinded or having lost their hands.
 	- `In total, 42 were killed and almost 3,500 wounded by the blasts, according to Lebanon’s ministry of health.` - [‘We are isolated, tired, scared’: pager attack leaves Lebanon in shock, The Guardian, 2024](https://www.theguardian.com/world/2024/sep/20/we-are-isolated-tired-scared-pager-attack-leaves-lebanon-in-shock)
+	- `A fourth source, a Hezbollah official, said the attack on communication devices put 1,500 fighters out of commission because of their injuries, with many having been blinded or had their hands blown off.`
+	  
+	  `While that is a major blow, it represents a fraction of Hezbollah's strength, which a report for the U.S. Congress on Friday put at 40,000-50,000 fighters. Nasrallah has said the group has 100,000 fighters.` - [Hezbollah's tunnels and flexible command weather Israel's deadly blows, Reuters, 2024](https://www.reuters.com/world/middle-east/hezbollahs-tunnels-flexible-command-weather-israels-deadly-blows-2024-09-25/)
 - In February 2024, Hezbollah's secretary-general at the time, Hassan Nasrallah, instructed the group's members to use pagers instead of cell phones, claiming Israel had infiltrated their cell phone network.
 	- `Hezbollah leader Hassan Nasrallah had called on his fighters a few months ago to stop using smartphones because Israel has the technology to infiltrate those devices, Khodr said.`
 	  
