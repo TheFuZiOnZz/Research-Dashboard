@@ -403,31 +403,24 @@
 		      `4. The conduct was committed as part of a widespread or systematic attack directed against a civilian population.`
 		      `5. The perpetrator knew that the conduct was part of or intended the conduct to be part of a widespread or systematic attack directed against a civilian population.` - [Elements of Crime for the Rome Statute of the International Criminal Court](https://www.icc-cpi.int/sites/default/files/Publications/Elements-of-Crimes.pdf)
 - On 20 May 2024, Benjamin Netanyahu responded to the pursuit of an ICC arrest warrant against him saying he was disgusted.
-    
-    - `Mr Netanyahu said: "As prime minister of Israel, I reject with disgust the Hague prosecutor's comparison between democratic Israel and the mass murderers of Hamas.  
-    -   
-    - "With what audacity do you compare Hamas that murdered, burned, butchered, decapitated, raped and kidnapped our brothers and sisters and the IDF soldiers fighting a just war.  
-    -   
-    - "No pressure and no decision in any international forum will prevent us from striking those who seek to destroy us."`  
-    - [link](https://news.sky.com/story/benjamin-netanyahu-international-criminal-court-prosecutor-seeks-arrest-warrants-against-israeli-prime-minister-and-hamas-leaders-13140095)
+    - `Mr Netanyahu said: "As prime minister of Israel, I reject with disgust the Hague prosecutor's comparison between democratic Israel and the mass murderers of Hamas.`
+      
+      `"With what audacity do you compare Hamas that murdered, burned, butchered, decapitated, raped and kidnapped our brothers and sisters and the IDF soldiers fighting a just war.`
+      
+      `"No pressure and no decision in any international forum will prevent us from striking those who seek to destroy us."` - [Benjamin Netanyahu 'disgusted' at ICC prosecutor's arrest warrant bid, Sky News, 2024](https://news.sky.com/story/benjamin-netanyahu-international-criminal-court-prosecutor-seeks-arrest-warrants-against-israeli-prime-minister-and-hamas-leaders-13140095)
     
 - On 20 May 2024, Joe Biden responded to the pursuit of ICC arrest warrants calling them outrageous.
-    
-    - `US President Joe Biden said the move by the ICC prosecutor was "outrageous".  
-    -   
-    - He added: "Let me be clear: whatever this prosecutor might imply, there is no equivalence - none - between Israel and Hamas."`  
-    - [link](https://news.sky.com/story/benjamin-netanyahu-international-criminal-court-prosecutor-seeks-arrest-warrants-against-israeli-prime-minister-and-hamas-leaders-13140095)
-    
+    - `US President Joe Biden said the move by the ICC prosecutor was "outrageous".`
+      
+      `He added: "Let me be clear: whatever this prosecutor might imply, there is no equivalence - none - between Israel and Hamas."` - [Benjamin Netanyahu 'disgusted' at ICC prosecutor's arrest warrant bid, Sky News, 2024](https://news.sky.com/story/benjamin-netanyahu-international-criminal-court-prosecutor-seeks-arrest-warrants-against-israeli-prime-minister-and-hamas-leaders-13140095)
 - On 20 May 2024, U.S. Secretary of State, Antony Blinken responded to the pursuit of ICC arrest warrants.
-    
-    - `The United States fundamentally rejects the announcement today from the Prosecutor of the International Criminal Court (ICC) that he is applying for arrest warrants for senior Israeli officials, together with warrants for Hamas terrorists.  
-    -   
-    - We reject the Prosecutor’s equivalence of Israel with Hamas. It is shameful. Hamas is a brutal terrorist organization that carried out the worst massacre of Jews since the Holocaust and is still holding dozens of innocent people hostage, including Americans.  
-    -   
-    - Moreover, the United States has been clear since well before the current conflict that that ICC has no jurisdiction over this matter. The ICC was established by its state parties as a court of limited jurisdiction. Those limits are rooted in principles of complementarity, which do not appear to have been applied here amid the Prosecutor’s rush to seek these arrest warrants rather than allowing the Israeli legal system a full and timely opportunity to proceed. In other situations, the Prosecutor deferred to national investigations and worked with states to allow them time to investigate. The Prosecutor did not afford the same opportunity to Israel, which has ongoing investigations into allegations against its personnel.  
-    -   
-    - There are also deeply troubling process questions. Despite not being a member of the court, Israel was prepared to cooperate with the Prosecutor. In fact, the Prosecutor himself was scheduled to visit Israel as early as next week to discuss the investigation and hear from the Israeli Government. The Prosecutor’s staff was supposed to land in Israel today to coordinate the visit. Israel was informed that they did not board their flight around the same time that the Prosecutor went on cable television to announce the charges. These and other circumstances call into question the legitimacy and credibility of this investigation.  
-    -   
-    - Fundamentally, this decision does nothing to help, and could jeopardize, ongoing efforts to reach a ceasefire agreement that would get hostages out and surge humanitarian assistance in, which are the goals the United States continues to pursue relentlessly.`  
-    - [link](https://www.state.gov/warrant-applications-by-the-international-criminal-court/)
+    - `The United States fundamentally rejects the announcement today from the Prosecutor of the International Criminal Court (ICC) that he is applying for arrest warrants for senior Israeli officials, together with warrants for Hamas terrorists.`
+      
+      `We reject the Prosecutor’s equivalence of Israel with Hamas. It is shameful. Hamas is a brutal terrorist organization that carried out the worst massacre of Jews since the Holocaust and is still holding dozens of innocent people hostage, including Americans.`
+      
+      `Moreover, the United States has been clear since well before the current conflict that that ICC has no jurisdiction over this matter. The ICC was established by its state parties as a court of limited jurisdiction. Those limits are rooted in principles of complementarity, which do not appear to have been applied here amid the Prosecutor’s rush to seek these arrest warrants rather than allowing the Israeli legal system a full and timely opportunity to proceed. In other situations, the Prosecutor deferred to national investigations and worked with states to allow them time to investigate. The Prosecutor did not afford the same opportunity to Israel, which has ongoing investigations into allegations against its personnel.`
+      
+      `There are also deeply troubling process questions. Despite not being a member of the court, Israel was prepared to cooperate with the Prosecutor. In fact, the Prosecutor himself was scheduled to visit Israel as early as next week to discuss the investigation and hear from the Israeli Government. The Prosecutor’s staff was supposed to land in Israel today to coordinate the visit. Israel was informed that they did not board their flight around the same time that the Prosecutor went on cable television to announce the charges. These and other circumstances call into question the legitimacy and credibility of this investigation.`
+      
+      `Fundamentally, this decision does nothing to help, and could jeopardize, ongoing efforts to reach a ceasefire agreement that would get hostages out and surge humanitarian assistance in, which are the goals the United States continues to pursue relentlessly.` - [Warrant Applications by the International Criminal Court, United States Department of State, 2024](https://www.state.gov/warrant-applications-by-the-international-criminal-court/)
     
