@@ -1,8 +1,27 @@
 - On 7 October 2023, Hamas' military wing Al-Aqsa Martyrs Brigade, Democratic Front for the Liberation of Palestine, Palestinian Islamic Jihad, Palestinian Mujahideen Movement and other Popular Resistance Committees launched coordinated armed incursions from the Gaza Strip into the Gaza Envelope of southern Israel, the first invasion of Israeli territory since the [1948 First Arab–Israeli War](1948-49%20War%20of%20Independence,%20First%20Arab-Israeli%20War). The attack coincided with the Jewish religious holiday Simchat Torah. 
 - Hamas and other Palestinian armed groups named the attacks Operation Al-Aqsa Flood, while in Israel they are referred to as Black Sabbath or the Simchat Torah Massacre, and internationally as the 7 October attacks.
-- According to an IDF report that revised the estimate on the number of attackers, 6000 Gazans breached the border in 119 places and broke into Israel, including 3,800 from the "elite Nukhba forces" and 2,200 civilians and other militants. Additionally, the IDF report estimated 1,000 Gazans fired rockets from the Gaza Strip, bringing the total number of participants on Hamas's side to 7,000.
-- Estimates for forces from Gaza are at 3,800 from Hamas of the estimated 6,000 which crossed the border,  
-	- ` ` - [Report: New IDF assessment shows some 6,000 Gazans invaded Israel on Oct. 7, The Times of Israel, 2024](https://www.timesofisrael.com/report-new-idf-assessment-shows-some-6000-gazans-invaded-israel-on-oct-7/)
+- Estimates for forces from Gaza are at 3,800 from Hamas of the estimated 6,000 which crossed the border.
+	- `New assessments indicate twice as many Gazans breached the border into Israel on October 7 than previously believed, Channel 12 reported Saturday, citing data compiled by the Israel Defense Forces’ Gaza Division.`
+	  
+	  `Some 3,800 terrorists from the Hamas terror group’s elite Nukhba forces smashed through the border fence, the report said, among a total of 6,000 Gazans who crossed into Israel that day.`
+	  
+	  `Hitherto, figures made public indicated that some 3,000 Hamas-led terrorists participated in the invasion, massacre and hostage-taking that day. That number did not take into account Gazans who crossed the fence and participated in the atrocities but were not Hamas members, nor did it differentiate between Nukhba terrorists and other Hamas terrorists.`
+	  
+	  `It was unclear from the report what the status was of the 2,200 other Gazans who infiltrated Israel on October 7. Presumably, many were civilians, as extensive footage of the onslaught showed many enter to loot and take part in the assault, while others were likely members of other Hamas units or other terrorist organizations such as the Palestinian Islamic Jihad.`
+	  
+	  `The TV report also said that the border was breached in 119 spots — again, about double the previously widely cited figure of 60 breaches in the Gaza-Israel fence.`
+	  
+	  `Additionally, 1,000 terrorists inside Gaza were involved in firing rockets at Israel that day, the report said, meaning that a total of some 7,000 Gazans took part in the onslaught.`
+	  
+	  `Some 5,000 rockets were fired at Israel on October 7, with 3,000 of them in the first four hours of the onslaught, according to the IDF.`
+	  
+	  `Channel 12 said the data was submitted to IDF Chief of Staff Lt. Gen. Herzi Halevi.`
+	  
+	  `In response to the report, Channel 12 quoted the IDF Spokesman’s Office as saying that the IDF’s operational probe of the events surrounding October 7 has not yet been completed, and is continuing in accordance with situational assessments and operational needs.`
+	  
+	  `Upon completion, the findings will be made public, the spokesman’s office said.`
+	  
+	  `The October 7 massacre saw terrorists kill some 1,200 people, mostly civilians, and kidnap 251, all while committing widespread atrocities and mass sexual assault. Over 350 people were killed at a music festival and whole families were executed in their homes.` - [Report: New IDF assessment shows some 6,000 Gazans invaded Israel on Oct. 7, The Times of Israel, 2024](https://www.timesofisrael.com/report-new-idf-assessment-shows-some-6000-gazans-invaded-israel-on-oct-7/)
 - 
 - 6:30 AM, Hamas commander Mohammed Deif announces the start of Operation Al-Aqsa Flood.
     - Shortly after, Hamas Prime Minister Ismail Haniyeh made a similar announcement via TV address.
