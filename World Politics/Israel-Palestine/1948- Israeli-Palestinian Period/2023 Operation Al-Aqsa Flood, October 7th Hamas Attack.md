@@ -14,31 +14,17 @@
 - As the rockets were launching, about 2,900 militants invaded Israel via at least 30 different locations using ground vehicles, speedboats and powered paragliders.
 - Multiple massacres unfolded at the Nova music festival, Nir Oz, Be'eri, Netiv HaAsara, Kfar Aza. An amphibious assault was carried out in Zikim, north of Gaza.
 - The majority of the attacks were carried out within a few hours, with some holdouts and fighting continuing through October 10th.
-
-## Hostages 
-
 - On October 16th, Hamas claimed they were holding 250 hostages and had taken them to force Israel to release Palestinian prisoners.
     - Almost half the hostages were foreign nationals or held multiple citizenships.
 - Some of these hostages were handed off to other groups.
-
-## Intent to Harm Civilians 
-
 - The IDF claimed to have recovered documents illustrating the intent of Palestinian fighters entering Israel on October 7th. 5
-
-Documents brought back from the Gaza Strip indicate that Hamas premeditated its atrocities against Israelis and to kidnap and maltreat them
-
+- Documents brought back from the Gaza Strip indicate that Hamas premeditated its atrocities against Israelis and to kidnap and maltreat them
 - The Meir Amit Intelligence and Terrorism Information Center, January 20th, 2024.
-
-
-## Sexual Violence 
-
 - There is strong evidence indicating widespread sexual violence occurred during the October 7th attacks. 2
 - The UN did an investigation related to sexual violence conducted by its own investigators and did not rely on any interrogations nor accounts collected by the Israeli intelligence bodies.
 - Many different factors complicated the identification of sexual violence, including volunteers helping to expedite burial efforts, some misinterpretations of bodies discovered in certain positions, and bodies being burned beyond recognition.
 - Due to the harsh level of scrutiny some survivors received after coming forward, further survivors were hesitant to come forward with their names or specific details attached.
-
-Mission report : official visit of the Office of the SRSG-SVC to Israel and the occupied West Bank : 29 January – 14 February 2024
-
+- Mission report : official visit of the Office of the SRSG-SVC to Israel and the occupied West Bank : 29 January – 14 February 2024
 - UN. Special Representative of the Secretary-General on Sexual Violence in Conflict, March 4th, 2024.
 
 The complexity and modus operandi of the attacks, which seem to have occurred over three cumulative waves, appear to demonstrate a significant level of planning, coordination and detailed prior knowledge of the targets selected.  
