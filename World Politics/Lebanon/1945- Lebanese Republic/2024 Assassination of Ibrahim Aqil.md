@@ -9,6 +9,13 @@
 	  `The report said that Aqil is “also the one who is largely responsible over the last two years for the movement of Radwan personnel toward Israel’s northern border.” The report noted that under Aqil’s leadership, the elite force has seen several operational failures.`
 	  
 	  `“Dozens of failed launches of anti-tank missiles have led to casualties and damages to property on the Lebanese side,” it said, adding that “following the [pause in fighting on November 24], the presence of the Radwan Force in the border area has decreased, compared to the period before October 8, when Hezbollah joined the fighting… Since the firing was renewed yesterday in the North, Aqil continues to conduct his war effort, despite the many failures and deaths in the first round.”` - [Israel identifies Hezbollah’s Ibrahim Aqil as head of deadly Radwan unit, The Jerusalem Post, 2023](https://www.jpost.com/arab-israeli-conflict/article-776304)
-- 
-- On 10 September 2019, the U.S. Department of State designated him as a Specially Designated Global Terrorist.
-- On 18 April 2023, the Rewards for Justice program offered a reward of up to $7 million for information about him. He was reportedly involved in planning a Hezbollah operation in northern Israel, which was believed to be similar to the October 7 Hamas-led attacks.
+- On July 21, 2015, the U.S. Department of the Treasury designated Aqil pursuant to Executive Order 13582 for acting for or on behalf of Hizballah. On 10 September 2019, the U.S. Department of State designated him as a Specially Designated Global Terrorist. On 18 April 2023, the Rewards for Justice program offered a reward of up to $7 million for information about him. He was reportedly involved in planning a Hezbollah operation in northern Israel, which was believed to be similar to the October 7 Hamas-led attacks.
+	- `Rewards for Justice is offering a reward of up to $7 million for information on Hizballah key leader Ibrahim Aqil.`
+	  
+	  `Ibrahim Aqil, also known as Tahsin, serves on Hizballah’s highest military body, the Jihad Council.`
+	  
+	  `During the 1980s, Aqil was a principal member of Islamic Jihad Organization—Hizballah’s terrorist cell—that claimed the bombings of the U.S. Embassy in Beirut in April 1983, which killed 63 people, and the U.S. Marine barracks in October 1983, which killed 241 U.S. personnel.`
+	  
+	  `In the 1980s, Aqil directed the taking of American and German hostages in Lebanon and held them there.`
+	  
+	  `On July 21, 2015, the U.S. Department of the Treasury designated Aqil pursuant to Executive Order 13582 for acting for or on behalf of Hizballah. Subsequently, on September 10, 2019, the U.S. Department of State designated Aqil as a Specially Designated Global Terrorist pursuant to Executive Order 13224, as amended.` - [Ibrahim Aqil – Rewards For Justice, U.S. Department of State, 2019](https://rewardsforjustice.net/rewards/ibrahim-aqil/)
