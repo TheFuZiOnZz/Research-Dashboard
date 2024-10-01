@@ -1,6 +1,17 @@
 - On 7 October 2023, Hamas' military wing Al-Aqsa Martyrs Brigade, Democratic Front for the Liberation of Palestine, Palestinian Islamic Jihad, Palestinian Mujahideen Movement and other Popular Resistance Committees launched coordinated armed incursions from the Gaza Strip into the Gaza Envelope of southern Israel, the first invasion of Israeli territory since the [1948 First Arab–Israeli War](1948-49%20War%20of%20Independence,%20First%20Arab-Israeli%20War). The attack coincided with the Jewish religious holiday Simchat Torah. 
 - Hamas and other Palestinian armed groups named the attacks Operation Al-Aqsa Flood, while in Israel they are referred to as Black Sabbath or the Simchat Torah Massacre, and internationally as the 7 October attacks.
 - 
+- On 7 October 2023, 6:30 AM, the Hamas commander Mohammed Deif announces the start of Operation Al-Aqsa Flood.
+	- ` ` - [Hundreds dead as war erupts after surprise Hamas attack catches Israel off guard, CBC News, 2023](https://www.cbc.ca/news/world/gaza-israel-rockets-attack-hamas-1.6990209)
+- Shortly after, Hamas Prime Minister Ismail Haniyeh made a similar announcement via TV address.
+	- ` ` - [Hamas leader Haniyeh: Battle ‘will spread to West Bank, Jerusalem’, Arab News, 2023](https://www.arabnews.com/node/2387276/middle-east)
+- Within the first 20 minutes, Deif claimed more than 5,000 rockets had been fired. Israeli sources reported the launch of 3,000 projects, killing 5.
+- Palestinian militants also opened fire on Israeli boats off the Gaza Strip.
+- Multiple massacres unfolded at the Nova music festival, Nir Oz, Be'eri, Netiv HaAsara, Kfar Aza. An amphibious assault was carried out in Zikim, north of Gaza.
+- The majority of the attacks were carried out within a few hours, with some holdouts and fighting continuing through October 10th.
+- On October 16th, Hamas claimed they were holding 250 hostages and had taken them to force Israel to release Palestinian prisoners.
+    - Almost half the hostages were foreign nationals or held multiple citizenships.
+- 
 - Estimates for forces from Gaza are at 3,800 from Hamas of the estimated 6,000 which crossed the border.
 	- `New assessments indicate twice as many Gazans breached the border into Israel on October 7 than previously believed, Channel 12 reported Saturday, citing data compiled by the Israel Defense Forces’ Gaza Division.`
 	  
@@ -23,15 +34,6 @@
 	  `Upon completion, the findings will be made public, the spokesman’s office said.`
 	  
 	  `The October 7 massacre saw terrorists kill some 1,200 people, mostly civilians, and kidnap 251, all while committing widespread atrocities and mass sexual assault. Over 350 people were killed at a music festival and whole families were executed in their homes.` - [Report: New IDF assessment shows some 6,000 Gazans invaded Israel on Oct. 7, The Times of Israel, 2024](https://www.timesofisrael.com/report-new-idf-assessment-shows-some-6000-gazans-invaded-israel-on-oct-7/)
-- 6:30 AM, Hamas commander Mohammed Deif announces the start of Operation Al-Aqsa Flood.
-- Shortly after, Hamas Prime Minister Ismail Haniyeh made a similar announcement via TV address.
-- Within the first 20 minutes, Deif claimed more than 5,000 rockets had been fired. Israeli sources reported the launch of 3,000 projects, killing 5.
-- Palestinian militants also opened fire on Israeli boats off the Gaza Strip.
-- Multiple massacres unfolded at the Nova music festival, Nir Oz, Be'eri, Netiv HaAsara, Kfar Aza. An amphibious assault was carried out in Zikim, north of Gaza.
-- The majority of the attacks were carried out within a few hours, with some holdouts and fighting continuing through October 10th.
-- On October 16th, Hamas claimed they were holding 250 hostages and had taken them to force Israel to release Palestinian prisoners.
-    - Almost half the hostages were foreign nationals or held multiple citizenships.
-- 
 - On 20 January 2024, The IDF claimed to have recovered documents illustrating the intent of Palestinian Nationalist fighters entering Israel on October 7th.
 	- `The documents indicate that violent attacks on civilians had been planned in advance. Training included careful preparations for attacking shelters to take hostages, stripping them and threatening to kill them while questioning them. The captured documents show profound anti-Semitism coupled with radical Islamist ideology of the type which characterizes extremist organizations such as ISIS and al-Qaeda.` - [Documents brought back from the Gaza Strip indicate that Hamas premeditated its atrocities against Israelis and to kidnap and maltreat them, The Meir Amit Intelligence and Terrorism Information Center, 2024](https://www.terrorism-info.org.il/app/uploads/2024/01/E_020_24.pdf)
 	- `Document 1: A hand-written note calling for the brutal murder of Jews`
