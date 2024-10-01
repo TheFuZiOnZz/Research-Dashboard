@@ -1,5 +1,5 @@
 - On 7 October 2023, Hamas' military wing Al-Aqsa Martyrs Brigade, Democratic Front for the Liberation of Palestine, Palestinian Islamic Jihad, Palestinian Mujahideen Movement and other Popular Resistance Committees launched coordinated armed incursions from the Gaza Strip into the Gaza Envelope of southern Israel, the first invasion of Israeli territory since the [1948 Arab–Israeli War](1948-49%20War%20of%20Independence,%20First%20Arab-Israeli%20War.). The attack coincided with the Jewish religious holiday Simchat Torah. 
-- Hamas and other Palestinian armed groups named the attacks Operation Al-Aqsa Flood, while in Israel they are referred to as Black Sabbath or the Simchat Torah Massacre, and internationally as the 7 October attacks.
+- Hamas and other Palestinian armed groups named the attacks Operation Al-Aqsa Flood, while in Israel they are referred to as Black Sabbath or the Simchat Torah Massacre, and internationally as the 7 October attacks.`
 # Sources 
 
 1. "[2023 Hamas-led attack on Israel](https://en.wikipedia.org/wiki/2023_Hamas-led_attack_on_Israel#Attacks)." Wikipedia. Accessed April 28th, 2024.
@@ -11,7 +11,6 @@
 7. Mahoutchi, Farid. “[Iran News: Former Officials Warn of Consequences of Iran’s Role in Middle East Crisis.](https://www.ncr-iran.org/en/news/anews/iran-news-former-officials-warn-of-consequences-of-irans-role-in-middle-east-crisis/)” NCRI (blog). April 9, 2024.
 8. Summer Said, Benoit Faucon, Stephen Kalin. “[Iran Helped Plot Attack on Israel Over Several Weeks - WSJ.](https://www.wsj.com/world/middle-east/iran-israel-hamas-strike-planning-bbe07b25)” Wallstreet Journal. October 8th, 2023.
 
-[https://twitter.com/JoeTruzman/status/1712253680022630827](https://twitter.com/JoeTruzman/status/1712253680022630827)
 ## Casualties and losses 
 
  Gaza Strip
@@ -55,29 +54,6 @@ Documents brought back from the Gaza Strip indicate that Hamas premeditated its 
 
 - The Meir Amit Intelligence and Terrorism Information Center, January 20th, 2024.
 
-The documents indicate that violent attacks on civilians had been planned in advance. Training included careful preparations for attacking shelters to take hostages, stripping them and threatening to kill them while questioning them. The captured documents show profound anti-Semitism coupled with radical Islamist ideology of the type which characterizes extremist organizations such as ISIS and al-Qaeda.  
-...  
-Document 1: A hand-written note calling for the brutal murder of Jews  
-A handwritten note found in the pocket of a commander of the Izz al-Din Qassam Brigades,  
-Hamas' military wing, who was one of the perpetrators of the terrorist attack and massacre  
-on October 7, 2023. He wrote it for his subordinates before he was killed near the border on  
-the Israel side, and it was apparently written to encourage them before the attack.  
-...  
-Document 2: An Arabic-Hebrew phrasebook  
-Among the documents found was an Arabic-Hebrew phrasebook with Hebrew words and  
-phrases transliterated into Arabic characters. The pamphlet was found in the possession of  
-the Jerusalem Battalion of the Izz al-Din Qassam Brigades, Hamas' military wing, and was  
-apparently distributed to terrorists who participated in the October 7, 2023 attack and  
-massacre, who were supposed to use it. Its contents are shocking and testify to the  
-terrorists' intentions and plans, including attacking and humiliating civilians, stealing their  
-vehicles, separating men, women and children, capturing and murdering civilians. Some  
-of the Hebrew phrases are, "Take off your pants," "Where is your weapon?" "I will kill you,"  
-"You are a prisoner," "Where is the head of the kibbutz?" "We have hostages," "We will kill  
-the captives," "Where are the car keys?" "Men are here," "Women are here," "The children  
-are here," "Take off your clothes," "Where is the commander?"  
-...  
-Document 3: Practice drills for kidnapping civilians  
-A document seized by the IDF in one of the Hamas strongholds in the Gaza Strip revealed details of the preparations made by Hamas operatives prior to the terrorist attack and massacre in the cities, towns and villages near the Gaza Strip, indicating that the planning of the attack included locating the shelters to deliberately harm as well as kidnap civilians, including women, children and the elderly. The document includes a follow-up report on a platoon exercise carried out by Hamas operatives in preparation for the massacre as well as a review, apparently written by one of the commanders, about the operatives' performance during the exercise. Among the criticisms it was written, "No thorough operation was carried out to increase the number of hostages (number of women, children, men...)," indicating that the terrorists planned to kidnap civilians.
 
 ## Sexual Violence 
 
