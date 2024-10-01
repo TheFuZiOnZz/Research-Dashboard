@@ -10,3 +10,5 @@
 	  
 	  `“Dozens of failed launches of anti-tank missiles have led to casualties and damages to property on the Lebanese side,” it said, adding that “following the [pause in fighting on November 24], the presence of the Radwan Force in the border area has decreased, compared to the period before October 8, when Hezbollah joined the fighting… Since the firing was renewed yesterday in the North, Aqil continues to conduct his war effort, despite the many failures and deaths in the first round.”` - [Israel identifies Hezbollah’s Ibrahim Aqil as head of deadly Radwan unit, The Jerusalem Post, 2023](https://www.jpost.com/arab-israeli-conflict/article-776304)
 - 
+- On 10 September 2019, the U.S. Department of State designated him as a Specially Designated Global Terrorist.
+- On 18 April 2023, the Rewards for Justice program offered a reward of up to $7 million for information about him. He was reportedly involved in planning a Hezbollah operation in northern Israel, which was believed to be similar to the October 7 Hamas-led attacks.
