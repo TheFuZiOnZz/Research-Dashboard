@@ -6,15 +6,7 @@
 - In a 16 page report titled "Our Narrative," published in January, Hamas claimed the reasons for the October 7th were the constructions of settlement, the Judaization of the Palestinian lands in the occupied West Bank and Jerusalem, and the killing of thousands of Palestinian civilians from 2000 and onwards.
 	- `Operation Al-Aqsa Flood on Oct. 7 targeted the Israeli military sites, and sought to arrest the enemy’s soldiers to pressure on the Israeli authorities to release the thousands of Palestinians held in Israeli jails through a prisoners exchange deal. Therefore, the operation focused on destroying the Israeli army’s Gaza Division, the Israeli military sites stationed near the Israeli settlements around Gaza.`
 	  
-	  `2. Avoiding harm to civilians, especially children, women and elderly people is a religious and moral commitment by all the Al-Qassam Brigades’ fighters. We reiterate that the Palestinian resistance was fully disciplined and committed to the Islamic values during the operation 
-and that the Palestinian fighters only targeted the
-occupation soldiers and those who carried weapons
-against our people. In the meantime, the Palestinian
-fighters were keen to avoid harming civilians despite
-the fact that the resistance does not possess precise
-weapons. In addition, if there was any case of targeting
-civilians; it happened accidently and in the course of
-the confrontation with the occupation forces.` - [Our Narrative - Operation Al-Aqsa Flood, Hamas Media Office, 2023](https://www.lbcgroup.tv/uploadImages/ExtImages/Images2/Our%20Narrative-Operation%20Al-Aqsa%20Flood-Web_compressed%20(1).pdf)
+	  `2. Avoiding harm to civilians, especially children, women and elderly people is a religious and moral commitment by all the Al-Qassam Brigades’ fighters. We reiterate that the Palestinian resistance was fully disciplined and committed to the Islamic values during the operation and that the Palestinian fighters only targeted the occupation soldiers and those who carried weapons against our people. In the meantime, the Palestinian fighters were keen to avoid harming civilians despite the fact that the resistance does not possess precise weapons. In addition, if there was any case of targeting civilians; it happened accidently and in the course of the confrontation with the occupation forces.` - [Our Narrative - Operation Al-Aqsa Flood, Hamas Media Office, 2023](https://www.lbcgroup.tv/uploadImages/ExtImages/Images2/Our%20Narrative-Operation%20Al-Aqsa%20Flood-Web_compressed%20(1).pdf)
 - 6:30 AM, Hamas commander Mohammed Deif announces the start of Operation Al-Aqsa Flood.
     - Shortly after, Hamas Prime Minister Ismail Haniyeh made a similar announcement via TV address.
 - Within the first 20 minutes, Deif claimed more than 5,000 rockets had been fired. Israeli sources reported the launch of 3,000 projects, killing 5.
