@@ -14,6 +14,7 @@
 - On October 16th, Hamas claimed they were holding 250 hostages and had taken them to force Israel to release Palestinian prisoners.
     - Almost half the hostages were foreign nationals or held multiple citizenships.
 - Some of these hostages were handed off to other groups.
+- 
 - On 20 January 2024, The IDF claimed to have recovered documents illustrating the intent of Palestinian Nationalist fighters entering Israel on October 7th.
 	- `The documents indicate that violent attacks on civilians had been planned in advance. Training included careful preparations for attacking shelters to take hostages, stripping them and threatening to kill them while questioning them. The captured documents show profound anti-Semitism coupled with radical Islamist ideology of the type which characterizes extremist organizations such as ISIS and al-Qaeda.` - [Documents brought back from the Gaza Strip indicate that Hamas premeditated its atrocities against Israelis and to kidnap and maltreat them, The Meir Amit Intelligence and Terrorism Information Center, 2024](https://www.terrorism-info.org.il/app/uploads/2024/01/E_020_24.pdf)
 	- `Document 1: A hand-written note calling for the brutal murder of Jews`
