@@ -1,4 +1,3 @@
-[Wiki](https://en.wikipedia.org/wiki/2024_Lebanon_pager_explosions)
 - On 17-18 September 2024, thousands of handheld pagers and hundreds of walkie-talkies intended for use by Hezbollah exploded simultaneously across Lebanon and Syria in an Israeli attack. 
 - As of 20 September 2024, 3,500 were wounded and 42 people had died including at least 12 civilians according to the Lebanese Health Ministry. Reuters reported that 1,500 Hezbollah fighters were taken out of action due to injuries, with many blinded or having lost their hands.
 	- `In total, 42 were killed and almost 3,500 wounded by the blasts, according to Lebanon’s ministry of health.` - [‘We are isolated, tired, scared’: pager attack leaves Lebanon in shock, The Guardian, 2024](https://www.theguardian.com/world/2024/sep/20/we-are-isolated-tired-scared-pager-attack-leaves-lebanon-in-shock)
@@ -35,16 +34,16 @@
 	  
 	  `The pagers began shipping to Lebanon in the summer of 2022 in small numbers, but production was quickly ramped up after Mr. Nasrallah denounced cellphones.` - [How Israel Built a Modern-Day Trojan Horse: Exploding Pagers, The New York Times, 2024](https://www.nytimes.com/2024/09/18/world/middleeast/israel-exploding-pagers-hezbollah.html)
 - On 19 September 2024, Hezbollah's Secretary-General, Hassan Nasrallah called the explosions an act of war against Hezbollah and Lebanon.
-	- ` ` - [Hezbollah chief calls pager, radio attacks an ‘act of war’ by Israel, The Washington Post, 2024](https://www.washingtonpost.com/world/2024/09/19/israel-lebanon-attack-explosions-hezbollah/)
+	- `Hezbollah leader Hasan Nasrallah blamed Israel on Thursday for the explosion of electronic devices across Lebanon this week, calling the operation an “act of war” and vowing to respond, as the Israeli military signaled it was moving ahead with plans for a new phase of the conflict along the two countries’ border.`
+	  
+	  `“It is an act of war against the people of Lebanon, Lebanon’s sovereignty. It is a declaration of war,” Nasrallah said in a televised address, his first remarks since pagers used by Hezbollah began exploding simultaneously on Tuesday, followed by the detonation of hundreds of walkie-talkies and other devices Wednesday.`
+	  
+	  `As he spoke, the rumble of warplanes and large sonic booms could be heard over Beirut. “They will face a severe reckoning,” he said of Israel, adding that the attacks, which killed at least 37 and injured nearly 3,000, had dealt an “unprecedented blow” both to Lebanon and his organization, the country’s most powerful political and military force.` - [Hezbollah chief calls pager, radio attacks an ‘act of war’ by Israel, The Washington Post, 2024](https://www.washingtonpost.com/world/2024/09/19/israel-lebanon-attack-explosions-hezbollah/)
 - On 22 September 2024, Israeli President Isaac Herzog denied any Israeli involvement in the explosions.
 	- `Israel has appeared to deny involvement with the fatal exploding pager attack which injured thousands of people across the Middle East.`
 	  
 	  `Israeli president Isaac Herzog said he “rejects out of hand any connection” to the operation against Hezbollah on Tuesday and his nation has an “inherent right” to defend itself.` - [Israel had ‘no connection’ with exploding pager attack, president claims, The Independent, 2024](https://www.independent.co.uk/news/uk/israel-hezbollah-muslims-benjamin-netanyahu-israelis-b2616970.html)
 - On 22 September 2024, Israeli Prime Minister Benjamin Netanyahu sent out a threatening message to Hezbollah.
 	- `President Herzog’s blanket refusal to accept Israeli responsibility – or, alternatively, take credit – for an unprecedented intelligence killer blow to its northern enemy is even odder, since it came within hours of Prime Minister Benjamin Netanyahu’s threatening warning to Hezbollah on the same day: “If Hezbollah has not understood the message, I promise you, it will understand the message.”` - [Why has Israel’s president denied the pager attack on Hezbollah?, The Independent, 2024](https://www.independent.co.uk/voices/israel-lebanon-hezbollah-walkie-talkies-pagers-b2617022.html)
-- 
-- 
-- 
-- 
 - 
 - 
