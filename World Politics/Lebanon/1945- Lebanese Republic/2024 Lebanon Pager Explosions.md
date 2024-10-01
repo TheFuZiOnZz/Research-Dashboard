@@ -34,10 +34,12 @@
 	  `B.A.C. did take on ordinary clients, for which it produced a range of ordinary pagers. But the only client that really mattered was Hezbollah, and its pagers were far from ordinary. Produced separately, they contained batteries laced with the explosive PETN, according to the three intelligence officers.`
 	  
 	  `The pagers began shipping to Lebanon in the summer of 2022 in small numbers, but production was quickly ramped up after Mr. Nasrallah denounced cellphones.` - [How Israel Built a Modern-Day Trojan Horse: Exploding Pagers, The New York Times, 2024](https://www.nytimes.com/2024/09/18/world/middleeast/israel-exploding-pagers-hezbollah.html)
-- On 22 September 2024, Israeli President Isaac Herzog denied any Israeli involvement in the explosions
-	- ` ` - [Israel had ‘no connection’ with exploding pager attack, president claims, The Independent](https://www.independent.co.uk/news/uk/israel-hezbollah-muslims-benjamin-netanyahu-israelis-b2616970.html)
-- On 22 September 2024, Israeli Prime Minister Benjamin Netanyahu 
-- "If Hezbollah has not understood the message, I promise you, it will understand the message."
+- On 22 September 2024, Israeli President Isaac Herzog denied any Israeli involvement in the explosions.
+	- `Israel has appeared to deny involvement with the fatal exploding pager attack which injured thousands of people across the Middle East.`
+	  
+	  `Israeli president Isaac Herzog said he “rejects out of hand any connection” to the operation against Hezbollah on Tuesday and his nation has an “inherent right” to defend itself.` - [Israel had ‘no connection’ with exploding pager attack, president claims, The Independent, 2024](https://www.independent.co.uk/news/uk/israel-hezbollah-muslims-benjamin-netanyahu-israelis-b2616970.html)
+- On 22 September 2024, Israeli Prime Minister Benjamin Netanyahu sent out a threatening message to Hezbollah.
+	- `President Herzog’s blanket refusal to accept Israeli responsibility – or, alternatively, take credit – for an unprecedented intelligence killer blow to its northern enemy is even odder, since it came within hours of Prime Minister Benjamin Netanyahu’s threatening warning to Hezbollah on the same day: “If Hezbollah has not understood the message, I promise you, it will understand the message.”` - [Why has Israel’s president denied the pager attack on Hezbollah?, The Independent, 2024](https://www.independent.co.uk/voices/israel-lebanon-hezbollah-walkie-talkies-pagers-b2617022.html)
 - 
 - 
 - 
