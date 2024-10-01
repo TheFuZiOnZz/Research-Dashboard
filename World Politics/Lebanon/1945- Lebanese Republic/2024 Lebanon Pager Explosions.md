@@ -34,8 +34,10 @@
 	  `B.A.C. did take on ordinary clients, for which it produced a range of ordinary pagers. But the only client that really mattered was Hezbollah, and its pagers were far from ordinary. Produced separately, they contained batteries laced with the explosive PETN, according to the three intelligence officers.`
 	  
 	  `The pagers began shipping to Lebanon in the summer of 2022 in small numbers, but production was quickly ramped up after Mr. Nasrallah denounced cellphones.` - [How Israel Built a Modern-Day Trojan Horse: Exploding Pagers, The New York Times, 2024](https://www.nytimes.com/2024/09/18/world/middleeast/israel-exploding-pagers-hezbollah.html)
-- 
-- 
+- On 22 September 2024, Israeli President Isaac Herzog denied any Israeli involvement in the explosions
+	- ` ` - [Israel had ‘no connection’ with exploding pager attack, president claims, The Independent](https://www.independent.co.uk/news/uk/israel-hezbollah-muslims-benjamin-netanyahu-israelis-b2616970.html)
+- On 22 September 2024, Israeli Prime Minister Benjamin Netanyahu 
+- "If Hezbollah has not understood the message, I promise you, it will understand the message."
 - 
 - 
 - 
