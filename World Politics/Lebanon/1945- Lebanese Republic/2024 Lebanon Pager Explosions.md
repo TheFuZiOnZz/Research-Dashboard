@@ -1,2 +1,4 @@
 [Wiki](https://en.wikipedia.org/wiki/2024_Lebanon_pager_explosions)
-On 17-18 September 2024, thousands of handheld pagers and hundreds of walkie-talkies intended for use by Hezbollah exploded simultaneously across Lebanon and Syria in an Israeli attack. As of 22 September 2024, 42 people had died, including at least 12 civilians. The incident was described as Hezbollah's biggest security breach since the start of the Israel–Hezbollah conflict in October 2023.
+- On 17-18 September 2024, thousands of handheld pagers and hundreds of walkie-talkies intended for use by Hezbollah exploded simultaneously across Lebanon and Syria in an Israeli attack. 
+- As of 20 September 2024, 3,500 were wounded and 42 people had died including at least 12 civilians.
+	- ` `
