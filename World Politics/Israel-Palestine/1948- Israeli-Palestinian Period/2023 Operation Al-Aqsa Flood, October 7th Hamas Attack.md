@@ -1,17 +1,26 @@
 - On 7 October 2023, Hamas' military wing Al-Aqsa Martyrs Brigade, Democratic Front for the Liberation of Palestine, Palestinian Islamic Jihad, Palestinian Mujahideen Movement and other Popular Resistance Committees launched coordinated armed incursions from the Gaza Strip into the Gaza Envelope of southern Israel, the first invasion of Israeli territory since the [1948 First Arab–Israeli War](1948-49%20War%20of%20Independence,%20First%20Arab-Israeli%20War). The attack coincided with the Jewish religious holiday Simchat Torah. 
 - Hamas and other Palestinian armed groups named the attacks Operation Al-Aqsa Flood, while in Israel they are referred to as Black Sabbath or the Simchat Torah Massacre, and internationally as the 7 October attacks.
-- 
 - On 7 October 2023, 6:30 AM, the Hamas commander Mohammed Deif announces the start of Operation Al-Aqsa Flood.
-	- ` ` - [Hundreds dead as war erupts after surprise Hamas attack catches Israel off guard, CBC News, 2023](https://www.cbc.ca/news/world/gaza-israel-rockets-attack-hamas-1.6990209)
+	- `"This is the day of the greatest battle to end the last occupation on Earth," Hamas military commander Mohammed Deif said, announcing the start of the operation in a broadcast on Hamas media and calling on Palestinians everywhere to fight.` - [Hundreds dead as war erupts after surprise Hamas attack catches Israel off guard, CBC News, 2023](https://www.cbc.ca/news/world/gaza-israel-rockets-attack-hamas-1.6990209)
+	- `The leader of Hamas's military wing, Mohammed Deif, said the assault was in response to the 16-year blockade of Gaza and Israeli raids inside West Bank cities over the past year, as well as increasing attacks by settlers on Palestinians and growth of settlements.`
+	  
+	  `"Enough is enough," Deif, who does not appear in public, said in the recorded message. He said the morning attack was only the start of what he called "Operation Al-Aqsa Storm," and he called on Palestinians from East Jerusalem to northern Israel to join the fight. "Today the people are regaining their revolution."` - [Hundreds dead as war erupts after surprise Hamas attack catches Israel off guard, CBC News, 2023](https://www.cbc.ca/news/world/gaza-israel-rockets-attack-hamas-1.6990209)
 - Shortly after, Hamas Prime Minister Ismail Haniyeh made a similar announcement via TV address.
-	- ` ` - [Hamas leader Haniyeh: Battle ‘will spread to West Bank, Jerusalem’, Arab News, 2023](https://www.arabnews.com/node/2387276/middle-east)
-- Within the first 20 minutes, Deif claimed more than 5,000 rockets had been fired. Israeli sources reported the launch of 3,000 projects, killing 5.
-- Palestinian militants also opened fire on Israeli boats off the Gaza Strip.
-- Multiple massacres unfolded at the Nova music festival, Nir Oz, Be'eri, Netiv HaAsara, Kfar Aza. An amphibious assault was carried out in Zikim, north of Gaza.
-- The majority of the attacks were carried out within a few hours, with some holdouts and fighting continuing through October 10th.
-- On October 16th, Hamas claimed they were holding 250 hostages and had taken them to force Israel to release Palestinian prisoners.
-    - Almost half the hostages were foreign nationals or held multiple citizenships.
-- 
+	- `Ismail Haniyeh, the leader of Hamas, said on Saturday that armed Palestinian factions intend to expand the ongoing battle in Gaza to the West Bank and Jerusalem.`
+	  
+	  `The battle moved into the heart of the “zionist entity,” he said.`
+	  
+	  `“This was the morning of defeat and humiliation upon our enemy, its soldiers, and its settlers,” he said.`
+	  
+	  `“What happened reveals the greatness of our preparation. What happened today reveals the weakness of the enemy.”`
+	  
+	  `He told fellow Arab countries that Israel cannot provide them with any protection despite recent diplomatic rapprochements.`
+	  
+	  `In a televised speech, Haniyeh addressed the Arab countries that have normalized ties with Israel in recent years.`
+	  
+	  `“We say to all countries, including our Arab brothers, that this entity, which cannot protect itself in the face of resistors, cannot provide you with any protection,” he said.`
+	  
+	  `“All the normalization agreements you signed with that entity cannot resolve this (Palestinian) conflict.”` - [Hamas leader Haniyeh: Battle ‘will spread to West Bank, Jerusalem’, Arab News, 2023](https://www.arabnews.com/node/2387276/middle-east) 
 - Estimates for forces from Gaza are at 3,800 from Hamas of the estimated 6,000 which crossed the border.
 	- `New assessments indicate twice as many Gazans breached the border into Israel on October 7 than previously believed, Channel 12 reported Saturday, citing data compiled by the Israel Defense Forces’ Gaza Division.`
 	  
