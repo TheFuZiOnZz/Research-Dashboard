@@ -5,7 +5,7 @@
 	- `A fourth source, a Hezbollah official, said the attack on communication devices put 1,500 fighters out of commission because of their injuries, with many having been blinded or had their hands blown off.`
 	  
 	  `While that is a major blow, it represents a fraction of Hezbollah's strength, which a report for the U.S. Congress on Friday put at 40,000-50,000 fighters. Nasrallah has said the group has 100,000 fighters.` - [Hezbollah's tunnels and flexible command weather Israel's deadly blows, Reuters, 2024](https://www.reuters.com/world/middle-east/hezbollahs-tunnels-flexible-command-weather-israels-deadly-blows-2024-09-25/)
-- In February 2024, Hezbollah's secretary-general at the time, Hassan Nasrallah, instructed the group's members to use pagers instead of cell phones, claiming Israel had infiltrated their cell phone network.
+- In February 2024, Hezbollah's secretary-general, Hassan Nasrallah, instructed the group's members to use pagers instead of cell phones, claiming Israel had infiltrated their cell phone network.
 	- `Hezbollah leader Hassan Nasrallah had called on his fighters a few months ago to stop using smartphones because Israel has the technology to infiltrate those devices, Khodr said.`
 	  
 	  `“So now they’ve resorted to this different communications system using pagers, and it seems they have been penetrated,” she said.` - [Nine killed, 2,750 wounded across Lebanon as Hezbollah pagers explode, Al Jazeera, 2024](https://www.aljazeera.com/news/2024/9/17/dozens-of-hezbollah-members-wounded-after-pagers-explode-in-lebanon)
@@ -34,6 +34,8 @@
 	  `B.A.C. did take on ordinary clients, for which it produced a range of ordinary pagers. But the only client that really mattered was Hezbollah, and its pagers were far from ordinary. Produced separately, they contained batteries laced with the explosive PETN, according to the three intelligence officers.`
 	  
 	  `The pagers began shipping to Lebanon in the summer of 2022 in small numbers, but production was quickly ramped up after Mr. Nasrallah denounced cellphones.` - [How Israel Built a Modern-Day Trojan Horse: Exploding Pagers, The New York Times, 2024](https://www.nytimes.com/2024/09/18/world/middleeast/israel-exploding-pagers-hezbollah.html)
+- On 19 September 2024, Hezbollah's Secretary-General, Hassan Nasrallah called the explosions an act of war against Hezbollah and Lebanon.
+	- ` ` - [Hezbollah chief calls pager, radio attacks an ‘act of war’ by Israel, The Washington Post, 2024](https://www.washingtonpost.com/world/2024/09/19/israel-lebanon-attack-explosions-hezbollah/)
 - On 22 September 2024, Israeli President Isaac Herzog denied any Israeli involvement in the explosions.
 	- `Israel has appeared to deny involvement with the fatal exploding pager attack which injured thousands of people across the Middle East.`
 	  
