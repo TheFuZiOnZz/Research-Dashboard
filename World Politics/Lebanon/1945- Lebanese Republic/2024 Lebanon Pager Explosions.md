@@ -35,3 +35,10 @@
 	  
 	  `The pagers began shipping to Lebanon in the summer of 2022 in small numbers, but production was quickly ramped up after Mr. Nasrallah denounced cellphones.` - [How Israel Built a Modern-Day Trojan Horse: Exploding Pagers, The New York Times, 2024](https://www.nytimes.com/2024/09/18/world/middleeast/israel-exploding-pagers-hezbollah.html)
 - 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
