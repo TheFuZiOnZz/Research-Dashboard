@@ -1,5 +1,3 @@
-[Wiki](https://en.wikipedia.org/wiki/20_September_2024_Beirut_attack)
-
 - On 20 September 2024, Israel launched an air attack that leveled an apartment building in the Dahieh suburb of Beirut, Lebanon. The attack killed at least 45 people, including 16 Hezbollah militants, two of whom were commanders, identified as Ibrahim Aqil and Ahmed Wehbe.
 - Ibrahim Aqil was a Lebanese militant and senior official in Hezbollah. He was a member of the Jihad Council, which oversees the military and security operations of the organization. Aqil served as the head of operations and was considered by some as the de facto Chief of Staff of Hezbollah. He was also believed to be the head of the Redwan Force, an elite Hezbollah branch.
 	- `Over the weekend, KAN News identified the man responsible for Hezbollah’s elite Radwan Force – Ibrahim Aqil, a Hezbollah terrorist who has been sanctioned in the past by the US.`
