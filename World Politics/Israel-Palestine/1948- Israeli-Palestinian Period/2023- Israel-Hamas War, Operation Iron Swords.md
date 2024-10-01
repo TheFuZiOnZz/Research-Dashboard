@@ -1,4 +1,4 @@
-- [Wiki](https://en.wikipedia.org/wiki/2023_Israel%E2%80%93Hamas_war) 
+[Wiki](https://en.wikipedia.org/wiki/2023_Israel%E2%80%93Hamas_war) 
 
 [2023 Operation Al-Aqsa Flood, October 7th Hamas Attack](2023%20Operation%20Al-Aqsa%20Flood,%20October%207th%20Hamas%20Attack)  
 [2023 al-Ahli Arab Hospital Explosion](2023%20al-Ahli%20Arab%20Hospital%20Explosion)  
