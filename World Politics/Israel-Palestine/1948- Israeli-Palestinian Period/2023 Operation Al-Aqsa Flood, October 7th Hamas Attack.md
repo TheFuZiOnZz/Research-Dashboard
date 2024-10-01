@@ -17,7 +17,9 @@
 - On October 16th, Hamas claimed they were holding 250 hostages and had taken them to force Israel to release Palestinian prisoners.
     - Almost half the hostages were foreign nationals or held multiple citizenships.
 - Some of these hostages were handed off to other groups.
-- The IDF claimed to have recovered documents illustrating the intent of Palestinian fighters entering Israel on October 7th. 5
+- The IDF claimed to have recovered documents illustrating the intent of Palestinian fighters entering Israel on October 7th.
+	- ` ` - [Documents brought back from the Gaza Strip indicate that Hamas premeditated its atrocities against Israelis and to kidnap and maltreat them, The Meir Amit Intelligence and Terrorism Information Center, 2024](https://www.terrorism-info.org.il/app/uploads/2024/01/E_020_24.pdf)
+	- 
 - Documents brought back from the Gaza Strip indicate that Hamas premeditated its atrocities against Israelis and to kidnap and maltreat them
 - The Meir Amit Intelligence and Terrorism Information Center, January 20th, 2024.
 - There is strong evidence indicating widespread sexual violence occurred during the October 7th attacks. 2
