@@ -15,6 +15,7 @@
 	  `The AP-900 runs on two AAA batteries, which, like any battery, could be induced to explode, but likely not with such force and scale as the explosions depicted in alleged videos of the blasts. If the pagers used by Hezbollah are the AR-924 or another model that runs on lithium-ion batteries, which can cause more dangerous explosions, it’s still unlikely that a regular pager battery alone could produce blasts that could injure multiple people.`
 	  
 	  `“Those explosions aren’t just batteries,” says Jake Williams, vice president of research and development at Hunter Strategy who formerly worked for the US National Security Agency. “Based on the reporting, these pagers were likely interdicted by Israeli authorities and modified with explosives. This highlights the risks of supply chain security, especially in places where technology is harder to ship to.”` - [The Mystery of Hezbollah’s Deadly Exploding Pagers, WIRED, 2024](https://www.wired.com/story/pager-explosion-hezbollah/)
+- Hezbollah appeared to have purchased counterfeit versions of the Icom IC-V82 VHF walkie-talkies, as they were known to be used by Hezbollah and 
 - The Israeli intelligence agency, Mossad, had secretly manufactured the devices, integrated the explosive material Pentaerythritol tetranitrate into the devices, and sold them to Hezbollah through a shell company.
 	- `Even before Mr. Nasrallah decided to expand pager usage, Israel had put into motion a plan to establish a shell company that would pose as an international pager producer.`
 	  
