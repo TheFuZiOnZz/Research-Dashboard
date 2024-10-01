@@ -1,30 +1,7 @@
 - On 7 October 2023, Hamas' military wing Al-Aqsa Martyrs Brigade, Democratic Front for the Liberation of Palestine, Palestinian Islamic Jihad, Palestinian Mujahideen Movement and other Popular Resistance Committees launched coordinated armed incursions from the Gaza Strip into the Gaza Envelope of southern Israel, the first invasion of Israeli territory since the [1948 Arab–Israeli War](1948-49%20War%20of%20Independence,%20First%20Arab-Israeli%20War.). The attack coincided with the Jewish religious holiday Simchat Torah. 
-- Hamas and other Palestinian armed groups named the attacks Operation Al-Aqsa Flood, while in Israel they are referred to as Black Sabbath or the Simchat Torah Massacre, and internationally as the 7 October attacks.`
-# Sources 
-
-1. "[2023 Hamas-led attack on Israel](https://en.wikipedia.org/wiki/2023_Hamas-led_attack_on_Israel#Attacks)." Wikipedia. Accessed April 28th, 2024.
-2. Special Representative of the Secretary-General on Sexual Violence in Conflict, "[Mission report: official visit of the Office of the SRSG-SVC to Israel and the occupied West Bank: 29 January – 14 February 2024](https://news.un.org/en/sites/news.un.org.en/files/atoms/files/Mission_report_of_SRSG_SVC_to_Israel-oWB_29Jan_14_feb_2024.pdf)" New York. _UN. Special Representative of the Secretary-General on Sexual Violence in Conflict_. 2024.
-3. Screams Before Silence, "[Screams Before Silence](https://www.youtube.com/watch?v=zAr9oGSXgak)," YouTube Video, 56:55, April 25th, 2024.
-4. Israeli Ministry of Foreign Affairs. "[Swords of Iron: Civilian Casualties](https://www.gov.il/en/pages/swords-of-iron-civilian-casualties)." Official Israeli Government Website. Accessed April 28, 2024.
-5. "[Documents brought back from the Gaza Strip indicate...](https://www.terrorism-info.org.il/app/uploads/2024/01/E_020_24.pdf)" The Meir Amit Intelligence and Terrorism Information Center. January 20th, 2024.
-6. "[Hamas says October 7 attack was a ‘necessary step’, admits to ‘some faults’](https://www.aljazeera.com/news/2024/1/21/hamas-says-october-7-attack-was-a-necessary-step-admits-to-some-faults)." Al Jazeera. January 21st, 2024.
-7. Mahoutchi, Farid. “[Iran News: Former Officials Warn of Consequences of Iran’s Role in Middle East Crisis.](https://www.ncr-iran.org/en/news/anews/iran-news-former-officials-warn-of-consequences-of-irans-role-in-middle-east-crisis/)” NCRI (blog). April 9, 2024.
-8. Summer Said, Benoit Faucon, Stephen Kalin. “[Iran Helped Plot Attack on Israel Over Several Weeks - WSJ.](https://www.wsj.com/world/middle-east/iran-israel-hamas-strike-planning-bbe07b25)” Wallstreet Journal. October 8th, 2023.
-
-## Casualties and losses 
-
- Gaza Strip
-    1. 1,609 militants killed
-    2. 200 militants captured
-
- Israel
-    1. 1,177 killed, 872 civilians, 58 were police and 305 were soldiers
-    2. 3,400 civilians and soldiers wounded
-    3. 247 civilians and soldiers taken captive
-    4. 1 missing
-
-# Causes 
-
+- Hamas and other Palestinian armed groups named the attacks Operation Al-Aqsa Flood, while in Israel they are referred to as Black Sabbath or the Simchat Torah Massacre, and internationally as the 7 October attacks.
+- According to an IDF report that revised the estimate on the number of attackers, 6000 Gazans breached the border in 119 places and broke into Israel, including 3,800 from the "elite Nukhba forces" and 2,200 civilians and other militants. Additionally, the IDF report estimated 1,000 Gazans fired rockets from the Gaza Strip, bringing the total number of participants on Hamas's side to 7,000.
+	- ` ` - [Report: New IDF assessment shows some 6,000 Gazans invaded Israel on Oct. 7, The Times of Israel, 2024](https://www.timesofisrael.com/report-new-idf-assessment-shows-some-6000-gazans-invaded-israel-on-oct-7/)
 - The attacks had likely been planned for over a year before they were executed.
 - In a 16 page report titled "Our Narrative," published in January, Hamas claimed the reasons for the October 7th were the constructions of settlement, the Judaization of the Palestinian lands in the occupied West Bank and Jerusalem, and the killing of thousands of Palestinian civilians from 2000 and onwards.
 
@@ -117,3 +94,14 @@ With regards to the hostages, the mission team found clear and convincing inform
     - Sexual violence (Rule 93)
     - Taking hostages (Rule 96)
     - Mutilating bodies (Rule 113)
+
+# Sources 
+
+1. "[2023 Hamas-led attack on Israel](https://en.wikipedia.org/wiki/2023_Hamas-led_attack_on_Israel#Attacks)." Wikipedia. Accessed April 28th, 2024.
+2. Special Representative of the Secretary-General on Sexual Violence in Conflict, "[Mission report: official visit of the Office of the SRSG-SVC to Israel and the occupied West Bank: 29 January – 14 February 2024](https://news.un.org/en/sites/news.un.org.en/files/atoms/files/Mission_report_of_SRSG_SVC_to_Israel-oWB_29Jan_14_feb_2024.pdf)" New York. _UN. Special Representative of the Secretary-General on Sexual Violence in Conflict_. 2024.
+3. Screams Before Silence, "[Screams Before Silence](https://www.youtube.com/watch?v=zAr9oGSXgak)," YouTube Video, 56:55, April 25th, 2024.
+4. Israeli Ministry of Foreign Affairs. "[Swords of Iron: Civilian Casualties](https://www.gov.il/en/pages/swords-of-iron-civilian-casualties)." Official Israeli Government Website. Accessed April 28, 2024.
+5. "[Documents brought back from the Gaza Strip indicate...](https://www.terrorism-info.org.il/app/uploads/2024/01/E_020_24.pdf)" The Meir Amit Intelligence and Terrorism Information Center. January 20th, 2024.
+6. "[Hamas says October 7 attack was a ‘necessary step’, admits to ‘some faults’](https://www.aljazeera.com/news/2024/1/21/hamas-says-october-7-attack-was-a-necessary-step-admits-to-some-faults)." Al Jazeera. January 21st, 2024.
+7. Mahoutchi, Farid. “[Iran News: Former Officials Warn of Consequences of Iran’s Role in Middle East Crisis.](https://www.ncr-iran.org/en/news/anews/iran-news-former-officials-warn-of-consequences-of-irans-role-in-middle-east-crisis/)” NCRI (blog). April 9, 2024.
+8. Summer Said, Benoit Faucon, Stephen Kalin. “[Iran Helped Plot Attack on Israel Over Several Weeks - WSJ.](https://www.wsj.com/world/middle-east/iran-israel-hamas-strike-planning-bbe07b25)” Wallstreet Journal. October 8th, 2023.
