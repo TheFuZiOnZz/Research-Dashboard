@@ -15,7 +15,17 @@
 	  `The AP-900 runs on two AAA batteries, which, like any battery, could be induced to explode, but likely not with such force and scale as the explosions depicted in alleged videos of the blasts. If the pagers used by Hezbollah are the AR-924 or another model that runs on lithium-ion batteries, which can cause more dangerous explosions, it’s still unlikely that a regular pager battery alone could produce blasts that could injure multiple people.`
 	  
 	  `“Those explosions aren’t just batteries,” says Jake Williams, vice president of research and development at Hunter Strategy who formerly worked for the US National Security Agency. “Based on the reporting, these pagers were likely interdicted by Israeli authorities and modified with explosives. This highlights the risks of supply chain security, especially in places where technology is harder to ship to.”` - [The Mystery of Hezbollah’s Deadly Exploding Pagers, WIRED, 2024](https://www.wired.com/story/pager-explosion-hezbollah/)
-- Hezbollah appeared to have purchased counterfeit versions of the Icom IC-V82 VHF walkie-talkies, as they were known to be used by Hezbollah and 
+- Hezbollah appeared to have purchased counterfeit versions of the Icom IC-V82 VHF walkie-talkies as they were known to be used by Hezbollah and the manufacture of the IC-V82 model ceased in 2014.
+	- `The Times reviewed three photos and one video to identify the communication devices involved in Wednesday’s attacks as the IC-V82, a two-way radio bearing the brand of the Japanese company Icom. It is unclear where Hezbollah purchased the radios.`
+	  
+	  `In some cases, the back of the device was blown off, indicating the force of the explosions, while in other instances, the front of the device was visibly damaged.` - [Walkie-Talkies in Lebanon May Have Held More Explosives Than Pagers, The New York Times, 2024](https://www.nytimes.com/2024/09/18/world/middleeast/hezbollah-israel-walkie-talkie-explosives.html)
+	- `A sales executive at the U.S. subsidiary of Japanese walkie-talkie maker Icom told The Associated Press that the exploded radio devices in Lebanon appear to be a knockoff product and not made by Icom.`
+	  
+	  `“I can guarantee you they were not our products,” said Ray Novak, a senior sales manager for Icom America’s amateur radio division, in an interview Wednesday at a trade show in Providence, Rhode Island.`
+	  
+	  `Novak said Icom introduced the V82 two-way radio model more than two decades ago and it has long since been discontinued. It was favored by amateur radio operators and for use in social or emergency communications, including by people tracking tornadoes or hurricanes, he said.`
+	  
+	  `Novak said he spent all day fielding calls and trying to dispel misinformation about Icom’s discontinued device. He showed a reporter on his cellphone how easy it is to find counterfeit versions of the product sold online.` - [Walkie-talkie explosions rock Lebanon a day after pager attacks, AP News, 2024](https://apnews.com/live/lebanon-syria-pagers-hezbollah-updates#00000192-06cb-d51f-a7d6-0efb2de20000)
 - The Israeli intelligence agency, Mossad, had secretly manufactured the devices, integrated the explosive material Pentaerythritol tetranitrate into the devices, and sold them to Hezbollah through a shell company.
 	- `Even before Mr. Nasrallah decided to expand pager usage, Israel had put into motion a plan to establish a shell company that would pose as an international pager producer.`
 	  
@@ -24,3 +34,4 @@
 	  `B.A.C. did take on ordinary clients, for which it produced a range of ordinary pagers. But the only client that really mattered was Hezbollah, and its pagers were far from ordinary. Produced separately, they contained batteries laced with the explosive PETN, according to the three intelligence officers.`
 	  
 	  `The pagers began shipping to Lebanon in the summer of 2022 in small numbers, but production was quickly ramped up after Mr. Nasrallah denounced cellphones.` - [How Israel Built a Modern-Day Trojan Horse: Exploding Pagers, The New York Times, 2024](https://www.nytimes.com/2024/09/18/world/middleeast/israel-exploding-pagers-hezbollah.html)
+- 
