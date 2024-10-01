@@ -5,10 +5,6 @@
 - The attacks had likely been planned for over a year before they were executed.
 - In a 16 page report titled "Our Narrative," published in January, Hamas claimed the reasons for the October 7th were the constructions of settlement, the Judaization of the Palestinian lands in the occupied West Bank and Jerusalem, and the killing of thousands of Palestinian civilians from 2000 and onwards.
 
-# Events 
-
-## October 7th Assault 
-
 - 6:30 AM, Hamas commander Mohammed Deif announces the start of Operation Al-Aqsa Flood.
     - Shortly after, Hamas Prime Minister Ismail Haniyeh made a similar announcement via TV address.
 - Within the first 20 minutes, Deif claimed more than 5,000 rockets had been fired. Israeli sources reported the launch of 3,000 projects, killing 5.
