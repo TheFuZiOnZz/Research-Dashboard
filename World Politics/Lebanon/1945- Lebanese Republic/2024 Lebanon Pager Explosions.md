@@ -9,7 +9,7 @@
 	- `Hezbollah leader Hassan Nasrallah had called on his fighters a few months ago to stop using smartphones because Israel has the technology to infiltrate those devices, Khodr said.`
 	  
 	  `“So now they’ve resorted to this different communications system using pagers, and it seems they have been penetrated,” she said.` - [Nine killed, 2,750 wounded across Lebanon as Hezbollah pagers explode, Al Jazeera, 2024](https://www.aljazeera.com/news/2024/9/17/dozens-of-hezbollah-members-wounded-after-pagers-explode-in-lebanon)
-- Hezbollah then purchased Gold Apollo AR924 pagers about five months before the explosions.
+- Hezbollah then purchased Gold Apollo AP-900 & AR-924 pagers about five months before the explosions.
 	- `Footage posted on social media claiming to show examples of the explosions from around the country depict blasts that seemed too large to come from pager batteries alone. One photo circulating widely appeared to show a mangled pager with some legible make and model information that may point to the Gold Apollo AP-900 alphanumeric pager. Other reports indicate the pager model is the Gold Apollo AR-924, which has a lithium-ion battery.`
 	  
 	  `The AP-900 runs on two AAA batteries, which, like any battery, could be induced to explode, but likely not with such force and scale as the explosions depicted in alleged videos of the blasts. If the pagers used by Hezbollah are the AR-924 or another model that runs on lithium-ion batteries, which can cause more dangerous explosions, it’s still unlikely that a regular pager battery alone could produce blasts that could injure multiple people.`
