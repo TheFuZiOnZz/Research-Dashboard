@@ -11,13 +11,6 @@
 8. Summer Said, Benoit Faucon, Stephen Kalin. “[Iran Helped Plot Attack on Israel Over Several Weeks - WSJ.](https://www.wsj.com/world/middle-east/iran-israel-hamas-strike-planning-bbe07b25)” Wallstreet Journal. October 8th, 2023.
 
 [https://twitter.com/JoeTruzman/status/1712253680022630827](https://twitter.com/JoeTruzman/status/1712253680022630827)
-
----
-
-1. [Israel](https://publish.obsidian.md/destiny/Research/Library/Geographics/Israel)
-    1. Prime Minister [Benjamin Netanyahu](https://publish.obsidian.md/destiny/Research/Library/People/Benjamin+Netanyahu)
-    2. Minister of Defense [Yoav Gallant](https://publish.obsidian.md/destiny/Research/Library/People/Yoav+Gallant)
-
 ## Casualties and losses 
 
 1. [Gaza Strip](https://publish.obsidian.md/destiny/Research/Library/Geographics/Gaza+Strip)
@@ -27,7 +20,7 @@
 ---
 
 1. [Israel](https://publish.obsidian.md/destiny/Research/Library/Geographics/Israel)
-    1. 1,177 killed, 872 civilians (58 were police, ) , and 305 were soldiers
+    1. 1,177 killed, 872 civilians, 58 were police and 305 were soldiers
     2. 3,400 civilians and soldiers wounded
     3. 247 civilians and soldiers taken captive
     4. 1 missing
