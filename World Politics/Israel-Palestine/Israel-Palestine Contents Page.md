@@ -159,5 +159,6 @@
 [2022-24 ICJ Case on Israeli Annexation of the West Bank Legal Status](1948-%20Israeli-Palestinian%20Period/2022-24%20ICJ%20Case%20on%20Israeli%20Annexation%20of%20the%20West%20Bank%20Legal%20Status)  
 [2021 Israel-Palestine Crisis, Operation Guardian of the Walls](1948-%20Israeli-Palestinian%20Period/2021%20Israel-Palestine%20Crisis,%20Operation%20Guardian%20of%20the%20Walls)  
 [2023- Israel-Hamas War, Operation Iron Swords](2023-%20Israel-Hamas%20War,%20Operation%20Iron%20Swords.md)  
+[2024- Iran-Israel Conflict](2024-%20Iran-Israel%20Conflict)  
 
 [Destiny v Finklestein Notes](Destiny%20v%20Finklestein%20Notes)  
