@@ -4,3 +4,4 @@
 [2024 Assassination of Hassan Nasrallah](2024%20Assassination%20of%20Hassan%20Nasrallah)  
 # Peri-War
 [2024- Israeli Ground Operation in Lebanon](2024-%20Israeli%20Ground%20Operation%20in%20Lebanon)  
+[2024 October Iranian Missile Strikes in Israel](2024%20October%20Iranian%20Missile%20Strikes%20in%20Israel)  
