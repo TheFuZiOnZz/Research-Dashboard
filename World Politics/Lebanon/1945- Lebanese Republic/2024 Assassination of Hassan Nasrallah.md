@@ -7,5 +7,13 @@
 	  `For decades, Hezbollah, under the command of Hassan Nasrallah, orchestrated countless attacks against innocent people. Hassan Nasrallah had the blood of thousands of men, women and children on his hands. Israelis. Jews across the world. Lebanese. Americans. British. French. Syrians and other countless victims across the Middle East and beyond.`
 	  
 	  `Hezbollah, under the command of Hassan Nasrallah, joined Hamas in attacking Israel on October 8th...just one day after Hamas‘s massacre on October 7th.` - [Press Briefing by IDF Spokesperson RAdm. Daniel Hagari- September 28, 2024, Israel Defence Force, 2024](https://www.idf.il/en/mini-sites/israel-at-war/briefings-by-idf-spokesperson-rear-admiral-daniel-hagari/september-24-press-briefings/press-conference-by-idf-spokesperson-radm-daniel-hagari-september-28-2024/)
+- On 29 September 2024, Nasrallah's body was found in the rubble of the strike.
+	- ` ` - [Nasrallah's body recovered from rubble two days after assassination](https://www.ynetnews.com/article/s1wspnlra)
+- 
+- 
+- 
+- 
+- 
+- 
 - The strike was unannounced due to an historical analogue of an attempt to strike Nasrallah before in the [2006 Lebanon War](2006%20Lebanon%20War,%20Israel-Hezbollah%20War) on 14 July 2006, in which the area planned to be struck was given 24 hour notice of the strike taking place giving Nasrallah and other Hezbollah officials time to be positioned in a more protective condition.
 	- `Four members of the forum voted in favor of bombing Dahia (Shimon Peres, who was not present, telephoned his support). Two ministers, Dichter and Livni, were opposed. The military benefits of the bombing were marginal. Nasrallah, ensconced in a bunker beneath his residence, was protected by enough layers of cement to avoid injury. But Dahia was a symbol, and Israel’s ministers and officers wanted a move that would deliver a painful surgical blow to Hezbollah’s strength and honor. Although this was not specifically stated at the meeting, some participants realized that an attack on Dahia presaged all-out war against Hezbollah. The idea of “bang and it’s over” increasingly receded.` - 34 days: Israel, Hezbollah, and the war in Lebanon, Amos Harel & Avi Isacharoff, 2008
