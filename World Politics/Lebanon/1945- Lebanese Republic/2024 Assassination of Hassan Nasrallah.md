@@ -8,12 +8,14 @@
 	  
 	  `Hezbollah, under the command of Hassan Nasrallah, joined Hamas in attacking Israel on October 8th...just one day after Hamas‘s massacre on October 7th.` - [Press Briefing by IDF Spokesperson RAdm. Daniel Hagari- September 28, 2024, Israel Defence Force, 2024](https://www.idf.il/en/mini-sites/israel-at-war/briefings-by-idf-spokesperson-rear-admiral-daniel-hagari/september-24-press-briefings/press-conference-by-idf-spokesperson-radm-daniel-hagari-september-28-2024/)
 - On 29 September 2024, Nasrallah's body was found in the rubble of the strike.
-	- ` ` - [Nasrallah's body recovered from rubble two days after assassination](https://www.ynetnews.com/article/s1wspnlra)
+	- `The body of Hezbollah leader Hassan Nasrallah has been recovered from the site of an Israeli air attack on Beirut's southern suburbs and is intact, a medical source and a security source told Reuters on Sunday.`
+	  
+	  `While Hezbollah's statement on Saturday confirming Nasrallah's death did not say how exactly he was killed nor when his funeral would be, the two sources said his body had no direct wounds and that it appeared the cause of death was blunt trauma from the force of the blast.` - [Nasrallah's body recovered from rubble two days after assassination, Ynet, 2024](https://www.ynetnews.com/article/s1wspnlra)
+- The attack resulted in at least 33 fatalities and more than 195 injuries, including civilians. Ali Karaki, the Commander of Hezbollah's Southern Front, was also killed in the attack, along with other senior commanders. Iranian reports indicate that Abbas Nilforoushan, deputy commander of the Islamic Revolutionary Guard Corps (IRGC) and commander of the Quds Force in Lebanon, was also killed.
 - 
 - 
 - 
 - 
 - 
-- 
-- The strike was unannounced due to an historical analogue of an attempt to strike Nasrallah before in the [2006 Lebanon War](2006%20Lebanon%20War,%20Israel-Hezbollah%20War) on 14 July 2006, in which the area planned to be struck was given 24 hour notice of the strike taking place giving Nasrallah and other Hezbollah officials time to be positioned in a more protective condition.
+- The strike was unannounced due to an historical analogue of an attempt to strike Nasrallah previously in the [2006 Lebanon War](2006%20Lebanon%20War,%20Israel-Hezbollah%20War) on 14 July 2006, in which the area planned to be struck was given 24 hour notice of the strike taking place giving Nasrallah and other Hezbollah officials time to be positioned in a more protective condition.
 	- `Four members of the forum voted in favor of bombing Dahia (Shimon Peres, who was not present, telephoned his support). Two ministers, Dichter and Livni, were opposed. The military benefits of the bombing were marginal. Nasrallah, ensconced in a bunker beneath his residence, was protected by enough layers of cement to avoid injury. But Dahia was a symbol, and Israel’s ministers and officers wanted a move that would deliver a painful surgical blow to Hezbollah’s strength and honor. Although this was not specifically stated at the meeting, some participants realized that an attack on Dahia presaged all-out war against Hezbollah. The idea of “bang and it’s over” increasingly receded.` - 34 days: Israel, Hezbollah, and the war in Lebanon, Amos Harel & Avi Isacharoff, 2008
