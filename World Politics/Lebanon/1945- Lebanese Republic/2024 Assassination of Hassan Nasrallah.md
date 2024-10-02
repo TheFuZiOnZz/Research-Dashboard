@@ -7,4 +7,7 @@
 	  `For decades, Hezbollah, under the command of Hassan Nasrallah, orchestrated countless attacks against innocent people. Hassan Nasrallah had the blood of thousands of men, women and children on his hands. Israelis. Jews across the world. Lebanese. Americans. British. French. Syrians and other countless victims across the Middle East and beyond.`
 	  
 	  `Hezbollah, under the command of Hassan Nasrallah, joined Hamas in attacking Israel on October 8th...just one day after Hamas‘s massacre on October 7th.` - [Site Unreachable](https://www.idf.il/en/mini-sites/israel-at-war/briefings-by-idf-spokesperson-rear-admiral-daniel-hagari/september-24-press-briefings/press-conference-by-idf-spokesperson-radm-daniel-hagari-september-28-2024/)
-- The strike was unannounced due to an historical analogue of an attempt to strike Nasrallah before in the [2006 Lebanon War](2006%20Lebanon%20War,%20Israel-Hezbollah%20War), in which the area planned to be struck was 
+- The strike was unannounced due to an historical analogue of an attempt to strike Nasrallah before in the [2006 Lebanon War](2006%20Lebanon%20War,%20Israel-Hezbollah%20War), in which the area planned to be struck was given 
+	- ` ` - 34 days: Israel, Hezbollah, and the war in Lebanon, Amos Harel & Avi Isacharoff, 2008
+	- ` ` - 34 days: Israel, Hezbollah, and the war in Lebanon, Amos Harel & Avi Isacharoff, 2008
+	- ` ` - 34 days: Israel, Hezbollah, and the war in Lebanon, Amos Harel & Avi Isacharoff, 2008
