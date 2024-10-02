@@ -11,8 +11,12 @@
 	- `The body of Hezbollah leader Hassan Nasrallah has been recovered from the site of an Israeli air attack on Beirut's southern suburbs and is intact, a medical source and a security source told Reuters on Sunday.`
 	  
 	  `While Hezbollah's statement on Saturday confirming Nasrallah's death did not say how exactly he was killed nor when his funeral would be, the two sources said his body had no direct wounds and that it appeared the cause of death was blunt trauma from the force of the blast.` - [Nasrallah's body recovered from rubble two days after assassination, Ynet, 2024](https://www.ynetnews.com/article/s1wspnlra)
-- The attack resulted in at least 33 fatalities and more than 195 injuries, including civilians. Ali Karaki, the Commander of Hezbollah's Southern Front, was also killed in the attack, along with other senior commanders. Iranian reports indicate that Abbas Nilforoushan, deputy commander of the Islamic Revolutionary Guard Corps (IRGC) and commander of the Quds Force in Lebanon, was also killed.
-- 
+- The attack resulted in at least 33 fatalities and more than 195 injuries, including civilians. 
+	- ` ` - [Israel Targets Hezbollah Chief Nasrallah in Massive Beirut Strike; Israeli Officials Estimate 300 Killed, Haaretz, 2024](https://archive.is/20240927235218/https://www.haaretz.com/israel-news/2024-09-27/ty-article/.premium/israel-targets-hezbollah-chief-nasrallah-in-massive-beirut-strike/00000192-34e9-d8e1-a196-7def58cf0000)
+- Ali Karaki, the Commander of Hezbollah's Southern Front, was also killed in the attack, along with other senior commanders. 
+	- ` ` - 
+- Iranian reports indicate that Abbas Nilforoushan, deputy commander of the Islamic Revolutionary Guard Corps (IRGC) and commander of the Quds Force in Lebanon, was also killed.
+	- ` ` - 
 - 
 - 
 - 

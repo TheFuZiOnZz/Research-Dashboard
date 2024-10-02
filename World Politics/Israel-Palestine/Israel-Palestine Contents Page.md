@@ -160,6 +160,6 @@
 [2021 Israel-Palestine Crisis, Operation Guardian of the Walls](1948-%20Israeli-Palestinian%20Period/2021%20Israel-Palestine%20Crisis,%20Operation%20Guardian%20of%20the%20Walls)  
 [2023- Israel-Hamas War, Operation Iron Swords](2023-%20Israel-Hamas%20War,%20Operation%20Iron%20Swords.md)  
 [2024- Iran-Israel Conflict](2024-%20Iran-Israel%20Conflict)  
-[[2024 Palestine Admitted as Full Member of the United Nations
+[[2024 Palestine Admitted as Full Member of the United Nations]]
 
 [Destiny v Finklestein Notes](Destiny%20v%20Finklestein%20Notes)  
