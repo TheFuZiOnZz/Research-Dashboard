@@ -1,1 +1,3 @@
 [Wiki](https://en.wikipedia.org/wiki/2024_Hezbollah_headquarters_strike)
+
+On 27 September 2024, Hassan Nasrallah, the secretary-general of Hezbollah, was assassinated in an Israeli airstrike in Beirut. The strike took place while Hezbollah leaders were meeting at a headquarters located underground beneath residential buildings in Haret Hreik in the Dahieh suburb to the south of Beirut. Conducted by the Israeli Air Force using F-15I fighters, the operation involved dropping more than 80 bombs, including US-made 2,000-pound (910 kg) bunker buster bombs, destroying the underground headquarters as well as nearby buildings.
