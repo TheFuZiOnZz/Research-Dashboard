@@ -152,6 +152,7 @@
 [2018 U.S. Embassy Moved to Jerusalem](1948-%20Israeli-Palestinian%20Period/2018%20U.S.%20Embassy%20Moved%20to%20Jerusalem)  
 [2018- International Criminal Court Investigation in Palestine](1948-%20Israeli-Palestinian%20Period/2018-%20International%20Criminal%20Court%20Investigation%20in%20Palestine)  
 [2018-19 Great March of Return Protest](1948-%20Israeli-Palestinian%20Period/2018-19%20Great%20March%20of%20Return%20Protest)  
+[[2018-19 Operation Northern Shield]]
 [2019 Gaza Economic Protests](1948-%20Israeli-Palestinian%20Period/2019%20Gaza%20Economic%20Protests)  
 [2019-20 Trump Peace Plan](1948-%20Israeli-Palestinian%20Period/2019-20%20Trump%20Peace%20Plan)  
 [2020 Abraham Accords](1948-%20Israeli-Palestinian%20Period/2020%20Abraham%20Accords)  

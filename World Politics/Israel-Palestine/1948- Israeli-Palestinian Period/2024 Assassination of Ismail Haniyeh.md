@@ -1,0 +1,1 @@
+[Assassination of Ismail Haniyeh - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Ismail_Haniyeh)
