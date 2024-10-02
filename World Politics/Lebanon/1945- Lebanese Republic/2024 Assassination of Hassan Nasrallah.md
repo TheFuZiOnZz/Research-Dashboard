@@ -11,12 +11,14 @@
 	- `The body of Hezbollah leader Hassan Nasrallah has been recovered from the site of an Israeli air attack on Beirut's southern suburbs and is intact, a medical source and a security source told Reuters on Sunday.`
 	  
 	  `While Hezbollah's statement on Saturday confirming Nasrallah's death did not say how exactly he was killed nor when his funeral would be, the two sources said his body had no direct wounds and that it appeared the cause of death was blunt trauma from the force of the blast.` - [Nasrallah's body recovered from rubble two days after assassination, Ynet, 2024](https://www.ynetnews.com/article/s1wspnlra)
-- The attack resulted in at least 33 fatalities and more than 195 injuries, including civilians. 
-	- ` ` - [Israel Targets Hezbollah Chief Nasrallah in Massive Beirut Strike; Israeli Officials Estimate 300 Killed, Haaretz, 2024](https://archive.is/20240927235218/https://www.haaretz.com/israel-news/2024-09-27/ty-article/.premium/israel-targets-hezbollah-chief-nasrallah-in-massive-beirut-strike/00000192-34e9-d8e1-a196-7def58cf0000)
-- Ali Karaki, the Commander of Hezbollah's Southern Front, was also killed in the attack, along with other senior commanders. 
-	- ` ` - 
-- Iranian reports indicate that Abbas Nilforoushan, deputy commander of the Islamic Revolutionary Guard Corps (IRGC) and commander of the Quds Force in Lebanon, was also killed.
-	- ` ` - 
+- The attack resulted in at least 300 fatalities, including civilians. Ali Karaki, the Commander of Hezbollah's Southern Front, was also killed in the attack, along with other senior commanders. 
+	- `The Lebanese Health Ministry said six people were killed and 91 injured in the strikes Friday that leveled six apartment buildings. Ali Karki, the commander of Hezbollah’s Southern Front, and other commanders were also killed, the Israeli military said.` - [Hezbollah leader Hassan Nasrallah killed in Israeli strike, AP News, 2024](https://apnews.com/article/lebanon-israel-hezbollah-airstrikes-28-september-2024-c4751957433ff944c4eb06027885a973)
+- Iran’s U.N. Ambassador Amir Saeid said that Abbas Nilforoushan, deputy commander of the Islamic Revolutionary Guard Corps (IRGC) and commander of the Quds Force in Lebanon, was also killed.
+	- `Iran’s U.N. Ambassador Amir Saeid Iravani wrote a letter to the heads of the United Nations and the Security Council on Saturday calling for an emergency council meeting over the attack that killed Nasrallah.`
+	  
+	  `“Using U.S.-supplied thousand-pound bunker busters,” he wrote, Israel killed Nasrallah and Iranian Gen, Abbas Nilforushan, among others.`
+	  
+	  `He warned Israel not to attack any of its diplomatic or consular premises, or its representatives. “Iran will not hesitate to exercise its inherent rights under international law to take every measure in defense of its vital national and security interests,” Iravani wrote.` - [Hezbollah leader Hassan Nasrallah killed in Israeli strike, AP News, 2024](https://apnews.com/article/lebanon-israel-hezbollah-airstrikes-28-september-2024-c4751957433ff944c4eb06027885a973)
 - 
 - 
 - 
