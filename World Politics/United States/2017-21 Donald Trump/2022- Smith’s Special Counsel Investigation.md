@@ -70,3 +70,5 @@
 	- ` ` - [United States v. Donald Trump (Smith January 6th, Government's Motion for Immunity Decisions), 2023](https://static01.nyt.com/newsgraphics/documenttools/73357920e3c8d739/8fc8bfd0-full.pdf)
 	- ` ` - [United States v. Donald Trump (Smith January 6th, Government's Motion for Immunity Decisions), 2023](https://static01.nyt.com/newsgraphics/documenttools/73357920e3c8d739/8fc8bfd0-full.pdf)
 	- ` ` - [United States v. Donald Trump (Smith January 6th, Government's Motion for Immunity Decisions), 2023](https://static01.nyt.com/newsgraphics/documenttools/73357920e3c8d739/8fc8bfd0-full.pdf)
+	- 
+	- [Unmasked Characters - United States v. TRUMP - Google Docs](https://docs.google.com/document/d/112_twBkr3x1XGMPrQ4MzvTAY8_-dPySQQHHD7RRXbWw/edit?pli=1)
