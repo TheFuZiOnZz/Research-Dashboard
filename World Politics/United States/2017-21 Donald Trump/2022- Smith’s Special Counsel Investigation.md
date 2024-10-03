@@ -56,7 +56,7 @@
     - ` ` [United States v. Donald Trump (Smith, Involvement in January 6, Superseding Inditement), 2024](https://storage.courtlistener.com/recap/gov.uscourts.dcd.258148/gov.uscourts.dcd.258148.226.0.pdf)
 ## Government's Motion for Immunity Decisions
 - On 2 October 2024, A legal brief by the special counsel, Jack Smith, was partly unsealed which lays out his case for why Trump is not immune from prosecution on federal charges of plotting to overturn the 2020 election. It adds new details to the extensive public record of how Trump lost the race but attempted nonetheless to cling to power.
-	- ` ` - [United States v. Donald Trump (Smith, Involvement in January 6, Government's Motion for Immunity Decisions), 2024](https://storage.courtlistener.com/recap/gov.uscourts.dcd.258148/gov.uscourts.dcd.258148.252.0.pdf)
-	- ` ` - [United States v. Donald Trump (Smith, Involvement in January 6, Government's Motion for Immunity Decisions), 2024](https://storage.courtlistener.com/recap/gov.uscourts.dcd.258148/gov.uscourts.dcd.258148.252.0.pdf)
+	- ` ` - [United States v. Donald Trump (Smith, Involvement in January 6, Government's Motion for Immunity Decisions), 2024]([8fc8bfd0-full.pdf](https://static01.nyt.com/newsgraphics/documenttools/73357920e3c8d739/8fc8bfd0-full.pdf))
+	- ` ` - [United States v. Donald Trump (Smith, Involvement in January 6, Government's Motion for Immunity Decisions), 2024](https://static01.nyt.com/newsgraphics/documenttools/73357920e3c8d739/8fc8bfd0-full.pdf)
 	- 
 	- [Unmasked Characters - United States v. TRUMP - Google Docs](https://docs.google.com/document/d/112_twBkr3x1XGMPrQ4MzvTAY8_-dPySQQHHD7RRXbWw/edit?pli=1)
