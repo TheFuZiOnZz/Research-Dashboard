@@ -118,7 +118,11 @@
 - On 30 December 2020
 # 2023 Windsor Framework
 - [Wiki](https://en.wikipedia.org/wiki/Windsor_Framework)
-- On The Windsor Framework is a post-Brexit legal agreement between the European Union and the United Kingdom which adjusts the operation of the Northern Ireland Protocol. The Framework was announced on 27 February 2023, formally adopted by both parties on 24 March 2023[1] and came into effect on 1 October 2023.
+- On 27 February 2023,  The Windsor Framework is a post-Brexit legal agreement between the European Union and the United Kingdom which adjusts the operation of the Northern Ireland Protocol. The Framework was announced on 27 February 2023, formally adopted by both parties on 24 March 2023 and came into effect on 1 October 2023.
+# 2023 Retained EU Law Bill
+- [Wiki](https://en.wikipedia.org/wiki/Retained_EU_Law_(Revocation_and_Reform)_Act_2023)
+- On 29 June 2023, The Retained EU Law (Revocation and Reform) Act 2023 is a 
+- 
 # Economic Impacts
 - A 2017 paper found that:
     - `While soft Brexit would not be without significant challenges for UK financial services, it would surely be a lower-risk option for the City than the other possible outcomes we have considered. However, soft Brexit would require one of the parties to soften its current stance on free movement, which seems unlikely. Hard Brexit, on the other hand, would cause UK firms to lose their exports to the EU where 3CE provisions are not in place (such as banking), and likely subject the UK to intensifying competition from the US in those areas in which 3CE provisions could be relied upon (such as wholesale markets). The best outcome for the UK, absent breaking the deadlock on free movement, would be for a negotiated agreement on financial services that offers something more than the patchwork of 3CE provisions discussed above.` - [Brexit and financial services, Armour, 2017](https://annas-archive.org/scidb/10.1093/oxrep/grx014)
