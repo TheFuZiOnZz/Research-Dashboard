@@ -19,9 +19,5 @@
 	  `“Using U.S.-supplied thousand-pound bunker busters,” he wrote, Israel killed Nasrallah and Iranian Gen, Abbas Nilforushan, among others.`
 	  
 	  `He warned Israel not to attack any of its diplomatic or consular premises, or its representatives. “Iran will not hesitate to exercise its inherent rights under international law to take every measure in defense of its vital national and security interests,” Iravani wrote.` - [Hezbollah leader Hassan Nasrallah killed in Israeli strike, AP News, 2024](https://apnews.com/article/lebanon-israel-hezbollah-airstrikes-28-september-2024-c4751957433ff944c4eb06027885a973)
-- 
-- 
-- 
-- 
 - The strike was unannounced due to an historical analogue of an attempt to strike Nasrallah previously in the [2006 Lebanon War](2006%20Lebanon%20War,%20Israel-Hezbollah%20War) on 14 July 2006, in which the area planned to be struck was given 24 hour notice of the strike taking place giving Nasrallah and other Hezbollah officials time to be positioned in a more protective condition.
 	- `Four members of the forum voted in favor of bombing Dahia (Shimon Peres, who was not present, telephoned his support). Two ministers, Dichter and Livni, were opposed. The military benefits of the bombing were marginal. Nasrallah, ensconced in a bunker beneath his residence, was protected by enough layers of cement to avoid injury. But Dahia was a symbol, and Israel’s ministers and officers wanted a move that would deliver a painful surgical blow to Hezbollah’s strength and honor. Although this was not specifically stated at the meeting, some participants realized that an attack on Dahia presaged all-out war against Hezbollah. The idea of “bang and it’s over” increasingly receded.` - 34 days: Israel, Hezbollah, and the war in Lebanon, Amos Harel & Avi Isacharoff, 2008
