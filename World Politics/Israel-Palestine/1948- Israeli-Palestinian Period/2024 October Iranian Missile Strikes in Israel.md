@@ -11,3 +11,5 @@
 	  `Mr. al-Asali, 37, was walking through a Palestinian Authority training base that had been converted into a shelter for Palestinian laborers from Gaza when a large fragment of a missile slammed into him, according to security camera footage reviewed by The New York Times. It appeared the fragment had either fallen off the missile or had plummeted after being hit by an Israeli interceptor.`
 	  
 	  `Mr. al-Asali’s father, Khader al-Asali, said in a phone interview that he had been shocked to discover his son’s lifeless body. “He was unlucky,” he said.` - [Laborer From Gaza Is First Reported Fatality of Iran’s Missile Attack, The New York Times 2024](https://www.nytimes.com/2024/10/01/world/middleeast/gaza-palestinian-dead-iran-attack.html)
+- a
+-  
