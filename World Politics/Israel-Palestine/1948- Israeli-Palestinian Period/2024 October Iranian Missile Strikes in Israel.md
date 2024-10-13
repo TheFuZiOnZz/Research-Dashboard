@@ -12,4 +12,8 @@
 	  
 	  `Mr. al-Asali’s father, Khader al-Asali, said in a phone interview that he had been shocked to discover his son’s lifeless body. “He was unlucky,” he said.` - [Laborer From Gaza Is First Reported Fatality of Iran’s Missile Attack, The New York Times 2024](https://www.nytimes.com/2024/10/01/world/middleeast/gaza-palestinian-dead-iran-attack.html)
 - a
--  
+
+
+
+Foodaholic - £14
+
