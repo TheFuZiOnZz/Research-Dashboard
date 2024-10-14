@@ -381,47 +381,32 @@ In re: Enforcement of Election Laws and Securing Ballots Cast or Received after 
 - [link](https://www.archives.gov/foia/2020-presidential-election-unofficial-certificates)
 # January 6 Capitol Hill Insurrection
 - On 6 January 2021 @ 1:00AM EST, President Trump tweeted,
-    
     - `If Vice President @Mike_Pence comes through for us, we will win the Presidency. Many States want to decertify the mistake they made in certifying incorrect & even fraudulent numbers in a process NOT approved by their State Legislatures (which it must be). Mike can send it back!` [link](https://web.archive.org/web/20210106060056/https://twitter.com/realDonaldTrump/status/1346698217304584192)
-    
 - On 6 January 2021 @ 8:17AM EST, President Trump tweeted,
-    
     - `States want to correct their votes, which they now know were based on irregularities and fraud, plus corrupt process never received legislative approval. All Mike Pence has to do is send them back to the States, AND WE WIN. Do it Mike, this is a time for extreme courage!` [link](https://web.archive.org/web/20210106131747/https://twitter.com/realdonaldtrump/status/1346808075626426371)
-    
 - On 6 January 2021 @ 11:58AM-13:10PM EST, Trump started his `Save America` Rally Speech, for more than an hour, repeating false claims about a stolen election and telling the crowd to “never give up” and “never concede.”
-    
     - `So we’re going to, we’re going to walk down Pennsylvania Avenue. I love Pennsylvania Avenue. And we’re going to the Capitol, and we’re going to try and give.  
     -   
     - The Democrats are hopeless, they never vote for anything. Not even one vote. But we’re going to try and give our Republicans, the weak ones because the strong ones don’t need any of our help. We’re going to try and give them the kind of pride and boldness that they need to take back our country.  
     -   
     - So let’s walk down Pennsylvania Avenue.`  
     - [link](https://apnews.com/article/election-2020-joe-biden-donald-trump-capitol-siege-media-e79eb5164613d6718e9f4502eb471f27)
-    
 - On 6 January 2021 @ 13:00PM EST, An initial wave of protesters storms the outer barricade west of the Capitol building as senators and Vice President Pence walk to the House chamber. [link](https://www.washingtonpost.com/nation/interactive/2021/capitol-insurrection-visual-timeline/?itid=hp-top-table-main-0106#:~:text=An%20initial%20wave%20of%20protesters%20storms%20the%20outer%20barricade%20west%20of%20the%20Capitol%20building%20as%20senators%20and%20Vice%20President%20Pence%20walk%20to%20the%20House%20chamber.)
 - On 6 January 2021 @ 13:05PM EST, Vice President Pence released a letter about the Electoral College certification,
-    
     - `Given the controversy surrounding this year's election, some approach this year's quadrennial tradition with great expectation, and others with dismissive disdain. Some believe that as Vice President, I should be able to accept or reject electoral votes unilaterally. Others believe that electoral votes should never be challenged in a Joint Session of Congress. After a careful study of our Constitution, our laws, and our history, I believe neither view is correct.  
     -   
     - ...  
     -   
     - Four years ago, surrounded by my family, I took an oath to support and defend the Constitution, which ended with the words, “ So help me God. ” Today I want to assure the American people that I will keep the oath I made to them and I will keep the oath I made to Almighty God. When the Joint Session of Congress convenes today, I will do my duty to see to it that we open the certificates of the Electors of the several states, we hear objections raised by Senators and Representatives, and we count the votes of the Electoral College for President and Vice President in a manner consistent with our Constitution, laws, and history. So Help Me God.`  
     - [link](https://int.nyt.com/data/documenttools/pence-letter-on-vp-and-counting-electoral-votes/9d6f117b6b98d66f/full.pdf)
-    
 - On 6 January 2021 @ 13:30PM EST, After Trump’s speech, supporters begin marching toward the U.S. Capitol. [link]
 - On 6 January 2021 @ 14:24PM EST, President Trump tweeted and then got deleted,
-    
     - `Mike Pence didn’t have the courage to do what should have been done to protect our Country and our Constitution, giving States a chance to certify a corrected set of facts, not the fraudulent or inaccurate ones which they were asked to previously certify. USA demands the truth!` [link](https://web.archive.org/web/20210106192450/https://twitter.com/realdonaldtrump/status/1346900434540240897)
-    
 - On 6 January 2021 @ 14:38PM EST, President Trump tweeted,
-    
     - `Please support our Capitol Police and Law Enforcement. They are truly on the side of our Country. Stay peaceful!` [link](https://web.archive.org/web/20210106193926/https://twitter.com/realdonaldtrump/status/1346904110969315332)
-    
 - On 6 January 2021 @ 15:13PM EST, President Trump tweeted,
-    
     - `I am asking for everyone at the U.S. Capitol to remain peaceful. No violence! Remember, WE are the Party of Law & Order – respect the Law and our great men and women in Blue. Thank you!` [link](https://web.archive.org/web/20210106201352/https://twitter.com/realdonaldtrump/status/1346912780700577792)
-    
 - On 6 January 2021 @ 16:17PM EST, President Trump tweeted a video and then got deleted,
-    
     - `I know your pain. I know you're hurt. We had an election that was stolen from us. It was a landslide election and everyone knows it, especially the other side. But you have to go home now. We have to have peace. We have to have law and order. We have to respect our great people in law and order. We don't want anybody hurt. It's a very tough period of time. There's never been a time like this where such a thing happened where they could take it away from all of us, from me, from you, from our country. This was a fraudulent election. But we can't play into the hands of these people. We have to have peace. So go home, we love you. You're very special. You've seen what happens. You see the way others are treated that are so bad and so evil. I know how you feel, but go home and go home at peace.` [link](https://web.archive.org/web/20210106211739/https://twitter.com/realdonaldtrump/status/1346928882595885058) [link](https://www.c-span.org/video/?507774-1/president-trump-claims-election-stolen-tells-protesters-leave-capitol)
     
 - On 6 January 2021 @ 17:40PM EST, Police begin to clear the Capitol as rioters are pushed back and the interior is secured. Congressional leaders announce that they will proceed with the electoral vote tally. [link](https://www.washingtonpost.com/nation/interactive/2021/capitol-insurrection-visual-timeline/?itid=hp-top-table-main-0106#:~:text=Police%20begin%20to%20clear%20the%20Capitol%20as%20rioters%20are%20pushed%20back%20and%20the%20interior%20is%20secured.%20Congressional%20leaders%20announce%20that%20they%20will%20proceed%20with%20the%20electoral%20vote%20tally.)
@@ -512,8 +497,13 @@ In re: Enforcement of Election Laws and Securing Ballots Cast or Received after 
     - ADAM KINZINGER (R) Illinois
 - Majority of the witnesses involved in the J6 Select Committee Report were Republicans.
     - Two of President Trump’s former Attorneys General, his former White House Counsel, numerous members of his White House staff, and the highest-ranking members of his 2020 election campaign, including his campaign manager and his campaign general counsel.
+- Cheney was [ousted from the Republican leadership](https://www.npr.org/2021/05/12/995072539/gop-poised-to-oust-cheney-from-leadership-over-her-criticism-of-trump) from the third highest position in the House for her intense criticisms of Donald Trump's claims about election rigging.
+    - Cheney had one of the most conservative voting records in Congress, and [voted in line with Trump's agenda](https://projects.fivethirtyeight.com/congress-trump-score/liz-cheney/) 92.9% of the time.
+- Representatives Liz Cheney (R-WY) and Adam Kinzinger (R-IL) were censured by the Republican party for participating in the J6 House Select Committee. Cheney would go on to get crushed in her election, Kinzinger had already announced he would not be running again.
+	- ` ` - [Liz Cheney loses House Republican leadership post over feud with Trump, CNN, 2021](https://www.cnn.com/2021/05/12/politics/liz-cheney-gop-conference-vote/index.html)
 # OIG Analysis on Secret Service Preparation for January 6
 - [link](https://www.oig.dhs.gov/sites/default/files/assets/2024-08/OIG-24-42-Aug24-Redacted.pdf)
+- 
 # Trump Claiming Fraud In Previous Elections
 - On 6 November 2012, Trump tweeted that the 2012 Election had instances of vote switching at machines.
     
