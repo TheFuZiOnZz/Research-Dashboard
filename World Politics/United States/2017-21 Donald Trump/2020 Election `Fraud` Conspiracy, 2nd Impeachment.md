@@ -201,7 +201,7 @@
 # Specific Fraud Claims
 ## Allied Securities Operations Group Report
 - 
-- [Antrim Michigan Forensics Report, Revised Preliminary Summary, Allied Security Operations Group, 2020](https://www.justice.gov/d9/2023-05/03.31.23.%20--%20Interference%20in%202016%20or%202020%20Presidential%20Elections.pdf)
+	- ` ` - [Antrim Michigan Forensics Report, Revised Preliminary Summary, Allied Security Operations Group, 2020](https://www.justice.gov/d9/2023-05/03.31.23.%20--%20Interference%20in%202016%20or%202020%20Presidential%20Elections.pdf)
 ## State Farm Video
 - Georgia, Ruby Freeman lies and the mysterious ballot boxes from under the black table
     - Origination
@@ -346,11 +346,14 @@
 # Post-Election Lawsuits
 [link](https://en.wikipedia.org/wiki/Post-election_lawsuits_related_to_the_2020_U.S._presidential_election)
 [link](https://en.wikipedia.org/wiki/Legal_affairs_of_Donald_Trump_as_president\#Trump_2020_campaign-related_lawsuits_by_state)
-[link](https://ballotpedia.org/Ballotpedia%27s_2020_Election_Help_Desk:_Tracking_election_disputes,_lawsuits,_and_recounts)
-[link](https://election-integrity.info/2020_Election_Cases.htm)
-[link](https://docs.google.com/document/d/1pIH1Y7E8PU-QCAcWnLVKzVKe8jHt7bQsZdfsK347FcA/edit)
+[Ballotpedia's 2020 Election Help Desk: Tracking election disputes, lawsuits, and recounts - Ballotpedia](https://ballotpedia.org/Ballotpedia%27s_2020_Election_Help_Desk:_Tracking_election_disputes,_lawsuits,_and_recounts)
+[election-integrity.info/2020\_Election\_Cases.htm](https://election-integrity.info/2020_Election_Cases.htm)
+[Debunking 2020 Voter Fraud Claims - Google Docs](https://docs.google.com/document/d/1pIH1Y7E8PU-QCAcWnLVKzVKe8jHt7bQsZdfsK347FcA/edit?tab=t.0)
 [Lost, Not Stolen: The Conservative Case that Trump Lost and Biden Won the 2020 Presidential Election, 2022](https://lostnotstolen.org//wp-content/uploads/2022/07/Lost-Not-Stolen-The-Conservative-Case-that-Trump-Lost-and-Biden-Won-the-2020-Presidential-Election-July-2022.pdf)
-[link](https://campaignlegal.org/results-lawsuits-regarding-2020-elections)
+[J6 Research Request - Google Sheets](https://docs.google.com/spreadsheets/d/1KBp4hMv3adDBpSy2hSLL6GHmJMqCBD0jPzSWkf7MaTc/edit?gid=0#gid=0)
+[Lost, Not Stolen Spreadsheet - Google Sheets](https://docs.google.com/spreadsheets/d/1l2DtYIPQGNAtOqtQEoKZLoK_USxBJ1GnnrNLsxW5rTo/edit?gid=0#gid=0)
+[Results of Lawsuits Regarding the 2020 Elections | Campaign Legal Center](https://campaignlegal.org/results-lawsuits-regarding-2020-elections)
+
 - There was a total of 64 pre and post-election lawsuits in regards to Trump’s claims of voter integrity & fraud.
     - `Of the 64 cases brought by Trump and his supporters, twenty were dismissed before a hearing on the merits, fourteen were voluntarily dismissed by Trump and his supporters before a hearing on the merits, and 30 cases included a hearing on the merits. Only in one Pennsylvania case involving far too few votes to overturn the results did Trump and his supporters prevail.` - [link](https://drive.google.com/file/d/1aqorZ61AYFqZU-EDQBBzjqfvAoC5nKcB/view)
 ## SCOTUS
