@@ -6,7 +6,7 @@
 - [link](https://www.lawforward.org/wp-content/uploads/2024/03/Chesebro-Troupis.pdf) - Chesebro & Troupis Texts on and around Jan 6
 
 - On 14 August 2023, Donald John Trump and 18 other Trump associates were all indicted by the State of Georgia
-- Indicted peoples and their charges
+- Indicted peoples and their charges 
 	- Donald John Trump - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
 		- Solicitation of Violation of Oath by Public Officer
@@ -33,14 +33,14 @@
 		- Criminal Attempt to Commit Filing False Documents
 		- Conspiracy to Commit Forgery in the First Degree
 		- Conspiracy to Commit False Statements and Writings
-		- 23
+		- Solicitation of Violation of Oath by Public Officer
 		- False Statements and Writings
 	- John Charles Eastman - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
 		- Solicitation of Violation of Oath by Public Officer
 		- Conspiracy to Commit Impersonating a Public Officer
 		- Conspiracy to Commit Forgery in the First Degree
-		- Conspiracy to Commit False Statements and Writings
+		- Conspiracy to Commit FALSE STATEMENTS AND WRITINGS
 		- Criminal Attempt to Commit Filing False Documents
 		- Conspiracy to Commit Forgery in the First Degree
 		- Conspiracy to Commit False Statements and Writings
@@ -58,7 +58,7 @@
 		- Conspiracy to Commit False Statements and Writings
 	- Jeffrey Bossert Clark - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
-		- 22
+		- Criminal Attempt to Commit False Statements and Writings
 	- Jenna Lynn Ellis - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
 		- Solicitation of Violation of Oath by Public Officer
@@ -73,7 +73,7 @@
 		- Criminal Attempt to Commit Filing False Documents
 		- Conspiracy to Commit Forgery in the First Degree
 		- Conspiracy to Commit False Statements and Writings
-		- 23
+		- Solicitation of Violation of Oath by Public Officer
 		- False Statements and Writings
 	- Robert David Cheeley - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
@@ -83,9 +83,9 @@
 		- Criminal Attempt to Commit Filing False Documents
 		- Conspiracy to Commit Forgery in the First Degree
 		- Conspiracy to Commit False Statements and Writings
-		- 23
+		- Solicitation of Violation of Oath by Public Officer
 		- False Statements and Writings
-		- 41
+		- Perjury
 	- Michael A. Roman - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
 		- Conspiracy to Commit Impersonating a Public Officer
@@ -113,54 +113,54 @@
 		- False Statements and Writings
 	- Stephen Cliffgard Lee - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
-		- 20
-		- 21
-		- 30
-		- 31
+		- Criminal Attempt to Commit Influencing Witnesses
+		- Criminal Attempt to Commit Influencing Witnesses
+		- Conspiracy to Commit Solicitation of False Statements and Writings 
+		- Influencing Witnesses
 	- Harrison William Prescott Floyd - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
-		- 30
-		- 31
+		- Conspiracy to Commit Solicitation of False Statements and Writings
+		- Influencing Witnesses
 	- Trevian C. Kutti - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
-		- 30
-		- 31
+		- Conspiracy to Commit Solicitation of False Statements and Writings
+		- Influencing Witnesses
 	- Sidney Katherine Powell - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
-		- 32
-		- 33
-		- 34
-		- 35
-		- 36
-		- 37
+		- Conspiracy to Commit Election Fraud
+		- Conspiracy to Commit Election Fraud
+		- Conspiracy to Commit Computer Theft
+		- Conspiracy to Commit Computer Trespass
+		- Conspiracy to Commit Computer Invasion of Privacy
+		- Conspiracy to Defraud the State
 	- Cathleen Alston Latham - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
 		- Impersonating a Public Officer
 		- Forgery in the First Degree
 		- False Statements and Writings
 		- Criminal Attempt to Commit False Statements and Writings
-		- 32
-		- 33
-		- 34
-		- 35
-		- 36
-		- 37
+		- Conspiracy to Commit Election Fraud
+		- Conspiracy to Commit Election Fraud
+		- Conspiracy to Commit Computer Theft
+		- Conspiracy to Commit Computer Trespass
+		- Conspiracy to Commit Computer Invasion of Privacy
+		- Conspiracy to Defraud the State
 	- Scott Graham Hall - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
-		- 32
-		- 33
-		- 34
-		- 35
-		- 36
-		- 37
+		- Conspiracy to Commit Election Fraud
+		- Conspiracy to Commit Election Fraud
+		- Conspiracy to Commit Computer Theft
+		- Conspiracy to Commit Computer Trespass
+		- Conspiracy to Commit Computer Invasion of Privacy
+		- Conspiracy to Defraud the State
 	- Misty Hampton - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
-		- 32
-		- 33
-		- 34
-		- 35
-		- 36
-		- 37
+		- Conspiracy to Commit Election Fraud
+		- Conspiracy to Commit Election Fraud
+		- Conspiracy to Commit Computer Theft
+		- Conspiracy to Commit Computer Trespass
+		- Conspiracy to Commit Computer Invasion of Privacy
+		- Conspiracy to Defraud the State
 - The 2 January 2021 Trump–Raffensperger phone call is used as as evidence for committing a felony offence of false statements and writings and accused Trump of committing an act of Racketeering. The inditement included 13 statements Trump said during the call. This charge was compounded by the tweet Trump made the day after, with it being called a overt act in furtherance of the conspiracy.
 	- `Act 113.`
 	  
