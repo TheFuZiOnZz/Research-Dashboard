@@ -344,15 +344,8 @@
       `Even after the election, Russian online influence actors continued to promote narratives questioning the election results and disparaging President Biden and the Democratic Party. These efforts parallel plans Moscow had in place in 2016 to discredit a potential incoming Clinton administration, but which it scrapped after former President Trump's victory.` - [Foreign Threats to the 2020 US Federal Elections, Office of the Director of National Intelligence, 2021](https://s3.documentcloud.org/documents/20515484/icadeclass16mar21.pdf)
     
 # Post-Election Lawsuits
-[Post-election lawsuits related to the 2020 U.S. presidential election - Wikipedia](https://en.wikipedia.org/wiki/Post-election_lawsuits_related_to_the_2020_U.S._presidential_election)
-[Ballotpedia's 2020 Election Help Desk: Tracking election disputes, lawsuits, and recounts - Ballotpedia](https://ballotpedia.org/Ballotpedia%27s_2020_Election_Help_Desk:_Tracking_election_disputes,_lawsuits,_and_recounts)
-[election-integrity.info/2020\_Election\_Cases.htm](https://election-integrity.info/2020_Election_Cases.htm)
-[Debunking 2020 Voter Fraud Claims - Google Docs](https://docs.google.com/document/d/1pIH1Y7E8PU-QCAcWnLVKzVKe8jHt7bQsZdfsK347FcA/edit?tab=t.0)
 [Lost, Not Stolen: The Conservative Case that Trump Lost and Biden Won the 2020 Presidential Election, 2022](https://lostnotstolen.org//wp-content/uploads/2022/07/Lost-Not-Stolen-The-Conservative-Case-that-Trump-Lost-and-Biden-Won-the-2020-Presidential-Election-July-2022.pdf)
 [J6 Research Request - Google Sheets](https://docs.google.com/spreadsheets/d/1KBp4hMv3adDBpSy2hSLL6GHmJMqCBD0jPzSWkf7MaTc/edit?gid=0#gid=0)
-[Lost, Not Stolen Spreadsheet - Google Sheets](https://docs.google.com/spreadsheets/d/1l2DtYIPQGNAtOqtQEoKZLoK_USxBJ1GnnrNLsxW5rTo/edit?gid=0#gid=0)
-[Results of Lawsuits Regarding the 2020 Elections | Campaign Legal Center](https://campaignlegal.org/results-lawsuits-regarding-2020-elections)
-
 - There was a total of 64 pre and post-election lawsuits in regards to Trump’s claims of voter integrity & fraud.
     - `Of the 64 cases brought by Trump and his supporters, twenty were dismissed before a hearing on the merits, fourteen were voluntarily dismissed by Trump and his supporters before a hearing on the merits, and 30 cases included a hearing on the merits. Only in one Pennsylvania case involving far too few votes to overturn the results did Trump and his supporters prevail.` - [Lost, Not Stolen: The Conservative Case that Trump Lost and Biden Won the 2020 Presidential Election, 2022](https://lostnotstolen.org//wp-content/uploads/2022/07/Lost-Not-Stolen-The-Conservative-Case-that-Trump-Lost-and-Biden-Won-the-2020-Presidential-Election-July-2022.pdf)
 ## SCOTUS
