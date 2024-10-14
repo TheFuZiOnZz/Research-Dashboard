@@ -505,7 +505,7 @@ In re: Enforcement of Election Laws and Securing Ballots Cast or Received after 
 ### Texas v. Pennsylvania et al.
 ### Gohmert v. Pence
 ## Washington D.C.
-### Wisconsin Voters Alliance v. Pence, No. 1:20-cv-03791-JEB (D.D.C.)
+### Wisconsin Voters Alliance v. Pence,
 ## Wisconsin
 - The Wisconsin Supreme Court [rejected a case](https://apnews.com/article/election-2020-joe-biden-donald-trump-wisconsin-lawsuits-2917742813e06908608848410ff41b0c) from the Trump campaign seeking to overturn election results.
 - Trump personally filed a similar lawsuit in a federal court in Wisconsin. A Trump-appointed federal judge said he had standing to bring the case — a rare departure from other judges — [and then ruled against him](https://www.jsonline.com/story/news/politics/2020/12/12/trump-wisconsin-lawsuit-dismissed-federal-judge/3894689001/). [An appeal failed as well](https://www.politico.com/news/2020/12/24/trump-loses-wisconsin-georgia-450433), with the author of the appellate opinion also a Trump appointee.
