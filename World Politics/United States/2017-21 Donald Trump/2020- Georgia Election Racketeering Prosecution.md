@@ -5,8 +5,46 @@
 - [link](https://www.politico.com/f/?id=00000189-f730-dc32-ab89-f7fc1f760000)
 - [link](https://www.lawforward.org/wp-content/uploads/2024/03/Chesebro-Troupis.pdf) - Chesebro & Troupis Texts on and around Jan 6
 
-- On 14 August 2023, Donald John Trump, Rudolph William Louis Giuliani, John Charles Eastman, Mark Randall Meadows, Kenneth John Chesebro, Jeffrey Bossert Clark, Jenna Lynn Ellis, Ray Stallings Smith Iii, Robert David Cheeley, Michael A. Roman, David James Shafer, Shawn Micah Tresher Still, Stephen Cliffgard Lee, Harrison William Prescott Floyd, Trevian C. Kutti, Sidney Katherine Powell, Cathleen Alston Latham, Scott Graham Hall, And Misty Hampton were all charged with one count of violating Georgia's Racketeer Influenced and Corrupt Organizations (RICO) statute and individually have avarious charges of 
-- Indite
+- On 14 August 2023, Donald John Trump and 18 other Trump associates were all indicted by the State of Georgia
+- Indicted peoples and their charges
+	- Donald John Trump - 
+		- Violation of the Georgia RICO (racketeer Influenced And Corrupt Organizations) Act
+	- Rudolph William Louis Giuliani - 
+		- Violation of the Georgia RICO (racketeer Influenced And Corrupt Organizations) Act
+	- John Charles Eastman - 
+		- Violation of the Georgia RICO (racketeer Influenced And Corrupt Organizations) Act
+	- Mark Randall Meadows - 
+		- Violation of the Georgia RICO (racketeer Influenced And Corrupt Organizations) Act
+	- Kenneth John Chesebro - 
+		- Violation of the Georgia RICO (racketeer Influenced And Corrupt Organizations) Act
+	- Jeffrey Bossert Clark - 
+		- Violation of the Georgia RICO (racketeer Influenced And Corrupt Organizations) Act
+	- Jenna Lynn Ellis - 
+		- Violation of the Georgia RICO (racketeer Influenced And Corrupt Organizations) Act
+	- Ray Stallings Smith III - 
+		- Violation of the Georgia RICO (racketeer Influenced And Corrupt Organizations) Act
+	- Robert David Cheeley - 
+		- Violation of the Georgia RICO (racketeer Influenced And Corrupt Organizations) Act
+	- Michael A. Roman - 
+		- Violation of the Georgia RICO (racketeer Influenced And Corrupt Organizations) Act
+	- David James Shafer - 
+		- Violation of the Georgia RICO (racketeer Influenced And Corrupt Organizations) Act
+	- Shawn Micah Tresher Still - 
+		- Violation of the Georgia RICO (racketeer Influenced And Corrupt Organizations) Act
+	- Stephen Cliffgard Lee - 
+		- Violation of the Georgia RICO (racketeer Influenced And Corrupt Organizations) Act
+	- Harrison William Prescott Floyd - 
+		- Violation of the Georgia RICO (racketeer Influenced And Corrupt Organizations) Act
+	- Trevian C. Kutti - 
+		- Violation of the Georgia RICO (racketeer Influenced And Corrupt Organizations) Act
+	- Sidney Katherine Powell - 
+		- Violation of the Georgia RICO (racketeer Influenced And Corrupt Organizations) Act
+	- Cathleen Alston Latham - 
+		- Violation of the Georgia RICO (racketeer Influenced And Corrupt Organizations) Act
+	- Scott Graham Hall - 
+		- Violation of the Georgia RICO (racketeer Influenced And Corrupt Organizations) Act
+	- And Misty Hampton - 
+		- Violation of the Georgia RICO (racketeer Influenced And Corrupt Organizations) Act
 - The 2 January 2021 Trump–Raffensperger phone call is used as as evidence for committing a felony offence of false statements and writings and accused Trump of committing an act of racketeering. The inditement included 13 statements Trump said during the call. This charge was compounded by the tweet Trump made the day after, with it being called a overt act in furtherance of the conspiracy.
 	- `Act 113.`
 	  
