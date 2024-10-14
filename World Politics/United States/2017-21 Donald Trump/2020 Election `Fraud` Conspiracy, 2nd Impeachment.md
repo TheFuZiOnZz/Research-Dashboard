@@ -66,6 +66,9 @@
       
       `And flipping the state is a great testament to our country because, you know, this is — it’s a testament that they can admit to a mistake or whatever you want to call it. If it was a mistake, I don’t know. A lot of people think it wasn’t a mistake. It was much more criminal than that. But it’s a big problem in Georgia, and it’s not a problem that’s going away. I mean, you know, it’s not a problem that’s going away.` - [Transcript and audio: Trump call with Georgia Sec. of State Brad Raffensperger, The Washington Post, 2021](https://archive.ph/BMC7Q)
 - Trump repeated the State Farm Video claims to Raffensperger, to which Trump was rebutted about their falsehood.
+    - Trump: `We had at least 18,000 — that’s on tape, we had them counted very painstakingly — 18,000 voters having to do with [name]. She’s a vote scammer, a professional vote scammer and hustler [name]. That was the tape that’s been shown all over the world that makes everybody look bad, you, me and everybody else.`
+      
+      `Where they got — number one they said very clearly and it’s been reported that they said there was a major water main break. Everybody fled the area. And then they came back, [name] and her daughter and a few people. There were no Republican poll watchers. Actually, there were no Democrat poll watchers, I guess they were them. But there were no Democrats, either, and there was no law enforcement. Late in the morning, early in the morning, they went to the table with the black robe and the black shield, and they pulled out the votes. Those votes were put there a number of hours before — the table was put there — I think it was, Brad, you would know, it was probably eight hours or seven hours before, and then it was stuffed with votes.` - [Transcript and audio: Trump call with Georgia Sec. of State Brad Raffensperger, The Washington Post, 2021](https://archive.ph/BMC7Q)
     - `Trump: But, Cleta, even before you do that, and not even including that, that’s why I hardly even included that number, although in one state, we have a tremendous amount of dead people. So I don’t know — I’m sure we do in Georgia, too. I’m sure we do in Georgia, too.`
       
       `We’re so far ahead of these numbers, even the phony ballots of [name] , known scammer. You know the Internet? You know what was trending on the Internet? “Where’s [name]?” Because they thought she’d be in jail. “Where’s [name]?” It’s crazy, it’s crazy. That was. The minimum number is 18,000 for [name] , but they think it’s probably about 56,000, but the minimum number is 18,000 on the [name] night where she ran back in there when everybody was gone and stuffed, she stuffed the ballot boxes. Let’s face it, Brad, I mean. They did it in slow motion replay magnified, right? She stuffed the ballot boxes. They were stuffed like nobody has ever seen them stuffed before.`
@@ -91,6 +94,13 @@
       `Trump: Where was everybody else at that late time in the morning? Where was everybody? Where were the Republicans? Where were the security guards? Were the people that were there just a little while before when everyone ran out of the room. How come we had no security in the room. Why did they run to the bottom of the table? Why do they run there and just open the skirt and rip out the votes. I mean, Brad. And they were sitting there, I think for five hours or something like that, the votes.`
       
       `Raffensperger: Mr. President, we’ll send you the link from WSB.` - [Transcript and audio: Trump call with Georgia Sec. of State Brad Raffensperger, The Washington Post, 2021](https://archive.ph/BMC7Q)
+-
+- 
+- 
+- 
+- 
+- 
+- 
 - On 3 January 2021, Trump then tweeted the false State Farm claim saying Raffensperger couldn't account for voter fraud in Georgia.
 	- `I spoke to Secretary of State Brad Raffensperger yesterday about Fulton County and voter fraud in Georgia. He was unwilling, or unable, to answer questions such as the “ballots under table” scam, ballot destruction, out of state “voters”, dead voters, and more. He has no clue!` - [@realdonaldtrump Tweet, 2021](https://x.com/realDonaldTrump/status/1345731043861659650)
 - On 3 January 2021, Raffensperger replied to Trump's tweet denying the claim.
