@@ -97,6 +97,7 @@
 	- `Respectfully, President Trump: What you're saying is not true. The truth will come out` - [@GaSecofState Tweet, 2021](https://x.com/GaSecofState/status/1345753643593687040)
 - On 4 January 2021, Raffensperger released the call in full to the press. 
 	- [Full Phone Call: Trump Pressures Georgia Secretary of State To Recount Election Votes, YouTube, 2021](https://youtu.be/AW_Bdf_jGaA?si=hU5Lem4EkJ9sRijv)
+- This call was used in evidence for the [2020- Georgia Election Racketeering Prosecution](2020-%20Georgia%20Election%20Racketeering%20Prosecution) as 
 # Specific Fraud Claims
 ## Allied Securities Operations Group Report
 - [link](https://www.justice.gov/d9/2023-05/03.31.23.%20--%20Interference%20in%202016%20or%202020%20Presidential%20Elections.pdf)
