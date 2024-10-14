@@ -161,9 +161,9 @@
 		- Conspiracy to Commit Computer Invasion of Privacy
 		- Conspiracy to Defraud the State
 - The 2 January 2021 Trump–Raffensperger phone call is used as as evidence for committing a felony offence of False Statements and Writings and accused Trump of committing an act of Racketeering. The inditement included 13 statements Trump said during the call. This charge was compounded by the tweet Trump made the day after, with it being called a overt act in furtherance of the conspiracy.
-	- `Act 113.`
+	- `COUNT 29 of 41`
 	  
-	  `On or about the 2nd day of January 2021, DONALD JOHN TRUMP committed the felony offense of False Statements and Writings, in violation of O.C.G.A. 16- 10-20, in Fulton County, Georgia, by knowingly, willfully, and unlawfully making at least one of the following false statements and representations to Georgia Secretary of State Brad Raffensperger, Georgia Deputy Secretary of State Jordan Fuchs, and Georgia Secretary of State General Counsel Ryan Germany:`
+	  `And the Grand Jurors aforesaid, in the name and behalf of the citizens of Georgia, do charge and accuse DONALD JOHN TRUMP with the offense of FALSE STATEMENTS AND WRITINGS, O.C.G.A. 16-10-20, for the said accused, in the County of Fulton and State of Georgia, on or about the 2nd day of January 2021, knowingly, willfully, and unlawfully made at least one of the following false statements and representations to Georgia Secretary of State Brad Raffensperger, Georgia Deputy Secretary of State Jordan Fuchs, and Georgia Secretary of State General Counsel Ryan Germany:`
 	  
 	  `1. That anywhere from 250,000 to 300,000 ballots were dropped mysteriously into the rolls in the November 3, 2020, presidential election in Georgia;`
 	  `2. That thousands ofpeople attempted to vote in the November 3, 2020, presidential election in Georgia and were told they could not because ballot had already been cast in their name;`
@@ -179,7 +179,7 @@
 	  `12. That hundreds ofthousands of ballots had been "dumped" into Fulton County and another county adjacent to Fulton County in the November 3, 2020, presidential election in Georgia;`
 	  `13. That he won the November 3, 2020, presidential election in Georgia by 400,000 votes;`
 	  
-	  `said statements being within the jurisdiction of the Ofiice ofthe Georgia Secretary of State and the Georgia Bureau of Investigation, departments and agencies of state government. This was an act ofRacketeering activity under O.C.G.A. 16-14-3 (5)(A)(xxii) and an overt act in furtherance of the conspiracy.` - [The State of Georgia v. Donald J. Trump, et al. (Inditement), 2023](https://d3i6fh83elv35t.cloudfront.net/static/2023/08/CRIMINAL-INDICTMENT-Trump-Fulton-County-GA.pdf)
+	  `said statements being within the jurisdiction of the Office ofthe Georgia Secretary of State and the Georgia Bureau of Investigation, departments and agencies of state government, contrary to the laws of said State, the good order, peace and dignity thereof;` - [The State of Georgia v. Donald J. Trump, et al. (Inditement), 2023](https://d3i6fh83elv35t.cloudfront.net/static/2023/08/CRIMINAL-INDICTMENT-Trump-Fulton-County-GA.pdf)
 	- `Act 114.`
 	  
 	  `On or about the 3rd day of January 2021, DONALD JOHN TRUMP caused to be tweeted from the Twitter account @RealDonaldTrump, "I spoke to Secretary of State Brad Raffensperger yesterday about Fulton County and voter fraud in Georgia. He was unwilling, or unable, to answer questions such as the 'ballots under table' scam, ballot destruction, out of state 'voters', dead voters, and more. He has no clue!" This was an overt act in furtherance of the conspiracy.` - [The State of Georgia v. Donald J. Trump, et al. (Inditement), 2023](https://d3i6fh83elv35t.cloudfront.net/static/2023/08/CRIMINAL-INDICTMENT-Trump-Fulton-County-GA.pdf)
