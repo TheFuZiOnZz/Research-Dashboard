@@ -344,8 +344,7 @@
       `Even after the election, Russian online influence actors continued to promote narratives questioning the election results and disparaging President Biden and the Democratic Party. These efforts parallel plans Moscow had in place in 2016 to discredit a potential incoming Clinton administration, but which it scrapped after former President Trump's victory.` - [Foreign Threats to the 2020 US Federal Elections, Office of the Director of National Intelligence, 2021](https://s3.documentcloud.org/documents/20515484/icadeclass16mar21.pdf)
     
 # Post-Election Lawsuits
-[link](https://en.wikipedia.org/wiki/Post-election_lawsuits_related_to_the_2020_U.S._presidential_election)
-[link](https://en.wikipedia.org/wiki/Legal_affairs_of_Donald_Trump_as_president\#Trump_2020_campaign-related_lawsuits_by_state)
+[Post-election lawsuits related to the 2020 U.S. presidential election - Wikipedia](https://en.wikipedia.org/wiki/Post-election_lawsuits_related_to_the_2020_U.S._presidential_election)
 [Ballotpedia's 2020 Election Help Desk: Tracking election disputes, lawsuits, and recounts - Ballotpedia](https://ballotpedia.org/Ballotpedia%27s_2020_Election_Help_Desk:_Tracking_election_disputes,_lawsuits,_and_recounts)
 [election-integrity.info/2020\_Election\_Cases.htm](https://election-integrity.info/2020_Election_Cases.htm)
 [Debunking 2020 Voter Fraud Claims - Google Docs](https://docs.google.com/document/d/1pIH1Y7E8PU-QCAcWnLVKzVKe8jHt7bQsZdfsK347FcA/edit?tab=t.0)
@@ -355,25 +354,19 @@
 [Results of Lawsuits Regarding the 2020 Elections | Campaign Legal Center](https://campaignlegal.org/results-lawsuits-regarding-2020-elections)
 
 - There was a total of 64 pre and post-election lawsuits in regards to Trump’s claims of voter integrity & fraud.
-    - `Of the 64 cases brought by Trump and his supporters, twenty were dismissed before a hearing on the merits, fourteen were voluntarily dismissed by Trump and his supporters before a hearing on the merits, and 30 cases included a hearing on the merits. Only in one Pennsylvania case involving far too few votes to overturn the results did Trump and his supporters prevail.` - [link](https://drive.google.com/file/d/1aqorZ61AYFqZU-EDQBBzjqfvAoC5nKcB/view)
+    - `Of the 64 cases brought by Trump and his supporters, twenty were dismissed before a hearing on the merits, fourteen were voluntarily dismissed by Trump and his supporters before a hearing on the merits, and 30 cases included a hearing on the merits. Only in one Pennsylvania case involving far too few votes to overturn the results did Trump and his supporters prevail.` - [Lost, Not Stolen: The Conservative Case that Trump Lost and Biden Won the 2020 Presidential Election, 2022](https://lostnotstolen.org//wp-content/uploads/2022/07/Lost-Not-Stolen-The-Conservative-Case-that-Trump-Lost-and-Biden-Won-the-2020-Presidential-Election-July-2022.pdf)
 ## SCOTUS
 ### Mike Kelly, et al. v. Pennsylvania, et al.
-- On 3 December 2020, 28 Republican politicians, led by Rep. Mike Kelly, asked the US Supreme Court to block the certification of Pennsylvania's election results alleging that “no excuse” absentee voting law unlawfully expanded the scope of absentee voting. Plaintiffs sought a temporary restraining order against certification while the courts ruled on the issue. [link](https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/20-810.html)
-- On 8 December 2020, The court turned down the case.
-    - `First, Petitioners’ unjustifiable delay in filing suit not only supports the application of laches, but also weighs against issuing an injunction. Petitioners waited over a year after Act 77 passed—and then weeks after Election Day—to first bring their claims. Petitioners should not receive extraordinary relief after unduly delaying in a manner that created the very exigent circumstances that supposedly animate their rush to this Court.  
-    -   
-    - ...  
-    -   
-    - Second, the public interest in avoiding mass disenfranchisement of an entire state militates overwhelmingly against Petitioners’ request for relief. As Judge Sutton has explained, “[c]all it what you will—laches, the Purcell principle, or common sense—the idea is that courts will not disrupt imminent elections absent a powerful reason for doing so.”  
-    -   
-    - ...  
-    -   
-    - Finally, granting an injunction would sow chaos and confusion across the Nation while inflaming baseless concerns about electoral impropriety and ensnaring the Judiciary in partisan strife. This case reaches the Court against the backdrop of unfounded claims—which have been repeatedly rejected by state and federal courts— that wrongly impugn the integrity of the democratic process and aim to cast doubt on the legitimacy of its outcome. Given that context, the Court should not plunge itself into a firestorm by issuing the first ever judicial order decertifying the results of a presidential election. Instead, it should stay true to “the trust of a Nation that here, We the People rule.”  
-    -   
-    - ...  
-    -   
-    - Petitioner’s application for a writ of injunction should be denied.`  
-    - [link](https://www.supremecourt.gov/DocketPDF/20/20A98/162968/20201208090425848_20A98%20Response%20in%20Opposition%20efile.pdf)
+- On 3 December 2020, 28 Republican politicians, led by Rep. Mike Kelly, asked the US Supreme Court to block the certification of Pennsylvania's election results alleging that “no excuse” absentee voting law unlawfully expanded the scope of absentee voting. Plaintiffs sought a temporary restraining order against certification while the courts ruled on the issue. 
+	- [Mike Kelly, et al. v. Pennsylvania, et al. (Docket), Supreme Court of the United States, 2020](https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/20-810.html)
+- On 8 December 2020, The SCOTUS turned down seeing the case.
+    - `First, Petitioners’ unjustifiable delay in filing suit not only supports the application of laches, but also weighs against issuing an injunction. Petitioners waited over a year after Act 77 passed—and then weeks after Election Day—to first bring their claims. Petitioners should not receive extraordinary relief after unduly delaying in a manner that created the very exigent circumstances that supposedly animate their rush to this Court.`
+      
+      `Second, the public interest in avoiding mass disenfranchisement of an entire state militates overwhelmingly against Petitioners’ request for relief. As Judge Sutton has explained, “[c]all it what you will—laches, the Purcell principle, or common sense—the idea is that courts will not disrupt imminent elections absent a powerful reason for doing so.”`
+      
+      `Finally, granting an injunction would sow chaos and confusion across the Nation while inflaming baseless concerns about electoral impropriety and ensnaring the Judiciary in partisan strife. This case reaches the Court against the backdrop of unfounded claims—which have been repeatedly rejected by state and federal courts— that wrongly impugn the integrity of the democratic process and aim to cast doubt on the legitimacy of its outcome. Given that context, the Court should not plunge itself into a firestorm by issuing the first ever judicial order decertifying the results of a presidential election. Instead, it should stay true to “the trust of a Nation that here, We the People rule.”`
+      
+      `Petitioner’s application for a writ of injunction should be denied.` - Mike Kelly, et al. v. Pennsylvania, et al. (Opposition of Respondents to Emergency Application for Writ of Injunction Pending the Filing And Disposition of a Petition for a Writ of Certiorari), Supreme Court of the United States, 2020[supremecourt.gov/DocketPDF/20/20A98/162968/20201208090425848\_20A98 Response in Opposition efile.pdf](https://www.supremecourt.gov/DocketPDF/20/20A98/162968/20201208090425848_20A98%20Response%20in%20Opposition%20efile.pdf)
 ### Texas v. Pennsylvania, et al.
 - On 7 December 2020, Texas Attorney General Ken Paxton sued Pennsylvania, Georgia, Michigan, and Wisconsin in the US Supreme Court seeking to overturn their election results. [link](https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/22o155.html)
 - On 11 December 2020,The Supreme Court rejected the case.
