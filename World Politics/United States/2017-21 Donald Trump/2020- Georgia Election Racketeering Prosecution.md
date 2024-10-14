@@ -22,7 +22,7 @@
 
 
 
-- 
+- The 2 January 2021 Trump–Raffensperger phone call is used as as evidence for committing a felony offence of false statements and writings and accused Trump of committing an act of racketeering. The inditement included 13 statements Trump said during the call. This charge was compounded by the tweet Trump made the day after, with it being called a overt act in furtherance of the conspiracy.
 	- `On or about the 2nd day of January 2021, DONALD JOHN TRUMP committed the felony offense of FALSE STATEMENTS AND WRITINGS, in violation of O.C.G.A. 16- 10-20, in Fulton County, Georgia, by knowingly, willfully, and unlawfully making at least one of the following false statements and representations to Georgia Secretary of State Brad Raffensperger, Georgia Deputy Secretary of State Jordan Fuchs, and Georgia Secretary of State General Counsel Ryan Germany:`
 	  
 	  `1. That anywhere from 250,000 to 300,000 ballots were dropped mysteriously into the rolls in the November 3, 2020, presidential election in Georgia;`
@@ -40,6 +40,7 @@
 	  `13. That he won the November 3, 2020, presidential election in Georgia by 400,000 votes;`
 	  
 	  `said statements being within the jurisdiction of the Ofiice ofthe Georgia Secretary of State and the Georgia Bureau of Investigation, departments and agencies of state government. This was an act ofracketeering activity under O.C.G.A. 16-14-3 (5)(A)(xxii) and an overt act in furtherance of the conspiracy.` - [The State of Georgia v. Donald J. Trump, et al. (Inditement), 2023](https://d3i6fh83elv35t.cloudfront.net/static/2023/08/CRIMINAL-INDICTMENT-Trump-Fulton-County-GA.pdf)
+	
 
 Act 114.
 On or about the 3rd day of January 2021, DONALD JOHN TRUMP caused to be
