@@ -109,9 +109,53 @@
 # Specific Fraud Claims
 ## Allied Securities Operations Group Report
 - [link](https://www.justice.gov/d9/2023-05/03.31.23.%20--%20Interference%20in%202016%20or%202020%20Presidential%20Elections.pdf)
+## State Farm Video
+- - **Georgia, Ruby Freeman lies and the mysterious ballot boxes from under the black table**
+    - Origination
+        - December 3rd, 2020 - [Georgia Senate Hearing](https://youtu.be/hRCXUNOwOjw?t=2281) Jackie Deason presentation by (notice the precise cuts at 1 hour, and 1 hour 20 minutes) (50:24 complete and total lie) on the "mysteriously appearing ballot boxes"
+        - December 3rd, 2020 - [From the same hearing](https://youtu.be/r6C-80KpGvc?t=2908) with Deason calling out Ruby by name
+            - December 3rd, 2020 - [Tweet](https://x.com/RudyGiuliani/status/1334585579510652928) by Rudy Giuliani of the same video
+            - December 3rd, 2020 - [Tweet](https://x.com/RudyGiuliani/status/1334712590300311553) by Rudy Giuliani claiming Fulton Country Democrats stole the election
+        - December 10th, 2020 - [Rudy Giuliani Presentation](https://youtu.be/9EfgETUKfsI?t=6932) to the Georgia House Governmental Affairs committee claiming Ruby and her daughter was engaged in criminal activity
+    - Trump & Friends repeating the lie
+        - December 3rd, 2020 - [Trump's YouTube](https://www.youtube.com/watch?v=nVP_60Hm4P8) channel posts
+        - December 3rd, 2020 - [Sean Hannity](https://www.foxnews.com/media/sean-hannity-2020-election-georgia-nevada-suspicious-suitcases) repeating the lie, with Giuliani coming on to repeat it as well
+        - December 5th, 2020 - [Trump Rally](https://youtu.be/hKBZemnS1j4?t=1116) about the suitcases
+        - December 5th, 2020 - [Restoration of America](https://www.facebook.com/restorationamerica/posts/1002133710271567/) Facebook post
+        - December 10th, 2020 - [Rudy Giuliani Video](https://www.youtube.com/watch?v=ZfenoKfibJE&t=7819s) claiming Ruby Freeman was engaged in criminal activity.
+        - December 10th, 2020 - [Trump's YouTube](https://www.youtube.com/watch?v=aCenojrUwVM) channel posting the same bad claims about Ruby/the tables
+        - December 22nd, 2020 - [Trump YouTube Video](https://www.youtube.com/watch?v=Oh5j7s1H7ek) calling out Ruby Freeman
+        - January 2nd, 2021 - [Raffensperger Call](https://youtu.be/AW_Bdf_jGaA?t=242) About Ruby, and the mysterious table with the ballot boxes, [same call](https://youtu.be/AW_Bdf_jGaA?t=1269) with her as a "known scammer" and [referring](https://youtu.be/AW_Bdf_jGaA?t=1498) later to her reputation as being ruined because of their lies. [Again](https://youtu.be/AW_Bdf_jGaA?t=2668) bringing up Ruby and her daughter later on in the same call.
+        - January 3rd, 2021 - [Trump Tweeting](https://x.com/realDonaldTrump/status/1345731043861659650) and lying about the phone call.
+        - January 6th, 2021 - [Ellipse Speech](https://youtu.be/ht20eDYmLXU?t=2007) Amy Kremer saying they found Georgian voter fraud, [Trump saying](https://youtu.be/ht20eDYmLXU?t=12382) the ballots from under the boxes and scanned them multiple times.
+    - Examples of people debunking the lie
+        - Media
+            - December 3rd, 2020 - [Lead Stories](https://leadstories.com/hoax-alert/2020/12/fact-check-video-from-ga-does-not-show-suitcases-filled-with-ballots-pulled-from-under-a-table-after-poll-workers-dismissed.html) Debunking
+            - December 4th, 2020 - [WSB-TV](https://www.wsbtv.com/news/politics/georgia-election-officials-show-frame-by-frame-what-really-happened-fulton-surveillance-video/T5M3PYIBYFHFFOD3CIB2ULDVDE/) Definitive debunking the next day of the video
+            - December 4th, 2020 - [Politifact](https://www.politifact.com/factchecks/2020/dec/04/facebook-posts/no-georgia-election-workers-didnt-kick-out-observe/) Debunking
+            - December 4th, 2020 - [Factcheck.org](https://www.factcheck.org/2020/12/video-doesnt-show-suitcases-of-illegal-ballots-in-georgia/) Debunking
+            - December 4th, 2020 - [GPB](https://www.gpb.org/news/2020/12/04/fact-checking-rudy-giulianis-grandiose-georgia-election-fraud-claim) Debunking
+            - December 7th, 2020 - [AP](https://apnews.com/article/election-2020-joe-biden-donald-trump-georgia-elections-4eeea3b24f10de886bcdeab6c26b680a) Georgia Certifies election results after 3rd Recount
+            - December 7th, 2020 - [NYTimes](https://www.nytimes.com/2020/12/07/technology/suitcases-ballots-georgia-election.html) Debunking
+            - December 7th, 2020 - [USA Today](https://www.usatoday.com/story/news/politics/elections/presidential/2020/12/07/secret-suitcase-magic-ballots-actually-bag-ballots-packed/3858322001/) Debunking
+            - December 7th, 2020 - [Washington Post](https://www.washingtonpost.com/politics/2020/12/07/trump-touts-misleading-video-proof-georgia-voter-fraud/) Debunking
+            - December 14th, 2020 - [USA Today](https://www.usatoday.com/story/news/factcheck/2020/12/14/fact-check-georgia-suitcase-video-missing-context/3892640001/) Debunking
+            - January 4th, 2021 - [AP](https://apnews.com/article/ap-fact-check-donald-trump-georgia-elections-electoral-college-407d934b6649a4e4059ec28c4cb70512) Debunking the phone call
+        - Trustworthy Sources Debunking
+            - December 4th, 2020 - [Video](https://youtu.be/jblC2Ooog2U?t=7437) of BJ Pak talking about a conversation with William Barr (2:02:26 mention of bad faith)
+            - December 4th, 2020 - [Tweet](https://x.com/GabrielSterling/status/1334825233610633217) from Gabriel Sterling, COO of the Office of Georgia Secretary of State fact-checking the same
+            - December 15th, 2020 - [Rosen's Deposition](https://www.judiciary.senate.gov/imo/media/doc/Rosen%20Transcript.pdf) (pages 30-31) in a meeting saying that Trump had been told the Georgia stuff was BS.
+            - December 27th and 31st, 2020 - [Richard Donoghue](https://youtu.be/jblC2Ooog2U?t=6298)
+            - January 2nd, 2021 - [Raffensperger call](https://youtu.be/AW_Bdf_jGaA?t=1374) where he mentions exactly how the State Farm video was cut up and debunked.
+        - Media after
+            - January 10th, 2021 - [60 Minutes Video](https://www.youtube.com/watch?v=pjKXvqSNIkk) Very clear and obvious video of where the ballots come from, he says at 4:50 that they were placed there earlier
+            - January 30th, 2024 - [Frontline Documentary](https://www.youtube.com/watch?v=Y44fyh4ap7k&t=3906s) Same story, clearly debunked the next day, Gabriel Sterling says they lied at 1:06:30
+    - Final status of the lie
+        - January 7th, 2021 - [Georgia SAS](https://sos.ga.gov/news/trump-legal-team-folds) Trump dismisses his case against Georgia voluntarily
+        - July 26, 2023 - [Original complaint](https://www.jurist.org/news/wp-content/uploads/sites/4/2021/12/Moss-v-Giuliani.pdf) was filed by Ruby Freeman and her daughter, [AP](https://apnews.com/article/giuliani-georgia-election-workers-lawsuit-false-statements-afc64a565ee778c6914a1a69dc756064) Giuliani [admits](https://storage.courtlistener.com/recap/gov.uscourts.dcd.238720/gov.uscourts.dcd.238720.84.2.pdf) he lied about everything, [loses case](https://apnews.com/article/rudy-giuliani-georgia-election-workers-defamation-case-cde7186493b3a1bd9ab89bc65f0f5b06) for $148m,
+        - November 1st, 2023 - Secretary of State of Georgia Gabriel Sterling [presents](https://www.youtube.com/watch?v=1lGF9_1d3No&t=179s) a check for Powel for restitution after her guilty plea
 # Intelligence Community Report
-- On 15 March 2021, The Office of the Director of National Intelligence declassified and released a report on `Foreign Threats to the 2020 US Federal Elections`
-    
+- On 15 March 2021, The Office of the Director of National Intelligence declassified and released a report on Foreign Threats to the 2020 US Federal Elections
     - `Throughout the election cycle, Russia's online influence actors sought to affect US public perceptions of the candidates, as well as advance Moscow's longstanding goals of undermining confidence in US election processes and increasing sociopolitical divisions among the American people. During the presidential primaries and dating back to 2019, these actors backed candidates from both major US political parties that Moscow viewed as outsiders, while later claiming that election fraud helped what they called "establishment" candidates. Throughout the election, Russia's online influence actors sought to amplify mistrust in the electoral process by denigrating mail-in ballots, highlighting alleged irregularities, and accusing the Democratic Party of voter fraud.`
       
       `The Kremlin-linked influence organization Project Lakhta and its Lakhta Internet Research (LIR) troll farm--commonly referred to by its former moniker Internet Research Agency (IRA)-amplified controversial domestic issues. LIR used social media personas, news websites, and US persons to deliver tailored content to subsets of the US population. LIR established short-lived troll farms that used unwitting third-country nationals in Ghana, Mexico, and Nigeria to propagate these US-focused narratives, probably in response to efforts by US companies and law enforcement to shut down UR-associated personas.
@@ -121,15 +165,13 @@
       `Russian online influence actors generally promoted former President Trump and his commentary, including repeating his political messaging on the election results; the presidential campaign; debates; the impeachment inquiry; and, as the election neared, US domestic crises. Influence actors sometimes sought to discourage US left-leaning audiences from voting by suggesting that neither candidate was a preferable option. At the same time, Russian actors criticized former President Trump or his administration when they pursued foreign policies-such as the targeted killing of Iranian General Qasem Soleimani in January 2020--at odds with Russia's preferences.
       
       `LIR, which probably receives tasking and strategic direction from the Kremlin, pushed stories supporting former President Trump and denigrating President Biden after he became the presumptive nominee in April.` - [Foreign Threats to the 2020 US Federal Elections, Office of the Director of National Intelligence, 2021](https://s3.documentcloud.org/documents/20515484/icadeclass16mar21.pdf)
-    
-    - `We assess that Russian leaders viewed President Biden's potential election as disadvantageous to Russian interests and that this drove their efforts to undermine his candidacy. We have high confidence in this assessment.  
-    -   
-    - Russian officials and state media frequently attacked President Biden for his leading role in the Obama administration's Ukraine policy and his support for the anti-Putin opposition in Russia, suggesting the Kremlin views him as part of a reflexively anti-Russia US foreign policy establishment. Putin probably also considers President Biden more apt to echo the idea of American "exceptionalism," which he and other Kremlin leaders have often publicly criticized as problematic and dangerous.  
-    -   
-    - Moscow's range of influence actors uniformly worked to denigrate President Biden after his entrance into the race. Throughout the primaries and general election campaign, Russian influence agents repeatedly spread unsubstantiated or misleading claims about President Biden and his family's alleged wrongdoing related to Ukraine. By contrast, during the Democratic primaries Russian online influence actors promoted candidates that Moscow viewed as outside what it perceives to be an anti-Russia political establishment.  
-    -   
-    - Even after the election, Russian online influence actors continued to promote narratives questioning the election results and disparaging President Biden and the Democratic Party. These efforts parallel plans Moscow had in place in 2016 to discredit a potential incoming Clinton administration, but which it scrapped after former President Trump's victory.`  
-    - [link](https://s3.documentcloud.org/documents/20515484/icadeclass16mar21.pdf) - Foreign Threats to the 2020 US Federal Elections
+    - `We assess that Russian leaders viewed President Biden's potential election as disadvantageous to Russian interests and that this drove their efforts to undermine his candidacy. We have high confidence in this assessment.`
+      
+      `Russian officials and state media frequently attacked President Biden for his leading role in the Obama administration's Ukraine policy and his support for the anti-Putin opposition in Russia, suggesting the Kremlin views him as part of a reflexively anti-Russia US foreign policy establishment. Putin probably also considers President Biden more apt to echo the idea of American "exceptionalism," which he and other Kremlin leaders have often publicly criticized as problematic and dangerous.`
+      
+      `Moscow's range of influence actors uniformly worked to denigrate President Biden after his entrance into the race. Throughout the primaries and general election campaign, Russian influence agents repeatedly spread unsubstantiated or misleading claims about President Biden and his family's alleged wrongdoing related to Ukraine. By contrast, during the Democratic primaries Russian online influence actors promoted candidates that Moscow viewed as outside what it perceives to be an anti-Russia political establishment.`
+      
+      `Even after the election, Russian online influence actors continued to promote narratives questioning the election results and disparaging President Biden and the Democratic Party. These efforts parallel plans Moscow had in place in 2016 to discredit a potential incoming Clinton administration, but which it scrapped after former President Trump's victory.` - [Foreign Threats to the 2020 US Federal Elections, Office of the Director of National Intelligence, 2021](https://s3.documentcloud.org/documents/20515484/icadeclass16mar21.pdf)
     
 # Post-Election Lawsuits
 [link](https://en.wikipedia.org/wiki/Post-election_lawsuits_related_to_the_2020_U.S._presidential_election)
