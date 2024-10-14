@@ -3,9 +3,10 @@
 - [link](https://www.washingtonpost.com/documents/f11f75f3-4b90-45a9-a71b-5b5c1a90fc9e.pdf?itid=lk_interstitial_manual_4)
 # Inditements
 - [link](https://www.politico.com/f/?id=00000189-f730-dc32-ab89-f7fc1f760000)
-- [link](https://www.lawforward.org/wp-content/uploads/2024/03/Chesebro-Troupis.pdf) - Cheesebro & Troupis Texts on and around Jan 6
+- [link](https://www.lawforward.org/wp-content/uploads/2024/03/Chesebro-Troupis.pdf) - Chesebro & Troupis Texts on and around Jan 6
 
-- On 14 August 2023, 
+- On 14 August 2023, Donald John Trump, Rudolph William Louis Giuliani, John Charles Eastman, Mark Randall Meadows, Kenneth John Chesebro, Jeffrey Bossert Clark, Jenna Lynn Ellis, Ray Stallings Smith Iii, Robert David Cheeley, Michael A. Roman, David James Shafer, Shawn Micah Tresher Still, Stephen Cliffgard Lee, Harrison William Prescott Floyd, Trevian C. Kutti, Sidney Katherine Powell, Cathleen Alston Latham, Scott Graham Hall, And Misty Hampton were all charged with one count of violating Georgia's Racketeer Influenced and Corrupt Organizations (RICO) statute and individually have avarious charges of 
+- Indite
 - The 2 January 2021 Trump–Raffensperger phone call is used as as evidence for committing a felony offence of false statements and writings and accused Trump of committing an act of racketeering. The inditement included 13 statements Trump said during the call. This charge was compounded by the tweet Trump made the day after, with it being called a overt act in furtherance of the conspiracy.
 	- `Act 113.`
 	  
