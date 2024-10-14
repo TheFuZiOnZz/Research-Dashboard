@@ -200,7 +200,8 @@
 - This call was used in the [2020- Georgia Election Racketeering Prosecution](2020-%20Georgia%20Election%20Racketeering%20Prosecution) as evidence for committing a felony offence of false statements and writings and accused Trump of committing an act of racketeering. The inditement included 13 statements Trump said during the call. This charge was compounded by the tweet Trump made the day after, with it being called a overt act in furtherance of the conspiracy.
 # Specific Fraud Claims
 ## Allied Securities Operations Group Report
-- [link](https://www.justice.gov/d9/2023-05/03.31.23.%20--%20Interference%20in%202016%20or%202020%20Presidential%20Elections.pdf)
+- 
+- [Antrim Michigan Forensics Report, Revised Preliminary Summary, Allied Security Operations Group, 2020](https://www.justice.gov/d9/2023-05/03.31.23.%20--%20Interference%20in%202016%20or%202020%20Presidential%20Elections.pdf)
 ## State Farm Video
 - Georgia, Ruby Freeman lies and the mysterious ballot boxes from under the black table
     - Origination
