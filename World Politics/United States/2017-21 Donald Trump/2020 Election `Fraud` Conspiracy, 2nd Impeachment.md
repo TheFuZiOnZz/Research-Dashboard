@@ -400,9 +400,6 @@
     - [link](https://www.democracydocket.com/wp-content/uploads/2020/11/TrumpvHobbs-MotiontoDismiss-As-Filed-1.pdf)
 - On 13 November 2020, the Trump campaign lost the fight soon afterward.
     - `Since the close of yesterday’s hearing, the tabulation of votes statewide has rendered unnecessary a judicial ruling as to the presidential electors.` - [link](https://www.democracydocket.com/wp-content/uploads/2020/11/NoticeofPartialMootness-1.pdf)
-### Arizona Republican Party v. Fontes,
-- On 4 December 2020, .
-- On 7 December 2020, .
 ### Kelli Ward v. Constance Jackson et al., and Katie Hobbs.
 - On 30 November 2020, an Arizona voter and state Republican Party Chair, Kelli Ward, filed a lawsuit in the Superior Court of Arizona, Maricopa County. Ward challenged the signature verification process, claiming election workers were unfit to verify signatures. Ward also challenged the ballot duplication process, whereby bipartisan county workers transferred votes to new ballots when ballot tabulators could not read them, claiming that observers were not allowed to view the entire process. [link](https://www.azcourts.gov/newsandinfo/High-Profile-Case-Update/CV-20-0343)
 - On 4 December 2020, Arizona's Superior Court of Maricopa County
