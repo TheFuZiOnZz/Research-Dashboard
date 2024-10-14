@@ -1,5 +1,5 @@
 - [Wiki](https://en.wikipedia.org/wiki/2020_Georgia_election_investigation)
-- [Wiki](https://en.wikipedia.org/wiki/Georgia_election_racketeering_prosecution)
+- [Wiki](https://en.wikipedia.org/wiki/Georgia_election_Racketeering_prosecution)
 - [link](https://www.washingtonpost.com/documents/f11f75f3-4b90-45a9-a71b-5b5c1a90fc9e.pdf?itid=lk_interstitial_manual_4)
 # Inditements
 - [link](https://www.politico.com/f/?id=00000189-f730-dc32-ab89-f7fc1f760000)
@@ -8,44 +8,131 @@
 - On 14 August 2023, Donald John Trump and 18 other Trump associates were all indicted by the State of Georgia
 - Indicted peoples and their charges
 	- Donald John Trump - 
-		- Violation of the Georgia RICO (racketeer Influenced And Corrupt Organizations) Act
+		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
+		- 5
+		- 9
+		- 11
+		- 13
+		- 15
+		- 17
+		- 19
+		- 27
+		- 28
+		- 29
+		- 38
+		- 39
 	- Rudolph William Louis Giuliani - 
-		- Violation of the Georgia RICO (racketeer Influenced And Corrupt Organizations) Act
+		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
+		- Solicitation of Violation of Oath by Public Officer
+		- False Statements and Writings
+		- 6
+		- 7
+		- 9
+		- 11
+		- 13
+		- 15
+		- 17
+		- 19
+		- 23
+		- 24
 	- John Charles Eastman - 
-		- Violation of the Georgia RICO (racketeer Influenced And Corrupt Organizations) Act
+		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
+		- Solicitation of Violation of Oath by Public Officer
+		- 9
+		- 11
+		- 13
+		- 15
+		- 17
+		- 19
+		- 27
 	- Mark Randall Meadows - 
-		- Violation of the Georgia RICO (racketeer Influenced And Corrupt Organizations) Act
+		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
+		- 28
 	- Kenneth John Chesebro - 
-		- Violation of the Georgia RICO (racketeer Influenced And Corrupt Organizations) Act
+		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
+		- 9
+		- 11
+		- 13
+		- 15
+		- 17
+		- 19
 	- Jeffrey Bossert Clark - 
-		- Violation of the Georgia RICO (racketeer Influenced And Corrupt Organizations) Act
+		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
+		- 22
 	- Jenna Lynn Ellis - 
-		- Violation of the Georgia RICO (racketeer Influenced And Corrupt Organizations) Act
+		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
+		- Solicitation of Violation of Oath by Public Officer
 	- Ray Stallings Smith III - 
-		- Violation of the Georgia RICO (racketeer Influenced And Corrupt Organizations) Act
+		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
+		- Solicitation of Violation of Oath by Public Officer
+		- False Statements and Writings
+		- 6
+		- 9
+		- 11
+		- 13
+		- 15
+		- 17
+		- 19
+		- 23
+		- 25
 	- Robert David Cheeley - 
-		- Violation of the Georgia RICO (racketeer Influenced And Corrupt Organizations) Act
+		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
+		- 9
+		- 11
+		- 13
+		- 15
+		- 17
+		- 19
+		- 23
+		- 26
+		- 41
 	- Michael A. Roman - 
-		- Violation of the Georgia RICO (racketeer Influenced And Corrupt Organizations) Act
+		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
+		- 9
+		- 11
+		- 13
+		- 15
+		- 17
+		- 19
 	- David James Shafer - 
-		- Violation of the Georgia RICO (racketeer Influenced And Corrupt Organizations) Act
+		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
+		- 8
+		- 10
+		- 12
+		- 14
+		- 16
+		- 18
+		- 40
 	- Shawn Micah Tresher Still - 
-		- Violation of the Georgia RICO (racketeer Influenced And Corrupt Organizations) Act
+		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
+		- 8
+		- 10
+		- 12
+		- 14
+		- 16
+		- 18
 	- Stephen Cliffgard Lee - 
-		- Violation of the Georgia RICO (racketeer Influenced And Corrupt Organizations) Act
+		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
+		- 
 	- Harrison William Prescott Floyd - 
-		- Violation of the Georgia RICO (racketeer Influenced And Corrupt Organizations) Act
+		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
+		- 
 	- Trevian C. Kutti - 
-		- Violation of the Georgia RICO (racketeer Influenced And Corrupt Organizations) Act
+		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
+		- 
 	- Sidney Katherine Powell - 
-		- Violation of the Georgia RICO (racketeer Influenced And Corrupt Organizations) Act
+		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
+		- 
 	- Cathleen Alston Latham - 
-		- Violation of the Georgia RICO (racketeer Influenced And Corrupt Organizations) Act
+		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
+		- 
 	- Scott Graham Hall - 
-		- Violation of the Georgia RICO (racketeer Influenced And Corrupt Organizations) Act
-	- And Misty Hampton - 
-		- Violation of the Georgia RICO (racketeer Influenced And Corrupt Organizations) Act
-- The 2 January 2021 Trump–Raffensperger phone call is used as as evidence for committing a felony offence of false statements and writings and accused Trump of committing an act of racketeering. The inditement included 13 statements Trump said during the call. This charge was compounded by the tweet Trump made the day after, with it being called a overt act in furtherance of the conspiracy.
+		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
+		- 
+	- Misty Hampton - 
+		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
+		- 
+- The 2 January 2021 Trump–Raffensperger phone call is used as as evidence for committing a felony offence of false statements and writings and accused Trump of committing an act of Racketeering. The inditement included 13 statements Trump said during the call. This charge was compounded by the tweet Trump made the day after, with it being called a overt act in furtherance of the conspiracy.
 	- `Act 113.`
 	  
 	  `On or about the 2nd day of January 2021, DONALD JOHN TRUMP committed the felony offense of FALSE STATEMENTS AND WRITINGS, in violation of O.C.G.A. 16- 10-20, in Fulton County, Georgia, by knowingly, willfully, and unlawfully making at least one of the following false statements and representations to Georgia Secretary of State Brad Raffensperger, Georgia Deputy Secretary of State Jordan Fuchs, and Georgia Secretary of State General Counsel Ryan Germany:`
@@ -64,7 +151,7 @@
 	  `12. That hundreds ofthousands of ballots had been "dumped" into Fulton County and another county adjacent to Fulton County in the November 3, 2020, presidential election in Georgia;`
 	  `13. That he won the November 3, 2020, presidential election in Georgia by 400,000 votes;`
 	  
-	  `said statements being within the jurisdiction of the Ofiice ofthe Georgia Secretary of State and the Georgia Bureau of Investigation, departments and agencies of state government. This was an act ofracketeering activity under O.C.G.A. 16-14-3 (5)(A)(xxii) and an overt act in furtherance of the conspiracy.` - [The State of Georgia v. Donald J. Trump, et al. (Inditement), 2023](https://d3i6fh83elv35t.cloudfront.net/static/2023/08/CRIMINAL-INDICTMENT-Trump-Fulton-County-GA.pdf)
+	  `said statements being within the jurisdiction of the Ofiice ofthe Georgia Secretary of State and the Georgia Bureau of Investigation, departments and agencies of state government. This was an act ofRacketeering activity under O.C.G.A. 16-14-3 (5)(A)(xxii) and an overt act in furtherance of the conspiracy.` - [The State of Georgia v. Donald J. Trump, et al. (Inditement), 2023](https://d3i6fh83elv35t.cloudfront.net/static/2023/08/CRIMINAL-INDICTMENT-Trump-Fulton-County-GA.pdf)
 	- `Act 114.`
 	  
 	  `On or about the 3rd day of January 2021, DONALD JOHN TRUMP caused to be tweeted from the Twitter account @RealDonaldTrump, "I spoke to Secretary of State Brad Raffensperger yesterday about Fulton County and voter fraud in Georgia. He was unwilling, or unable, to answer questions such as the 'ballots under table' scam, ballot destruction, out of state 'voters', dead voters, and more. He has no clue!" This was an overt act in furtherance of the conspiracy.` - [The State of Georgia v. Donald J. Trump, et al. (Inditement), 2023](https://d3i6fh83elv35t.cloudfront.net/static/2023/08/CRIMINAL-INDICTMENT-Trump-Fulton-County-GA.pdf)
