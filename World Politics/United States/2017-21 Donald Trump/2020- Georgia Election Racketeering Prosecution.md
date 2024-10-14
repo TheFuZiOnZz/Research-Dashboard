@@ -2,11 +2,10 @@
 - [Wiki](https://en.wikipedia.org/wiki/Georgia_election_Racketeering_prosecution)
 - [link](https://www.washingtonpost.com/documents/f11f75f3-4b90-45a9-a71b-5b5c1a90fc9e.pdf?itid=lk_interstitial_manual_4)
 # Inditements
-- [link](https://www.politico.com/f/?id=00000189-f730-dc32-ab89-f7fc1f760000)
 - [link](https://www.lawforward.org/wp-content/uploads/2024/03/Chesebro-Troupis.pdf) - Chesebro & Troupis Texts on and around Jan 6
 
 - On 14 August 2023, Donald John Trump and 18 other Trump associates were all indicted by the State of Georgia
-- Indicted peoples and their charges 
+- The Indicted peoples and their charges are,
 	- Donald John Trump - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
 		- Solicitation of Violation of Oath by Public Officer
@@ -40,7 +39,7 @@
 		- Solicitation of Violation of Oath by Public Officer
 		- Conspiracy to Commit Impersonating a Public Officer
 		- Conspiracy to Commit Forgery in the First Degree
-		- Conspiracy to Commit FALSE STATEMENTS AND WRITINGS
+		- Conspiracy to Commit False Statements and Writings
 		- Criminal Attempt to Commit Filing False Documents
 		- Conspiracy to Commit Forgery in the First Degree
 		- Conspiracy to Commit False Statements and Writings
@@ -161,10 +160,10 @@
 		- Conspiracy to Commit Computer Trespass
 		- Conspiracy to Commit Computer Invasion of Privacy
 		- Conspiracy to Defraud the State
-- The 2 January 2021 Trump–Raffensperger phone call is used as as evidence for committing a felony offence of false statements and writings and accused Trump of committing an act of Racketeering. The inditement included 13 statements Trump said during the call. This charge was compounded by the tweet Trump made the day after, with it being called a overt act in furtherance of the conspiracy.
+- The 2 January 2021 Trump–Raffensperger phone call is used as as evidence for committing a felony offence of False Statements and Writings and accused Trump of committing an act of Racketeering. The inditement included 13 statements Trump said during the call. This charge was compounded by the tweet Trump made the day after, with it being called a overt act in furtherance of the conspiracy.
 	- `Act 113.`
 	  
-	  `On or about the 2nd day of January 2021, DONALD JOHN TRUMP committed the felony offense of FALSE STATEMENTS AND WRITINGS, in violation of O.C.G.A. 16- 10-20, in Fulton County, Georgia, by knowingly, willfully, and unlawfully making at least one of the following false statements and representations to Georgia Secretary of State Brad Raffensperger, Georgia Deputy Secretary of State Jordan Fuchs, and Georgia Secretary of State General Counsel Ryan Germany:`
+	  `On or about the 2nd day of January 2021, DONALD JOHN TRUMP committed the felony offense of False Statements and Writings, in violation of O.C.G.A. 16- 10-20, in Fulton County, Georgia, by knowingly, willfully, and unlawfully making at least one of the following false statements and representations to Georgia Secretary of State Brad Raffensperger, Georgia Deputy Secretary of State Jordan Fuchs, and Georgia Secretary of State General Counsel Ryan Germany:`
 	  
 	  `1. That anywhere from 250,000 to 300,000 ballots were dropped mysteriously into the rolls in the November 3, 2020, presidential election in Georgia;`
 	  `2. That thousands ofpeople attempted to vote in the November 3, 2020, presidential election in Georgia and were told they could not because ballot had already been cast in their name;`
