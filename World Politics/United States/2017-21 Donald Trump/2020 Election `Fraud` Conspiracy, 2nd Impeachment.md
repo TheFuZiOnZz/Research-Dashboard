@@ -2,13 +2,8 @@
 [link](https://www.thetrumparchive.com/)
 # Pre-Election
 - On 7 April 2020, President Trump first made suggestions to the media that widespread electoral fraud would occur during the 2020 Election especially through the use of mail-in ballots.
-    
-    - `"Mail ballots — they cheat. OK? People cheat," he said April 7. "There's a lot of dishonesty going along with mail-in voting."`  
-    -   
-    - ...  
-    -   
-    - `"Mail ballots are a very dangerous thing for this country, because they're cheaters. They go and collect them. They're fraudulent in many cases,” Trump said April 7.`  
-    - [link](https://www.nbcnews.com/politics/donald-trump/trump-pushes-false-claims-about-mail-vote-fraud-here-are-n1180566)
+    - `"Mail ballots — they cheat. OK? People cheat," he said April 7. "There's a lot of dishonesty going along with mail-in voting."`
+    - `"Mail ballots are a very dangerous thing for this country, because they're cheaters. They go and collect them. They're fraudulent in many cases,” Trump said April 7.` - [link](https://www.nbcnews.com/politics/donald-trump/trump-pushes-false-claims-about-mail-vote-fraud-here-are-n1180566)
     
 - On 8 April 2020, President Trump tweeted in response to the Republican silence accusing Democrats of stoking voter fraud
     
@@ -54,63 +49,40 @@
 # Peri-Election
 - On 3 November 2020, Election Day starts.
 - On 4 & 5 November 2020, More than 200 Trump supporters protest at a Maricopa County, Arizona elections center and around downtown Phoenix, claiming some ballots have not been properly counted.
-    
     - `Tensions are running high outside of the Maricopa County Elections office in Phoenix, Ariz., where more than a hundred protestors have demonstrated for the last three nights to argue about the electoral process after former Vice President Joe Biden became the front-runner in the traditionally red state.` [link](https://time.com/5908628/maricopa-county-arizona-protests/)
-    
 - On 5 November 2020, Trump Tweeted:
-    
     - `STOP THE COUNT!` [link](https://web.archive.org/web/20201105153104/https://twitter.com/realdonaldtrump/status/1324353932022480896)
-    
 - On 5 November 2020, Trump Tweeted:
-    
     - `STOP THE FRAUD!` [link](https://web.archive.org/web/20201105183250/https://twitter.com/realdonaldtrump/status/1324401527663058944)
-    
 - On 5 November 2020, Trump claimed that the election was being stolen from him.
-    
     - `“If you count the legal votes, I easily win. If you count the illegal votes, they can try to steal the election from us. If you count the votes that came in late, we’re looking at them very strongly,” Trump told reporters.  
     -   
     - ...  
     -   
     - “Media polling was election interference, in the truest sense of that word by powerful special interests. These, really, phony polls … were designed to keep our voters at home, create the illusion of momentum for Mr. Biden and diminish republicans ability to raise funds. They were what’s called suppression polls,” Trump said.`  
     - [link](https://thehill.com/homenews/administration/524731-trump-challenges-electoral-process-as-hopes-for-victory-fade/)
-    
 - On 7 November 2020, AP news called the 2020 Election in favour of Joe Biden.
-    
     - `On Saturday, Biden captured the presidency when The Associated Press declared him the victor in his native Pennsylvania at 11:25 a.m. EST. That got him the state’s 20 electoral votes, which pushed him over the 270 electoral-vote threshold needed to prevail.` [link](https://apnews.com/article/why-did-AP-call-election-for-Biden-fe79276cd9175fffc7cf4fb58045fcf9)
-    
 # Post-Election
 - On 9 November 2020, The administrator of the General Services Administration refuses to sign a letter allowing Biden's transition team to formally begin work, reflecting Trump's position of not conceding yet.
-    
     - `A Trump administration appointee is refusing to sign a letter allowing President-elect Joe Biden’s transition team to formally begin its work this week, in another sign the incumbent president has not acknowledged Biden’s victory and could disrupt the transfer of power.` [link](https://archive.ph/HfGpV)
-    
 - On 12 November 2020, The Trump-Appointed Commis­sioner of the U.S. Elec­tion Assist­ance Commis­sion, Benjamin Hovland said that,
-    
     - `You know, we've seen allegations like this before, and essentially, time and time again, when the rubber hits the road, there's no evidence — whether that's in court cases, whether that's in the presidential commission that was created in 2017 to find the alleged non-citizens fraud after the 2016 election that cost, in his mind, the president the popular vote, but found nothing and disbanded in embarrassment, or academic studies. We never see evidence of widespread voter fraud. And there's no indicators that 2020 will be different in that regard.` [link](https://www.businessinsider.com/nations-chief-election-administrator-calls-trumps-voting-fraud-claims-shameful-2020-11?r=US&IR=T)
-    
 - On 12 November 2020, The Cybersecurity and Infrastructure Security Agency released the following statement:
-    
     - `“The November 3rd election was the most secure in American history. Right now, across the country, election officials are reviewing and double checking the entire election process prior to finalizing the result. “When states have close elections, many will recount ballots. All of the states with close results in the 2020 presidential race have paper records of each vote, allowing the ability to go back and count each ballot if necessary. This is an added benefit for security and resilience. This process allows for the identification and correction of any mistakes or errors. There is no evidence that any voting system deleted or lost votes, changed votes, or was in any way compromised. “Other security measures like pre-election testing, state certification of voting equipment, and the U.S. Election Assistance Commission’s (EAC) certification of voting equipment help to build additional confidence in the voting systems used in 2020. “While we know there are many unfounded claims and opportunities for misinformation about the process of our elections, we can assure you we have the utmost confidence in the security and integrity of our elections, and you should too. When you have questions, turn to elections officials as trusted voices as they administer elections.”` [link](https://www.cisa.gov/news/2020/11/12/joint-statement-elections-infrastructure-government-coordinating-council-election)
-    
 - On 11 December 2020, Attorney General William Barr said to AP news that there is no evidence of widespread election fraud that Trump is claiming.
-    
     - `Although Justice’s U.S. attorneys and FBI agents had been working to follow up specific complaints they’d received, Barr told Balsamo: “To date, we have not seen fraud on a scale that could have effected a different outcome in the election.” The Dec. 1 statement was a direct contradiction to Trump and his allies who have kept up baseless arguments about a rigged election, despite the electoral college tally and popular vote loss to Democrat Joe Biden.` [link](https://leads.ap.org/best-of-the-week/exclusive-interview-with-attorney-general-barr-nets-massive-scoop)
-    
 - On 2 January 2021, during an hour-long conference call, Trump pressured Georgia Secretary of State Brad Raffensperger to change the state's election results citing that Trump wanted to find 11,780 votes.
-    
     - `Now the problem is they need more time for the big numbers. But they’re very substantial numbers. But I think you’re going to find that they — by the way, a little information — I think you’re going to find that they are shredding ballots because they have to get rid of the ballots because the ballots are unsigned. The ballots are corrupt, and they’re brand new, and they don’t have seals, and there’s a whole thing with the ballots. But the ballots are corrupt. And you are going to find that they are — which is totally illegal — it is more illegal for you than it is for them because, you know, what they did and you’re not reporting it. That’s a criminal, that’s a criminal offense. And you can’t let that happen. That’s a big risk to you and to Ryan, your lawyer. And that’s a big risk. But they are shredding ballots, in my opinion, based on what I’ve heard. And they are removing machinery, and they’re moving it as fast as they can, both of which are criminal finds. And you can’t let it happen, and you are letting it happen. You know, I mean, I’m notifying you that you’re letting it happen. So look. All I want to do is this. I just want to find 11,780 votes, which is one more than we have because we won the state.` [link](https://archive.ph/BMC7Q)
-    
 - Trump might have violated Title 52 of the United States Code when he said "I just want to find 11,780 votes” by trying to intimidating election officials to change the results
-    
     - `The University of Richmond law professor Carl Tobias said Trump might be “in legal jeopardy after Biden is inaugurated”. In an email to the Guardian, he wrote: “For example, if the justice department or US attorneys believe that Trump violated federal law, or if local prosecutors in states such as Arizona, Georgia, Michigan and Wisconsin, where Trump may have engaged in similar behaviour with state or local election officials, believe that Trump violated state election laws, the federal or state prosecutors could file suit against Trump.” Richard H Pildes, a constitutional law professor at New York University, told the Washington Post: “The president is either knowingly attempting to coerce state officials into corrupting the integrity of the election or is so deluded that he believes what he’s saying.” Trump’s actions may have violated federal statutes, he said. Michael R Bromwich, a former federal prosecutor in the US Attorney’s Office for the Southern District of New York, wrote: “Unless there are portions of the tape that somehow negate criminal intent, ‘I just want to find 11,780 votes’ and his threats against Raffensperger and his counsel violate 52 U.S. Code 20511.”` [link](https://www.theguardian.com/us-news/2021/jan/04/trumps-phone-call-to-brad-raffensperger-five-key-points)
-    
     - 52 U.S. Code 20511 - `A person, including an election official, who in any election for Federal office— (1)knowingly and willfully intimidates, threatens, or coerces, or attempts to intimidate, threaten, or coerce, any person for— (A)registering to vote, or voting, or attempting to register or vote; (B)urging or aiding any person to register to vote, to vote, or to attempt to register or vote; or (C)exercising any right under this chapter; or (2)knowingly and willfully deprives, defrauds, or attempts to deprive or defraud the residents of a State of a fair and impartially conducted election process, by— (A)the procurement or submission of voter registration applications that are known by the person to be materially false, fictitious, or fraudulent under the laws of the State in which the election is held; or (B)the procurement, casting, or tabulation of ballots that are known by the person to be materially false, fictitious, or fraudulent under the laws of the State in which the election is held, shall be fined in accordance with title 18 (which fines shall be paid into the general fund of the Treasury, miscellaneous receipts (pursuant to section 3302 of title 31), notwithstanding any other law), or imprisoned not more than 5 years, or both.` [link](https://www.law.cornell.edu/uscode/text/52/20511)
-    
 - On 28 January 2021, The Federal Election Commission announced that Biden won the election on November 3 2020, receiving 81,268,924 votes (51.31%) to Trump's 74,216,154 (46.86%) and 306 Electoral College votes to Trump's 232. [link](https://www.fec.gov/resources/cms-content/documents/2020presgeresults.pdf)
 # Specific Fraud Claims
 ## Allied Securities Operations Group Report
 - [link](https://www.justice.gov/d9/2023-05/03.31.23.%20--%20Interference%20in%202016%20or%202020%20Presidential%20Elections.pdf)
 ## State Farm Video
-- - **Georgia, Ruby Freeman lies and the mysterious ballot boxes from under the black table**
+- Georgia, Ruby Freeman lies and the mysterious ballot boxes from under the black table
     - Origination
         - December 3rd, 2020 - [Georgia Senate Hearing](https://youtu.be/hRCXUNOwOjw?t=2281) Jackie Deason presentation by (notice the precise cuts at 1 hour, and 1 hour 20 minutes) (50:24 complete and total lie) on the "mysteriously appearing ballot boxes"
         - December 3rd, 2020 - [From the same hearing](https://youtu.be/r6C-80KpGvc?t=2908) with Deason calling out Ruby by name
@@ -154,6 +126,83 @@
         - January 7th, 2021 - [Georgia SAS](https://sos.ga.gov/news/trump-legal-team-folds) Trump dismisses his case against Georgia voluntarily
         - July 26, 2023 - [Original complaint](https://www.jurist.org/news/wp-content/uploads/sites/4/2021/12/Moss-v-Giuliani.pdf) was filed by Ruby Freeman and her daughter, [AP](https://apnews.com/article/giuliani-georgia-election-workers-lawsuit-false-statements-afc64a565ee778c6914a1a69dc756064) Giuliani [admits](https://storage.courtlistener.com/recap/gov.uscourts.dcd.238720/gov.uscourts.dcd.238720.84.2.pdf) he lied about everything, [loses case](https://apnews.com/article/rudy-giuliani-georgia-election-workers-defamation-case-cde7186493b3a1bd9ab89bc65f0f5b06) for $148m,
         - November 1st, 2023 - Secretary of State of Georgia Gabriel Sterling [presents](https://www.youtube.com/watch?v=1lGF9_1d3No&t=179s) a check for Powel for restitution after her guilty plea
+## Dominion Voting Machine Hacking Votes
+- Origination
+    - November 9th, 2020 - [Gateway Pundit](https://www.thegatewaypundit.com/2020/11/breaking-huge-another-system-glitch-captured-live-cnn-election-night-20000-votes-swapped-trump-biden-video/) Article
+    - November 10th, 2020 - [TheDonald](https://web.archive.org/web/20201113004656/https://thedonald.win/p/11Q8O2wesk/happening-calling-every-pede-to-/) Post
+    - November 10th, 2020 - [YouTube video](https://web.archive.org/web/20201110233520/https://www.youtube.com/watch?v=Yjv9ODcep9A) on Trump's Channel
+- Trump & Friends repeating the lie
+    - November 8th, 2020 - December 19th, 2020 - [Trump YouTube](https://filmot.com/search/%22dominion%22/1?channelID=UCAql2DyGU2un1Ei2nMYsqOA&sortField=uploaddate&sortOrder=asc&gridView=1&) mentions of Dominion
+    - November 10th, 2020 - [OAN Video](https://www.youtube.com/watch?v=jAIu5HG8CRU) with Giuliani repeating the lie
+    - November 11th, 2020 - [Trump tweet](https://x.com/realDonaldTrump/status/1326740844427304960?ref_src=twsrc%5Etfw) Lying about Dominion
+    - November 12th, 2020 - [OAN Video](https://x.com/RudyTakala/status/1326929877400948738) Lying about vote switching
+    - November 12th, 2020 - [Trump Tweet](https://x.com/realDonaldTrump/status/1326926226888544256) quoting OANN
+    - November 12th, 2020 - [Sean Hannity](https://www.youtube.com/watch?v=YeEW1oeLaVE) on the Dominion Law
+    - November 12th, 2020 - [Steve Bannon's War room](https://www.youtube.com/watch?v=n23BG2X37iI) show with Joe Hoft, the Gateway Pundit writer, repeating the lie
+    - November 19th, 2020 - [Press Conference](https://www.youtube.com/watch?v=RUlyQSjtE8c&t=2314s) by Sydney Powell just laying out blatant lies about Dominion voting machines.
+    - November 25th, 2020 - [King et all v Whitmer](https://www.courtlistener.com/docket/18693929/king-v-whitmer/) Case involving Dominion/voter fraud allegations
+    - November 26th, 2020 - [Trump White House Broadcast](https://youtu.be/JTbV0b4bjgI?t=1407) making false claims about ownership.
+        - November 27th, 2020 - [Sean Hannity Rebroadcast](https://www.facebook.com/SeanHannity/posts/410578213685468/?rdid=HVwwA5Vb19CuwDf7)
+    - December 2nd, 2020 - [Trump White House Broadcast](https://www.rev.com/transcript-editor/shared/gUMvbDx-X0lLb7ovCKGamd7wuMyiSSOiPClk2bnYmXCG2oOezO9bALNJOeHhrVo3YsCqXAxQzq9xw7guWrKWP_0q7WU?loadFrom=SharedClip&ts=646.68&te=661.68) repeating voter fraud lies about Dominion
+    - December 3rd, 2020 - [Lindell and Gorka](https://www.facebook.com/AmericaFirstGorka/videos/438439460653478/) @ 6:42-6:44
+    - December 15th, 2020 - [Trump Tweet](https://media-cdn.factba.se/realdonaldtrump-twitter/1338715842931023873.jpg)
+    - December 16th, 2020 - [Trump Tweet](https://media-cdn.factba.se/realdonaldtrump-twitter/1339090279429775363.jpg)
+    - December 19th, 2020 - [Trump Tweet](https://media-cdn.factba.se/realdonaldtrump-twitter/1340333619299147781.jpg)
+    - January 2nd, 2021 - [Call](https://youtu.be/AW_Bdf_jGaA?t=555) with Raffensperger, [later](https://youtu.be/AW_Bdf_jGaA?t=933) again, [later](https://youtu.be/AW_Bdf_jGaA?t=1098) again, [later](https://youtu.be/AW_Bdf_jGaA?t=1794) again
+    - January 6th, 2021 - [Ellipse Speech](https://www.youtube.com/watch?v=pa9sT4efsqY&t=5949s) and [again](https://www.youtube.com/watch?v=pa9sT4efsqY&t=6051s)
+- Examples of people debunking the lie
+    - Media
+        - November 11th, 2020 - [NYTimes Article](https://www.nytimes.com/2020/11/11/technology/no-dominion-voting-machines-did-not-delete-trump-votes.html) Debunking
+        - November 12th, 2020 - [Mediaite](https://www.mediaite.com/election-2020/trump-goes-all-caps-promoting-oans-voter-fraud-conspiracy-debunked-by-the-ny-times-and-others/) debunk report
+        - November 13th, 2020 - [Factcheck](https://www.factcheck.org/2020/11/trump-tweets-conspiracy-theory-about-deleted-votes/) debunks about Dominion tweet
+    - Trustworthy Sources Debunking
+        - November 12th, November 21st, 2020 - [Deposition](https://www.govinfo.gov/content/pkg/GPO-J6-TRANSCRIPT-CTRL0000036621/pdf/GPO-J6-TRANSCRIPT-CTRL0000036621.pdf) of Kayleigh McEnany, waving Trump and Hannity off the Dominion track
+        - November 12th, 2020 - [Joint Statement](https://www.cisa.gov/news-events/news/joint-statement-elections-infrastructure-government-coordinating-council-election) by Cybersecurity and Infrastructure Security Agency (CISA), National Association of State Election Directors (NASED) the Election Infrastructure Sector Coordinating Council (SCC)
+        - November 12th, 2020 - [Miller's Deposition](https://www.govinfo.gov/content/pkg/GPO-J6-TRANSCRIPT-CTRL0000041286/pdf/GPO-J6-TRANSCRIPT-CTRL0000041286.pdf) (page 116, 133)
+        - November 23rd, 2020 - [Barr's Deposition](https://youtu.be/pr5QUInmGI8?t=3364) Telling him nothing was panning out
+        - December 1st, 2020 - [Barr talking to the AP](https://youtu.be/pr5QUInmGI8?t=3765) Saying the Dominion stuff was BS
+        - December 7th, 2020 - [AP](https://apnews.com/article/election-2020-joe-biden-donald-trump-georgia-elections-4eeea3b24f10de886bcdeab6c26b680a) Georgia Certifies election results after 3rd Recount
+        - December 11th, 2020 - [Bee Nguyen](https://www.youtube.com/watch?v=1U8CuyfcnLs) from the Georgia State Legislature showing how ridiculous the court filing was
+        - January 2nd, 2021 - [Call](https://youtu.be/AW_Bdf_jGaA?t=916) with Raffensperger saying they did a recount to debunk the Dominion machine talking point. [Later](https://youtu.be/AW_Bdf_jGaA?t=1821), again.
+        - Unknown? - [Rosen](https://youtu.be/Z4535-VW-bY?t=5902) saying there was no factual or legal basis to seize machines, [Trump trying to pressure](https://youtu.be/Z4535-VW-bY?t=5981) the DHS to seize machines after
+- Final status of the lie
+    - Dominion [complaint](https://clarelocke.com/wp-content/uploads/2021/11/OAN-Complaint.pdf) against OAN
+    - Dominion [complaint](https://hamiltonps.app.box.com/s/7kxs73dqqsbr9ffb5faanzjkqgdljg90) against Rudy Giuliani
+        - Lawsuit stayed after his bankruptcy filing (due to his other lawsuit loss)
+    - Dominion [complaint](https://www.dominionvoting.com/download/powell-complaint/?wpdmdl=68274&masterkey=60245d1992c01) against Sydney Powell
+        - [Powell response to Dominion complaint](https://www.justsecurity.org/wp-content/uploads/2022/06/january-6-clearinghouse-3-22-21-sidney-powell-defending-the-republic-motion-to-dismiss-dominion.pdf)
+            - PDF page 41, THESE STATEMENTS WERE ALWAYS JUST OPINIONS
+            - Reasonable people understand that the “language of the political arena, like the language used in labor disputes … is often vituperative, abusive and inexact.” Watts v. United States, 394 U.S. 705, 708 (1969). It is likewise a “well recognized principle that political statements are inherently prone to exaggeration and hyperbole.” Planned Parenthood of Columbia/Willamette, Inc. v. Am. Coal. of Life Activists, 244 F.3d 1007, 1009 (9th Cir. 2001). Given the highly charged and political context of the statements, it is clear that Powell was describing the facts on which she based the lawsuits she filed in support of President Trump. Indeed, Plaintiffs themselves characterize the statements at issue as “wild accusations” and “outlandish claims.” Id. at ¶¶ 2, 60, 97, 111. They are repeatedly labelled “inherently improbable” and even “impossible.” Id. at ¶¶ 110, 111, 114, 116 and 185. Such characterizations of the allegedly defamatory statements further support Defendants’ position that reasonable people would not accept such statements as fact but view them only as claims that await testing by the courts through the adversary process.
+            - Powell admits in her defense that the statements were wild and that no one should believe them, despite Trump saying people went to J6 because of election fraud concerns.
+    - Dominion [complaint](https://www.documentcloud.org/documents/23731963-dominion_3-21-23_hearing_slides-used-at-hearing_redacted) against Fox News, [settled](https://apnews.com/article/fox-news-dominion-lawsuit-trial-trump-2020-0ac71f75acfacc52ea80b3e747fb0afe) for $787m
+    - Dominion [complaint](https://hamiltonps.app.box.com/s/hxqooccq8e3j28rrk5mrgnny898obtov/file/844757968736) against NewsMax
+        - Trial date set for Quarter 2, 2025
+    - Dominion [complaint](https://s3.documentcloud.org/documents/20489801/2-22-21-dominion-v-my-pillow-michael-lindell-complaint.pdf) against Mike Lindell
+    - Dominion [complaint](https://hamiltonps.app.box.com/s/hxqooccq8e3j28rrk5mrgnny898obtov/file/844757152774) against Patrick Byrne
+## Pennyslyvania Unregistered Voters
+- Origination
+        - November 27th, 2020 - [Tweet](https://x.com/senmastriano/status/1332398733401591808?s=21) by Senator Doug Mastriano
+        - December 28th, 2020 - [Post by "PA Lawmakers"](https://www.repdiamond.com/News/18754/Latest-News/PA-Lawmakers-Numbers-Don%E2%80%99t-Add-Up,-Certification-of-Presidential-Results-Premature-and-In-Error)
+    - Trump & Friends repeating the lie
+        - December 28th, 2020 - [Trump Tweet](https://media.snopes.com/2020/12/trumptweet1.png)
+        - December 29th, 2020 - [Trump Tweet](https://x.com/realDonaldTrump/status/1343919651336712199)
+        - January 3rd, 2021 - [Call](https://youtu.be/AW_Bdf_jGaA?t=648) with Raffensperger
+        - January 6th, 2021 - Amy Kremer [Ellipse Speech](https://youtu.be/ht20eDYmLXU?t=1992)
+        - January 6th, 2021 - [Trump Ellipse Speech](https://youtu.be/ht20eDYmLXU?t=11403)
+    - Examples of people debunking the lie
+        - Media
+            - December 1st, 2020 - [Reuters](https://www.reuters.com/article/world/fact-check-post-mixes-pennsylvania-primary-and-general-election-data-to-suggest-idUSKBN28B5NM/)
+            - December 27th, 2020 - [Donoghue call](https://youtu.be/Z4535-VW-bY?t=4002)
+            - December 29th, 2020 - [Snopes](https://www.snopes.com/fact-check/pennsylvania-205000-votes/)
+            - December 29th, 2020 - [AP](https://apnews.com/article/fact-checking-9887147615)
+            - Undetermined - [State of Pennsylvania](https://www.pa.gov/en/agencies/vote/elections/fact-checking-pa-related-election-claims.html#accordion-979bb525f3-item-3462031f68)
+            - January 14th, 2021 - [CNN Fact Check](https://www.cnn.com/factsfirst/politics/factcheck_7270e357-5d21-465c-bd69-9c8913cff4c0)
+        - Trustworthy Sources Debunking
+            - Before December 14th, 2020 - [Bill Barr](https://youtu.be/jblC2Ooog2U?t=7861)
+            - December 27th, 2020 - [Richard Donoghue](https://youtu.be/Z4535-VW-bY?t=3987)
+            - January 3rd, 2021 - [Richard Donoghue](https://www.judiciary.senate.gov/imo/media/doc/Donoghue%20Transcript.pdf) page 136
+    - Final status of the lie
+        - No lawsuit or anything was ever filed. The Secretary of Pennsylvania published a full statement explaining the difference in numbers.
 # Intelligence Community Report
 - On 15 March 2021, The Office of the Director of National Intelligence declassified and released a report on Foreign Threats to the 2020 US Federal Elections
     - `Throughout the election cycle, Russia's online influence actors sought to affect US public perceptions of the candidates, as well as advance Moscow's longstanding goals of undermining confidence in US election processes and increasing sociopolitical divisions among the American people. During the presidential primaries and dating back to 2019, these actors backed candidates from both major US political parties that Moscow viewed as outsiders, while later claiming that election fraud helped what they called "establishment" candidates. Throughout the election, Russia's online influence actors sought to amplify mistrust in the electoral process by denigrating mail-in ballots, highlighting alleged irregularities, and accusing the Democratic Party of voter fraud.`
