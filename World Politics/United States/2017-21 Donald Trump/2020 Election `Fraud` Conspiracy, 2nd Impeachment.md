@@ -502,7 +502,6 @@ In re: Enforcement of Election Laws and Securing Ballots Cast or Received after 
 - Another group of Republicans filed [a similar lawsuit](https://www.democracydocket.com/cases/pennsylvania-decertification-challenge/) and lost.
 - The Trump campaign filed a [motion to intervene in a Supreme Court case](https://www.businessinsider.com/how-trump-may-challenge-2020-election-supreme-court-2020-11) brought by Republicans that centers on the deadline by which Pennsylvania officials are allowed to receive ballots. Pennsylvania's Supreme Court ruled that officials could receive ballots until November 6 as long as they are postmarked by Election Day. Republicans appealed the decision to the high court, which was deadlocked at 4-4 because Justice Amy Coney Barrett did not participate, leaving the lower court's ruling in place. The Supreme Court signaled it could hear the case again but has not granted the request to intervene.
 ## Texas
-### Texas v. Pennsylvania et al.
 ### Gohmert v. Pence
 ## Washington D.C.
 ### Wisconsin Voters Alliance v. Pence,
