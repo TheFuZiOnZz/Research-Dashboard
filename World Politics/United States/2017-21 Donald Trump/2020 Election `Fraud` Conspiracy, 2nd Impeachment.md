@@ -126,11 +126,69 @@
 	  
 	  `Trump: Why do you say that, though? I don’t know. I mean, sure, we can play this game with the courts, but why do you say that? First of all, they don’t even assign us a judge. They don’t even assign us a judge. But why wouldn’t you . . . Hey Brad, why wouldn’t you want to check out [name] ? And why wouldn’t you want to say, hey, if in fact, President Trump is right about that, then he wins the state of Georgia, just that one incident alone without going through hundreds of thousands of dropped ballots. You just say, you stick by, I mean I’ve been watching you, you know, you don’t care about anything. “Your numbers are right.” But your numbers aren’t right. They’re really wrong, and they’re really wrong, Brad. And I know this phone call is going nowhere other than, other than ultimately, you know — Look, ultimately, I win, okay? Because you guys are so wrong. And you treated this. You treated the population of Georgia so badly. You, between you and your governor, who is down at 21, he was down 21 points. And like a schmuck, I endorsed him, and he got elected, but I will tell you, he is a disaster.` - [Transcript and audio: Trump call with Georgia Sec. of State Brad Raffensperger, The Washington Post, 2021](https://archive.ph/BMC7Q)
 - Trump also repeated Dominion Machines fraud claims to Raffensperger multiple times.
-	- `The bottom line is, when you add it all up and then you start adding, you know, 300,000 fake ballots. Then the other thing they said is in Fulton County and other areas. And this may or may not be true . . . this just came up this morning, that they are burning their ballots, that they are shredding, shredding ballots and removing equipment. They’re changing the equipment on the Dominion machines and, you know, that’s not legal.`
+	- Trump: `The bottom line is, when you add it all up and then you start adding, you know, 300,000 fake ballots. Then the other thing they said is in Fulton County and other areas. And this may or may not be true . . . this just came up this morning, that they are burning their ballots, that they are shredding, shredding ballots and removing equipment. They’re changing the equipment on the Dominion machines and, you know, that’s not legal.`
 	  
 	  `And they supposedly shredded I think they said 300 pounds of, 3,000 pounds of ballots. And that just came to us as a report today. And it is a very sad situation.` - [Transcript and audio: Trump call with Georgia Sec. of State Brad Raffensperger, The Washington Post, 2021](https://archive.ph/BMC7Q)
+	- `Raffensperger: Well, I listened to what the president has just said. President Trump, we’ve had several lawsuits, and we’ve had to respond in court to the lawsuits and the contentions. We don’t agree that you have won. And we don’t — I didn’t agree about the 200,000 number that you’d mentioned. I’ll go through that point by point.`
+	  
+	  `What we have done is we gave our state Senate about one and a half hours of our time going through the election issue by issue and then on the state House, the government affairs committee, we gave them about two and a half hours of our time, going back point by point on all the issues of contention. And then just a few days ago, we met with our U.S. congressmen, Republican congressmen, and we gave them about two hours of our time talking about this past election. Going back, primarily what you’ve talked about here focused in on primarily, I believe, is the absentee ballot process. I don’t believe that you’re really questioning the Dominion machines. Because we did a hand re-tally, a 100 percent re-tally of all the ballots, and compared them to what the machines said and came up with virtually the same result. Then we did the recount, and we got virtually the same result. So I guess we can probably take that off the table.`
+	  
+	  `I don’t think there’s an issue about that.`
+	  
+	  `Trump: Well, Brad. Not that there’s not an issue, because we have a big issue with Dominion in other states and perhaps in yours. But we haven’t felt we needed to go there. And just to, you know, maybe put a little different spin on what Mark is saying, Mark Meadows, yeah we’d like to go further, but we don’t really need to. We have all the votes we need.`
+	  
+	  `You know, we won the state. If you took, these are the most minimal numbers, the numbers that I gave you, those are numbers that are certified, your absentee ballots sent to vacant addresses, your out-of-state voters, 4,925. You know when you add them up, it’s many more times, it’s many times the 11,779 number. So we could go through, we have not gone through your Dominion. So we can’t give them blessing. I mean, in other states, we think we found tremendous corruption with Dominion machines, but we’ll have to see.`
+	  
+	  `But we only lost the state by that number, 11,000 votes, and 779. So with that being said, with just what we have, with just what we have, we’re giving you minimal, minimal numbers. We’re doing the most conservative numbers possible; we’re many times, many, many times above the margin. And so we don’t really have to, Mark, I don’t think we have to go through . . .`
+	  
+	  `Meadows: Right`
+	  
+	  `Trump: Because what’s the difference between winning the election by two votes and winning it by half a million votes. I think I probably did win it by half a million. You know, one of the things that happened, Brad, is we have other people coming in now from Alabama and from South Carolina and from other states, and they’re saying it’s impossible for you to have lost Georgia. We won. You know in Alabama, we set a record, got the highest vote ever. In Georgia, we set a record with a massive amount of votes. And they say it’s not possible to have lost Georgia.`
+	  
+	  `And I could tell you by our rallies. I could tell you by the rally I’m having on Monday night, the place, they already have lines of people standing out front waiting. It’s just not possible to have lost Georgia. It’s not possible. When I heard it was close, I said there’s no way. But they dropped a lot of votes in there late at night. You know that, Brad. And that’s what we are working on very, very stringently. But regardless of those votes, with all of it being said, we lost by essentially 11,000 votes, and we have many more votes already calculated and certified, too.`
+	  
+	  `And so I just don’t know, you know, Mark, I don’t know what’s the purpose. I won’t give Dominion a pass because we found too many bad things. But we don’t need Dominion or anything else. We have won this election in Georgia based on all of this. And there’s nothing wrong with saying that, Brad. You know, I mean, having the correct — the people of Georgia are angry. And these numbers are going to be repeated on Monday night. Along with others that we’re going to have by that time, which are much more substantial even. And the people of Georgia are angry, the people of the country are angry. And there’s nothing wrong with saying that, you know, that you’ve recalculated. Because the 2,236 in absentee ballots. I mean, they’re all exact numbers that were done by accounting firms, law firms, etc. And even if you cut ’em in half, cut ’em in half and cut ’em in half again, it’s more votes than we need.`
+	  
+	  `Raffensperger: Well, Mr. President, the challenge that you have is the data you have is wrong. We talked to the congressmen, and they were surprised.`
+	  
+	  `But they — I guess there was a person named Mr. Braynard who came to these meetings and presented data, and he said that there was dead people, I believe it was upward of 5,000. The actual number were two. Two. Two people that were dead that voted. So that’s wrong.` - [Transcript and audio: Trump call with Georgia Sec. of State Brad Raffensperger, The Washington Post, 2021](https://archive.ph/BMC7Q)
+	- `Trump: Cleta, a lot of it you don’t need to be shared. I mean, to be honest, they should share it. They should share it because you want to get to an honest election.`
+	  
+	  `I won this election by hundreds of thousands of votes. There’s no way I lost Georgia. There’s no way. We won by hundreds of thousands of votes. I’m just going by small numbers, when you add them up, they’re many times the 11,000. But I won that state by hundreds of thousands of votes.`
+	  
+	  `Do you think it’s possible that they shredded ballots in Fulton County? Because that’s what the rumor is. And also that Dominion took out machines. That Dominion is really moving fast to get rid of their, uh, machinery.`
+	  
+	  `Do you know anything about that? Because that’s illegal, right?`
+	  
+	  `Germany: This is Ryan Germany. No, Dominion has not moved any machinery out of Fulton County.`
+	  
+	  `Trump: But have they moved the inner parts of the machines and replaced them with other parts?`
+	  
+	  `Germany: No.`
+	  
+	  `Trump: Are you sure, Ryan?`
+	  
+	  `Germany: I’m sure. I’m sure, Mr. President.`
+	  
+	  `Trump: What about, what about the ballots. The shredding of the ballots. Have they been shredding ballots?`
+	  
+	  `Germany: The only investigation that we have into that — they have not been shredding any ballots. There was an issue in Cobb County where they were doing normal office shredding, getting rid of old stuff, and we investigated that. But this stuff from, you know, from you know past elections.`
+	  
+	  `Trump: It doesn’t pass the smell test because we hear they’re shredding thousands and thousands of ballots, and now what they’re saying, “Oh, we’re just cleaning up the office.” You know.`
+	  
+	  `Raffensperger: Mr. President, the problem you have with social media, they — people can say anything.`
+	  
+	  `Trump: Oh this isn’t social media. This is Trump media. It’s not social media. It’s really not; it’s not social media. I don’t care about social media. I couldn’t care less. Social media is Big Tech. Big Tech is on your side, you know. I don’t even know why you have a side because you should want to have an accurate election. And you’re a Republican.`
+	  
+	  `Raffensperger: We believe that we do have an accurate election.`
+	  
+	  `Trump: No, no you don’t. No, no you don’t. You don’t have. Not even close. You’re off by hundreds of thousands of votes. And just on the small numbers, you’re off on these numbers, and these numbers can’t be just — well, why wont?` - [Transcript and audio: Trump call with Georgia Sec. of State Brad Raffensperger, The Washington Post, 2021](https://archive.ph/BMC7Q)
+	- ` ` - [Transcript and audio: Trump call with Georgia Sec. of State Brad Raffensperger, The Washington Post, 2021](https://archive.ph/BMC7Q)
+	- ` ` - [Transcript and audio: Trump call with Georgia Sec. of State Brad Raffensperger, The Washington Post, 2021](https://archive.ph/BMC7Q)
+	- ` ` - [Transcript and audio: Trump call with Georgia Sec. of State Brad Raffensperger, The Washington Post, 2021](https://archive.ph/BMC7Q)
+	- ` ` - [Transcript and audio: Trump call with Georgia Sec. of State Brad Raffensperger, The Washington Post, 2021](https://archive.ph/BMC7Q)
 - 
-- 
+	- ` ` - [Transcript and audio: Trump call with Georgia Sec. of State Brad Raffensperger, The Washington Post, 2021](https://archive.ph/BMC7Q)
 - 
 - On 3 January 2021, Trump then tweeted the false State Farm claim saying Raffensperger couldn't account for voter fraud in Georgia.
 	- `I spoke to Secretary of State Brad Raffensperger yesterday about Fulton County and voter fraud in Georgia. He was unwilling, or unable, to answer questions such as the “ballots under table” scam, ballot destruction, out of state “voters”, dead voters, and more. He has no clue!` - [@realdonaldtrump Tweet, 2021](https://x.com/realDonaldTrump/status/1345731043861659650)
