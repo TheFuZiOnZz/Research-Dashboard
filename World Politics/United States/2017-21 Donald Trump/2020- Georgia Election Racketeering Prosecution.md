@@ -11,16 +11,16 @@
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
 		- Solicitation of Violation of Oath by Public Officer
 		- Conspiracy to Commit Impersonating a Public Officer
-		- 11
-		- 13
-		- 15
-		- 17
-		- 19
-		- 27
-		- 28
+		- Conspiracy to Commit Forgery in the First Degree
+		- Conspiracy to Commit False Statements and Writings
+		- Criminal Attempt to Commit Filing False Documents
+		- Conspiracy to Commit Forgery in the First Degree
+		- Conspiracy to Commit False Statements and Writings
+		- Filing False Documents
+		- Solicitation of Violation of Oath by Public Officer
 		- False Statements and Writings
-		- 38
-		- 39
+		- Solicitation of Violation of Oath by Public Officer
+		- False Statements and Writings
 	- Rudolph William Louis Giuliani - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
 		- Solicitation of Violation of Oath by Public Officer
@@ -28,34 +28,34 @@
 		- Solicitation of Violation of Oath by Public Officer
 		- False Statements and Writings
 		- Conspiracy to Commit Impersonating a Public Officer
-		- 11
-		- 13
-		- 15
-		- 17
-		- 19
+		- Conspiracy to Commit Forgery in the First Degree
+		- Conspiracy to Commit False Statements and Writings
+		- Criminal Attempt to Commit Filing False Documents
+		- Conspiracy to Commit Forgery in the First Degree
+		- Conspiracy to Commit False Statements and Writings
 		- 23
 		- False Statements and Writings
 	- John Charles Eastman - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
 		- Solicitation of Violation of Oath by Public Officer
 		- Conspiracy to Commit Impersonating a Public Officer
-		- 11
-		- 13
-		- 15
-		- 17
-		- 19
-		- 27
+		- Conspiracy to Commit Forgery in the First Degree
+		- Conspiracy to Commit False Statements and Writings
+		- Criminal Attempt to Commit Filing False Documents
+		- Conspiracy to Commit Forgery in the First Degree
+		- Conspiracy to Commit False Statements and Writings
+		- Filing False Documents
 	- Mark Randall Meadows - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
-		- 28
+		- Solicitation of Violation of Oath by Public Officer
 	- Kenneth John Chesebro - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
 		- Conspiracy to Commit Impersonating a Public Officer
-		- 11
-		- 13
-		- 15
-		- 17
-		- 19
+		- Conspiracy to Commit Forgery in the First Degree
+		- Conspiracy to Commit False Statements and Writings
+		- Criminal Attempt to Commit Filing False Documents
+		- Conspiracy to Commit Forgery in the First Degree
+		- Conspiracy to Commit False Statements and Writings
 	- Jeffrey Bossert Clark - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
 		- 22
@@ -68,48 +68,48 @@
 		- False Statements and Writings
 		- Solicitation of Violation of Oath by Public Officer
 		- Conspiracy to Commit Impersonating a Public Officer
-		- 11
-		- 13
-		- 15
-		- 17
-		- 19
+		- Conspiracy to Commit Forgery in the First Degree
+		- Conspiracy to Commit False Statements and Writings
+		- Criminal Attempt to Commit Filing False Documents
+		- Conspiracy to Commit Forgery in the First Degree
+		- Conspiracy to Commit False Statements and Writings
 		- 23
 		- False Statements and Writings
 	- Robert David Cheeley - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
 		- Conspiracy to Commit Impersonating a Public Officer
-		- 11
-		- 13
-		- 15
-		- 17
-		- 19
+		- Conspiracy to Commit Forgery in the First Degree
+		- Conspiracy to Commit False Statements and Writings
+		- Criminal Attempt to Commit Filing False Documents
+		- Conspiracy to Commit Forgery in the First Degree
+		- Conspiracy to Commit False Statements and Writings
 		- 23
 		- False Statements and Writings
 		- 41
 	- Michael A. Roman - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
 		- Conspiracy to Commit Impersonating a Public Officer
-		- 11
-		- 13
-		- 15
-		- 17
-		- 19
+		- Conspiracy to Commit Forgery in the First Degree
+		- Conspiracy to Commit False Statements and Writings
+		- Criminal Attempt to Commit Filing False Documents
+		- Conspiracy to Commit Forgery in the First Degree
+		- Conspiracy to Commit False Statements and Writings
 	- David James Shafer - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
 		- Impersonating a Public Officer
-		- 10
+		- Forgery in the First Degree
 		- False Statements and Writings
-		- 14
-		- 16
+		- Criminal Attempt to Commit False Statements and Writings
+		- Forgery in the First Degree
 		- False Statements and Writings
-		- 40
+		- False Statements and Writings
 	- Shawn Micah Tresher Still - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
 		- Impersonating a Public Officer
-		- 10
+		- Forgery in the First Degree
 		- False Statements and Writings
-		- 14
-		- 16
+		- Criminal Attempt to Commit False Statements and Writings
+		- Forgery in the First Degree
 		- False Statements and Writings
 	- Stephen Cliffgard Lee - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
@@ -136,9 +136,9 @@
 	- Cathleen Alston Latham - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
 		- Impersonating a Public Officer
-		- 10
+		- Forgery in the First Degree
 		- False Statements and Writings
-		- 14
+		- Criminal Attempt to Commit False Statements and Writings
 		- 32
 		- 33
 		- 34
