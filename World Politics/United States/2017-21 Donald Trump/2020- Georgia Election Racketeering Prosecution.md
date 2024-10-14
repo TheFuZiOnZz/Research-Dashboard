@@ -9,8 +9,8 @@
 - Indicted peoples and their charges
 	- Donald John Trump - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
-		- 5
-		- 9
+		- Solicitation of Violation of Oath by Public Officer
+		- Conspiracy to Commit Impersonating a Public Officer
 		- 11
 		- 13
 		- 15
@@ -18,27 +18,27 @@
 		- 19
 		- 27
 		- 28
-		- 29
+		- False Statements and Writings
 		- 38
 		- 39
 	- Rudolph William Louis Giuliani - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
 		- Solicitation of Violation of Oath by Public Officer
 		- False Statements and Writings
-		- 6
-		- 7
-		- 9
+		- Solicitation of Violation of Oath by Public Officer
+		- False Statements and Writings
+		- Conspiracy to Commit Impersonating a Public Officer
 		- 11
 		- 13
 		- 15
 		- 17
 		- 19
 		- 23
-		- 24
+		- False Statements and Writings
 	- John Charles Eastman - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
 		- Solicitation of Violation of Oath by Public Officer
-		- 9
+		- Conspiracy to Commit Impersonating a Public Officer
 		- 11
 		- 13
 		- 15
@@ -50,7 +50,7 @@
 		- 28
 	- Kenneth John Chesebro - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
-		- 9
+		- Conspiracy to Commit Impersonating a Public Officer
 		- 11
 		- 13
 		- 15
@@ -66,29 +66,29 @@
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
 		- Solicitation of Violation of Oath by Public Officer
 		- False Statements and Writings
-		- 6
-		- 9
+		- Solicitation of Violation of Oath by Public Officer
+		- Conspiracy to Commit Impersonating a Public Officer
 		- 11
 		- 13
 		- 15
 		- 17
 		- 19
 		- 23
-		- 25
+		- False Statements and Writings
 	- Robert David Cheeley - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
-		- 9
+		- Conspiracy to Commit Impersonating a Public Officer
 		- 11
 		- 13
 		- 15
 		- 17
 		- 19
 		- 23
-		- 26
+		- False Statements and Writings
 		- 41
 	- Michael A. Roman - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
-		- 9
+		- Conspiracy to Commit Impersonating a Public Officer
 		- 11
 		- 13
 		- 15
@@ -96,42 +96,71 @@
 		- 19
 	- David James Shafer - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
-		- 8
+		- Impersonating a Public Officer
 		- 10
-		- 12
+		- False Statements and Writings
 		- 14
 		- 16
-		- 18
+		- False Statements and Writings
 		- 40
 	- Shawn Micah Tresher Still - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
-		- 8
+		- Impersonating a Public Officer
 		- 10
-		- 12
+		- False Statements and Writings
 		- 14
 		- 16
-		- 18
+		- False Statements and Writings
 	- Stephen Cliffgard Lee - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
-		- 
+		- 20
+		- 21
+		- 30
+		- 31
 	- Harrison William Prescott Floyd - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
-		- 
+		- 30
+		- 31
 	- Trevian C. Kutti - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
-		- 
+		- 30
+		- 31
 	- Sidney Katherine Powell - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
-		- 
+		- 32
+		- 33
+		- 34
+		- 35
+		- 36
+		- 37
 	- Cathleen Alston Latham - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
-		- 
+		- Impersonating a Public Officer
+		- 10
+		- False Statements and Writings
+		- 14
+		- 32
+		- 33
+		- 34
+		- 35
+		- 36
+		- 37
 	- Scott Graham Hall - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
-		- 
+		- 32
+		- 33
+		- 34
+		- 35
+		- 36
+		- 37
 	- Misty Hampton - 
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
-		- 
+		- 32
+		- 33
+		- 34
+		- 35
+		- 36
+		- 37
 - The 2 January 2021 Trump–Raffensperger phone call is used as as evidence for committing a felony offence of false statements and writings and accused Trump of committing an act of Racketeering. The inditement included 13 statements Trump said during the call. This charge was compounded by the tweet Trump made the day after, with it being called a overt act in furtherance of the conspiracy.
 	- `Act 113.`
 	  
