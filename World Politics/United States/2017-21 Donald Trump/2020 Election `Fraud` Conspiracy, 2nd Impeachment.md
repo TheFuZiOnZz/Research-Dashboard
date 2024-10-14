@@ -386,18 +386,10 @@
 	- [Arizona Republican Party v. Fontes (Docket), Superior Court of the State of Arizona for the County of Maricopa, 2020](http://www.superiorcourt.maricopa.gov/docket/CivilCourtCases/caseInfo.asp?caseNumber=cv2020-014248)
 - There is no evidence that using Sharpies leads to issues with scanning ballots and officials have said using Sharpies is preferred. Arizona's Secretary of State Katie Hobbs tweeted,
     - `IMPORTANT: If you voted a regular ballot in-person, your ballot will be counted, no matter what kind of pen you used (even a Sharpie)!` - [@secretaryhobbs Tweet, 2020](https://twitter.com/SecretaryHobbs/status/1324074443740647425)
-- The US Cybersecurity and Infrastructure Security Agency, formed in 2018 by legislation Trump signed, has also labelled the conspiracy theory a false rumour.
-    - `Election jurisdictions allow voters to mark ballots with varying types of writing instruments, based on state law and other considerations such as tabulation system requirements. Poll workers are required to provide approved writing devices to voters.`
-      
-      `Although felt-tip pens, like Sharpies, may bleed through ballots, some election officials have stated that ballot tabulation equipment in their jurisdictions can still read these ballots. Many jurisdictions even design their ballots with offset columns to prevent any potential bleed through from impacting the ability to easily scan both sides of ballots.`
-      
-      `If a ballot has issues that impact its ability to be scanned, it can be hand counted or duplicated, or adjudicated by election officials, who use defined procedures such as chain of custody to ensure protect ballot secrecy and integrity. Many states additionally have “voter intent” laws that allow for ballots to be counted even when issues such as bleed-throughs or stray marks are present, as long as the voter’s intent can still be determined.`  
-    - [link](https://www.cisa.gov/rumorcontrol\#rumor18)
 - On 10 November 2020, A Republican-aligned group abandoned the legal fight after Maricopa County officials challenged the factual basis for the lawsuit.
-    - `This lawsuit is yet one more attempt by the President’s unsuccessful reelection campaign to alter the results of a properly administered general election—or, at the very least, to cast doubt, on the integrity of the election and the veracity of the results. But once again, Plaintiffs’ claims are unmoored from both law and fact, with allegations strung together by rank speculation and selective generalization. This Court should follow the lead of its sister jurisdictions across the country and dismiss this case.  
-    -   
-    - For the reasons stated above, Plaintiffs’ Complaint should be dismissed.`  
-    - [link](https://www.democracydocket.com/wp-content/uploads/2020/11/TrumpvHobbs-MotiontoDismiss-As-Filed-1.pdf)
+    - `This lawsuit is yet one more attempt by the President’s unsuccessful reelection campaign to alter the results of a properly administered general election—or, at the very least, to cast doubt, on the integrity of the election and the veracity of the results. But once again, Plaintiffs’ claims are unmoored from both law and fact, with allegations strung together by rank speculation and selective generalization. This Court should follow the lead of its sister jurisdictions across the country and dismiss this case.`
+      
+      `For the reasons stated above, Plaintiffs’ Complaint should be dismissed.` - [Arizona Republican Party v. Fontes (Docket), Superior Court of the State of Arizona for the County of Maricopa, 2020](https://www.democracydocket.com/wp-content/uploads/2020/11/TrumpvHobbs-MotiontoDismiss-As-Filed-1.pdf)
 - On 13 November 2020, the Trump campaign lost the fight soon afterward.
     - `Since the close of yesterday’s hearing, the tabulation of votes statewide has rendered unnecessary a judicial ruling as to the presidential electors.` - [link](https://www.democracydocket.com/wp-content/uploads/2020/11/NoticeofPartialMootness-1.pdf)
 ### Kelli Ward v. Constance Jackson et al., and Katie Hobbs.
