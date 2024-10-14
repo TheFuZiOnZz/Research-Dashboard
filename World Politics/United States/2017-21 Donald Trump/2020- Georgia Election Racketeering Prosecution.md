@@ -6,8 +6,6 @@
 - [link](https://www.lawforward.org/wp-content/uploads/2024/03/Chesebro-Troupis.pdf) - Cheesebro & Troupis Texts on and around Jan 6
 
 - On 14 August 2023, 
-
--
 - The 2 January 2021 Trump–Raffensperger phone call is used as as evidence for committing a felony offence of false statements and writings and accused Trump of committing an act of racketeering. The inditement included 13 statements Trump said during the call. This charge was compounded by the tweet Trump made the day after, with it being called a overt act in furtherance of the conspiracy.
 	- `Act 113.`
 	  
