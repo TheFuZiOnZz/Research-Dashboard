@@ -112,16 +112,15 @@
 # Intelligence Community Report
 - On 15 March 2021, The Office of the Director of National Intelligence declassified and released a report on `Foreign Threats to the 2020 US Federal Elections`
     
-    - `Throughout the election cycle, Russia's online influence actors sought to affect US public perceptions of the candidates, as well as advance Moscow's longstanding goals of undermining confidence in US election processes and increasing sociopolitical divisions among the American people. During the presidential primaries and dating back to 2019, these actors backed candidates from both major US political parties that Moscow viewed as outsiders, while later claiming that election fraud helped what they called "establishment" candidates. Throughout the election, Russia's online influence actors sought to amplify mistrust in the electoral process by denigrating mail-in ballots, highlighting alleged irregularities, and accusing the Democratic Party of voter fraud.  
-    -   
-    - The Kremlin-linked influence organization Project Lakhta and its Lakhta Internet Research (LIR) troll farm--commonly referred to by its former moniker Internet Research Agency (IRA)-amplified controversial domestic issues. LIR used social media personas, news websites, and US persons to deliver tailored content to subsets of the US population. LIR established short-lived troll farms that used unwitting third-country nationals in Ghana, Mexico, and Nigeria to propagate these US-focused narratives, probably in response to efforts by US companies and law enforcement to shut down UR-associated personas.  
-    -   
-    - Russian state media, trolls, and online proxies, including those directed by Russian intelligence, published disparaging content about President Biden, his family, and the Democratic Party, and heavily amplified related content circulating in US media, including stories centered on his son. These influence actors frequently sought out US contributors to increase their reach into US audiences. In addition to election-related content, these online influence actors also promoted conspiratorial narratives about the COVID-19 pandemic, made allegations of social media censorship, and highlighted US divisions surrounding protests about racial justice.  
-    -   
-    - Russian online influence actors generally promoted former President Trump and his commentary, including repeating his political messaging on the election results; the presidential campaign; debates; the impeachment inquiry; and, as the election neared, US domestic crises. Influence actors sometimes sought to discourage US left-leaning audiences from voting by suggesting that neither candidate was a preferable option. At the same time, Russian actors criticized former President Trump or his administration when they pursued foreign policies-such as the targeted killing of Iranian General Qasem Soleimani in January 2020--at odds with Russia's preferences.  
-    -   
-    - LIR, which probably receives tasking and strategic direction from the Kremlin, pushed stories supporting former President Trump and denigrating President Biden after he became the presumptive nominee in April.`  
-    - [link](https://s3.documentcloud.org/documents/20515484/icadeclass16mar21.pdf) - Foreign Threats to the 2020 US Federal Elections
+    - `Throughout the election cycle, Russia's online influence actors sought to affect US public perceptions of the candidates, as well as advance Moscow's longstanding goals of undermining confidence in US election processes and increasing sociopolitical divisions among the American people. During the presidential primaries and dating back to 2019, these actors backed candidates from both major US political parties that Moscow viewed as outsiders, while later claiming that election fraud helped what they called "establishment" candidates. Throughout the election, Russia's online influence actors sought to amplify mistrust in the electoral process by denigrating mail-in ballots, highlighting alleged irregularities, and accusing the Democratic Party of voter fraud.`
+      
+      `The Kremlin-linked influence organization Project Lakhta and its Lakhta Internet Research (LIR) troll farm--commonly referred to by its former moniker Internet Research Agency (IRA)-amplified controversial domestic issues. LIR used social media personas, news websites, and US persons to deliver tailored content to subsets of the US population. LIR established short-lived troll farms that used unwitting third-country nationals in Ghana, Mexico, and Nigeria to propagate these US-focused narratives, probably in response to efforts by US companies and law enforcement to shut down UR-associated personas.
+      
+      `Russian state media, trolls, and online proxies, including those directed by Russian intelligence, published disparaging content about President Biden, his family, and the Democratic Party, and heavily amplified related content circulating in US media, including stories centered on his son. These influence actors frequently sought out US contributors to increase their reach into US audiences. In addition to election-related content, these online influence actors also promoted conspiratorial narratives about the COVID-19 pandemic, made allegations of social media censorship, and highlighted US divisions surrounding protests about racial justice.
+      
+      `Russian online influence actors generally promoted former President Trump and his commentary, including repeating his political messaging on the election results; the presidential campaign; debates; the impeachment inquiry; and, as the election neared, US domestic crises. Influence actors sometimes sought to discourage US left-leaning audiences from voting by suggesting that neither candidate was a preferable option. At the same time, Russian actors criticized former President Trump or his administration when they pursued foreign policies-such as the targeted killing of Iranian General Qasem Soleimani in January 2020--at odds with Russia's preferences.
+      
+      `LIR, which probably receives tasking and strategic direction from the Kremlin, pushed stories supporting former President Trump and denigrating President Biden after he became the presumptive nominee in April.` - [Foreign Threats to the 2020 US Federal Elections, Office of the Director of National Intelligence, 2021](https://s3.documentcloud.org/documents/20515484/icadeclass16mar21.pdf)
     
     - `We assess that Russian leaders viewed President Biden's potential election as disadvantageous to Russian interests and that this drove their efforts to undermine his candidacy. We have high confidence in this assessment.  
     -   
@@ -146,7 +145,6 @@
 ### Mike Kelly, et al. v. Pennsylvania, et al.
 - On 3 December 2020, 28 Republican politicians, led by Rep. Mike Kelly, asked the US Supreme Court to block the certification of Pennsylvania's election results alleging that “no excuse” absentee voting law unlawfully expanded the scope of absentee voting. Plaintiffs sought a temporary restraining order against certification while the courts ruled on the issue. [link](https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/20-810.html)
 - On 8 December 2020, The court turned down the case.
-    
     - `First, Petitioners’ unjustifiable delay in filing suit not only supports the application of laches, but also weighs against issuing an injunction. Petitioners waited over a year after Act 77 passed—and then weeks after Election Day—to first bring their claims. Petitioners should not receive extraordinary relief after unduly delaying in a manner that created the very exigent circumstances that supposedly animate their rush to this Court.  
     -   
     - ...  
@@ -161,21 +159,17 @@
     -   
     - Petitioner’s application for a writ of injunction should be denied.`  
     - [link](https://www.supremecourt.gov/DocketPDF/20/20A98/162968/20201208090425848_20A98%20Response%20in%20Opposition%20efile.pdf)
-    
 ### Texas v. Pennsylvania, et al.
 - On 7 December 2020, Texas Attorney General Ken Paxton sued Pennsylvania, Georgia, Michigan, and Wisconsin in the US Supreme Court seeking to overturn their election results. [link](https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/22o155.html)
 - On 11 December 2020,The Supreme Court rejected the case.
-    
     - `The State of Texas’s motion for leave to file a bill of complaint is denied for lack of standing under Article III of the Constitution. Texas has not demonstrated a judicially cognizable interest in the manner in which another State  
     - conducts its elections. All other pending motions are dismissed as moot.  
     -   
     - Statement of Justice Alito, with whom Justice Thomas joins: In my view, we do not have discretion to deny the filing of a bill of complaint in a case that falls within our original jurisdiction. ... . I would therefore grant the motion to file the bill of complaint but would not grant other relief, and I express no view on any other issue.`  
     - [link](https://www.supremecourt.gov/orders/courtorders/121120zr_p860.pdf)
-    
 ### Donald J. Trump, v. Cyrus R. Vance, Jr., et al.
 - On 13 October 2020, The Trump campaign asked the US Supreme Court to overturn three decisions from the Pennsylvania Supreme Court over various technical rules regarding absentee and mail-in ballots. [link](https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/20a63.html)
 - On 22 February 2021, The court rejected the case declaring it moot.
-    
     - `First, Applicant contends that he will be irreparably harmed even if the relevant documents are disclosed only to the “grand jury and prosecutors.” Appl. 33. But the primary authority Applicant cites for that proposition, Church of Scientology of Cal. v. United States, 506 U.S. 9 (1992), suggests the opposite. There, the Court held that a party’s appeal of an order requiring it to produce records to the government does not become moot even after the party has produced those records.  
     -   
     - ...  
@@ -186,86 +180,57 @@
     -   
     - Finally, Applicant contends that the purported harm is “particularly pressing” because he “challenges a subpoena to a third party.” Appl. 34. But the subpoena’s issuance to a third party (Mazars) is immaterial because everyone agrees that it “is functionally a subpoena issued to the President.” ... That is why, throughout these proceedings, Mazars has taken “no position on the legal issues raised” and indicated that it would follow any court order.`  
     - [link](https://www.supremecourt.gov/DocketPDF/20/20A63/158004/20201016160250058_20A63%20Stay%20Opposition.pdf)
-    
     - `The application for a stay presented to Justice Breyer and referred to the Court is denied.` [link](https://www.supremecourt.gov/orders/courtorders/022221zor_2cp3.pdf)
-    
 ## Arizona
 ### Aguilera v. Fontes,
 - On 4 November 2020, a voter, Laurie Aguilera, filed a lawsuit accusing Maricopa County that Votes cast using Sharpies were unlawfully excluded from election results.
-    
     - `Plaintiff Laurie Aguilera voted in person in Maricopa County on election day, November 3, 2020. She was provided with a sharpie by the poll workers with which to mark her ballot. Plaintiff completed her ballot with the provided sharpie. While completing it she noticed that the ink was bleeding through. Plaintiff has been voting in person for several election cycles. However, upon information and belief, she has never before been given a sharpie as a marking device by a poll worker. Plaintiff fed her ballot into the ballot box. The ballot box failed to properly register her vote causing a poll-worker to cancel her ballot in the presence of Plaintiff.  
     - Plaintiff requested a new ballot but, upon information and belief, upon consultation with the Maricopa County Reorder's Office, the poll workers refused to provide her with one. Upon information and belief, many other voters have experienced similar issues.  
     - Upon information and belief not all Arizona counties and polling places provided in-person voters with sharpies for marking devices.`  
     - [link](https://www.clerkofcourt.maricopa.gov/home/showpublisheddocument/1446/637401560936870000)
-    
 - On 7 November 2020, Plaintiff voluntarily dismissed after filing suit.
-    
     - `Plaintiffs, pursuant to Ariz. R. Civ P. 41(a)(1)(A)(i), voluntarily dismiss without prejudice the claims in the above-entitled action against Defendants.` [link](https://www.clerkofcourt.maricopa.gov/home/showpublisheddocument/1536/637405062626170000)
-    
 - On 12 November 2020, a Second suit was brought by Aguilera, alleging her vote was not counted and asking for opportunity to cast a new ballot.
-    
     - `Plaintiff Laurie Aguilera voted in person in Maricopa County on election day, November 3, 2020 alongside her husband Damian Aguilera. Neither Plaintiff Aguilera nor her husband are on the early voting list or received ballots by mail. Ex. B. [Aguilera family ballot status informationl. When election-day voters like Plaintiff Aguilera showed up to the polls, they were checked in by poll-workers on tablet-style devices and their names were then logged into the county's electronic pollbook. Plaintiff Aguilera and her husband were checked-in to the polls by a poll-worker. Plaintiff Aguilera completed her ballot according to the instructions provided by Defendants. Plaintiff Aguilera and her husband attempted to feed their ballots into the tabulator as instructed. Upon information and belief, when a ballot is successfully read and insetted into a tabulator, the tabulator displays a confirmation that the ballot has been accepted on a small digital readout.` [link](https://web.archive.org/web/20201116024331/https://www.democracydocket.com/wp-content/uploads/sites/45/2020/11/CV2020-014562.pdf)
-    
 - On 29 November 2020, the State judge dismissed the case after an evidentiary hearing.
-    
     - `Plaintiff Aguilera asserts that she was unable to successfully cast her ballot in person at the polls on 11/3/2020, Election Day. Aguilera testified that on Election Day, she and her husband Damian Aguilera went together to vote in person at the Sheraton Hotel at 26th Avenue and Dunlap in Phoenix. Aguilera's husband testified that he voted without incident just ahead of his wife. Aguilera testified that when she inserted her completed ballot into the tabulator machine, the tabulator screen did not ligtrt up or make any noise. Poll workers who came to assist Aguilera thought the tabulator looked as though it was ready to receive another ballot and told Aguilera she needed to vote again. When Aguilera began the process of doing so by scanning in her identification at the check-in kiosk, the kiosk indicated that she had already cast her ballot and gave her the option to cancel the ballot.` [link](https://web.archive.org/web/20201202180408/https://www.democracydocket.com/wp-content/uploads/sites/45/2020/11/Final-Order-CV2020-014562-ME-11-30.pdf)
-    
 ### Donald J. Trump for President, Inc. v. Hobbs. (Sharpie Lawsuit)
 - On 7 November 2020, The Trump Campaign, Republican National Committee, and Arizona Republican Party alleged that Maricopa County elections officials violated state and federal law when overriding electronic tabulator errors for ballots rejected by an electronic tabulation device. [link](http://www.superiorcourt.maricopa.gov/docket/CivilCourtCases/caseInfo.asp?caseNumber=cv2020-014248)
 - There is no evidence that using Sharpies leads to issues with scanning ballots and officials have said using Sharpies is preferred. Arizona's Secretary of State Katie Hobbs tweeted,
-    
     - `IMPORTANT: If you voted a regular ballot in-person, your ballot will be counted, no matter what kind of pen you used (even a Sharpie)!` [link](https://twitter.com/SecretaryHobbs/status/1324074443740647425)
-    
 - The US Cybersecurity and Infrastructure Security Agency, formed in 2018 by legislation Trump signed, has also labelled the conspiracy theory a false rumour.
-    
     - `Election jurisdictions allow voters to mark ballots with varying types of writing instruments, based on state law and other considerations such as tabulation system requirements. Poll workers are required to provide approved writing devices to voters.  
     -   
     - Although felt-tip pens, like Sharpies, may bleed through ballots, some election officials have stated that ballot tabulation equipment in their jurisdictions can still read these ballots. Many jurisdictions even design their ballots with offset columns to prevent any potential bleed through from impacting the ability to easily scan both sides of ballots.  
     -   
     - If a ballot has issues that impact its ability to be scanned, it can be hand counted or duplicated, or adjudicated by election officials, who use defined procedures such as chain of custody to ensure protect ballot secrecy and integrity. Many states additionally have “voter intent” laws that allow for ballots to be counted even when issues such as bleed-throughs or stray marks are present, as long as the voter’s intent can still be determined.`  
     - [link](https://www.cisa.gov/rumorcontrol\#rumor18)
-    
 - On 10 November 2020, A Republican-aligned group abandoned the legal fight after Maricopa County officials challenged the factual basis for the lawsuit.
-    
     - `This lawsuit is yet one more attempt by the President’s unsuccessful reelection campaign to alter the results of a properly administered general election—or, at the very least, to cast doubt, on the integrity of the election and the veracity of the results. But once again, Plaintiffs’ claims are unmoored from both law and fact, with allegations strung together by rank speculation and selective generalization. This Court should follow the lead of its sister jurisdictions across the country and dismiss this case.  
     -   
     - For the reasons stated above, Plaintiffs’ Complaint should be dismissed.`  
     - [link](https://www.democracydocket.com/wp-content/uploads/2020/11/TrumpvHobbs-MotiontoDismiss-As-Filed-1.pdf)
-    
 - On 13 November 2020, the Trump campaign lost the fight soon afterward.
-    
     - `Since the close of yesterday’s hearing, the tabulation of votes statewide has rendered unnecessary a judicial ruling as to the presidential electors.` [link](https://www.democracydocket.com/wp-content/uploads/2020/11/NoticeofPartialMootness-1.pdf)
-    
 ### Arizona Republican Party v. Fontes,
 - On 4 December 2020, .
-    
-    - ` ` [link]
-    
 - On 7 December 2020, .
-    
-    - ` ` [link]
-    
 ### Kelli Ward v. Constance Jackson et al., and Katie Hobbs.
 - On 30 November 2020, an Arizona voter and state Republican Party Chair, Kelli Ward, filed a lawsuit in the Superior Court of Arizona, Maricopa County. Ward challenged the signature verification process, claiming election workers were unfit to verify signatures. Ward also challenged the ballot duplication process, whereby bipartisan county workers transferred votes to new ballots when ballot tabulators could not read them, claiming that observers were not allowed to view the entire process. [link](https://www.azcourts.gov/newsandinfo/High-Profile-Case-Update/CV-20-0343)
 - On 4 December 2020, Arizona's Superior Court of Maricopa County
-    
     - `A.R.S. § 16-672(A)(5) permits an election contest on the ground that, “by reason of erroneous count of votes” the candidate certified as the winner “did not in fact receive the highest number of votes.” Plaintiff has not proven that the Biden/Harris ticket did not receive the highest number of votes.` [link](https://web.archive.org/web/20201230073802/https://www.democracydocket.com/wp-content/uploads/sites/45/2020/11/Order-2.pdf)
-    
 - On 8 December 2020, Arizona's Supreme Court unanimously rejected the appeal of the Superior Court case saying the facts Ward presented were incorrect and that she "fails to present any evidence of misconduct."
-    
     - `Intervenor Maricopa County argues that the trial court could not entertain this challenge under A.R.S. § 16-672(A) which authorizes a contest of the “election of any person declared elected to state office.” Intervenors/Defendants/Amicus contend that the Court must decide this matter within the “safe harbor” deadline of 3 U.S.C. § 5.  
     -   
     - The Court concludes, unanimously, that the trial judge did not abuse his discretion in denying the request to continue the hearing and permit additional inspection of the ballots. The November 9, 2020 hand count audit revealed no discrepancies in the tabulation of votes and the statistically negligible error presented in this case falls far short of warranting relief under A.R.S. § 16-672. Because the challenge fails to present any evidence of “misconduct,” “illegal votes” or that the Biden Electors “did not in fact receive the highest number of votes for office,” let alone establish any degree of fraud or a sufficient error rate that would undermine the certainty of the election results, the Court need not decide if the challenge was in fact authorized under A.R.S. § 16-672 or if the federal “safe harbor” deadline applies to this contest. Therefore,  
     -   
     - IT IS ORDERED affirming the trial court decision and confirming the election of the Biden Electors under A.R.S. § 16-676(B).`  
     - [link](https://web.archive.org/web/20210522064031/https://www.democracydocket.com/wp-content/uploads/sites/45/2020/11/AscDecisionOrder-3939735-0.pdf)
-    
 ### Bowyer v. Ducey.
 - On 2 December 2020, Sidney Powell, who litigated on behalf of some Arizona voters and one candidate for Republican Arizona presidential elector, filed a lawsuit in federal court against the governor, secretary of state, and other Arizona election officials. They asked the court to decertify Arizona's election results, or order that Arizona certify Trump electors. [link](https://www.courtlistener.com/docket/18707812/bowyer-v-ducey/)
 - On 9 December 2020, The judge ruled that the plaintiffs lacked legal standing.
     
     - `Plaintiffs bring their Complaint seeking injunctive relief from this Court, specifically, to “set aside the results of the 2020 General Election,” because they claim the election process and results were “so riddled with fraud, illegality and statistical impossibility . . . that Arizona voters, courts and legislators cannot rely on or certify” its results. (Doc. 1 at 2). By any measure, the relief Plaintiffs seek is extraordinary. If granted, millions of Arizonans who exercised their individual right to vote in the 2020 General Election would be utterly disenfranchised. Such a request should then be accompanied by clear and conclusive facts to support the alleged “egregious range of conduct in Maricopa County and other Arizona counties . . . at the direction of Arizona state election officials.” (Id.) Yet the Complaint’s allegations are sorely wanting of relevant or reliable evidence, and Plaintiffs’ invocation of this Court’s limited jurisdiction is severely strained. Therefore, for the reasons stated herein, the Complaint shall be dismissed.` [link](https://storage.courtlistener.com/recap/gov.uscourts.azd.1255923/gov.uscourts.azd.1255923.84.0_2.pdf)
-    
 ### Stevenson v. Ducey,
 - On 4 December 2020, A group of voters alleged that Arizona election officials did not enforce Arizona residency requirements, permitted “double voting,” and used the Center for Tech and Civic Life to create illegal disparities in ballot and drop-box voting in demographically different areas of Arizona. Plaintiffs sought an injunction to prevent the certification of the election results and asked the governor to certify legislatively selected Presidential Electors.
     
@@ -277,19 +242,15 @@
     -   
     - RESPECTFULLY SUBMITTED as of this 7th day of December, 2020.`  
     - [link](https://www.clerkofcourt.maricopa.gov/home/showpublisheddocument/1956/637429572632870000)
-    
 ### Burk v. Ducey,
 - On 7 November 2020, A voter alleged widespread voter fraud, including: failing to count valid ballots and fraudulently switching Trump votes to Biden ones; counting unlawful absentee and mail-in ballots; committing fraud with Dominion machines; and violating observation rights. The voter asked the court to decertify Arizona’s presidential election results or exclude unlawful absentee and mail-in ballots from the count.
-    
     - `Plaintiff brings forth this election complaint to bring forth election fraud as well as violations of Arizona election laws, Electors Clauses, and the Equal Protection and Due Process Clauses of the Fourteenth Amendment, of the U.S. Constitution. These violations occurred during the 2020 General Election throughout the State of Arizona, as set forth in the affidavits of eyewitnesses and the voter data cited, the statistical anomalies and mathematical impossibilities detailed in the affidavits of expert witnesses.  
     -   
     - Plaintiff alleges a widespread scheme and artifice to defraud the election for the purpose of illegally and fraudulently manipulating the vote count to manufacture an election of Joe Biden as President of the United States,and also of various down ballot democrat candidates in the 2020 election cycle. This fraud was executed by the systemic adaptation of old-fashioned "ballot-stuffing," which included the transport of fraudulent ballots taken to the county tabulation center as well as by using software to manipulate the vote count in Maricopa County and using fraudulent and altered ballots in outlying counties to create an appearance ofa similar proportional result in the outlying counties such as Pinal.  
     -   
     - The widespread election fraud has now been amplified and rendered virtually invisible by computer software reated and run by domestic and foreign actors for this very purpose. This Complaint details an especially egregious nge of conduct in Maricopa County and other Arizona counties using employing Dominion Systems, though this onduct occurred throughout the State at the direction of Arizona state election officials.`  
     - [link](https://web.archive.org/web/20201210162730/https://www.democracydocket.com/wp-content/uploads/sites/45/2020/12/Burk-v-Ducey-complaint.pdf)
-    
 - On 15 November 2020, The State judge dismissed case after argument for lack of standing as voter did not show they were registered, also finding the complaint was untimely and barred by laches.
-    
     - `The Court has reviewed and considered the Motions to Dismiss filed by the Governor. the Secretary of State and the Maricopa County Attorneys Office and the Response filed by Plaintiff. In addition, the Court has also considered the oral arguments of counsel. the Notice of Filing, filed on December 14, 2020 by the Secretary of State and Plaintiffs Response to it.  
     -   
     - Good cause exists to grant the Motions to Dismiss on multiple separate and independent grounds raised by the moving parties, including the following:  
@@ -298,40 +259,25 @@
     - [link](https://web.archive.org/web/20201230074056/https://healthyelections-case-tracker.stanford.edu/file?id=179)
     
 - On 3 March 2021, the case was filed with SCOTUS but was denied.
-    
     - `This action is brought to secure equitable relief resulting from Defendants' unlawful deprivation of Plaintiffs rights, privileges, and immunities guaranteed by the Equal Protection and Due Process Clause of the U.S. Const. Amend. XIV, the U.S. Const. Amend. I, and the laws of Arizona and the United States. Petitioner contends the juxtaposition of unqualified voters having their vote counted in the 2020 election, while a real person (Petitioner) was illegally denied her voice is the heart of her constitutional and election challenge claims.` [link](https://crimeofthecentury2020.com/wp-content/uploads/2021/03/Petition030321.pdf)
-    
 ## Georgia
 [link](https://en.wikipedia.org/wiki/Post-election_lawsuits_related_to_the_2020_United_States_presidential_election_from_Georgia\#In_re:_Enforcement_of_Election_Laws_and_Securing_Ballots_Cast_or_Received_after_7:00pm_on_November_3,_2020)
 In re: Enforcement of Election Laws and Securing Ballots Cast or Received after 7:00pm on November 3, 2020. [link](https://healthyelections-case-tracker.stanford.edu/detail?id=345)
 - On 4 November 2020, the Trump campaign and the Georgia Republican Party filed suit in the Chatham County Superior Court, alleging that the Chatham County Board of Elections had failed "to safely store absentee ballots" and might be illegally accepting "absentee ballots arriving after 7:00 p.m. on Election Day.”
 - On 5 November 2020, The judge denied the request to toss out the 53 ballots that a GOP poll watcher said arrived after polls closed at 7 p.m. on November 3.
-    
-    - `Before the Court is a Petition to Command Enforcement of Election Laws which was filed by the Georgia Republican Party and Donald J. Trump for President, Inc. The matter was heard via Webex on November 5, 2020. Having read and considered said petition, all argument and evidence of record, including the evidence presented at the hearing, and the applicable law, the Court finds that there is no evidence that the ballots referenced in the petition were received after 7:00 p.m. on election day, thereby making those ballots invalid. Additionally, there is no evidence that the Chatham County Board of Elections or the Chatham County Board of Registrars has failed to comply with the law.  
-    -   
-    - WHEREFORE, IT IS HEREBY ORDERED, ADJUDGED AND DECREED that the above petition is DISMISSED.`  
-    - [link](https://www.wsav.com/wp-content/uploads/sites/75/2020/11/Order-On-Petition-To-Command-Enforcement-Of-Election-Laws-2.pdf)
-    
-  
-  
+    - `Before the Court is a Petition to Command Enforcement of Election Laws which was filed by the Georgia Republican Party and Donald J. Trump for President, Inc. The matter was heard via Webex on November 5, 2020. Having read and considered said petition, all argument and evidence of record, including the evidence presented at the hearing, and the applicable law, the Court finds that there is no evidence that the ballots referenced in the petition were received after 7:00 p.m. on election day, thereby making those ballots invalid. Additionally, there is no evidence that the Chatham County Board of Elections or the Chatham County Board of Registrars has failed to comply with the law.`
+      
+      `WHEREFORE, IT IS HEREBY ORDERED, ADJUDGED AND DECREED that the above petition is DISMISSED.` - [link](https://www.wsav.com/wp-content/uploads/sites/75/2020/11/Order-On-Petition-To-Command-Enforcement-Of-Election-Laws-2.pdf)
 - Republican elector Lin Wood, [whose attorney also represents the Trump campaign](https://lawandcrime.com/2020-election/trump-appointed-judge-rejects-lin-woods-creative-election-lawsuit-in-georgia/), sued to stop vote certification because. He argued that because the Georgia Secretary of State agreed to allow signature matching on ballots — a measure designed to prevent voter fraud — eight months before the election, his rights as an individual voter had been infringed upon. A state judge [dismissed the case](https://www.fox5atlanta.com/news/judge-dismisses-trump-campaign-lawsuit-seeking-to-halt-georgia-election-certification), [saying the arguments have "no basis in fact and law."](https://lawandcrime.com/2020-election/trump-appointed-judge-rejects-lin-woods-creative-election-lawsuit-in-georgia/)
-  
-  
 - Wood filed another lawsuit in federal court and [lost that one as well](https://assets.documentcloud.org/documents/7334748/12-5-20-11th-Circuit-Opinion-Wood-v-Raffensperger.pdf), [losing again upon appeal](https://twitter.com/marceelias/status/1343603310293606401).
-  
-  
 - Sidney Powell, [who was kicked off of Trump's legal team](https://www.businessinsider.com/trump-lost-patience-with-conspiracy-theorist-attorney-powell-nyt-2020-11) after spreading numerous conspiracy theories about election fraud, filed a federal lawsuit in Georgia alleging widespread election fraud. A federal judge [quickly dismissed the case](https://www.businessinsider.com/sidney-powell-loses-2-kraken-lawsuits-in-one-day-in-georgia-michigan-2020-12), calling it "extraordinary" that the lawsuit sought to disqualify the votes of millions of voters.
-  
-  
 - Nearly two months after he lost the election, [Trump sued Georgia Governor Brian Kemp and Secretary of State Brian Raffensperger](https://lawandcrime.com/2020-election/trumps-new-lawsuit-seeking-to-decertify-georgia-election-provides-insight-into-absurd-claims-made-in-his-call-with-secretary-of-state/) seeking to "de-certify" the election, arguing that it wasn't carried out in accordance with Georgia law. Trump withdrew the case on January 7, according to court records reviewed by Insider.
 ## Michigan
 - In a federal lawsuit, the Trump campaign alleged a number of irregularities — [such as that GOP election observers were told to stand six feet away from ballot counters because of the coronavirus](https://www.businessinsider.com/trump-michigan-election-lawsuit-poll-watchers-social-distancing-complaints-2020-11) — meant that Michigan should not certify its votes. The Trump campaign [withdrew the lawsuit](https://www.courtlistener.com/recap/gov.uscourts.miwd.99598/gov.uscourts.miwd.99598.33.0.pdf), with [Rudy Giuliani falsely declaring it achieved the result the campaign wanted](https://twitter.com/WardDPatrick/status/1329444160701685762).
 - A judge on the Michigan Court of Claims denied the Trump campaign's request to stop counting ballots in the state. [Judge Cynthia Stephens said](https://www.michigan.gov/documents/ag/20201106_Opin_and_Ord_707156_7.pdf) litigating the issue didn't make sense given that ballots in Michigan had more or less been fully counted.
 - A poll challenger named Sarah Stoddard and a group called the Election Integrity Fund [filed a lawsuit](https://www.detroitnews.com/story/news/local/detroit-city/2020/11/05/election-challenger-suit-halt-detroit-absentee-vote-count/6181615002/) seeking to stop the certification of election results in Detroit, claiming that absentee ballots were improperly reviewed. Judge Timothy Kenny [denied](https://www.michigan.gov/documents/ag/Stoddard_et_al_v_City_Election_Commission_et_al_-_11-06-2020_707182_7.pdf) the motion on the grounds that there was no proof that election oversight protocol hadn't been followed. Kenny issued another ruling later denying other motions, including [a request for an additional audit of the election](https://beta.documentcloud.org/documents/20407012-michigan-election-lawsuit-kenney-costantino-et-al-v-wayne-boc-et-al-opinion-order).
 - A [Republican-aligned law firm](https://greatlakesjc.org/cases/costantino_v_detroit/) called the Great Lakes Justice Center [filed a lawsuit](https://greatlakesjc.org/wp-content/uploads/Complaint-Costantino-FINAL-With-Exhibits.pdf?x44644) in Wayne County's Circuit Court against Detroit and Wayne County alleging "massive fraud in the election vote-counting procedures" and calling for an entirely new election. A judge [denied](https://www.wsj.com/articles/michigan-judge-denies-conservative-group-s-request-to-delay-detroit-election-certification-11605295879) the case.
-    
     - `Perhaps if Plaintiffs’ election challenger affiants had attended the October 29, 2020 walk-through of the TCF Center ballot counting location, questions and concerns could have been answered in advance of Election Day. Regrettably, they did not and, therefore, Plaintiffs’ affiants did not have a full understanding of the TCF absent ballot tabulation process. No formal challenges were filed. However, sinister, fraudulent motives were ascribed to the process and the City of Detroit. Plaintiffs’ interpretation of events is incorrect and not credible.` [link](https://web.archive.org/web/20210522064008/https://www.democracydocket.com/wp-content/uploads/sites/45/2020/11/Scanned-from-a-Xerox-Multifunction-Printer.pdf)
-    
 - Trump ally Sidney Powell also has a federal lawsuit pending in Michigan. It asks the judge to "de-certify" the state's electoral votes, which have already gone to Biden. The lawsuit [has numerous typos](https://www.businessinsider.com/sidney-powell-hypes-election-lawsuit-despite-trump-disowning-2020-11) and [cites voting statistics from a county that does not exist](https://www.businessinsider.com/sidney-powell-election-lawsuit-witness-vote-problems-edison-county-2020-12). A judge [ruled against her](https://www.businessinsider.com/sidney-powell-loses-2-kraken-lawsuits-in-one-day-in-georgia-michigan-2020-12) and issued a scathing 35-page opinion tearing it down on multiple fronts. She has [appealed it all the way to the Supreme Court](https://lawandcrime.com/2020-election/kraken-concerned-about-elementh-amendment-lands-on-scotus-docket-asks-court-do-what-the-ghosts-on-other-side-of-potomac-would-have-wanted/), which [has not yet decided](https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/20-815.html) whether to take the case.
 ## Nevada
 - The Trump campaign filed a lawsuit requesting that ballots stop being counted in the state over concerns about signature-matching technology and election observers' claims that they weren't being allowed to watch ballots being processed closely enough. The Nevada Supreme Court [denied the request](https://news.bloomberglaw.com/us-law-week/trump-files-emergency-nevada-appeal-over-clark-county-ballots).
@@ -339,16 +285,12 @@ In re: Enforcement of Election Laws and Securing Ballots Cast or Received after 
 - A group of Republicans [[lawsuitdroppedovermore3000absen]], including those sent by members of the military.
 - The Trump campaign [filed a different lawsuit](https://thenevadaindependent.com/article/trump-campaign-files-lawsuit-asking-judge-to-overturn-or-annul-nevadas-presidential-election-results) in Carson City District Court alleging multiple irregularities that the campaign claimed, without providing specific evidence, would be enough to overturn the election results in Nevada and flip the state to Trump. [It failed](https://thenevadaindependent.com/article/why-trumps-lawsuit-seeking-to-overturn-nevadas-presidential-race-sputtered-in-court).
 ## New Mexico
-### Donald J. Trump for President v. Oliver et al. [link]
+### Donald J. Trump for President v. Oliver et al.
 - On 14 December 2020, The Trump campaign sued the state over what it claims was the illegal use of ballot drop boxes after the state had already certified its results and sent them to the Electoral College.
 - On 11 January 2021, The Trump Campaign filed to voluntary dismiss the suit.
-    
     - `COME NOW the Plaintiff Donald J. Trump for President, Inc., by and through its attorney of record Caruso Law Offices, PC by Mark J. Caruso, and respectfully requests this Court enter an Order dismissing all of Plaintiff’s claims against Defendants without prejudice.` [link](https://electioncases.osu.edu/wp-content/uploads/2020/12/Trump-v-Toulouse-Oliver-Doc37.pdf)
-    
 ## Pennsylvania
-  
-
-> `Free, fair elec­tions are the lifeblood of our demo­cracy. Charges of unfair­ness are seri­ous. But call­ing an elec­tion unfair does not make it so. Charges require specific alleg­a­tions and then proof. We have neither here.` [link](https://www2.ca3.uscourts.gov/opinarch/203371np.pdf)
+- `Free, fair elec­tions are the lifeblood of our demo­cracy. Charges of unfair­ness are seri­ous. But call­ing an elec­tion unfair does not make it so. Charges require specific alleg­a­tions and then proof. We have neither here.` [link](https://www2.ca3.uscourts.gov/opinarch/203371np.pdf)
 - The Trump campaign and the Republican National Committee filed a lawsuit asking a state appeals court to reject the Pennsylvania secretary of state's announcement that registered voters had until November 12 to provide proof of identity for mail-in ballots. Republicans believe the deadline should be November 9. This is the one case [that Trump won](https://www.post-gazette.com/news/crime-courts/2020/11/12/trump-campaign-election-2020-presidential-pennsylvania-lawsuit-ballots-late-identification/stories/202011120132), before the state Supreme Court [overturned the lower court decision](https://www.theguardian.com/us-news/2020/nov/17/philadelphia-donald-trump-us-elections-2020-joe-biden).
 - In [a wide-ranging federal lawsuit](https://www.businessinsider.com/trump-pennsylvania-election-lawsuit-allege-voter-fraud-2-counties-2020-11), the Trump campaign sued over alleged irregularities in the way ballots were counted throughout the state. They've [argued that 14,000 votes should be thrown out](https://www.businessinsider.com/trump-campaign-lawsuit-pennsylvania-votes-biden-enough-win-2020-11). The campaign submitted [a revised version of the lawsuit](https://www.businessinsider.com/trump-campaign-drops-part-of-pa-lawsuit-regarding-election-observers-2020-11) days later that retracted many of its original allegations. A judge [threw out the case](https://www.businessinsider.com/federal-judge-brann-rejects-trump-campaign-lawsuit-pennsylvania-2020-11), saying Trump's lawyers presented the court "with [strained legal arguments](https://www.businessinsider.com/pennsylvania-defense-lawyers-shredded-rudy-giuliani-trump-election-lawsuit-2020-11) without merit and speculative accusations, unpaid in the operative complaint and unsupported by evidence." An appeal of the case [also failed](https://www.justsecurity.org/wp-content/uploads/2020/11/Trump.pdf).
     - `This claim, like Franken­stein’s Monster, has been haphaz­ardly stitched together` ... `This Court has been presen­ted with strained legal argu­ments without merit and spec­u­lat­ive accus­a­tions, unpled in the oper­at­ive complaint and unsupported by evid­ence. In the United States of Amer­ica, this cannot justify the disen­fran­chise­ment of a single voter, let alone all the voters of its sixth most popu­lated state. Our people, laws, and insti­tu­tions demand more` [link](https://storage.courtlistener.com/recap/gov.uscourts.pamd.127057/gov.uscourts.pamd.127057.202.0_1.pdf)
