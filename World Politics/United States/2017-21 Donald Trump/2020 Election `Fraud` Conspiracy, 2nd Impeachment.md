@@ -81,6 +81,7 @@
       `Trump: Where was everybody else at that late time in the morning? Where was everybody? Where were the Republicans? Where were the security guards? Were the people that were there just a little while before when everyone ran out of the room. How come we had no security in the room. Why did they run to the bottom of the table? Why do they run there and just open the skirt and rip out the votes. I mean, Brad. And they were sitting there, I think for five hours or something like that, the votes.`
       
       `Raffensperger: Mr. President, we’ll send you the link from WSB.` - [Transcript and audio: Trump call with Georgia Sec. of State Brad Raffensperger, The Washington Post, 2021](https://archive.ph/BMC7Q)
+- On 3 January 2021, Trump then tweeted the false State Farm claim saying Raffensperger.
 # Specific Fraud Claims
 ## Allied Securities Operations Group Report
 - [link](https://www.justice.gov/d9/2023-05/03.31.23.%20--%20Interference%20in%202016%20or%202020%20Presidential%20Elections.pdf)
