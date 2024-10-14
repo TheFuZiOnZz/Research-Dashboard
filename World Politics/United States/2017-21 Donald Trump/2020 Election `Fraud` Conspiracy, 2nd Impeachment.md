@@ -2,50 +2,26 @@
 [link](https://www.thetrumparchive.com/)
 # Pre-Election
 - On 7 April 2020, President Trump first made suggestions to the media that widespread electoral fraud would occur during the 2020 Election especially through the use of mail-in ballots.
-    - `"Mail ballots — they cheat. OK? People cheat," he said April 7. "There's a lot of dishonesty going along with mail-in voting."`
+    - `"Mail ballots — they cheat. OK? People cheat," he said April 7. "There's a lot of dishonesty going along with mail-in voting."` - [link](https://www.nbcnews.com/politics/donald-trump/trump-pushes-false-claims-about-mail-vote-fraud-here-are-n1180566)
     - `"Mail ballots are a very dangerous thing for this country, because they're cheaters. They go and collect them. They're fraudulent in many cases,” Trump said April 7.` - [link](https://www.nbcnews.com/politics/donald-trump/trump-pushes-false-claims-about-mail-vote-fraud-here-are-n1180566)
-    
 - On 8 April 2020, President Trump tweeted in response to the Republican silence accusing Democrats of stoking voter fraud
-    
     - `Republicans should fight very hard when it comes to state wide mail-in voting. Democrats are clamoring for it. Tremendous potential for voter fraud, and for whatever reason, doesn’t work out well for Republicans. @foxandfriends` [link](https://web.archive.org/web/20200408122052/https://twitter.com/realdonaldtrump/status/1247861952736526336)
-    
 - On 8 April 2020, President Trump tweeted about the alleged difference in Absentee Ballots and Mail-In Ballots.
-    
     - `Absentee Ballots are a great way to vote for the many senior citizens, military, and others who can’t get to the polls on Election Day. These ballots are very different from 100% Mail-In Voting, which is “RIPE for FRAUD,” and shouldn’t be allowed!` [link](https://web.archive.org/web/20200531223135/https://twitter.com/realdonaldtrump/status/1248031484532928514)
-    
 - On 11 April 2020, President Trump tweeted,
-    
     - `Mail in ballots substantially increases the risk of crime and VOTER FRAUD!` [link](https://web.archive.org/web/20200902054032/https://twitter.com/realDonaldTrump/status/1249132374547464193)
-    
 - On 19 July 2020, Trump refused to say whether he would accept the results of the election and commit to a peaceful transition of power if he lost.
-    
     - `In the “Fox News Sunday” interview, Wallace asked Trump whether he considers himself a “gracious” loser. Trump replied that he doesn’t like to lose, then added: “It depends. I think mail-in voting is going to rig the election. I really do.” Trump’s comment echoed unfounded claims he has made in recent weeks that mail-in voting is susceptible to widespread fraud. “Are you suggesting that you might not accept the results of the election?” Wallace asked. Trump responded, “No. I have to see.” Later in the interview, pressed on whether he will accept the results of the November election, Trump again declined to say.` [link](https://archive.ph/CItzx)
-    
 - On 12 August 2020, the House of Representatives voted for a $25 billion grant to the U.S. Postal Service for the expected surge in mail voting, Trump blocked funding, saying he wanted to prevent any increase in voting by mail.
-    
-    - `Trump, who has been railing against mail-in balloting for months, said the cash-strapped agency’s enlarged role in the November election would perpetuate “one of the greatest frauds in history.” Speaking Wednesday at his daily pandemic news briefing, Trump said he would not approve $25 billion in emergency funding for the Postal Service, or $3.5 billion in supplemental funding for election resources, citing prohibitively high costs. “They don’t have the money to do the universal mail-in voting. So therefore, they can’t do it, I guess,” Trump said. “Are they going to do it even if they don’t have the money?”` [link](https://archive.ph/Ug1yL)
-    
+    - `Trump, who has been railing against mail-in balloting for months, said the cash-strapped agency’s enlarged role in the November election would perpetuate “one of the greatest frauds in history.” Speaking Wednesday at his daily pandemic news briefing, Trump said he would not approve $25 billion in emergency funding for the Postal Service, or $3.5 billion in supplemental funding for election resources, citing prohibitively high costs. “They don’t have the money to do the universal mail-in voting. So therefore, they can’t do it, I guess,” Trump said. “Are they going to do it even if they don’t have the money?”` - [Trump says Postal Service needs money for mail-in voting, but he’ll keep blocking funding - The Washington Post](https://archive.ph/Ug1yL)
 - On 23 September 2020, Trump again refused to say whether he would accept the results of the election and commit to a peaceful transition of power if he lost.
-    
-    - `"Well, we're going to have to see what happens," Trump said when asked whether he'd commit to a peaceful transition, one of the cornerstones of American democracy.  
-    -   
-    - ...  
-    -   
-    - "You know that I've been complaining very strongly about the ballots and the ballots are a disaster," Trump said at a press briefing at the White House,  
-    -   
-    - ...  
-    -   
-    - "(G)et rid of the ballots and you'll have a very ... there won't be a transfer, frankly. There'll be a continuation," he added, saying "the ballots are out of control."`  
-    - [link](https://edition.cnn.com/2020/09/23/politics/trump-election-day-peaceful-transition/index.html)
-    
+    - `"Well, we're going to have to see what happens," Trump said when asked whether he'd commit to a peaceful transition, one of the cornerstones of American democracy.` - [Trump refuses to commit to a peaceful transition of power after Election Day, CNN, 2020](https://edition.cnn.com/2020/09/23/politics/trump-election-day-peaceful-transition/index.html) 
+    - `"You know that I've been complaining very strongly about the ballots and the ballots are a disaster," Trump said at a press briefing at the White House,` - [Trump refuses to commit to a peaceful transition of power after Election Day, CNN, 2020](https://edition.cnn.com/2020/09/23/politics/trump-election-day-peaceful-transition/index.html)  
+    - `"(G)et rid of the ballots and you'll have a very ... there won't be a transfer, frankly. There'll be a continuation," he added, saying "the ballots are out of control."` - [Trump refuses to commit to a peaceful transition of power after Election Day, CNN, 2020](https://edition.cnn.com/2020/09/23/politics/trump-election-day-peaceful-transition/index.html)
 - On 24 Septem­ber 2020, The FBI Director, Chris­topher Wray, before the U.S. Senate Commit­tee on Home­land Secur­ity and Government Affairs said that:
-    
-    - `We have not seen, histor­ic­ally, any kind of coordin­ated national voter fraud effort in a major elec­tion, whether it’s by mail or other­wise.` [[fbihasnotseenevidenceofwidespreadvot]]
-    
+    - `We have not seen, histor­ic­ally, any kind of coordin­ated national voter fraud effort in a major elec­tion, whether it’s by mail or other­wise.` - [FBI has not seen evidence of widespread voter fraud, Director Wray tells senators, CNBC, 2020](https://www.cnbc.com/2020/09/24/fbi-has-not-seen-evidence-of-widespread-voter-fraud-director-wray-tells-senators.html)
 - On 30 October 2020, President Trump tweeted,
-    
-    - `The Election should end on November 3rd., not weeks later!` [link](https://web.archive.org/web/20201030214840/https://twitter.com/realDonaldTrump/status/1322294301183782912)
-    
+    - `The Election should end on November 3rd., not weeks later!` [@realdonaldtrump Tweet, 2020](https://web.archive.org/web/20201030214840/https://twitter.com/realDonaldTrump/status/1322294301183782912)
 # Peri-Election
 - On 3 November 2020, Election Day starts.
 - On 4 & 5 November 2020, More than 200 Trump supporters protest at a Maricopa County, Arizona elections center and around downtown Phoenix, claiming some ballots have not been properly counted.
