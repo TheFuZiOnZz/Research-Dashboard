@@ -4,3 +4,18 @@
 # Inditements
 - [link](https://www.politico.com/f/?id=00000189-f730-dc32-ab89-f7fc1f760000)
 - [link](https://www.lawforward.org/wp-content/uploads/2024/03/Chesebro-Troupis.pdf) - Cheesebro & Troupis Texts on and around Jan 6
+
+- Indicted on August 14th, 2023
+    - [The Indictment](https://d3i6fh83elv35t.cloudfront.net/static/2023/08/CRIMINAL-INDICTMENT-Trump-Fulton-County-GA.pdf)
+- Facts
+    - False statements made to state legislatures to solicit a new slate of electors.
+    - False statements made to many members of Georgia to change the outcome of the election.
+    - The enterprise created and transmitted false electoral college documents.
+    - False claims made about Ruby Freeman.
+    - Trump told Acting AG Rosen with Donoghue "Just say that the election was corrupt, and leave the rest to me and the Republican congressmen."
+    - The enterprise told the VP to reject valid Georgia electors.
+    - Members of the enterprise conspired to unlawfully access secure voting equipment and data, and then distributed it to other members of the enterprise.
+    - Members of the enterprise committed perjury in furtherance of the conspiracy.
+- Acts of Racketeering
+    - Donald Trump planned to announce his victory in a speech drafted four days before November 4th.
+    - Act 108: Eastman submitted false claims in the case of Trump v Kemp that he emailed other attorneys admitting his knowledge that at least some of the allegations were not accurate.
