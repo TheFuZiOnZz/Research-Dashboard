@@ -191,8 +191,6 @@
 - Trump also repeated the Pennyslyvania Unregistered Voters claims to Raffensperger.
 	- Trump: `In Pennsylvania, they had well over 200,000 more votes than they had people voting. And that doesn’t play too well, and the legislature there is, which is Republican, is extremely activist and angry. I mean, there were other things also that were almost as bad as that.` - [Transcript and audio: Trump call with Georgia Sec. of State Brad Raffensperger, The Washington Post, 2021](https://archive.ph/BMC7Q)
 	- `Raffensperger: Well, I listened to what the president has just said. President Trump, we’ve had several lawsuits, and we’ve had to respond in court to the lawsuits and the contentions. We don’t agree that you have won. And we don’t — I didn’t agree about the 200,000 number that you’d mentioned. I’ll go through that point by point.` - [Transcript and audio: Trump call with Georgia Sec. of State Brad Raffensperger, The Washington Post, 2021](https://archive.ph/BMC7Q)
-	- ` ` - [Transcript and audio: Trump call with Georgia Sec. of State Brad Raffensperger, The Washington Post, 2021](https://archive.ph/BMC7Q)
-	- ` ` - [Transcript and audio: Trump call with Georgia Sec. of State Brad Raffensperger, The Washington Post, 2021](https://archive.ph/BMC7Q)
 - On 3 January 2021, Trump then tweeted the false State Farm claim saying Raffensperger couldn't account for voter fraud in Georgia.
 	- `I spoke to Secretary of State Brad Raffensperger yesterday about Fulton County and voter fraud in Georgia. He was unwilling, or unable, to answer questions such as the “ballots under table” scam, ballot destruction, out of state “voters”, dead voters, and more. He has no clue!` - [@realdonaldtrump Tweet, 2021](https://x.com/realDonaldTrump/status/1345731043861659650)
 - On 3 January 2021, Raffensperger replied to Trump's tweet denying the claim.
@@ -558,12 +556,11 @@ In re: Enforcement of Election Laws and Securing Ballots Cast or Received after 
 - On 6 January 2021 @ 18:01PM EST, President Trump tweeted and then got deleted,
     - `These are the things and events that happen when a sacred landslide election victory is so unceremoniously & viciously stripped away from great patriots who have been badly & unfairly treated for so long. Go home with love & in peace. Remember this day forever!` - [link](https://web.archive.org/web/20210106232133/https://twitter.com/realdonaldtrump/status/1346954970910707712)
 - On 6 January 2021 @ 19:02PM EST, Twitter Safety tweeted,
-    - `As a result of the unprecedented and ongoing violent situation in Washington, D.C., we have required the removal of three @realDonaldTrump Tweets that were posted earlier today for repeated and severe violations of our Civic Integrity policy.  
-    -   
-    - This means that the account of @realDonaldTrump will be locked for 12 hours following the removal of these Tweets. If the Tweets are not removed, the account will remain locked.  
-    -   
-    - Future violations of the Twitter Rules, including our Civic Integrity or Violent Threats policies, will result in permanent suspension of the @realDonaldTrump account.`  
-    - [link](https://twitter.com/TwitterSafety/status/1346970430062485505?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1346970430062485505%7Ctwgr%5Edb0475b078117fe86e40cd6f6304f31a55734cfb%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.washingtonpost.com%2Ftechnology%2F2021%2F01%2F06%2Ftrump-tweet-violence%2F)
+    - `As a result of the unprecedented and ongoing violent situation in Washington, D.C., we have required the removal of three @realDonaldTrump Tweets that were posted earlier today for repeated and severe violations of our Civic Integrity policy.`
+      
+      `This means that the account of @realDonaldTrump will be locked for 12 hours following the removal of these Tweets. If the Tweets are not removed, the account will remain locked.`
+      
+      `Future violations of the Twitter Rules, including our Civic Integrity or Violent Threats policies, will result in permanent suspension of the @realDonaldTrump account.` - [link](https://twitter.com/TwitterSafety/status/1346970430062485505?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1346970430062485505%7Ctwgr%5Edb0475b078117fe86e40cd6f6304f31a55734cfb%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.washingtonpost.com%2Ftechnology%2F2021%2F01%2F06%2Ftrump-tweet-violence%2F)
 - On 6 January 2021 @ 20:06PM EST, Pence reopens Congress, saying,
     - `Let’s get back to work.` - [link](https://www.washingtonpost.com/nation/interactive/2021/capitol-insurrection-visual-timeline/?itid=hp-top-table-main-0106#:~:text=Pence%20reopens%20the%20Senate%2C%20saying%2C%20%E2%80%9CLet%E2%80%99s%20get%20back%20to%20work.%E2%80%9D)
 - On 7 January 2021 @ 03:42AM EST, After both the House and Senate reject challenges to Biden's wins in Arizona and Pennsylvania, Pence officially affirms the election results, declaring Biden the president-elect. [link](https://www.washingtonpost.com/nation/interactive/2021/capitol-insurrection-visual-timeline/?itid=hp-top-table-main-0106#:~:text=After%20both%20the%20House%20and%20Senate%20reject%20challenges%20to%20Biden%27s%20wins%20in%20Arizona%20and%20Pennsylvania%2C%20Pence%20officially%20affirms%20the%20election%20results%2C%20declaring%20Biden%20the%20president%2Delect.)
@@ -575,9 +572,9 @@ In re: Enforcement of Election Laws and Securing Ballots Cast or Received after 
 - [Wiki](https://en.wikipedia.org/wiki/Second_impeachment_of_Donald_Trump)
 - On January 13 2021, Trump was impeached by the House of Representatives for the second time adopting one Article of Impeachment being `Incitement of Insurrection` as a result of actions taken by Trump.
     - Impeachment Resolution - [link](https://s3.documentcloud.org/documents/20447672/article-of-impeachment-against-trump.pdf)
-# Ray Epps Conspiracy
+# Ray Epps Conspiracy of Being a Federal Agent
 - [Wiki](https://en.wikipedia.org/wiki/Ray_Epps_(military_veteran))
-- [link](https://revolver.news/2021/10/meet-ray-epps-the-fed-protected-provocateur-who-appears-to-have-led-the-very-first-1-6-attack-on-the-u-s-capitol/)
+- [link](https://revolver.news/2021/10/meet-ray-epps-the-fed-protected-provocateur-who-appears-to-have-led-the-very-first-1-6-attack-on-the-u-s-capitol/) - Original Conspiracy article
 # Defamation Cases Against Pro-Trump People & Organisations
 ## Dominion Voting Systems v. Fox News Network Defamation Lawsuit
 - [link](https://www.dominionvoting.com/legal-updates-learn-how-we-are-defending-dominion/)
@@ -638,55 +635,30 @@ In re: Enforcement of Election Laws and Securing Ballots Cast or Received after 
 	- ` ` - [Liz Cheney loses House Republican leadership post over feud with Trump, CNN, 2021](https://www.cnn.com/2021/05/12/politics/liz-cheney-gop-conference-vote/index.html)
 # OIG Analysis on Secret Service Preparation for January 6
 - [link](https://www.oig.dhs.gov/sites/default/files/assets/2024-08/OIG-24-42-Aug24-Redacted.pdf)
-- 
 # Trump Claiming Fraud In Previous Elections
 - On 6 November 2012, Trump tweeted that the 2012 Election had instances of vote switching at machines.
-    
     - `More reports of voting machines switching Romney votes to Obama. Pay close attention to the machines, don't let your vote be stolen` - [link](https://web.archive.org/web/20170715102520/https://twitter.com/realDonaldTrump/status/265905510115590144)
-    
 - On 3 February 2016, Trump tweeted that the 2016 Republican Iowa Caucuses was stolen by Ted Cruz.
-    
     - `Ted Cruz didn't win Iowa, he stole it. That is why all of the polls were so wrong and why he got far more votes than anticipated. Bad!` - [link](https://web.archive.org/web/20161108232635/https://twitter.com/realDonaldTrump/status/694879900256354304?ref_src=twsrc%5Etfw)
-    
 - On 18 May 2016, Trump tweeted that the Democratic National Committee had rigged the vote against Bernie Sanders.
-    
     - `Bernie Sanders is being treated very badly by the Democrats - the system is rigged against him. Many of his disenfranchised fans are for me!` - [link](https://web.archive.org/web/20170321194421/https://twitter.com/realDonaldTrump/status/732893573365010432)
-    
 - On 27 November 2016, Trump tweeted that he won the popular vote when removing illegal votes in the 2016 Election.
-    
     - `In addition to winning the Electoral College in a landslide, I won the popular vote if you deduct the millions of people who voted illegally` - [link](https://web.archive.org/web/20161202000744/https://twitter.com/realdonaldtrump/status/802972944532209664)
-    
 - On May 11, 2017, Trump signed an executive order to establish a voter fraud commission to conduct an investigation into voter fraud.
-    
     - `By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to promote fair and honest Federal elections, it is hereby ordered as follows: Section 1. Establishment. The Presidential Advisory Commission on Election Integrity (Commission) is hereby established.` - [link](https://public-inspection.federalregister.gov/2017-10003.pdf?1494852387)
-    
 - On January 3, 2018, the Trump administration disbanded the commission.
-    
     - `Executive Order 13799 of May 11, 2017 (Establishment of Presidential Advisory Commission on Election Integrity), is hereby revoked, and the Presidential Advisory Commission on Election Integrity is accordingly terminated.` - [link](https://trumpwhitehouse.archives.gov/presidential-actions/executive-order-termination-presidential-advisory-commission-election-integrity/)
-    
 - On January 4, 2018, Trump blamed states for not handing over requested voter information to the commission.
-    
     - `Many mostly Democrat States refused to hand over data from the 2016 Election to the Commission On Voter Fraud. They fought hard that the Commission not see their records or methods because they know that many people are voting illegally. System is rigged, must go to Voter I.D.` - [link](https://archive.ph/PpChW)
-    
 - Election integrity experts argued that the commission was disbanded because of the lawsuits, which would have led to greater transparency and accountability in the commission and thus prevented the Republican members of the commission from producing a sham report to justify restrictions on voting rights, [link](http://www.pressherald.com/2018/01/06/trump-administration-resists-turning-over-documents-to-dunlap/)
-    
     - `In a letter to Vice President Mike Pence and Kansas Secretary of State Kris Kobach, who are both Republicans and led the commission, Maine Secretary of State Matthew Dunlap said the documents show there was a “pre-ordained outcome” and that drafts of a commission report included a section on evidence of voter fraud that was “glaringly empty.”` - [link](https://apnews.com/f5f6a73b2af546ee97816bb35e82c18d/Report:-Trump-commission-did-not-find-widespread-voter-fraud)
-    
 - On 9 November 2018, Trump tweeted that there was electoral corruption in Arizona during the 2018 Midterm Elections.
-    
     - `Just out — in Arizona, SIGNATURES DON’T MATCH. Electoral corruption - Call for a new Election? We must protect our Democracy!` - [link](https://web.archive.org/web/20181122063921/https://twitter.com/realDonaldTrump/status/1060993836984324096?ref_src=twsrc%5Etfw)
-    
 - On 18 February 2020, Trump tweeted that the Democratic National Committee had rigged the vote against Bernie Sanders again.
-    
     - `The Crooked DNC is working overtime to take the Democrat Nomination away from Bernie, AGAIN! Watch what happens to the Super Delegates in Round Two. A Rigged Convention!` - [link](https://web.archive.org/web/20200218140116/https://twitter.com/realDonaldTrump/status/1229767823595012096)
-    
 # Academic Research on Voter Fraud With Vote-by-Mail
 - A 2020 Paper found that,
-    
     - `In our data, we confirm important conventional wisdom among election experts: VBM offers voters considerable convenience, increases turnout rates modestly, but has no discernible effect on party vote shares or the partisan share of the electorate.` - [link](https://www.pnas.org/doi/pdf/10.1073/pnas.2007249117)
-    
 - A 2020 Paper found that,
-    
     - `Mandatory VBM increases turnout modestly in general elections but does not substantively advantage either political party. These results are vitally important given contemporary debates at local, state, and federal levels over the merits of this mode of administering elections.` - [link](https://www.sci-hub.ee/10.1126/sciadv.abc7685)
-    
 - The Heritage Foundation documented 1,375 proven instances of voter fraud, of which 1,182 resulted in criminal convictions, 48 Civil penalties issued and 103 ordered to attend a Diversion program. [link](https://www.heritage.org/voterfraud)
