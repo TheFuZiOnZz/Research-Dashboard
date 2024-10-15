@@ -26,7 +26,19 @@
 - On 3 November 2020, Election Day starts.
 - On 4 November 2020 @ 3:30AM EST, Trump claims victory as planned previously
 	- `This is a fraud on the American public. This is an embarrassment to our country. We were getting ready to win this election. Frankly, we did win this election. We did win this election. So our goal now is to ensure the integrity for the good of this nation. This is a very big moment. This is a major fraud in our nation. We want the law to be used in a proper manner. So we’ll be going to the US Supreme Court. We want all voting to stop. We don’t want them to find any ballots at four o’clock in the morning and add them to the list. Okay? It’s a very sad moment. To me this is a very sad moment and we will win this. And as far as I’m concerned, we already have won it.` - [Donald Trump Election Night Speech 2020 Transcript, Rev, 2020](https://www.rev.com/blog/transcripts/donald-trump-2020-election-night-speech-transcript)
-	- ` ` - [Trump plans to declare premature victory if he appears ahead on election night](https://www.axios.com/2020/11/01/trump-claim-election-victory-ballots)
+	- `President Trump has told confidants he'll declare victory on Tuesday night if it looks like he's "ahead," according to three sources familiar with his private comments. That's even if the Electoral College outcome still hinges on large numbers of uncounted votes in key states like Pennsylvania.`
+	  
+	  `The latest: Speaking to reporters on Sunday evening, Trump denied that he would declare victory prematurely, before adding, "I think it's a terrible thing when ballots can be collected after an election. I think it's a terrible thing when states are allowed to tabulate ballots for a long period of time after the election is over."`
+	  
+	  `He continued: "I think it's terrible that we can't know the results of an election the night of the election. ... We're going to go in the night of, as soon as that election's over, we're going in with our lawyers."`
+	  
+	  `"We don't want to have Pennsylvania, where you have a political governor, a very partisan guy. ... We don't want to be in a position where he's allowed, every day, to watch ballots come in. See if we can only find 10,000 more ballots."`
+	  
+	  `Behind the scenes: Trump has privately talked through this scenario in some detail in the last few weeks, describing plans to walk up to a podium on election night and declare he has won.`
+	  
+	  `For this to happen, his allies expect he would need to either win or have commanding leads in Ohio, Florida, North Carolina, Texas, Iowa, Arizona and Georgia.`
+	  
+	  `Why it matters: Trump's team is preparing to falsely claim that mail-in ballots counted after Nov. 3 — a legitimate count expected to favor Democrats — are evidence of election fraud.` - [Trump plans to declare premature victory if he appears ahead on election night, Axios, 2020](https://www.axios.com/2020/11/01/trump-claim-election-victory-ballots)
 - On 4 & 5 November 2020, More than 200 Trump supporters protest at a Maricopa County, Arizona elections center and around downtown Phoenix, claiming some ballots have not been properly counted.
     - `Tensions are running high outside of the Maricopa County Elections office in Phoenix, Ariz., where more than a hundred protestors have demonstrated for the last three nights to argue about the electoral process after former Vice President Joe Biden became the front-runner in the traditionally red state.` - ["I Don't See Them Accepting The Results" Scenes from Election Protests in Maricopa County Arizona, Time, 2020](https://time.com/5908628/maricopa-county-arizona-protests/)
 - On 5 November 2020, Trump Tweeted:
