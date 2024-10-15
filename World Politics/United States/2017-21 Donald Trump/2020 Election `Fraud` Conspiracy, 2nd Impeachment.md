@@ -42,7 +42,17 @@
 	  `“This is going to be a fraud like you’ve never seen,” the president said of the massive shift to mail voting prompted by the coronavirus pandemic.` - [Here's the reality behind Trump's claims about mail voting, AP News, 2020](https://apnews.com/article/virus-outbreak-joe-biden-election-2020-donald-trump-elections-3e8170c3348ce3719d4bc7182146b582)
 - On 30 October 2020, President Trump tweeted,
     - `The Election should end on November 3rd., not weeks later!` - [@realdonaldtrump Tweet, 2020](https://twitter.com/realDonaldTrump/status/1322294301183782912)
-- On 31 October 2020, Steve Bannon discussed in private that Trump had a plan to declare victory on election night and described how 
+- On 31 October 2020, Steve Bannon discussed in private that Trump had a plan to declare victory on election night and described how much mayhem will be caused.
+	- `Speaking to this group of mostly Chinese immigrants, Bannon explained US electoral processes—and Trump’s plans to exploit them—in some detail. He emphasized that in 2020, Republicans were more likely to vote in person, casting ballots that, in many states, would be counted first. Democrats disproportionately voted by mail. Their ballots would take days to tally in a number of states. That meant that when it came to public perceptions about who was winning, Democrats would “have a natural disadvantage,” Bannon said. “And Trump’s going to take advantage of it. That’s our strategy. He’s gonna declare himself a winner.”`
+	  
+	  `“So when you wake up Wednesday morning, it’s going to be a firestorm,” Bannon continued. “You’re going to have antifa, crazy. The media, crazy. The courts are crazy. And Trump’s gonna be sitting there mocking, tweeting shit out: ‘You lose. I’m the winner. I’m the king.'”` - [Leaked Audio: Before Election Day, Bannon Said Trump Planned to Falsely Claim Victory, Mother Jones, 2020](https://www.motherjones.com/politics/2022/07/leaked-audio-steve-bannon-trump-2020-election-declare-victory/)
+	- `Election Day 2020 would not be like others, Bannon said. “This is a revolution,” he explained. “This election just triggers more fighting.”`
+	  
+	  `Bannon also said during this meeting that once the voting was done, Trump would be unencumbered by electoral pressure. “Here’s the thing. After then, Trump never has to go to a voter again,” Bannon said. “He’s gonna fire [Christopher] Wray, the FBI director…He’s gonna say ‘Fuck you. How about that?’ Because…he’s done his last election. Oh, he’s going to be off the chain—he’s gonna be crazy.”`
+	  
+	  `Bannon also said he expected that Trump would quickly fire CIA Director Gina Haspel, Defense Secretary Mark Esper, Health and Human Services Secretary Alex Azar, and Dr. Anthony Fauci.`
+	  
+	  `“If Trump is losing by 10 or 11 o’clock at night, it’s going to be even crazier. No, because he’s gonna sit right there and say, ‘They stole it. I’m directing the attorney general to shut down all ballot places in all 50 states,'” Bannon said. “He’s not going out easy. If Biden is winning, Trump is going to do some crazy shit.”` - [Leaked Audio: Before Election Day, Bannon Said Trump Planned to Falsely Claim Victory, Mother Jones, 2020](https://www.motherjones.com/politics/2022/07/leaked-audio-steve-bannon-trump-2020-election-declare-victory/)
 - On 4 November 2020, Axios reported that Trump discussed plans with confidants to declare victory despite the results.
 	- `President Trump has told confidants he'll declare victory on Tuesday night if it looks like he's "ahead," according to three sources familiar with his private comments. That's even if the Electoral College outcome still hinges on large numbers of uncounted votes in key states like Pennsylvania.`
 	  
