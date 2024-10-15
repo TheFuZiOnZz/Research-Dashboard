@@ -1,5 +1,3 @@
-### 2021 Universal Credit COVID Uplift Cut
-
 - `A temporary £1,040 a year increase to the standard allowance for 18 months from April 2020 was introduced as part of a support package for people through the coronavirus pandemic – this temporary increase to the standard allowance ended on 6 October 2021` [link](https://www.gov.uk/government/publications/universal-credit-statistics-background-information-and-methodology/universal-credit-statistics-background-information-and-methodology\#coronavirus)
 - Boris Johnson said:
     

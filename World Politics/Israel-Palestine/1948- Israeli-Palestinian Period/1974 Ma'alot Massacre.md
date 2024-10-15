@@ -1,4 +1,3 @@
-## 1974 Ma'alot Massacre
 - [Wiki](https://en.wikipedia.org/wiki/Ma%27alot_massacre)
 - On 15 May 1974
 - Palestinian terrorist attack that involved hostage-taking of 115 Israelis, mainly school children, which ended with 25 hostages and 6 other civilians dead.

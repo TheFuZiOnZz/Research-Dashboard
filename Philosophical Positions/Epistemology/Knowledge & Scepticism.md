@@ -1,4 +1,3 @@
-## Knowledge & Scepticism
 Famous Epistemologists:
 - AJ (Freddie) Ayer
 - Edmund Gettier

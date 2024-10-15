@@ -1,4 +1,3 @@
-### 2015 UNSC Resolution 2201
 - On 15 February 2015, United Nations Security Council Resolution 2201 was adopted. According to the resolution, the Security Council deplored the Houthis in Yemen dissolving parliament with violence and implored a path for dialogue rather than violence.
     - `The Security Council  
           

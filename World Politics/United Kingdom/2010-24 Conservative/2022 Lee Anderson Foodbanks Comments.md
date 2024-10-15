@@ -1,4 +1,3 @@
-### 2022 Lee Anderson Foodbanks Comments
 - On 11 May 2022, Lee Anderson faced backlash after saying there's not this massive use for food banks in this country during a Commons debate and that people can make a meal for about 30p a day.
     
     - Lee Anderson: `the hon. Member for St Helens North made some great comments about food banks. My invitation is to every Opposition Member: come to Ashfield, work with me for a day in my local food bank and see the brilliant scheme we have in place. When people come for a food parcel now, they have to register for a budgeting course and a cooking course. We show them how to cook cheap and nutritious meals on a budget; we can make a meal for about 30p a day, and this is cooking from scratch.`  

@@ -1,4 +1,3 @@
-## 1948 Israeli Declaration of Independence
 - On 14 May 1948, David Ben Gurion, the Executive Head of the World Zionist Organization, Chairman of the Jewish Agency for Palestine, and soon to be first Prime Minister of Israel, declared the establishment of a Jewish state in Eretz-Israel, to be known as the State of Israel, which would come into effect on termination of the British Mandate at midnight that day.
     - `ACCORDINGLY WE, MEMBERS OF THE PEOPLE'S COUNCIL, REPRESENTATIVES OF THE JEWISH COMMUNITY OF ERETZ-ISRAEL AND OF THE ZIONIST MOVEMENT, ARE HERE ASSEMBLED ON THE DAY OF THE TERMINATION OF THE BRITISH MANDATE OVER ERETZ-ISRAEL AND, BY VIRTUE OF OUR NATURAL AND HISTORIC RIGHT AND ON THE STRENGTH OF THE RESOLUTION OF THE UNITED NATIONS GENERAL ASSEMBLY, HEREBY DECLARE THE ESTABLISHMENT OF A JEWISH STATE IN ERETZ-ISRAEL, TO BE KNOWN AS THE STATE OF ISRAEL.`
       

@@ -1,4 +1,3 @@
-### 1994 UNSC Resolution 924
 - On , United Nations Security Council Resolution 924 was adopted. According to the resolution, the Security Council
     - `The Security Council  
           
