@@ -355,8 +355,9 @@
 ## California
 ### Election Integrity Project California, Inc., et al. v. Alex Padilla, California Secretary of State, et al.
 - On 4 January 2021, 
-	- ` ` - 
+	- ` ` - [Election Integrity Project California, Inc., et al. v. Alex Padilla, California Secretary of State, et al. (Complaint), United States District Court for the Central District of California, 2021](https://the2020election.org/wp-content/uploads/ElectionLawsuits/California/CA-Integrity-00032-Complaint.pdf)
 - On 6 June 2021, 
+	- ` ` - [Election Integrity Project California, Inc., et al. v. Alex Padilla, California Secretary of State, et al. (Dismissal), United States District Court for the Central District of California, 2021](https://the2020election.org/wp-content/uploads/ElectionLawsuits/California/CA09Order6_14.pdf)
 ## Georgia
 [link](https://en.wikipedia.org/wiki/Post-election_lawsuits_related_to_the_2020_United_States_presidential_election_from_Georgia\#In_re:_Enforcement_of_Election_Laws_and_Securing_Ballots_Cast_or_Received_after_7:00pm_on_November_3,_2020)
 In re: Enforcement of Election Laws and Securing Ballots Cast or Received after 7:00pm on November 3, 2020. [link](https://healthyelections-case-tracker.stanford.edu/detail?id=345)
