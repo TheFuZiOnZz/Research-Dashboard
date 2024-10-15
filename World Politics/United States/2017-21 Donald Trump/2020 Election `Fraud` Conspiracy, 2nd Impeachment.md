@@ -355,6 +355,7 @@
 ## California
 ### Election Integrity Project California, Inc., et al. v. Alex Padilla, California Secretary of State, et al.
 - On 4 January 2021, 
+	- ` ` - 
 - On 6 June 2021, 
 ## Georgia
 [link](https://en.wikipedia.org/wiki/Post-election_lawsuits_related_to_the_2020_United_States_presidential_election_from_Georgia\#In_re:_Enforcement_of_Election_Laws_and_Securing_Ballots_Cast_or_Received_after_7:00pm_on_November_3,_2020)
