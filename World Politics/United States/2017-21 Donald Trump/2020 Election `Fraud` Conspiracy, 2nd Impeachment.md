@@ -10,6 +10,20 @@
     - `Absentee Ballots are a great way to vote for the many senior citizens, military, and others who can’t get to the polls on Election Day. These ballots are very different from 100% Mail-In Voting, which is “RIPE for FRAUD,” and shouldn’t be allowed!` - [@realdonaldtrump Tweet, 2020](https://twitter.com/realdonaldtrump/status/1248031484532928514)
 - On 11 April 2020, President Trump tweeted,
     - `Mail in ballots substantially increases the risk of crime and VOTER FRAUD!` - [@realdonaldtrump Tweet, 2020](https://twitter.com/realDonaldTrump/status/1249132374547464193)
+- On 20 May 2020, Trump answered in a press briefing that thousands and thousands of mail-in ballots were fraudulently filled out.
+	- `Q Mr. President, what is it that you think that’s happening in Michigan that’s illegal?`
+	  
+	  `THE PRESIDENT: Well, I think if we’re talking about the mail-in ballots — if people mail in ballots, there’s a lot illegality. They send in ballots that — they harvest ballots. You know all about harvesting. And they do lots of bad things. Ideally, people go out and they vote.`
+	  
+	  `Now, if you need a mail-in ballot, if you need a specific — like, as an example, I’m in the White House and I have to send a ballot to Florida. That makes sense. So if you need it for some reason or if somebody is not well, that’s one thing.`
+	  
+	  `But when you send out 7.7 million mail-in ballots, there’s forgeries, there’s, frankly, duplication where they print ballots on the same kind of paper with the same kind of machinery and you can’t tell the difference. And they send in thousands and thousands of fake ballots. And I’ll tell you what: This nation can’t be going down that path because it’s a very dangerous path to go down.`
+	  
+	  `Now, we just won a big election. You probably heard about this one in California. California-25. Mike Garcia — he just won a very big election. And that was ballots. And it was a very — sort of, the opposite. They won the case for ballots. He was doing very well, because they’re ballots — you see, he was way ahead in an area that, frankly, was not expected to go Republican. The first time in 22 years that it’s happened. They flipped from Democrat to Republican. In California, the first time in 22 years that it happened.`
+	  
+	  `And they actually put machines in there in the last three days because they thought — meaning, the Democrats — because they thought that might happen, but it didn’t. But that was a case — that was a positive case. But mail-in ballots are very dangerous. There’s tremendous fraud involved and tremendous illegality.` - [Remarks by President Trump in a Meeting with Governor Hutchinson of Arkansas and Governor Kelly of Kansas, The White House, 2020](https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-meeting-governor-hutchinson-arkansas-governor-kelly-kansas/)
+- On 24 April 2020, President Trump tweeted,
+	- 
 - On 19 July 2020, Trump refused to say whether he would accept the results of the election and commit to a peaceful transition of power if he lost.
     - `In the “Fox News Sunday” interview, Wallace asked Trump whether he considers himself a “gracious” loser. Trump replied that he doesn’t like to lose, then added: “It depends. I think mail-in voting is going to rig the election. I really do.” Trump’s comment echoed unfounded claims he has made in recent weeks that mail-in voting is susceptible to widespread fraud. “Are you suggesting that you might not accept the results of the election?” Wallace asked. Trump responded, “No. I have to see.” Later in the interview, pressed on whether he will accept the results of the November election, Trump again declined to say.` - [Trump declines to say whether he will accept November election results, The Washington Post, 2020](https://archive.ph/CItzx)
 - On 12 August 2020, the House of Representatives voted for a $25 billion grant to the U.S. Postal Service for the expected surge in mail voting, Trump blocked funding, saying he wanted to prevent any increase in voting by mail.
@@ -22,11 +36,7 @@
     - `We have not seen, histor­ic­ally, any kind of coordin­ated national voter fraud effort in a major elec­tion, whether it’s by mail or other­wise.` - [FBI has not seen evidence of widespread voter fraud, Director Wray tells senators, CNBC, 2020](https://www.cnbc.com/2020/09/24/fbi-has-not-seen-evidence-of-widespread-voter-fraud-director-wray-tells-senators.html)
 - On 30 October 2020, President Trump tweeted,
     - `The Election should end on November 3rd., not weeks later!` - [@realdonaldtrump Tweet, 2020](https://twitter.com/realDonaldTrump/status/1322294301183782912)
-- On 4 November 2020, Axios reported that discussed plans with confidants 
-# Peri-Election
-- On 3 November 2020, Election Day starts.
-- On 4 November 2020 @ 3:30AM EST, Trump claims victory as planned previously.
-	- `This is a fraud on the American public. This is an embarrassment to our country. We were getting ready to win this election. Frankly, we did win this election. We did win this election. So our goal now is to ensure the integrity for the good of this nation. This is a very big moment. This is a major fraud in our nation. We want the law to be used in a proper manner. So we’ll be going to the US Supreme Court. We want all voting to stop. We don’t want them to find any ballots at four o’clock in the morning and add them to the list. Okay? It’s a very sad moment. To me this is a very sad moment and we will win this. And as far as I’m concerned, we already have won it.` - [Donald Trump Election Night Speech 2020 Transcript, Rev, 2020](https://www.rev.com/blog/transcripts/donald-trump-2020-election-night-speech-transcript)
+- On 4 November 2020, Axios reported that Trump discussed plans with confidants to declare victory despite the results.
 	- `President Trump has told confidants he'll declare victory on Tuesday night if it looks like he's "ahead," according to three sources familiar with his private comments. That's even if the Electoral College outcome still hinges on large numbers of uncounted votes in key states like Pennsylvania.`
 	  
 	  `The latest: Speaking to reporters on Sunday evening, Trump denied that he would declare victory prematurely, before adding, "I think it's a terrible thing when ballots can be collected after an election. I think it's a terrible thing when states are allowed to tabulate ballots for a long period of time after the election is over."`
@@ -40,6 +50,10 @@
 	  `For this to happen, his allies expect he would need to either win or have commanding leads in Ohio, Florida, North Carolina, Texas, Iowa, Arizona and Georgia.`
 	  
 	  `Why it matters: Trump's team is preparing to falsely claim that mail-in ballots counted after Nov. 3 — a legitimate count expected to favor Democrats — are evidence of election fraud.` - [Trump plans to declare premature victory if he appears ahead on election night, Axios, 2020](https://www.axios.com/2020/11/01/trump-claim-election-victory-ballots)
+# Peri-Election
+- On 3 November 2020, Election Day starts.
+- On 4 November 2020 @ 3:30AM EST, Trump claims victory as planned previously.
+	- `This is a fraud on the American public. This is an embarrassment to our country. We were getting ready to win this election. Frankly, we did win this election. We did win this election. So our goal now is to ensure the integrity for the good of this nation. This is a very big moment. This is a major fraud in our nation. We want the law to be used in a proper manner. So we’ll be going to the US Supreme Court. We want all voting to stop. We don’t want them to find any ballots at four o’clock in the morning and add them to the list. Okay? It’s a very sad moment. To me this is a very sad moment and we will win this. And as far as I’m concerned, we already have won it.` - [Donald Trump Election Night Speech 2020 Transcript, Rev, 2020](https://www.rev.com/blog/transcripts/donald-trump-2020-election-night-speech-transcript)
 - On 4 & 5 November 2020, More than 200 Trump supporters protest at a Maricopa County, Arizona elections center and around downtown Phoenix, claiming some ballots have not been properly counted.
     - `Tensions are running high outside of the Maricopa County Elections office in Phoenix, Ariz., where more than a hundred protestors have demonstrated for the last three nights to argue about the electoral process after former Vice President Joe Biden became the front-runner in the traditionally red state.` - ["I Don't See Them Accepting The Results" Scenes from Election Protests in Maricopa County Arizona, Time, 2020](https://time.com/5908628/maricopa-county-arizona-protests/)
 - On 5 November 2020, Trump Tweeted:
