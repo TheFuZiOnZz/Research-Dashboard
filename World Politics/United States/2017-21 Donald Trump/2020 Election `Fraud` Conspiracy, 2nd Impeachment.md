@@ -22,6 +22,7 @@
     - `We have not seen, histor­ic­ally, any kind of coordin­ated national voter fraud effort in a major elec­tion, whether it’s by mail or other­wise.` - [FBI has not seen evidence of widespread voter fraud, Director Wray tells senators, CNBC, 2020](https://www.cnbc.com/2020/09/24/fbi-has-not-seen-evidence-of-widespread-voter-fraud-director-wray-tells-senators.html)
 - On 30 October 2020, President Trump tweeted,
     - `The Election should end on November 3rd., not weeks later!` - [@realdonaldtrump Tweet, 2020](https://twitter.com/realDonaldTrump/status/1322294301183782912)
+- On 4 November 2020, Axios reported that discussed plans with confidants 
 # Peri-Election
 - On 3 November 2020, Election Day starts.
 - On 4 November 2020 @ 3:30AM EST, Trump claims victory as planned previously.
