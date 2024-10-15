@@ -24,7 +24,7 @@
     - `The Election should end on November 3rd., not weeks later!` - [@realdonaldtrump Tweet, 2020](https://twitter.com/realDonaldTrump/status/1322294301183782912)
 # Peri-Election
 - On 3 November 2020, Election Day starts.
-- On 4 November 2020 @ 3:30AM EST, Trump claims victory as planned previously
+- On 4 November 2020 @ 3:30AM EST, Trump claims victory as planned previously.
 	- `This is a fraud on the American public. This is an embarrassment to our country. We were getting ready to win this election. Frankly, we did win this election. We did win this election. So our goal now is to ensure the integrity for the good of this nation. This is a very big moment. This is a major fraud in our nation. We want the law to be used in a proper manner. So we’ll be going to the US Supreme Court. We want all voting to stop. We don’t want them to find any ballots at four o’clock in the morning and add them to the list. Okay? It’s a very sad moment. To me this is a very sad moment and we will win this. And as far as I’m concerned, we already have won it.` - [Donald Trump Election Night Speech 2020 Transcript, Rev, 2020](https://www.rev.com/blog/transcripts/donald-trump-2020-election-night-speech-transcript)
 	- `President Trump has told confidants he'll declare victory on Tuesday night if it looks like he's "ahead," according to three sources familiar with his private comments. That's even if the Electoral College outcome still hinges on large numbers of uncounted votes in key states like Pennsylvania.`
 	  
