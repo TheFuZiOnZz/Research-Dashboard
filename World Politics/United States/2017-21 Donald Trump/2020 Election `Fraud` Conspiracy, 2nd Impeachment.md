@@ -594,7 +594,7 @@ In re: Enforcement of Election Laws and Securing Ballots Cast or Received after 
       
       `This means that the account of @realDonaldTrump will be locked for 12 hours following the removal of these Tweets. If the Tweets are not removed, the account will remain locked.`
       
-      `Future violations of the Twitter Rules, including our Civic Integrity or Violent Threats policies, will result in permanent suspension of the @realDonaldTrump account.` - [link](https://twitter.com/TwitterSafety/status/1346970430062485505?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1346970430062485505%7Ctwgr%5Edb0475b078117fe86e40cd6f6304f31a55734cfb%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.washingtonpost.com%2Ftechnology%2F2021%2F01%2F06%2Ftrump-tweet-violence%2F)
+      `Future violations of the Twitter Rules, including our Civic Integrity or Violent Threats policies, will result in permanent suspension of the @realDonaldTrump account.` - [@twittersafety Tweet, 2021, (Now Deleted)](https://web.archive.org/web/20210107000243/https://twitter.com/TwitterSafety/status/1346970430062485505)
 - On 6 January 2021 @ 20:06PM EST, Pence reopens Congress, saying `Let’s get back to work.
     - `Vice President Pence reopened the Senate proceedings Wednesday evening by telling the rioters who stormed the Capitol that “you did not win” and encouraging lawmakers with “let’s get back to work.”`
       
