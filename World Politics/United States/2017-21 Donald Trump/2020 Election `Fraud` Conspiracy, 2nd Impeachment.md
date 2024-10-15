@@ -337,7 +337,7 @@
     - `Petitioners, pursuant to Rule 41 (a)(1)(A)(i) of the Arizona Rules of Civil Procedure, hereby give notice of their voluntary dismissal of the above-captioned action, without prejudice, and with no costs assigned to either party.`
       
       `RESPECTFULLY SUBMITTED as of this 7th day of December, 2020.` - [Stevenson v. Ducey (Petitioners' Notice of Voluntary Dismissal), Superior Court of the State of Arizona for the County of Maricopa, 2020](https://www.clerkofcourt.maricopa.gov/home/showpublisheddocument/1956/637429572632870000)
-### Burk v. Ducey,
+### Burk v. Ducey
 - On 7 November 2020, A voter alleged widespread voter fraud, including: failing to count valid ballots and fraudulently switching Trump votes to Biden ones; counting unlawful absentee and mail-in ballots; committing fraud with Dominion machines; and violating observation rights. The voter asked the court to decertify Arizona’s presidential election results or exclude unlawful absentee and mail-in ballots from the count.
     - `Plaintiff brings forth this election complaint to bring forth election fraud as well as violations of Arizona election laws, Electors Clauses, and the Equal Protection and Due Process Clauses of the Fourteenth Amendment, of the U.S. Constitution. These violations occurred during the 2020 General Election throughout the State of Arizona, as set forth in the affidavits of eyewitnesses and the voter data cited, the statistical anomalies and mathematical impossibilities detailed in the affidavits of expert witnesses.`
       
