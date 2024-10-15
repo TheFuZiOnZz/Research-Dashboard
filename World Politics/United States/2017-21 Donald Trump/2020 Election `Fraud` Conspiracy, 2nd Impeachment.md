@@ -42,7 +42,7 @@
 	  `“This is going to be a fraud like you’ve never seen,” the president said of the massive shift to mail voting prompted by the coronavirus pandemic.` - [Here's the reality behind Trump's claims about mail voting, AP News, 2020](https://apnews.com/article/virus-outbreak-joe-biden-election-2020-donald-trump-elections-3e8170c3348ce3719d4bc7182146b582)
 - On 30 October 2020, President Trump tweeted,
     - `The Election should end on November 3rd., not weeks later!` - [@realdonaldtrump Tweet, 2020](https://twitter.com/realDonaldTrump/status/1322294301183782912)
-- On 31 October 2020, 
+- On 31 October 2020, Steve Bannon discussed in private that Trump had a plan to declare victory on election night and described how 
 - On 4 November 2020, Axios reported that Trump discussed plans with confidants to declare victory despite the results.
 	- `President Trump has told confidants he'll declare victory on Tuesday night if it looks like he's "ahead," according to three sources familiar with his private comments. That's even if the Electoral College outcome still hinges on large numbers of uncounted votes in key states like Pennsylvania.`
 	  
