@@ -34,8 +34,15 @@
     - `"(G)et rid of the ballots and you'll have a very ... there won't be a transfer, frankly. There'll be a continuation," he added, saying "the ballots are out of control."` - [Trump refuses to commit to a peaceful transition of power after Election Day, CNN, 2020](https://edition.cnn.com/2020/09/23/politics/trump-election-day-peaceful-transition/index.html)
 - On 24 Septem­ber 2020, The FBI Director, Chris­topher Wray, before the U.S. Senate Commit­tee on Home­land Secur­ity and Government Affairs said that:
     - `We have not seen, histor­ic­ally, any kind of coordin­ated national voter fraud effort in a major elec­tion, whether it’s by mail or other­wise.` - [FBI has not seen evidence of widespread voter fraud, Director Wray tells senators, CNBC, 2020](https://www.cnbc.com/2020/09/24/fbi-has-not-seen-evidence-of-widespread-voter-fraud-director-wray-tells-senators.html)
+- On 29 Septem­ber 2020, during the first Presidential Debate, Trump claimed that mail-in ballots being sent out pre-emptively were all fraudulently done by the Democrats.
+	- `President Donald Trump continued his assault on the integrity of the U.S. elections during the first presidential debate Tuesday, spreading falsehoods about the security of voting and misrepresenting issues with mail ballots.`
+	  
+	  `In the final segment of the contentious debate between Trump and Democrat Joe Biden, Trump launched into an extended argument against mail voting, claiming without evidence that it is ripe for fraud and suggesting mail ballots may be “manipulated.”`
+	  
+	  `“This is going to be a fraud like you’ve never seen,” the president said of the massive shift to mail voting prompted by the coronavirus pandemic.` - [Here's the reality behind Trump's claims about mail voting, AP News, 2020](https://apnews.com/article/virus-outbreak-joe-biden-election-2020-donald-trump-elections-3e8170c3348ce3719d4bc7182146b582)
 - On 30 October 2020, President Trump tweeted,
     - `The Election should end on November 3rd., not weeks later!` - [@realdonaldtrump Tweet, 2020](https://twitter.com/realDonaldTrump/status/1322294301183782912)
+- On 31 October 2020, 
 - On 4 November 2020, Axios reported that Trump discussed plans with confidants to declare victory despite the results.
 	- `President Trump has told confidants he'll declare victory on Tuesday night if it looks like he's "ahead," according to three sources familiar with his private comments. That's even if the Electoral College outcome still hinges on large numbers of uncounted votes in key states like Pennsylvania.`
 	  
