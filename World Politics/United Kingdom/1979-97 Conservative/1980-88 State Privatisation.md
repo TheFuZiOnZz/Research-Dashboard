@@ -1,4 +1,3 @@
-### 1980-88 State Privatisation
 - [Wiki](https://en.wikipedia.org/wiki/Social_history_of_the_United_Kingdom_(1979%E2%80%93present)\#Thatcher's_Britain)
 - [Wiki](https://en.wikipedia.org/wiki/Thatcherism)
 - [Wiki](https://en.wikipedia.org/wiki/Economic_history_of_the_United_Kingdom\#1979%E2%80%931990:_the_Thatcher_era)

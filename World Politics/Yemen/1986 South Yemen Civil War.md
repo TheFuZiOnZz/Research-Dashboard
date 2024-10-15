@@ -1,4 +1,3 @@
-# 1986 South Yemen Civil War
 - [Link](https://en.wikipedia.org/wiki/South_Yemen_Civil_War)
 - Background
     - The National Liberation Front was handed power over the country following negotiations in Geneva with the British government.

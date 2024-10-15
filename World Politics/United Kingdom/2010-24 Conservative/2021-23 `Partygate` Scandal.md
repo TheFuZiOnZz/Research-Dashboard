@@ -1,4 +1,4 @@
-### 2021 Initial Media Reports
+# 2021 Initial Media Reports
 - On 30 November 2021, the Daily Mirror first reported on 10 Downing Street staff gatherings during the 2020 Christmas season.
     
     - `Boris Johnson and his Downing Street staff have been accused of breaking Covid rules by attending parties at Number 10 in the run-up to last Christmas. The Prime Minister gave a speech at a packed leaving do for a top aide last November when the country was in the grip of its second lockdown. Then just days before Christmas, with London in tier 3 restrictions, members of his top team held their own festive bash in Downing Street. Officials knocked back glasses of wine during a Christmas quiz and a Secret Santa while the rest of the country was forced to stay at home.` [link](https://www.mirror.co.uk/news/politics/boris-johnson-broke-covid-lockdown-25585238)
@@ -32,7 +32,7 @@
     
     - `An alleged Christmas party in breach of lockdown rules held in Downing Street was organised by civil servants, The Times has been told. The party last year is understood to have been organised via a WhatsApp group with staff asked to bring “Secret Santa” presents. Some of those present also wore Christmas jumpers. About 30 people are understood to have attended the event. Some staff working in other parts of the building are said to have joined in the festivities later in an “impromptu” way. Staff brought the alcohol and food provided, which were not paid for by the government.` [link](https://archive.ph/H5V52)
     
-### 2021 Initial Responses to Media Reports
+# 2021 Initial Responses to Media Reports
 - On 8 December 2021, Johnson apologised for the video during Prime Minister's Questions, describing himself as furious about it, but continued to deny that a party had taken place and declared that an investigation would be undertaken by Cabinet Secretary Simon Case. Johnson also stated that all guidance was followed at all times
     
     - Boris Johnson: `May I begin by saying that I understand and share the anger up and down the country at seeing No. 10 staff seeming to make light of lockdown measures? I can understand how infuriating it must be to think that the people who have been setting the rules have not been following the rules, because I was also furious to see that clip. I apologise unreservedly for the offence that it has caused up and down the country, and I apologise for the impression that it gives.  
@@ -53,7 +53,7 @@
     
     - `The UK's top civil servant has stepped aside from his role leading an inquiry into Downing Street lockdown parties, after it emerged an event was held in his own office. Simon Case had been due to report on claims Covid rules were broken at events for staff last year. But his role was put into doubt after reports a party was held in his office while London was under Covid rules. No 10 said the probe would be concluded by senior civil servant Sue Gray.` [link](https://www.bbc.co.uk/news/uk-politics-59701369)
     
-### 2022 Police Investigation
+# 2022 Police Investigation
 - On 24 January 2022, A police inquiry, called Operation Hillman, was started into 12 gatherings on 8 different days.
     
     - `The comments from Number 10 come after the Metropolitan Police announced it was launching an investigation into a "number of" gatherings during COVID-19 restrictions in 2020 and 2021, putting more pressure on the prime minister.  
@@ -74,7 +74,7 @@
     - `Acting Deputy Commissioner Helen Ball, of the Met said: “There is no doubt that the pandemic impacted all of us in so many ways and strong feelings and opinions have been expressed on this particular issue. When Covid regulations were introduced, the Met was clear that whilst we would not routinely investigate breaches of regulations retrospectively, there may be occasions when it would be appropriate to do so. The information that we received with regard to the alleged breaches in Downing Street and Whitehall was sufficient to reach our criteria to begin such an investigation. Our investigation was thorough and impartial and was completed as quickly as we could, given the amount of information that needed to be reviewed and the importance of ensuring that we had strong evidence for each FPN referral. This investigation is now complete.”`  
     - [link](https://news.met.police.uk/news/mets-investigation-into-alleged-breaches-of-covid-regulations-op-hillman-concludes-448148)
     
-### 2022 Interim Sue Gray Report
+# 2022 Interim Sue Gray Report
 - On 31 January 2022, Due to their being an ongoing Police Investigation, Sue Gray released an initial update report on `Investigation Into Alleged Gatherings on Government Premises During Covid Restrictions`. [link](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1051374/Investigation_into_alleged_gatherings_on_government_premises_during_Covid_restrictions_-_Update.pdf)
     
     - `Against the backdrop of the pandemic, when the Government was asking citizens to accept far-reaching restrictions on their lives, some of the behaviour surrounding these gatherings is difficult to justify.`
@@ -95,7 +95,7 @@
     
     - `The gatherings within the scope of this investigation are spread over a 20-month period – a period that has been unique in recent times in terms of the complexity and breadth of the demands on public servants and indeed the general public. The whole of the country rose to the challenge. Ministers, special advisers and the Civil Service, of which I am proud to be a part, were a key and dedicated part of that national effort. However, as I have noted, a number of these gatherings should not have been allowed to take place or to develop in the way that they did. There is significant learning to be drawn from these events which must be addressed immediately across Government. This does not need to wait for the police investigations to be concluded.`
     
-### 2022 Full Sue Gray Report
+# 2022 Full Sue Gray Report
 - On 25 May 2022, Sue Gray released the full report on `Findings Of Second Permanent Secretary’s Investigation Into Alleged Gatherings On Government Premises During Covid Restrictions`.
     - 15 May 2020; a photograph showing a number of groups in the garden of No 10 Downing Street
         
@@ -201,7 +201,7 @@
         
         - `The public have a right to expect the very highest standards of behaviour in such places and clearly what happened fell well short of this.` [[p37]](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1078404/2022-05-25_FINAL_FINDINGS_OF_SECOND_PERMANENT_SECRETARY_INTO_ALLEGED_GATHERINGS.pdf)
         
-### 2022 Lord Geidt’s Reaction
+# 2022 Lord Geidt’s Reaction
 - On 31 May 2022, Lord Geidt, the Government's independent adviser on ministers' interests, published his annual report.
     
     - `In the case of the Fixed Penalty Notice recently issued to and paid by the Prime Minister, a legitimate question has arisen as to whether those facts alone might have constituted a breach of the overarching duty within the Ministerial Code of complying with the law. It may be that the Prime Minister considers that no such breach of his Ministerial Code has occurred. In that case, I believe a Prime Minister should respond accordingly, setting out his case in public.  
@@ -221,7 +221,7 @@
     - [link](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1080212/pm-boris-johnson-lord-geidt-letter-31-may.pdf)
     
 - On 15 June 2022, [[United Kingdom Contents Page]].
-### 2023 Johnson Resigns as Member of Parliament
+# 2023 Johnson Resigns as Member of Parliament
 - On 9 June 2023, after receiving a confidential report from the Privileges Committee of the House of Commons that was looking into whether he had intentionally misled Parliament over lockdown-breaking parties in Downing Street during the COVID-19 pandemic, Johnson announced his resignation as MP for Uxbridge and South Ruislip, triggering a by-election.
     
     - `Boris Johnson has announced he is standing down as an MP with immediate effect after receiving the report into whether he lied to MPs over partygate.  
@@ -235,7 +235,7 @@
     
     - `It is very sad to be leaving parliament - at least for now - but above all I am bewildered and appalled that I can be forced out, anti-democratically, by a committee chaired and managed, by Harriet Harman, with such egregious bias.` [link](https://news.sky.com/story/boris-johnson-steps-down-as-mp-former-prime-ministers-statement-in-full-12899717)
     
-### 2023 Privileges Committee Report on Johnson
+# 2023 Privileges Committee Report on Johnson
 - On 15 June 2023, The House of Commons Committee of Privileges released a report on `Matter referred on 21 April 2022 (conduct of Rt Hon Boris Johnson): Final Report`.
     
     - `Using the categories of misleading set out in paragraph 32 of the Fourth Report, we conclude that:  
@@ -296,6 +296,6 @@
     - No vote was recorded for 225 MPs, because they either abstained or did not turn up to vote.`  
     - [link](https://www.bbc.co.uk/news/uk-politics-65953605)
     
-### 2023 Privileges Committee Report on Johnson Allies
+# 2023 Privileges Committee Report on Johnson Allies
 - - `` [link](https://committees.parliament.uk/publications/40679/documents/198237/default/)
     

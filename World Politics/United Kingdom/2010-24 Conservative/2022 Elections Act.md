@@ -1,4 +1,3 @@
-### 2022 Elections Act
 - The Elections Act 2022 is an Act of the Parliament of the United Kingdom, introduced to the House of Commons in July 2021, and receiving Royal Assent on 28 April 2022. The Act introduces voter photo identification for in-person voting to Great Britain for the first time. [link](https://bills.parliament.uk/bills/3020\#timeline)
 - This act now adds a requirement for a `specified document` to complete in-person voting.
     
