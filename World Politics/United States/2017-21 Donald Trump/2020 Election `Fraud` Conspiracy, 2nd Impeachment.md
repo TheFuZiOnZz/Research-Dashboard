@@ -24,6 +24,8 @@
     - `The Election should end on November 3rd., not weeks later!` - [@realdonaldtrump Tweet, 2020](https://twitter.com/realDonaldTrump/status/1322294301183782912)
 # Peri-Election
 - On 3 November 2020, Election Day starts.
+- On 4 November 2020 @ 3:30AM EST, Trump claims victory as planned previously
+	- ` ` - 
 - On 4 & 5 November 2020, More than 200 Trump supporters protest at a Maricopa County, Arizona elections center and around downtown Phoenix, claiming some ballots have not been properly counted.
     - `Tensions are running high outside of the Maricopa County Elections office in Phoenix, Ariz., where more than a hundred protestors have demonstrated for the last three nights to argue about the electoral process after former Vice President Joe Biden became the front-runner in the traditionally red state.` - ["I Don't See Them Accepting The Results" Scenes from Election Protests in Maricopa County Arizona, Time, 2020](https://time.com/5908628/maricopa-county-arizona-protests/)
 - On 5 November 2020, Trump Tweeted:
