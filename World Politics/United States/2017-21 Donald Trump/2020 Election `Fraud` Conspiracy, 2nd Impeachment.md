@@ -239,7 +239,7 @@
 ## Allied Securities Operations Group Report
 - 
 	- ` ` - [Antrim Michigan Forensics Report, Revised Preliminary Summary, Allied Security Operations Group, 2020](https://www.justice.gov/d9/2023-05/03.31.23.%20--%20Interference%20in%202016%20or%202020%20Presidential%20Elections.pdf)
-# State Farm Video
+## State Farm Video
 - Georgia, Ruby Freeman lies and the mysterious ballot boxes from under the black table
     - Origination
         - December 3rd, 2020 - [Georgia Senate Hearing](https://youtu.be/hRCXUNOwOjw?t=2281) Jackie Deason presentation by (notice the precise cuts at 1 hour, and 1 hour 20 minutes) (50:24 complete and total lie) on the "mysteriously appearing ballot boxes"
@@ -589,13 +589,13 @@ In re: Enforcement of Election Laws and Securing Ballots Cast or Received after 
       
       `However, we made it clear going back years that these accounts are not above our rules entirely and cannot use Twitter to incite violence, among other things. We will continue to be transparent around our policies and their enforcement.` - [Permanent suspension of @realDonaldTrump, Twitter Blog, 2021](https://blog.x.com/en_us/topics/company/2020/suspension)
 	- `Due to the ongoing tensions in the United States, and an uptick in the global conversation in regards to the people who violently stormed the Capitol on January 6, 2021, these two Tweets must be read in the context of broader events in the country and the ways in which the President’s statements can be mobilized by different audiences, including to incite violence, as well as in the context of the pattern of behavior from this account in recent weeks. After assessing the language in these Tweets against our Glorification of Violence policy, we have determined that these Tweets are in violation of the Glorification of Violence Policy and the user @realDonaldTrump should be immediately permanently suspended from the service.` - [Permanent suspension of @realDonaldTrump, Twitter Blog, 2021](https://blog.x.com/en_us/topics/company/2020/suspension)
+# Ray Epps Conspiracy of Being a Federal Agent
+- [Wiki](https://en.wikipedia.org/wiki/Ray_Epps_(military_veteran))
+- [link](https://revolver.news/2021/10/meet-ray-epps-the-fed-protected-provocateur-who-appears-to-have-led-the-very-first-1-6-attack-on-the-u-s-capitol/) - Original Conspiracy article
 # 2nd Impeachment
 - [Wiki](https://en.wikipedia.org/wiki/Second_impeachment_of_Donald_Trump)
 - On January 13 2021, Trump was impeached by the House of Representatives for the second time adopting one Article of Impeachment being `Incitement of Insurrection` as a result of actions taken by Trump.
     - Impeachment Resolution - [link](https://s3.documentcloud.org/documents/20447672/article-of-impeachment-against-trump.pdf)
-# Ray Epps Conspiracy of Being a Federal Agent
-- [Wiki](https://en.wikipedia.org/wiki/Ray_Epps_(military_veteran))
-- [link](https://revolver.news/2021/10/meet-ray-epps-the-fed-protected-provocateur-who-appears-to-have-led-the-very-first-1-6-attack-on-the-u-s-capitol/) - Original Conspiracy article
 # Defamation Cases Against Pro-Trump People & Organisations
 ## Dominion Voting Systems v. Fox News Network Defamation Lawsuit
 - [link](https://www.dominionvoting.com/legal-updates-learn-how-we-are-defending-dominion/)
