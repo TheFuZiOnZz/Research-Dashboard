@@ -294,7 +294,7 @@
     - `IMPORTANT: If you voted a regular ballot in-person, your ballot will be counted, no matter what kind of pen you used (even a Sharpie)!` - [@secretaryhobbs Tweet, 2020](https://twitter.com/SecretaryHobbs/status/1324074443740647425)
 - On 18 November 2020, the Judge 
 	- ` ` - [Arizona Republican Party v. Fontes (Denial of Preliminary Injunction), Superior Court of the State of Arizona for the County of Maricopa, 2020](https://the2020election.org/wp-content/uploads/ElectionLawsuits/Arizona/added-AZ02order11_18-014553.pdf)
-- On 21 November 2020, 
+- On 21 November 2020, the Judge 
 	- ` ` - [Arizona Republican Party v. Fontes (Remainder Dismissal), Superior Court of the State of Arizona for the County of Maricopa, 2020](https://the2020election.org/wp-content/uploads/ElectionLawsuits/Arizona/AZ-Republican-Party-014553-disposition.pdf)
 ### Kelli Ward v. Constance Jackson et al., and Katie Hobbs.
 - On 30 November 2020, an Arizona voter and state Republican Party Chair, Kelli Ward, filed a lawsuit in the Superior Court of Arizona, Maricopa County. Ward challenged the signature verification process, claiming election workers were unfit to verify signatures. Ward also challenged the ballot duplication process, whereby bipartisan county workers transferred votes to new ballots when ballot tabulators could not read them, claiming that observers were not allowed to view the entire process. [link](https://www.azcourts.gov/newsandinfo/High-Profile-Case-Update/CV-20-0343)
