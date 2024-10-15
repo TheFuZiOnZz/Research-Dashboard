@@ -322,9 +322,18 @@
       
       `The Court finds no just reason for delay and enters this partial final judgment under Ariz. R. Civ. P. 54(b). The Court makes this finding for purposes of permitting an immediate appeal to the Arizona Supreme Court.` - [Kelli Ward v. Constance Jackson et al., and Katie Hobbs (Dismissal), Superior Court of the State of Arizona for the County of Maricopa, 2020](https://the2020election.org/wp-content/uploads/ElectionLawsuits/Arizona/AZ-Ward-015285-Disposition.pdf)
 ### Bowyer v. Ducey.
-- On 2 December 2020, Sidney Powell, who litigated on behalf of some Arizona voters and one candidate for Republican Arizona presidential elector, filed a lawsuit in federal court against the governor, secretary of state, and other Arizona election officials. They asked the court to decertify Arizona's election results, or order that Arizona certify Trump electors. [link](https://www.courtlistener.com/docket/18707812/bowyer-v-ducey/)
+- On 2 December 2020, Sidney Powell, who litigated on behalf of some Arizona voters and one candidate for Republican Arizona presidential elector, filed a lawsuit in federal court against the governor, secretary of state, and other Arizona election officials. They asked the court to decertify Arizona's election results, or order that Arizona certify Trump electors. 
+	- `The fraud begins with the election software and hardware from Dominion Voting Systems Corporation (“Dominion”) used in Maricopa County. The Dominion systems derive from the software designed by Smartmatic Corporation, which became Sequoia in the United States.`
+	  
+	  `Smartmatic and Dominion were founded by foreign oligarchs and dictators
+to ensure computerized ballot-stuffing and vote manipulation to whatever level was needed
+to make certain Venezuelan dictator Hugo Chavez never lost another election. See Ex. 1,
+Redacted Declaration of Dominion Venezuela Whistleblower (“Dominion Whistleblower
+Report”). Notably, Chavez “won” every election thereafter.
+7. As set forth in the Dominion Whistleblower Report, the Smartmatic software
+was contrived through a criminal conspiracy to manipulate Venezuelan elections in favor
+of dictator Hugo Chavez:` - [Bowyer v. Ducey., United States District Court for the District of Arizona, 2020](https://storage.courtlistener.com/recap/gov.uscourts.azd.1255923/gov.uscourts.azd.1255923.1.0.pdf)
 - On 9 December 2020, The judge ruled that the plaintiffs lacked legal standing.
-    
     - `Plaintiffs bring their Complaint seeking injunctive relief from this Court, specifically, to “set aside the results of the 2020 General Election,” because they claim the election process and results were “so riddled with fraud, illegality and statistical impossibility . . . that Arizona voters, courts and legislators cannot rely on or certify” its results. (Doc. 1 at 2). By any measure, the relief Plaintiffs seek is extraordinary. If granted, millions of Arizonans who exercised their individual right to vote in the 2020 General Election would be utterly disenfranchised. Such a request should then be accompanied by clear and conclusive facts to support the alleged “egregious range of conduct in Maricopa County and other Arizona counties . . . at the direction of Arizona state election officials.” (Id.) Yet the Complaint’s allegations are sorely wanting of relevant or reliable evidence, and Plaintiffs’ invocation of this Court’s limited jurisdiction is severely strained. Therefore, for the reasons stated herein, the Complaint shall be dismissed.` - [link](https://storage.courtlistener.com/recap/gov.uscourts.azd.1255923/gov.uscourts.azd.1255923.84.0_2.pdf)
 ### Stevenson v. Ducey,
 - On 4 December 2020, A group of voters alleged that Arizona election officials did not enforce Arizona residency requirements, permitted “double voting,” and used the Center for Tech and Civic Life to create illegal disparities in ballot and drop-box voting in demographically different areas of Arizona. Plaintiffs sought an injunction to prevent the certification of the election results and asked the governor to certify legislatively selected Presidential Electors.
