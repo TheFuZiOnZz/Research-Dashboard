@@ -6,7 +6,7 @@
 
 - On 14 August 2023, Donald John Trump and 18 other Trump associates were all indicted by the State of Georgia
 - The Indicted peoples and their charges are,
-	- Donald John Trump - 
+	- Donald John Trump - 45th President
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
 		- Solicitation of Violation of Oath by Public Officer
 		- Conspiracy to Commit Impersonating a Public Officer
@@ -20,7 +20,7 @@
 		- False Statements and Writings
 		- Solicitation of Violation of Oath by Public Officer
 		- False Statements and Writings
-	- Rudolph William Louis Giuliani - 
+	- Rudolph William Louis Giuliani - Former Mayor of New York, Trump's Personal Lawyer
 		- Violation of the Georgia RICO (Racketeer Influenced And Corrupt Organizations) Act
 		- Solicitation of Violation of Oath by Public Officer
 		- False Statements and Writings
