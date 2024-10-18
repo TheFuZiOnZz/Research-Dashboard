@@ -1,6 +1,6 @@
 # 1517-1917 Ottoman Period
 [1860 Syrian Civil War](1517-1917%20Ottoman%20Period/1860%20Syrian%20Civil%20War)  
-[1862 Rome and Jerusalem The Last National Question](1517-1917%20Ottoman%20Period/1862%20Rome%20and%20Jerusalem%20The%20Last%20National%20Question)  
+[1862 Rome and Jerusalem - The Last National Question](1862%20Rome%20and%20Jerusalem%20-%20The%20Last%20National%20Question)  
 [1877-78 Tenth Russo-Turkish War](1517-1917%20Ottoman%20Period/1877-78%20Tenth%20Russo-Turkish%20War)  
 [1881-84 Tsarist Russian Empire Pogroms](1517-1917%20Ottoman%20Period/1881-84%20Tsarist%20Russian%20Empire%20Pogroms)  
 [1881-1903 First Aliyah](1517-1917%20Ottoman%20Period/1881-1903%20First%20Aliyah)  
@@ -158,7 +158,7 @@
 [2020 Abraham Accords](1948-%20Israeli-Palestinian%20Period/2020%20Abraham%20Accords)  
 [2022-24 ICJ Case on Israeli Annexation of the West Bank Legal Status](1948-%20Israeli-Palestinian%20Period/2022-24%20ICJ%20Case%20on%20Israeli%20Annexation%20of%20the%20West%20Bank%20Legal%20Status)  
 [2021 Israel-Palestine Crisis, Operation Guardian of the Walls](1948-%20Israeli-Palestinian%20Period/2021%20Israel-Palestine%20Crisis,%20Operation%20Guardian%20of%20the%20Walls)  
-[2023- Israel-Hamas War, Operation Iron Swords](2023-%20Israel-Hamas%20War,%20Operation%20Iron%20Swords.md)  
+[2023- Israel-Hamas War, Operation Iron Swords](2023-%20Israel-Hamas%20War,%20Operation%20Iron%20Swords)  
 [2024- Iran-Israel Conflict](2024-%20Iran-Israel%20Conflict)  
 [[2024 Palestine Admitted as Full Member of the United Nations]]
 
