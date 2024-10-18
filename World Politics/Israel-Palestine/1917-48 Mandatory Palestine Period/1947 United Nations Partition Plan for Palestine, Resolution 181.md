@@ -2,7 +2,24 @@
 - The United Nations Partition Plan for Palestine was a proposal by the United Nations Special Committee on Palestine (UNSCOP), which recommended a partition of Mandatory Palestine at the end of the British Mandate into two states, one Jewish, one Arab. The United Nations Palestine Commission was responsible for implementing the UN Partition Plan of Palestine and acted as the Provisional Government of Palestine. The 1947–48 Civil War in Mandatory Palestine and a refusal by the British government to impose a scheme which was not acceptable to both Arabs and Jews in Palestine prevented the Commission from fulfilling its responsibilities.
 - On 29 November 1947, the UN General Assembly adopted the Plan as Resolution 181 which passed by 7 of the 11 members, with Iran, India and Yugoslavia voting against, and Australia abstaining.
 - The resolution recommended the creation of independent Arab and Jewish States linked economically and a Special International Regime for the city of Jerusalem and its surroundings. The Arab state was to have a territory of 11,100 square kilometres or 42%, the Jewish state a territory of 14,100 square kilometres or 56%, while the remaining 2%, comprising the cities of Jerusalem, Bethlehem and the adjoining area, would become an international zone.
-	- [UNGA Resolution 181](https://daccess-ods.un.org/access.nsf/Get?OpenAgent&DS=A/RES/181(II)&Lang=E)
+	- `The General Assembly,`
+	  
+	  `Having met in special session at the request of the mandatory Power to constitute and instruct a special committee to prepare for the consideration of the question of the future govemment of Palestine at thc second regular session;`
+	  
+	  `Having constituted a Spccial Committee and instructed it to investigate all questions and issues rdevant to the problem of Palestine, and to prepare proposals for the solution of the problem, and`  
+	  
+	  `Having received and examined the report of the Special Committee (document A/364) including a number of unanimous recommendations and a plan of partition with economic union approved by the majority of the Special Committee,` 	  
+	  `
+Considers that the present situation in Palestine is one which is likcly to impair the general
+welfare and friendly relations among nations;
+T akes note of the declaration by the mandatory Power that it plans to complete its evacuation of Palcstine by 1 August 1948;`
+	  
+	  `
+Recommends to the United Kingdom, as the
+mandatory Power for Palestine, and to all other
+Members of the United Nations the adoption and
+implementation, with regard to the future govemment of Palestine, of the Plan of Partition with
+Economic Union set out below; ` - [UNGA Resolution 181](https://daccess-ods.un.org/access.nsf/Get?OpenAgent&DS=A/RES/181(II)&Lang=E)
 - The Arab Higher Committee, the Arab League and other Arab leaders and governments rejected it on the basis that in addition to the Arabs forming a two-thirds majority, they owned a majority of the lands.
     - `The League demanded independence for Palestine as a “unitary” state, with an Arab majority and minority rights for the Jews. The AHC went one better and insisted that the proportion of Jews to Arabs in the unitary state should stand at one to six, meaning that only Jews who lived in Palestine before the British Mandate be eligible for citizenship.`  - [1948: A History of the First Arab-Israeli War, Benny Morris](https://cloudflare-ipfs.com/ipfs/bafykbzaceboh6eehlb6m6qeyfzcadyiri4vhj3syboxaidhido32jriuuaj3c?filename=Benny%20Morris%20-%201948_%20A%20History%20of%20the%20First%20Arab-Israeli%20War-Yale%20University%20Press%20%282008%29.pdf)
     - `With the approach of the UN General Assembly deliberations in autumn 1947, Arab thinking grew more focused and military. The League’s Political Committee met in Sofar, Lebanon, on 16–19 September, and urged the Palestine Arabs to fight partition, which it called “aggression,” “without mercy.” The League promised them, in line with Bludan, assistance “in manpower, money and equipment” should the United Nations endorse partition. Indeed, warned the committee, the Arab states themselves “would be forced to take decisive action”; the governments, explained the committee, “would be unable to suppress the turbulent passions of their people resulting from the wrong that would be done them [by the passage of the partition resolution] and sit still.”`  - [1948: A History of the First Arab-Israeli War, Benny Morris](https://cloudflare-ipfs.com/ipfs/bafykbzaceboh6eehlb6m6qeyfzcadyiri4vhj3syboxaidhido32jriuuaj3c?filename=Benny%20Morris%20-%201948_%20A%20History%20of%20the%20First%20Arab-Israeli%20War-Yale%20University%20Press%20%282008%29.pdf)
