@@ -13,4 +13,4 @@
 	  
 	  `The statement said that over the past few weeks, the 162nd Division and Gaza Division operated in Gaza in areas where intelligence indicated senior Hamas officials were hiding. A force from the 828th Bislamach Brigade killed Sinwar and the other two terrorists, it said.` - [Hamas leader and Oct. 7 mastermind Yahya Sinwar killed by IDF troops in Gaza, The Times of Israel, 2024](https://www.timesofisrael.com/high-likelihood-hamas-leader-oct-7-mastermind-yahya-sinwar-killed-by-troops-in-gaza/)
 - No Civilians were confirmed to killed in the gunfight.
-- The IDF had no assassination plan for this 
+- The IDF had no assassination plan for Sinwar in this situation, this action was apart of regular operations in the Gaza Strip 
