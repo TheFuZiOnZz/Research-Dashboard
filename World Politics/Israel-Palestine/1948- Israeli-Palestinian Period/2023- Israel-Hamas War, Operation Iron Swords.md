@@ -9,3 +9,4 @@
 [2024 ICC (Attempt) Arrest Warrants](2024%20ICC%20(Attempt)%20Arrest%20Warrants)  
 [2024 Hamas Leaked Letters](2024%20Hamas%20Leaked%20Letters)  
 [2024 US DOJ Inditement](2024%20US%20DOJ%20Inditement)  
+[2024 Killing of Yahya Sinwar](2024%20Killing%20of%20Yahya%20Sinwar)  
