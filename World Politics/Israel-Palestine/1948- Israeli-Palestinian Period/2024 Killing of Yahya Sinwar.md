@@ -6,3 +6,4 @@
 - No Civilians were confirmed to killed in the gunfight.
 - The IDF had no assassination plan for Sinwar in this situation, this action was apart of regular operations in the Gaza Strip in which he was then found.
 	- `He was not being directly targeted, and troops only realized that one of the three terrorists killed in the incident was apparently Sinwar when they inspected the scene on Thursday morning.` - [Hamas leader and Oct. 7 mastermind Yahya Sinwar killed by IDF troops in Gaza, The Times of Israel, 2024](https://www.timesofisrael.com/high-likelihood-hamas-leader-oct-7-mastermind-yahya-sinwar-killed-by-troops-in-gaza/)
+- deceive 
