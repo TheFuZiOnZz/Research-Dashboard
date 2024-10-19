@@ -630,23 +630,15 @@
 	  
 	  `After Trump’s speech, supporters begin marching toward the U.S. Capitol.` - [Visual timeline: How Jan. 6, 2021 unraveled inside and outside the Capitol, Washington Post, 2021](https://www.washingtonpost.com/nation/interactive/2021/capitol-insurrection-visual-timeline/?itid=hp-top-table-main-0106#:~:text=restrictions.%20Read%C2%A0more%C2%A0%E2%86%92-,1%3A30%20p.m.,-After%20Trump%E2%80%99s%20speech)
 - On 6 January 2021 @ 14:21PM EST, Trump was
-	- `Q So when the President came back in this moment -- this is time stamped 1:21 -- you were telling him that his speech was cut jumped to what was happening at the Capitol.  Is that right?`
+	- `Q So when the President came back in this moment -- this is time stamped 1:21 -- you were telling him that his speech was cut off and the recording because the coverage jumped to what was happening at the Capitol.  Is that right?`
 	  
-	  `A Yes. sir.Q
-Wh at
-Did he ask any
-Capi to 17
-off and the recording because the coverage
+	  `A Yes. sir.`
+	  
+	  `Q What was his reaction to that when he found out? Did he ask any questions, like what's going on at the Capitol?`
+	  
+	  `A — so, -- yeah. It was -- I mean, it was -- I don't know like the direct quotes. I can just pretty much, like, it was, Sir. they cut. it Off because they're rioting down at the Capitol. And he was. like. What do you mean? I said. It's, like, they're rioting down there at the Capitol. And he was, like, Oh really? And then he was like, All right. let's go see. And then we walked back to the back, I'm taking off his outer coat that he's wearing right now, and I get the TV, like, ready for him, and hand him over the remote, and he starts watching it and, like, seeing it 
 
-
-sir,
-was his reaction to that when he found out?
-questions, like what's going on at the
-- soy yean. It was I mean, it was
-don't know like the di rect quotes.
-I can just pretty much.
-like, it was, Sir. they cut. it off because they're rioting
-down at the Capi tote And he was, like, What do you mean? I` - 
+` - 
 - On 6 January 2021 @ 14:24PM EST, President Trump tweeted and then got deleted,
     - `Mike Pence didn’t have the courage to do what should have been done to protect our Country and our Constitution, giving States a chance to certify a corrected set of facts, not the fraudulent or inaccurate ones which they were asked to previously certify. USA demands the truth!` - [@realdonaldtrump Tweet, 2021](https://web.archive.org/web/20210106192450/https://twitter.com/realdonaldtrump/status/1346900434540240897)
 - On 6 January 2021 @ 14:38PM EST, President Trump tweeted,
