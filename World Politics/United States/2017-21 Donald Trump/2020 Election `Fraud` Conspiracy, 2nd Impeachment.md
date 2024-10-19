@@ -625,11 +625,28 @@
 - On 6 January 2021 @ 13:05PM EST, Vice President Pence released a letter about the Electoral College certification,
     - `Given the controversy surrounding this year's election, some approach this year's quadrennial tradition with great expectation, and others with dismissive disdain. Some believe that as Vice President, I should be able to accept or reject electoral votes unilaterally. Others believe that electoral votes should never be challenged in a Joint Session of Congress. After a careful study of our Constitution, our laws, and our history, I believe neither view is correct.` - [Pence Letter on Electoral College Certification, Office of the Vice President, 2021](https://int.nyt.com/data/documenttools/pence-letter-on-vp-and-counting-electoral-votes/9d6f117b6b98d66f/full.pdf)
     - `Four years ago, surrounded by my family, I took an oath to support and defend the Constitution, which ended with the words, “ So help me God. ” Today I want to assure the American people that I will keep the oath I made to them and I will keep the oath I made to Almighty God. When the Joint Session of Congress convenes today, I will do my duty to see to it that we open the certificates of the Electors of the several states, we hear objections raised by Senators and Representatives, and we count the votes of the Electoral College for President and Vice President in a manner consistent with our Constitution, laws, and history. So Help Me God.` - [Pence Letter on Electoral College Certification, Office of the Vice President, 2021](https://int.nyt.com/data/documenttools/pence-letter-on-vp-and-counting-electoral-votes/9d6f117b6b98d66f/full.pdf)
-- On 6 January 2021 @ 13:21PM EST, Trump was 
 - On 6 January 2021 @ 13:30PM EST, After Trump’s speech, supporters begin marching toward the U.S. Capitol.
 	- `1:30 p.m.`
 	  
 	  `After Trump’s speech, supporters begin marching toward the U.S. Capitol.` - [Visual timeline: How Jan. 6, 2021 unraveled inside and outside the Capitol, Washington Post, 2021](https://www.washingtonpost.com/nation/interactive/2021/capitol-insurrection-visual-timeline/?itid=hp-top-table-main-0106#:~:text=restrictions.%20Read%C2%A0more%C2%A0%E2%86%92-,1%3A30%20p.m.,-After%20Trump%E2%80%99s%20speech)
+- On 6 January 2021 @ 14:21PM EST, Trump was
+	- `Q So when the President came back in this moment -- this is time stamped 1:21 -- you were telling him that his speech was cut jumped to what was happening at the Capitol.  Is that right?`
+	  
+	  `A Yes. sir.Q
+Wh at
+Did he ask any
+Capi to 17
+off and the recording because the coverage
+
+
+sir,
+was his reaction to that when he found out?
+questions, like what's going on at the
+- soy yean. It was I mean, it was
+don't know like the di rect quotes.
+I can just pretty much.
+like, it was, Sir. they cut. it off because they're rioting
+down at the Capi tote And he was, like, What do you mean? I` - 
 - On 6 January 2021 @ 14:24PM EST, President Trump tweeted and then got deleted,
     - `Mike Pence didn’t have the courage to do what should have been done to protect our Country and our Constitution, giving States a chance to certify a corrected set of facts, not the fraudulent or inaccurate ones which they were asked to previously certify. USA demands the truth!` - [@realdonaldtrump Tweet, 2021](https://web.archive.org/web/20210106192450/https://twitter.com/realdonaldtrump/status/1346900434540240897)
 - On 6 January 2021 @ 14:38PM EST, President Trump tweeted,
