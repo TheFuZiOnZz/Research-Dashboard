@@ -427,6 +427,8 @@
 # Fake Electors Plot
 - [Wiki](https://en.wikipedia.org/wiki/Trump_fake_electors_plot)
 - [link](https://www.archives.gov/foia/2020-presidential-election-unofficial-certificates)
+- [Eastman Memo 1, 2019](https://cdn.cnn.com/cnn/2021/images/09/20/eastman.memo.pdf)
+- [Eastman Memo 2, 2020](https://www.justsecurity.org/wp-content/uploads/2022/06/january-6-clearinghouse-john-eastman-six-page-jan-3-memo-on-jan-6-scenario.pdf)
 
 # Trump–Raffensperger Phone Call
 - On 2 January 2021, Trump held a one-hour phone call with Georgia Secretary of State Brad Raffensperger. Trump was joined by chief of staff Mark Meadows, trade adviser Peter Navarro, Justice Department official John Lott, law professor John C. Eastman, and attorneys Rudy Giuliani, Cleta Mitchell, Alex Kaufman, and Kurt Hilbert. Raffensperger was joined by his general counsel Ryan Germany.
