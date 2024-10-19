@@ -636,9 +636,15 @@
 	  
 	  `Q What was his reaction to that when he found out? Did he ask any questions, like what's going on at the Capitol?`
 	  
-	  `A — so, -- yeah. It was -- I mean, it was -- I don't know like the direct quotes. I can just pretty much, like, it was, Sir. they cut. it Off because they're rioting down at the Capitol. And he was. like. What do you mean? I said. It's, like, they're rioting down there at the Capitol. And he was, like, Oh really? And then he was like, All right. let's go see. And then we walked back to the back, I'm taking off his outer coat that he's wearing right now, and I get the TV, like, ready for him, and hand him over the remote, and he starts watching it and, like, seeing it 
-
-` - 
+	  `A — so, -- yeah. It was -- I mean, it was -- I don't know like the direct quotes. I can just pretty much, like, it was, Sir. they cut. it Off because they're rioting down at the Capitol. And he was. like. What do you mean? I said. It's, like, they're rioting down there at the Capitol. And he was, like, Oh really? And then he was like, All right. let's go see. And then we walked back to the back, I'm taking off his outer coat that he's wearing right now, and I get the TV, like, ready for him, and hand him over the remote, and he starts watching it and, like, seeing it for himself.`
+	  
+	  `Q Okay. When you said you walked to the back, did you know mean walked to the Oval Dining Room?`
+	  
+	  `A Correct.`
+	  
+	  `Q Is that where the President set up for the afternoon? And set up may not be the best term, but is that where he's kind of stationed himself?`
+	  
+	  `A Typically that's -- a lot of times he's in that back dining room a lot.` - [part-1-of-documents-in-2020-election-subversion-case-against-trump.pdf](https://s3.documentcloud.org/documents/25238683/part-1-of-documents-in-2020-election-subversion-case-against-trump.pdf)
 - On 6 January 2021 @ 14:24PM EST, President Trump tweeted and then got deleted,
     - `Mike Pence didn’t have the courage to do what should have been done to protect our Country and our Constitution, giving States a chance to certify a corrected set of facts, not the fraudulent or inaccurate ones which they were asked to previously certify. USA demands the truth!` - [@realdonaldtrump Tweet, 2021](https://web.archive.org/web/20210106192450/https://twitter.com/realdonaldtrump/status/1346900434540240897)
 - On 6 January 2021 @ 14:38PM EST, President Trump tweeted,
