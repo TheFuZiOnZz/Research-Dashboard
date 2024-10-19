@@ -629,7 +629,7 @@
 	- `1:30 p.m.`
 	  
 	  `After Trump’s speech, supporters begin marching toward the U.S. Capitol.` - [Visual timeline: How Jan. 6, 2021 unraveled inside and outside the Capitol, Washington Post, 2021](https://www.washingtonpost.com/nation/interactive/2021/capitol-insurrection-visual-timeline/?itid=hp-top-table-main-0106#:~:text=restrictions.%20Read%C2%A0more%C2%A0%E2%86%92-,1%3A30%20p.m.,-After%20Trump%E2%80%99s%20speech)
-- On 6 January 2021 @ 14:21PM EST, Trump was
+- On 6 January 2021 @ 14:21PM EST, Trump was told his speech was cut off on TV due to the building crowds at the Capitol building, an then started watching the riot in the Oval Dining Room drinking a Diet Coke.
 	- `Q So when the President came back in this moment -- this is time stamped 1:21 -- you were telling him that his speech was cut off and the recording because the coverage jumped to what was happening at the Capitol.  Is that right?`
 	  
 	  `A Yes. sir.`
@@ -644,7 +644,7 @@
 	  
 	  `Q Is that where the President set up for the afternoon? And set up may not be the best term, but is that where he's kind of stationed himself?`
 	  
-	  `A Typically that's -- a lot of times he's in that back dining room a lot.` - [part-1-of-documents-in-2020-election-subversion-case-against-trump.pdf](https://s3.documentcloud.org/documents/25238683/part-1-of-documents-in-2020-election-subversion-case-against-trump.pdf)
+	  `A Typically that's -- a lot of times he's in that back dining room a lot.` - [United States v. Donald Trump (Smith, Government Appendix Vol. 1), 2024](https://s3.documentcloud.org/documents/25238683/part-1-of-documents-in-2020-election-subversion-case-against-trump.pdf)
 - On 6 January 2021 @ 14:24PM EST, President Trump tweeted and then got deleted,
     - `Mike Pence didn’t have the courage to do what should have been done to protect our Country and our Constitution, giving States a chance to certify a corrected set of facts, not the fraudulent or inaccurate ones which they were asked to previously certify. USA demands the truth!` - [@realdonaldtrump Tweet, 2021](https://web.archive.org/web/20210106192450/https://twitter.com/realdonaldtrump/status/1346900434540240897)
 - On 6 January 2021 @ 14:38PM EST, President Trump tweeted,
