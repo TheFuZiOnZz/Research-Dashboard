@@ -22,8 +22,8 @@ Donald Trump - 20 January 2017 - 20 January 2021
 [Trump's Mass deportation of illegal immigrants](Trump's%20Mass%20deportation%20of%20illegal%20immigrants)  
 [2017-20 Trump's Attempts to remove DACA](2017-20%20Trump's%20Attempts%20to%20remove%20DACA)  
 ## Environmental Policy
-- See Energy Factsheet for More Energy and Climate Change info - [link](https://docs.google.com/document/d/1xuJ5J2zuhBYGud_6p4G2U4Y_hkugtu4Lkw4_I045CYQ/edit)
-- See the wiki for more info on the Scientific consensus on climate change - [Wiki](https://en.wikipedia.org/wiki/Scientific_consensus_on_climate_change)
+See Energy Factsheet for More Energy and Climate Change info - [link](https://docs.google.com/document/d/1xuJ5J2zuhBYGud_6p4G2U4Y_hkugtu4Lkw4_I045CYQ/edit)
+See the wiki for more info on the Scientific consensus on climate change - [Wiki](https://en.wikipedia.org/wiki/Scientific_consensus_on_climate_change)
 
 [Trump's Climate Change Denial](Trump's%20Climate%20Change%20Denial)  
 [2017 Trump Pulls the U.S. out of the Paris Climate Accord](2017%20Trump%20Pulls%20the%20U.S.%20out%20of%20the%20Paris%20Climate%20Accord)  
