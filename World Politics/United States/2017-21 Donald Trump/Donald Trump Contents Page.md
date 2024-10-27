@@ -1,4 +1,4 @@
-Donald Trump - 20 January 2017 - 20 January 2021 
+Donald Trump - 20 January 2017 - 20 January 2021  
 [Wiki](https://en.wikipedia.org/wiki/Donald_Trump)  
 ## Social Policy
 [2017-2021 Trans Military Ban](2017-2021%20Trans%20Military%20Ban)  
