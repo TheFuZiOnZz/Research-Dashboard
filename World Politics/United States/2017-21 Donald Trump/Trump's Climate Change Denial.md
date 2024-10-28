@@ -1,4 +1,3 @@
-### Trump's Climate Change Denial
 - Trump in 2016, he was asked `You think climate change is a real thing? Is there human-caused climate change?` and he responded `I think there’s a change in weather. I am not a great believer in man-made climate change.` [link](https://www.washingtonpost.com/news/capital-weather-gang/wp/2016/03/22/donald-trumps-unsettling-nonsense-on-weather-and-climate/)
 - Trump in 2015 made a speech for the paris climate committee before leaving the accord and said `We’re going to deal with real environmental challenges, not the phony ones we’ve been hearing about.`. [[dona]]
 - Trump in 2018 was interviewed on `60 Minutes` following both Hurricane Michael and the release of the latest IPCC report and said `I’m not denying climate change. But it could very well go back.` interviewer disagrees and brings up consensus and says `Show me the scientists` [link](https://www.youtube.com/watch?v=Uf7vYkX-WVs)
