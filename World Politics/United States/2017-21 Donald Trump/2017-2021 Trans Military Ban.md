@@ -1,4 +1,3 @@
-### 2017-2021 Trans Military Ban
 - On 26 July 2017, Trump tweeted that:
     - `After consultation with my Generals and military experts, please be advised that the United States Government will not accept or allow` `Transgender individuals to serve in any capacity in the U.S. Military. Our military must be focused on decisive and overwhelming` `victory and cannot be burdened with the tremendous medical costs and disruption that transgender in the military would entail. Thank you.` [Tweet 1](https://twitter.com/realDonaldTrump/status/890193981585444864) [Tweet 2](https://twitter.com/realdonaldtrump/status/890196164313833472) [Tweet 3](https://twitter.com/realDonaldTrump/status/890197095151546369)
 - On 25 August 2017, Trump released a Presidential Memorandum that said:
