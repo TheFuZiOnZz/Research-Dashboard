@@ -10,6 +10,8 @@
 	- Fuel duty will be frozen next year;
 	- National Insurance contributions for employers will increase by 1.2% to 15% from April 2025;
 	- HMRC to hire 5,000 extra compliance officers;
+	- No extension on the freeze in income tax and NI thresholds;
+	- VAT introduced on private school fees from January 2025;
 	- Increasing the lower rate for capital gains tax from 10% to 18%, with higher rate going from 20% to 24%;
 	- Inheritance tax thresholds will be frozen for a further two years until 2030;
 	- Introduce a flat-rate duty on all vaping liquid from 2026, and a one-off increase in tobacco duty;
