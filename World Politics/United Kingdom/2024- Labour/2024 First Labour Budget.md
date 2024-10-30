@@ -1,7 +1,8 @@
 - On 30 October 2024, Chancellor Rachel Reeves delivered the first Labour budget for 14 years, in which 
-	- £11.8bn will be provided to compensate those infected and affected by the infected blood scandal;
+	- Increased Taxes will raise £40bn
+	- £11.8bn for Infected Blood Scandal Compensation Fund
 	- £1.8bn for Post Office Horizon Scandal Compensation Fund
-
+	- 
 # Economic Analysis
 - On 30 October 2024, The Office of Budget Responsibility released a `Economic and Fiscal Outlook` Report on the Labour Budget which said:
 	- ` ` - [Economic and Fiscal Outlook, October 2024, Office for Budget Responsibility]()
