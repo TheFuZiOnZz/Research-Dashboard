@@ -6,6 +6,7 @@
 	- £240m for 16 projects targeted at those who are "economically inactive" and most at risk of being out of education, employment, or training;
 	- Weekly earnings limit for Carer's Allowance raised to the equivalent of 16 hours at the National Living Wage per week;
 	- £1bn provided from next year to extend the Household Support Fund;
+	- Fuel duty will be freezed next year;
 # Economic Analysis
 - On 30 October 2024, The Office of Budget Responsibility released a `Economic and Fiscal Outlook` Report on the Labour Budget which said:
 	- ` ` - [Economic and Fiscal Outlook, October 2024, Office for Budget Responsibility]()
