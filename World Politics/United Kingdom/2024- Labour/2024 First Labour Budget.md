@@ -1,4 +1,4 @@
-- On 30 October 2024, Chancellor Rachel Reeves delivered the first Labour budget for 14 years, in which 
+- On 30 October 2024, Chancellor Rachel Reeves delivered the first Labour budget for 14 years, in which included:
 	- Increased Taxes will raise £40bn;
 	- £11.8bn for Infected Blood Scandal Compensation Fund;
 	- £1.8bn for Post Office Horizon Scandal Compensation Fund;
@@ -7,10 +7,14 @@
 	- Weekly earnings limit for Carer's Allowance raised to the equivalent of 16 hours at the National Living Wage per week;
 	- £1bn provided from next year to extend the Household Support Fund;
 	- The threshold at which businesses start paying NI on workers' earnings will be lowered from £9,100 to £5,000;
-	- Fuel duty will be freezed next year;
+	- Fuel duty will be frozen next year;
 	- National Insurance contributions for employers will increase by 1.2% to 15% from April 2025;
 	- HMRC to hire 5,000 extra compliance officers;
 	- Increasing the lower rate for capital gains tax from 10% to 18%, with higher rate going from 20% to 24%;
+	- Inheritance tax thresholds will be frozen for a further two years until 2030;
+	- Tax on vapes to be introduced in 2026;
+	- Increasing the rate of air passenger duty by 50% for private jets;
+	- Draught duty cut by 1.7%, taking a penny off pints in pubs;
 	- 
 # Economic Analysis
 - On 30 October 2024, The Office of Budget Responsibility released a `Economic and Fiscal Outlook` Report on the Labour Budget which said:
