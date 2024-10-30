@@ -30,8 +30,8 @@
 	- £22.6bn increase in day-to-day health budget and £3.1bn increase in capital budget in this year and next;
 # Economic Analysis
 - On 30 October 2024, The Office of Budget Responsibility released a `Economic and Fiscal Outlook` Report on the Labour Budget which said:
+	- ` Current spending now grows in real terms by 4.8 per cent this year, 3.1 per cent next year, and by an average of 1.3 per cent between 2025-26 and 2029-30. The £23.2 billion increase in current spending in 2024-25 relative to the March forecast reflects a combination of the funding of undisclosed spending pressures that existed at the time of the March Budget and have since come to light, and the cost of new policies announced by this Government.` - [Economic and Fiscal Outlook, October 2024, Office for Budget Responsibility, 2024](https://obr.uk/docs/dlm_uploads/OBR_Economic_and_fiscal_outlook_Oct_2024.pdf)
 	- ` ` - [Economic and Fiscal Outlook, October 2024, Office for Budget Responsibility, 2024](https://obr.uk/docs/dlm_uploads/OBR_Economic_and_fiscal_outlook_Oct_2024.pdf)
-- 
 - On 31 October 2024, The Institute for Fiscal Studies released a response to the Labour Budget which said:
 	- ` ` - [, Institute for Fiscal Studies, 2024]()
 - On 31 October 2024, The National Institute of Economic and Social Research released a response to the Labour Budget which said:
