@@ -24,7 +24,9 @@
 	- £2.9bn added to the Ministry of Defence budget;
 	- Windfall tax on oil and gas profits to increase to 38%;
 	- Extra £3.4bn for the Scottish government, an extra £1.7bn for the Welsh government and an extra £1.5bn for Northern Ireland;
-	- £3.1bn in increases to the Affordable Housing Programme;
+	- £5bn of investment on housing, including £3.1bn in increases to the Affordable Homes Programme;
+	- £500m increase in road maintenance to tackle potholes;
+	- £6.7bn of capital investment into the Department for Education, including £1.4bn to rebuild over 500 schools;
 # Economic Analysis
 - On 30 October 2024, The Office of Budget Responsibility released a `Economic and Fiscal Outlook` Report on the Labour Budget which said:
 	- ` ` - [Economic and Fiscal Outlook, October 2024, Office for Budget Responsibility]()
