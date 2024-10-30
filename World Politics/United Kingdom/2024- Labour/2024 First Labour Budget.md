@@ -17,7 +17,10 @@
 	- Increasing the rate of air passenger duty by 50% for private jets;
 	- Draught duty cut by 1.7%, taking a penny off pints in pubs;
 	- Abolition of the non-domicile tax regime in April 2025
-	- 
+	- Increasing core schools budget by £2.3bn;
+	- Tripling investment in school breakfast clubs;
+	- £2.9bn added to the Ministry of Defence budget;
+	- Windfall tax on oil and gas profits to increase to 38%;
 # Economic Analysis
 - On 30 October 2024, The Office of Budget Responsibility released a `Economic and Fiscal Outlook` Report on the Labour Budget which said:
 	- ` ` - [Economic and Fiscal Outlook, October 2024, Office for Budget Responsibility]()
