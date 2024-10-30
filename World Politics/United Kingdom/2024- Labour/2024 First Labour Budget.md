@@ -1,1 +1,2 @@
 On 30 October 2024, Chancellor Rachel Reeves delivered the first Labour budget for 14 years, in which 
+On 30 October 2024, The Office of Budget Responsibility released a `Economic and Fiscal Outlook` Report on the Spring Budget which said:
