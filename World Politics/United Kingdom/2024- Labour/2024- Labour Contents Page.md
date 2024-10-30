@@ -4,7 +4,7 @@ Sir Keir Starmer - 4 July 2024 to ...
 ## Manifesto’s Policy
 [[2024 Labour’s `First Steps For Change`]]
 ## Economic Policy
-
+[[2024]]
 ## Energy Policy
 
 ## Foreign Policy
