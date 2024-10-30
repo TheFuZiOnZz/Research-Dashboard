@@ -1,4 +1,3 @@
-### 2023 Autumn Statement
 - On 22 November 2023, Chancellor Hunt announced the Autumn Statement in which revealed a list of economic and fiscal policies. The policy’s included, [link](https://assets.publishing.service.gov.uk/media/655e107697196d000d985d6b/E02982473_Autumn_Statement_Nov_23_Accessible_v3.pdf)
     
     - Employee National Insurance Tax Cut from 12% to 10% - £450 tax cut for the average worker earning £35,400 a year
