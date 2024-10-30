@@ -12,9 +12,11 @@
 	- HMRC to hire 5,000 extra compliance officers;
 	- Increasing the lower rate for capital gains tax from 10% to 18%, with higher rate going from 20% to 24%;
 	- Inheritance tax thresholds will be frozen for a further two years until 2030;
-	- Tax on vapes to be introduced in 2026;
+	- Introduce a flat-rate duty on all vaping liquid from 2026, and a one-off increase in tobacco duty;
+	- Renew the tobacco duty escalator at RPI +2%, increase duty by 10% on hand-rolled tobacco this year;
 	- Increasing the rate of air passenger duty by 50% for private jets;
 	- Draught duty cut by 1.7%, taking a penny off pints in pubs;
+	- Abolition of the non-domicile tax regime in April 2025
 	- 
 # Economic Analysis
 - On 30 October 2024, The Office of Budget Responsibility released a `Economic and Fiscal Outlook` Report on the Labour Budget which said:
