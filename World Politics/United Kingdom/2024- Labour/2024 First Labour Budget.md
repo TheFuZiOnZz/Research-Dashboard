@@ -27,6 +27,7 @@
 	- £5bn of investment on housing, including £3.1bn in increases to the Affordable Homes Programme;
 	- £500m increase in road maintenance to tackle potholes;
 	- £6.7bn of capital investment into the Department for Education, including £1.4bn to rebuild over 500 schools;
+	- £22.6bn increase in day-to-day health budget and £3.1bn increase in capital budget in this year and next;
 # Economic Analysis
 - On 30 October 2024, The Office of Budget Responsibility released a `Economic and Fiscal Outlook` Report on the Labour Budget which said:
 	- ` ` - [Economic and Fiscal Outlook, October 2024, Office for Budget Responsibility]()
