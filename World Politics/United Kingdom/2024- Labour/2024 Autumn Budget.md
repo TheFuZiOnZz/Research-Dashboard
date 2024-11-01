@@ -46,4 +46,3 @@
 	- ` ` - [, National Institute of Economic and Social Research, 2024]()
 - On 31 October 2024, The Resolution Foundation released a report as response to the Labour Budget which said:
 	- ` ` - [, Resolution Foundation, 2024]()
-- 9x6
