@@ -43,6 +43,6 @@
 - On 31 October 2024, The Institute for Fiscal Studies released a response to the Labour Budget which said:
 	- ` ` - [Autumn Budget 2024, Institute for Fiscal Studies, 2024](https://ifs.org.uk/collections/autumn-budget-2024)
 - On 31 October 2024, The National Institute of Economic and Social Research released a response to the Labour Budget which said:
-	- ` ` - [, National Institute of Economic and Social Research, 2024]()
+	- ` ` - [NIESR’s Response to the Autumn 2024 Budget, National Institute of Economic and Social Research, 2024](https://www.niesr.ac.uk/wp-content/uploads/2024/10/Autumn-2024-Budget-Response.pdf?ver=9v6ckpTIlQNke6ieOE2u)
 - On 31 October 2024, The Resolution Foundation released a report as response to the Labour Budget which said:
-	- ` ` - [, Resolution Foundation, 2024]()
+	- ` ` - [More, more, more. Putting the 2024 Autumn Budget in context, Resolution Foundation, 2024](https://www.resolutionfoundation.org/app/uploads/2024/10/More-more-more-Budget-2024.pdf)
