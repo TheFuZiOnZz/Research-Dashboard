@@ -8,3 +8,5 @@
 [Right Critiques Contents Page](Right%20Critiques/Right%20Critiques%20Contents%20Page)  
 [Social Democracy](Social%20Democracy/Social%20Democracy)  
 [World Politics Contents Page](World%20Politics/World%20Politics%20Contents%20Page)  
+
+Cultish: The Language of Fanaticism
