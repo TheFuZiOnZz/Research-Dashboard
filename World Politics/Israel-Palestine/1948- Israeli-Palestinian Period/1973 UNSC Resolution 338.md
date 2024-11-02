@@ -1,10 +1,7 @@
-### 1973 UNSC Resolution 338
 - [Wiki](https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_338)
 - On 22 October 1973, The United Nations Security Council Resolution 338, called for a ceasefire in the Yom Kippur War in accordance with a joint proposal by the United States and the Soviet Union. The resolution stipulated a cease fire to take effect within 12 hours of the adoption of the resolution. The "appropriate auspices" was interpreted to mean American or Soviet rather than UN auspices. This third clause helped to establish the framework for the [[World Politics]] held in December 1973.
-    
-    - `1. Calls upon all parties to the present fighting to cease all firing and terminate all military activity immediately, no later than 12 hours after the moment of the adoption of this decision, in the positions they now occupy;  
-    -   
-    - 2. Calls upon the parties concerned, to start immediately after the cease-fire the implementaition of Security Council resolution 242 (1967) in all of its parts;  
-    -   
-    - 3. Decides that, immediately and concurrently with the cease-fire, negotiations shall start between the parties concerned under appropriate auspices aimed at establishing a just and drnable peace in the Middle East.`  
-    - [link](https://daccess-ods.un.org/access.nsf/Get?OpenAgent&DS=S/RES/338(1973)&Lang=E)
+    - `1. Calls upon all parties to the present fighting to cease all firing and terminate all military activity immediately, no later than 12 hours after the moment of the adoption of this decision, in the positions they now occupy;`
+      
+      `2. Calls upon the parties concerned, to start immediately after the cease-fire the implementaition of Security Council resolution 242 (1967) in all of its parts;`
+      
+      `3. Decides that, immediately and concurrently with the cease-fire, negotiations shall start between the parties concerned under appropriate auspices aimed at establishing a just and drnable peace in the Middle East.` - [United Nations Security Council Resolution 338, United Nations, 1973](https://daccess-ods.un.org/access.nsf/Get?OpenAgent&DS=S/RES/338(1973)&Lang=E)
