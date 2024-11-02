@@ -41,7 +41,7 @@
 - On 30 October 2024, The HM Treasury released a response to the Labour Budget which said:
 	- ` ` - [Autumn Budget 2024, HM Treasury, 2024](https://assets.publishing.service.gov.uk/media/672232d010b0d582ee8c4905/Autumn_Budget_2024__web_accessible_.pdf)
 - On 31 October 2024, The Institute for Fiscal Studies released a response to the Labour Budget which said:
-	- ` ` - [, Institute for Fiscal Studies, 2024]()
+	- ` ` - [Autumn Budget 2024, Institute for Fiscal Studies, 2024](https://ifs.org.uk/collections/autumn-budget-2024)
 - On 31 October 2024, The National Institute of Economic and Social Research released a response to the Labour Budget which said:
 	- ` ` - [, National Institute of Economic and Social Research, 2024]()
 - On 31 October 2024, The Resolution Foundation released a report as response to the Labour Budget which said:
