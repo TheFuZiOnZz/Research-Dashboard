@@ -1,11 +1,10 @@
+[link](https://rationalwiki.org/wiki/Mueller_investigation)
 # Russian Social Active Measures Campaign
-- [link](https://rationalwiki.org/wiki/Mueller_investigation)
-- [link](https://www.nytimes.com/interactive/2019/04/18/us/politics/mueller-report-document.html)
-- On 7 October 2016,
-- [link](https://web.archive.org/web/20221121100354/https://intelligence.house.gov/social-media-content/) - overview of the social media content disseminated by Russian Trolls
-- [link](https://web.archive.org/web/20221209090405/https://intelligence.house.gov/uploadedfiles/2018_02_27_13_40_38_twitter_suppression.pdf) - examples of the social media content disseminated by Russian Trolls
+- [link](https://web.archive.org/web/20221121100354/https://intelligence.house.gov/social-media-content/) - overview of the social media content disseminated by Russian Trolls 1
+- [link](https://web.archive.org/web/20221209090405/https://intelligence.house.gov/uploadedfiles/2018_02_27_13_40_38_twitter_suppression.pdf) - examples of the social media content disseminated by Russian Trolls 2
 - [link](https://web.archive.org/web/20221209090443/https://intelligence.house.gov/social-media-content/social-media-advertisements.htm) - multiple packs of examples of the social media content disseminated by Russian Trolls
 - [link](https://web.archive.org/web/20221209090440/https://intelligence.house.gov/uploadedfiles/hpsci_minority_exhibits_memo_11.1.17.pdf) - Numbers from the social media platforms on Russia-Linked Accounts
+- On 7 October 2016,
 # Russian Hacking & Dumping Operations
 ## GRU’s Persona DCLeaks
 - 
@@ -19,7 +18,7 @@
       
       `Any IT professional can see that a malware sample mentioned in the Joint Analysis Report was taken from the web and was commonly available. A lot of hackers use it. I think it was inserted in the report to make it look a bit more plausible.` - [Here i am again my Friends!, Guccifer 2.0 Blog, 2017](https://guccifer2.wordpress.com/2017/01/12/fake-evidence/)
 ## Wikileaks & Releasing Stolen Emails
-- [link](https://www.theatlantic.com/politics/archive/2017/11/the-secret-correspondence-between-donald-trump-jr-and-wikileaks/545738/) assange telling trump jr to tell trump not to concede if trump lost 2016
+- [link](https://www.theatlantic.com/politics/archive/2017/11/the-secret-correspondence-between-donald-trump-jr-and-wikileaks/545738/) Assange telling Trump JR to tell trump not to concede if Trump lost 2016
 - [Wiki](https://en.wikipedia.org/wiki/2016_Democratic_National_Committee_email_leak)
 - [Wiki](https://en.wikipedia.org/wiki/Podesta_emails)
 - On 22 July 2016, WikiLeaks begins releasing emails that were stolen from the Democratic National Committee computer networks.
