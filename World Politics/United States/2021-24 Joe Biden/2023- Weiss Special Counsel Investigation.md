@@ -1,7 +1,7 @@
 - [Wiki](https://en.wikipedia.org/wiki/Weiss_special_counsel_investigation)
 - [Wiki](https://en.wikipedia.org/wiki/Biden%E2%80%93Ukraine_conspiracy_theory)
 - [link](https://mediaite.com/wp-content/uploads/2023/09/Memo-Appendix-Impeachment-Claims-Debunked-14pp.pdf)
-- The Weiss special counsel investigation is a investigation into Hunter Biden, the son of U.S. President Joe Biden in relation to alleged corruption tax fraud and gun charges.
+- The Weiss special counsel investigation is a investigation into Hunter Biden, the son of U.S. President Joe Biden in relation to alleged corruption, tax fraud and gun charges.
 ## Zlochevsky, Burisma Holdings & Hunter Biden
 - Burisma Holdings Limited was a holding company based in Kyiv, Ukraine for a group of energy exploration and production companies. It was registered in Limassol, Cyprus, until being dissolved in 2023. Burisma Holdings operated in the Ukrainian natural gas market since 2002. It was one of the largest private natural gas producers in Ukraine, circa 2019. It was owned by Ukrainian oligarch Mykola Zlochevsky through his company Brociti Investments Limited.
 - In 2010-12, Viktor Pshonka, the Ukrainian prosecutor general at the time, began investigating Zlochevsky, over allegations of money laundering, tax evasion, and corruption during his time as Minister of Ecology and Natural Resources from July 2010 until April 2012.
