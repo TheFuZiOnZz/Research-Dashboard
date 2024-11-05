@@ -97,7 +97,7 @@
       
       `The Office provided the entire box in which the four responsive records were located to the FBI on approximately January 5, 2023, in compliance with another subpoena. Id.11 That was still not the end of the production of responsive records. In complying with the subpoena to produce that box, the Office also provided the FBI with two additional documents responsive to the May 2022 subpoena: "one empty folder and another mostly empty folder marked" Classified Evening Summary" that were found in the former president's bedroom at Mar-a-Lago.` - [United States v. Donald Trump (Smith, Mishandling Classified Documents, Exhibit 12), 2024](https://storage.courtlistener.com/recap/gov.uscourts.flsd.648653/gov.uscourts.flsd.648653.561.4.pdf)
 ## Cannon Dismisses The Case
-- On 15 July 2024, Judge Aileen Cannon Dismissed the Mishandling Classified Documents case because of the  [2023-24 Trump v. United States, Absolute Immunity SCOTUS Case](2023-24%20Trump%20v.%20United%20States,%20Absolute%20Immunity%20SCOTUS%20Case)
+- On 15 July 2024, Judge Aileen Cannon Dismissed the Mishandling Classified Documents case because of the [2023-24 Trump v. United States, Absolute Immunity SCOTUS Case](2023-24%20Trump%20v.%20United%20States,%20Absolute%20Immunity%20SCOTUS%20Case)
 # Trump’s Involvement in January 6
  [Wiki](https://en.wikipedia.org/wiki/Federal_prosecution_of_Donald_Trump_(election_obstruction_case))
 - Facts
