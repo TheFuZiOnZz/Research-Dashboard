@@ -5,12 +5,11 @@
 ## Zlochevsky, Burisma Holdings & Hunter Biden
 - Burisma Holdings Limited was a holding company based in Kyiv, Ukraine for a group of energy exploration and production companies. It was registered in Limassol, Cyprus, until being dissolved in 2023. Burisma Holdings operated in the Ukrainian natural gas market since 2002. It was one of the largest private natural gas producers in Ukraine, circa 2019. It was owned by Ukrainian oligarch Mykola Zlochevsky through his company Brociti Investments Limited.
 - In 2010-12, Viktor Pshonka, the Ukrainian prosecutor general at the time, began investigating Zlochevsky, over allegations of money laundering, tax evasion, and corruption during his time as Minister of Ecology and Natural Resources from July 2010 until April 2012.
-    - `The National Anti-Corruption Bureau of Ukraine (NABU) said an investigation was ongoing into permits granted by officials at the Ministry of Ecology for the use of natural resources to a string of companies managed by Burisma.  
-          
-        But it said the period under investigation was 2010-2012, and noted that this was before the company hired Hunter Biden.  
-          
-        “Changes to the board of Burisma Limited, which are currently the object of international attention, took place only in May 2014, and therefore are not and never were the subject of (the anti-corruption bureau’s) investigation,” the bureau’s statement said.`  
-        [link](https://www.reuters.com/article/us-usa-trump-whistleblower-ukraine-buris/ukraine-agency-says-allegations-against-burisma-cover-period-before-biden-joined-idUSKBN1WC1LV)
+    - `The National Anti-Corruption Bureau of Ukraine (NABU) said an investigation was ongoing into permits granted by officials at the Ministry of Ecology for the use of natural resources to a string of companies managed by Burisma.`
+      
+      `But it said the period under investigation was 2010-2012, and noted that this was before the company hired Hunter Biden.`
+      
+      `“Changes to the board of Burisma Limited, which are currently the object of international attention, took place only in May 2014, and therefore are not and never were the subject of (the anti-corruption bureau’s) investigation,” the bureau’s statement said.` - [link](https://www.reuters.com/article/us-usa-trump-whistleblower-ukraine-buris/ukraine-agency-says-allegations-against-burisma-cover-period-before-biden-joined-idUSKBN1WC1LV)
 - On 14 April 2014, the UK’s Serious Fraud Office froze approximately $23 million belonging to companies controlled by Zlochevsky.
     - `According to a court judgment from January 2015, the $23m in the account that had been frozen in London was the proceeds of the sale of an oil storage facility, which Zlochevsky had owned via a shell company in the British Virgin Islands, a tax haven that does not reveal who controls the many thousands of companies based there. The $23m arrived in London from Latvia, a minimally regulated Eastern European country, where banks are famously welcoming towards money from the former Soviet Union.  
           
