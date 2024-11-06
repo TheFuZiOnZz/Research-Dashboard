@@ -149,7 +149,9 @@
 - C3 has been determined to be Dominion Voting Systems. P38 has been determined to be Lee Chatfield, Michigan’s Speaker of the House. P39 has been determined to be Ronna McDaniel, RNC Chairwoman from 2017 to 2024.
 	- `In mid-December, the defendant spoke with RNC Chairwoman P39 and asked her to publicize and promote a private report that had been released on December 13 that purported to identify flaws in the use of C3 machines in Antrim County, Michigan. P39 refused, telling the defendant that she already had discussed the report with P38 Michigan's Speaker of the House, who had told her that the report was inaccurate. P39 conveyed to the defendant P38's exact assessment: the report was “fucking nuts.”` - [United States v. Donald Trump (Smith, Involvement in January 6, Government's Motion for Immunity Decisions), 2024](https://static01.nyt.com/newsgraphics/documenttools/73357920e3c8d739/8fc8bfd0-full.pdf)
 	- ` ` - [United States v. Donald Trump (Smith, Involvement in January 6, Government's Motion for Immunity Decisions), 2024](https://static01.nyt.com/newsgraphics/documenttools/73357920e3c8d739/8fc8bfd0-full.pdf)
-- On the 2 October 2024, Following the release of the court filing, Trump called it the DoJ's last hit job.
+- On 2 October 2024, Following the release of the court filing, Trump called it the DoJ's last hit job.
 	- `Trump posted repeatedly on Truth Social on Wednesday claiming that the filing was election interference.`
 	  
 	  `“The DOJ pushed out this latest ‘hit job’ today because JD Vance humiliated Tim Walz last night in the Debate,” Trump said.` - [5 takeaways from the unsealed new filing on Trump’s 2020 election plot, The Washington Post, 2024](https://www.washingtonpost.com/politics/2024/10/02/jack-smith-trump-2020-election-filing-takeaways/)
+# Trump Wins 2024 Election
+- On 5 November 2024, 
