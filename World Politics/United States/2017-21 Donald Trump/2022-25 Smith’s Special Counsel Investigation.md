@@ -154,7 +154,12 @@
 	  
 	  `“The DOJ pushed out this latest ‘hit job’ today because JD Vance humiliated Tim Walz last night in the Debate,” Trump said.` - [5 takeaways from the unsealed new filing on Trump’s 2020 election plot, The Washington Post, 2024](https://www.washingtonpost.com/politics/2024/10/02/jack-smith-trump-2020-election-filing-takeaways/)
 # Trump Wins 2024 Election
-- On 24 October 2024, Trump said he would fire
+- On 24 October 2024, Trump said he would fire Smith within two seconds into his presidency.
+	- `Donald Trump said on Thursday he would order the immediate firing of the special counsel Jack Smith if he were re-elected in the November election in the clearest expression of his intent to shut down the two criminal cases brought against him.`
+	  
+	  `The remarks from Trump, who remains in a tight race for the presidency against Kamala Harris with 12 days until the election, came in a conversation with the conservative podcast host Hugh Hewitt, who asked whether Trump would pardon himself or fire the special counsel.`
+	  
+	  `“Oh, it’s so easy. It’s so easy ... I would fire him within two seconds,” Trump said of Smith, who last year charged the former president in Florida over his retention of classified documents at his Mar-a-Lago club, and in Washington over his efforts to overturn the 2020 election.` - [Trump says he would fire Jack Smith ‘within two seconds’ of becoming president, The Guardian, 2024](https://www.theguardian.com/us-news/2024/oct/24/trump-fire-jack-smith-hugh-hewitt)
 - On 5 November 2024, Trump Won the U.S. Presidential election against Kamala Harris.
 - On 6 November 2024, Smith began engaging with DoJ officials to begin winding down the two prosecutions against Trump.
 	- `Special counsel Jack Smith is in active talks with senior leadership at the Justice Department evaluating ways he can end his prosecutions of President-elect Donald Trump, sources familiar with the matter told ABC News.`
