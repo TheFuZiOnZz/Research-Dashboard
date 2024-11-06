@@ -158,4 +158,7 @@
 - On 6 November 2024, Smith began engaging with DoJ officials to begin winding down the two prosecutions against Trump.
 	- `Special counsel Jack Smith is in active talks with senior leadership at the Justice Department evaluating ways he can end his prosecutions of President-elect Donald Trump, sources familiar with the matter told ABC News.`
 	  
-	  `The decision is based on longstanding Department of Justice policy that a sitting president cannot face criminal prosecution while in office, sources said.``It is unclear as of today how Smith’s prosecutors will approach dismissing both the federal election subversion case in Washington, D.C., and their ongoing appeal of Judge Aileen Cannon’s dismissal of the classified documents case.`
+	  `The decision is based on longstanding Department of Justice policy that a sitting president cannot face criminal prosecution while in office, sources said.`
+	  
+	  `It is unclear as of today how Smith’s prosecutors will approach dismissing both the federal election subversion case in Washington, D.C., and their ongoing appeal of Judge Aileen Cannon’s dismissal of the classified documents case.` - [Special counsel Jack Smith expected to wind down Trump prosecutions: Sources, ABC News, 2024](https://abcnews.go.com/Politics/special-counsel-jack-smith-expected-wind-trump-prosecutions/story?id=115571646)
+	  
