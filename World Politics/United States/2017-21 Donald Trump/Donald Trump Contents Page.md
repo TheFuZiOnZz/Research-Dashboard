@@ -68,7 +68,7 @@ See the wiki for more info on the Scientific consensus on climate change - [Wiki
 [2019-24 Business Fraud Criminal Suit](2019-24%20Business%20Fraud%20Criminal%20Suit)  
 [2019-23 E. Jean Carroll v. Donald J. Trump](2019-23%20E.%20Jean%20Carroll%20v.%20Donald%20J.%20Trump)  
 [2020- Georgia Election Racketeering Prosecution](2020-%20Georgia%20Election%20Racketeering%20Prosecution)  
-[2022- Michigan prosecution of Fake Electors](2022-%20Michigan%20prosecution%20of%20Fake%20Electors)  
+[2022- Michigan Prosecution of Fake Electors](2022-%20Michigan%20Prosecution%20of%20Fake%20Electors)  
 [2022-25 Smith’s Special Counsel Investigation](2022-25%20Smith’s%20Special%20Counsel%20Investigation)  
 [2023- Nevada Prosecution of Fake Electors](2023-%20Nevada%20Prosecution%20of%20Fake%20Electors)  
 [2023-24 Trump v. United States, Absolute Immunity SCOTUS Case](2023-24%20Trump%20v.%20United%20States,%20Absolute%20Immunity%20SCOTUS%20Case)  
