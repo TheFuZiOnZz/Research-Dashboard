@@ -155,4 +155,7 @@
 	  `“The DOJ pushed out this latest ‘hit job’ today because JD Vance humiliated Tim Walz last night in the Debate,” Trump said.` - [5 takeaways from the unsealed new filing on Trump’s 2020 election plot, The Washington Post, 2024](https://www.washingtonpost.com/politics/2024/10/02/jack-smith-trump-2020-election-filing-takeaways/)
 # Trump Wins 2024 Election
 - On 5 November 2024, Trump Won the U.S. Presidential election against Kamala Harris.
-- On 6 November 2024, 
+- On 6 November 2024, Smith began engaging with DoJ officials to begin winding down the two prosecutions against Trump.
+	- `Special counsel Jack Smith is in active talks with senior leadership at the Justice Department evaluating ways he can end his prosecutions of President-elect Donald Trump, sources familiar with the matter told ABC News.`
+	  
+	  `The decision is based on longstanding Department of Justice policy that a sitting president cannot face criminal prosecution while in office, sources said.``It is unclear as of today how Smith’s prosecutors will approach dismissing both the federal election subversion case in Washington, D.C., and their ongoing appeal of Judge Aileen Cannon’s dismissal of the classified documents case.`
