@@ -154,4 +154,5 @@
 	  
 	  `“The DOJ pushed out this latest ‘hit job’ today because JD Vance humiliated Tim Walz last night in the Debate,” Trump said.` - [5 takeaways from the unsealed new filing on Trump’s 2020 election plot, The Washington Post, 2024](https://www.washingtonpost.com/politics/2024/10/02/jack-smith-trump-2020-election-filing-takeaways/)
 # Trump Wins 2024 Election
-- On 5 November 2024, 
+- On 5 November 2024, Trump Won the U.S. Presidential election against Kamala Harris.
+- On 6 November 2024, 
