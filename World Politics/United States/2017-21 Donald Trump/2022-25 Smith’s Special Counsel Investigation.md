@@ -161,6 +161,7 @@
 	  
 	  `“Oh, it’s so easy. It’s so easy ... I would fire him within two seconds,” Trump said of Smith, who last year charged the former president in Florida over his retention of classified documents at his Mar-a-Lago club, and in Washington over his efforts to overturn the 2020 election.` - [Trump says he would fire Jack Smith ‘within two seconds’ of becoming president, The Guardian, 2024](https://www.theguardian.com/us-news/2024/oct/24/trump-fire-jack-smith-hugh-hewitt)
 - On 5 November 2024, Trump Won the U.S. Presidential election against Kamala Harris.
+	- - [Donald Trump elected 47th president of the United States | PBS News](https://www.pbs.org/newshour/politics/donald-trump-elected-47th-president-of-the-united-states)
 - On 6 November 2024, Smith began engaging with DoJ officials to begin winding down the two prosecutions against Trump.
 	- `Special counsel Jack Smith is in active talks with senior leadership at the Justice Department evaluating ways he can end his prosecutions of President-elect Donald Trump, sources familiar with the matter told ABC News.`
 	  
