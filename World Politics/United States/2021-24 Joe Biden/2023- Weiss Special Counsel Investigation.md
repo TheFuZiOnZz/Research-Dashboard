@@ -434,33 +434,25 @@
           
         Congressional inquiries during the pendency of a matter pose an inherent threat to the integrity of the Department's law enforcement and litigation functions. Such inquiries inescapably create the risk that the public and the courts will perceive undue political and Congressional influence over law enforcement and litigation decisions. Such inquiries also often seek records and other information that our responsibilities for these matters preclude us from disclosing.  
           
-        Accordingly, and consistent with longstanding Department of Justice policy and practice, I must respectfully decline the Committee's request for documents and information at this time to protect confidential law enforcement information from disclosure.  
-          
-        ...  
-          
-        In February 2021, I was asked to remain as United States Attorney for the District of Delaware to continue my oversight of the matter. Since that time, I have fulfilled my responsibilities, consistent with Department practices and procedures, and will continue to do so. Throughout my tenure as U.S. Attorney my decisions have been made-- and with respect to the matter must be made-- without reference to political considerations.`  
-        [link](https://s3.documentcloud.org/documents/23854516/20230607-out-jordan-investigation.pdf)
-    
-      
-    
+        Accordingly, and consistent with longstanding Department of Justice policy and practice, I must respectfully decline the Committee's request for documents and information at this time to protect confidential law enforcement information from disclosure. - [United States Attorney David Weiss letter to Chairman Jim Jordan (07/06/23), Department of Justice, 2023](https://s3.documentcloud.org/documents/23854516/20230607-out-jordan-investigation.pdf)
+        `In February 2021, I was asked to remain as United States Attorney for the District of Delaware to continue my oversight of the matter. Since that time, I have fulfilled my responsibilities, consistent with Department practices and procedures, and will continue to do so. Throughout my tenure as U.S. Attorney my decisions have been made-- and with respect to the matter must be made-- without reference to political considerations.` - [United States Attorney David Weiss letter to Chairman Jim Jordan (07/06/23), Department of Justice, 2023](https://s3.documentcloud.org/documents/23854516/20230607-out-jordan-investigation.pdf)
 - On 19 July 2023, Shapley & Zielger testify in front of the House Oversight Committee
-    - [[video]](https://www.youtube.com/watch?v=E_zWpqBWQK0)
+    - [video](https://www.youtube.com/watch?v=E_zWpqBWQK0)
     - [link](https://www.rev.com/blog/transcripts/irs-whistleblowers-testify-at-house-hearing-on-hunter-biden-investigation-transcript) - Transcript
 - On 22 June 2023, Jim Jordan sends a letter to Weiss stating that the denial of the request of documents has no legitimate basis to refuse cooperation.
-    - `The Department has no legitimate basis to refuse cooperation with the Committee’s oversight of this matter. The Committee is empowered by the House of Representatives to conduct oversight of the programs and operations of the Department of Justice, and the Supreme Court has made clear that Congress has a “broad and indispensable” power to conduct oversight, which “encompasses inquiries into the administration of existing laws, studies of proposed laws, and surveys in our social, economic or political system for the purpose of enabling Congress to remedy them.”  
-          
-        Finally, the Committee’s May 25 letter was addressed to Attorney General Garland because it sought documents in possession of the broader Department of Justice, not solely the U.S. Attorney’s Office for the District of Delaware. We reiterate those requests to the Department and expect to receive the responsive material promptly. In addition to the requests made in the Committee’s May 25 letter, and in light of the unusual nature of your response on behalf of Attorney General Garland, we ask that you provide the following information:  
-          
-        1. A list of individuals who drafted and assisted in drafting your June 7, 2023, response to the Committee’s May 25 letter;  
-          
-        2. Who instructed you to sign and send your June 7 letter to the Committee;  
-          
-        3. When you first learned or were made aware of the Committee’s May 25 letter to Attorney General Garland;  
-          
-        4. Who at the Department of Justice forwarded you the Committee’s May 25 letter to Attorney General Garland; and  
-          
-        5. Whether you had any discussions with Attorney General Garland or any other individual at the Department about the Committee’s May 25 letter. If so, please provide details of these conversations and/or documents or communications referring or relating to those conversations.`  
-        [link](https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/evo-media-document/2023-06-22-jdj-to-david-weiss-re-irs-whistleblower-retaliation.pdf)
+    - `The Department has no legitimate basis to refuse cooperation with the Committee’s oversight of this matter. The Committee is empowered by the House of Representatives to conduct oversight of the programs and operations of the Department of Justice, and the Supreme Court has made clear that Congress has a “broad and indispensable” power to conduct oversight, which “encompasses inquiries into the administration of existing laws, studies of proposed laws, and surveys in our social, economic or political system for the purpose of enabling Congress to remedy them.”`
+      
+      `Finally, the Committee’s May 25 letter was addressed to Attorney General Garland because it sought documents in possession of the broader Department of Justice, not solely the U.S. Attorney’s Office for the District of Delaware. We reiterate those requests to the Department and expect to receive the responsive material promptly. In addition to the requests made in the Committee’s May 25 letter, and in light of the unusual nature of your response on behalf of Attorney General Garland, we ask that you provide the following information:`
+      
+      `1. A list of individuals who drafted and assisted in drafting your June 7, 2023, response to the Committee’s May 25 letter;`
+      
+      `2. Who instructed you to sign and send your June 7 letter to the Committee;`
+      
+      `3. When you first learned or were made aware of the Committee’s May 25 letter to Attorney General Garland;`
+      
+      `4. Who at the Department of Justice forwarded you the Committee’s May 25 letter to Attorney General Garland; and`
+      
+      `5. Whether you had any discussions with Attorney General Garland or any other individual at the Department about the Committee’s May 25 letter. If so, please provide details of these conversations and/or documents or communications referring or relating to those conversations.` - [Chairman Jim Jordan letter to United States Attorney David Weiss (22/06/23), House Committee on Oversight and Accountability and Committee on the Judiciary, 2023](https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/evo-media-document/2023-06-22-jdj-to-david-weiss-re-irs-whistleblower-retaliation.pdf)
 - On 30 June 2023, Weiss sends a letter to Jordan saying he reaffirms the 7 June letter and expands on his ultimate authority stating if he requests Special Counsel, he would be granted it from Garland.
     - `At the outset, I would like to reaffirm the contents of the June 7 letter drafted by my office and reiterate that I am not at liberty to provide the materials you seek. The whistleblowers’ allegations relate to a criminal investigation that is now being prosecuted in the United States District Court for the District of Delaware. At this juncture, I am required to protect confidential law enforcement information and deliberative communications related to the case. Thus, I will not provide specific information related to the Hunter Biden investigation at this time. But I will provide some general insight on two issues.`
       
