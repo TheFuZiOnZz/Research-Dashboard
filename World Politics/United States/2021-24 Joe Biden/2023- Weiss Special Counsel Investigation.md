@@ -740,7 +740,7 @@
 # Gal Luft Indited for FARA Violations
 - [link](https://www.nytimes.com/2023/07/11/us/politics/gal-luft-hunter-biden-indictment-justice-department.html)
 - On 10 July 2023, Gal Luft was indited of eight charges including acting as an unregistered foreign agent of Chinese entities under the US Foreign Agents Registration Act, violating trade sanctions against Iran, at the behest of Chinese entities, recruited and paid an unnamed adviser to then-president-elect Donald Trump to adopt pro-Chinese positions.
-    - ``    - [link](https://www.justice.gov/usao-sdny/file/1304911/dl?inline)
+    - ` ` - [link](https://www.justice.gov/usao-sdny/file/1304911/dl?inline)
 # Tony Bobulinski
 - [Wiki](https://en.wikipedia.org/wiki/Hunter_Biden_laptop_controversy#Hunter_Biden_story_pitch)
 # Jason Galanis
