@@ -713,8 +713,8 @@
 - On 20 June 2023, Hunter Biden pled guilty via a guilty plea deal with the DoJ.
     - ` ` - [United States of America v. Robert Hunter Biden (Weiss, Tax Fraud Charges, Plea Agreement), United States District Court For the District of Delaware, 2023](https://www.politico.com/f/?id=00000189-9524-dee7-a7ab-fd7d1d600000)
 - On 26 July 2023, Hunter Biden pled not guilty meaning plea deal fell apart.
-    - [link](https://www.politico.com/f/?id=00000189-9524-df68-afbb-bdaf61fa0000) - Diversion agreement
-    - [link](https://s3.documentcloud.org/documents/23888608/transcript-of-july-26-2023-hearing.pdf) - Transcript of the hearing
+    - ` ` - [United States of America v. Robert Hunter Biden (Weiss, Tax Fraud Charges, Diversion Agreement), United States District Court For the District of Delaware, 2023](https://www.politico.com/f/?id=00000189-9524-df68-afbb-bdaf61fa0000)
+    - ` ` - [United States of America v. Robert Hunter Biden (Weiss, Tax Fraud Charges, Initial Appearance for Plea Hearing Transcript), United States District Court For the District of Delaware, 2023](https://s3.documentcloud.org/documents/23888608/transcript-of-july-26-2023-hearing.pdf
 # Weiss Made Special Counsel
 - On 11 August 2023, David Weiss is appointed Special Counsel by Garland and was authorized to continue Weiss’ prior investigations into Hunter Biden and other associated matters.
     - `In 2019, United States Attorney David C. Weiss, along with federal law enforcement partners, began investigating allegations of certain criminal conduct by, among others, Robert Hunter Biden. That investigation includes the investigation and prosecutions referenced and described in United States v. Robert Hunter Biden, Criminal Action Nos. 23-mj-274 (MN) and 23-61 (MN) (D. Dei.). By virtue of the authority vested in the Attorney General, including 28 U.S.C 509, 510, 515, and 533, in order to discharge my responsibility to provide supervision and management of the Department of Justice, and to ensure a full and thorough investigation of certain matters, I hereby order as follows:`
