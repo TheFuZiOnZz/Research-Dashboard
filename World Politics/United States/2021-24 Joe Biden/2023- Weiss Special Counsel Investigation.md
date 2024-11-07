@@ -503,150 +503,145 @@
           
         A Not directly. You mean like making laws? I don't -- I don't think so.  
           
-        Mr. Goldman. Foreign policy.  
-          
-        Mr. Archer. No -- no -- no on foreign policy.  
-          
-        Q No basis to disagree with that conclusion.  
-          
-        A No.  
-          
-        Q Do you have any basis to disagree with the conclusion that "Hunter Biden's role did not influence U.S. foreign policy decisions"?  
-          
-        A I have -- yeah, I have no basis.  
-          
-        Q Do you have any basis to disagree with the conclusion that "Vice President Biden carried out U.S. foreign policy in the interest of the United States"?  
-          
-        A I have no basis to judge.  
-          
-        Q Or to disagree with that.  
-          
-        A Or disagree.  
-          
-        Q You have no knowledge -- nothing based on your knowledge or experience contradicts this conclusion.  
-          
-        A No.  
-          
-        Q Does anything in your knowledge or experience contradict the conclusion that "there was no corruption, wrongdoing, or impropriety on the part of Vice President Biden"?  
-          
-        A I have no basis to know.  
-          
-        Q The report also found, quote, "No --"  
-          
-        Mr. Goldman. I'm sorry. You have no basis to know or is that a no?  
-          
-        Mr. Archer. I have -- I have -- I would have no idea.  
-          
-        Mr. Goldman. No basis --  
-          
-        Mr. Schwartz. Are you aware of any wrongdoing by Vice President Biden?  
-          
-        Mr. Archer. No, I'm not aware of any.  
-          
-        Q So based on your knowledge and experience, you have no evidence that would contradict any of these conclusions I just read.  
-          
-        A No.  
-          
-        Q The report also found, quote, "No evidence that any action of the U.S. Government or any U.S. official was taken to benefit Burisma or Hunter Biden." Do you have any evidence or knowledge that contradicts this conclusion?  
-          
-        A No.  
-          
-        Q So based on everything you saw, heard, and observed, did you have any knowledge of Joe Biden having any involvement with Burisma?  
-          
-        A No -- not direct, no.  
-          
-        Q No involvement of Joe --  
-          
-        A No.  
-          
-        Q -- Biden with Burisma.  
-          
-        A No. My only thought is that I think Burisma would have gone out of business if it didn't have the brand attached to it. That's my, like, only honest opinion. But I have no basis for any -- never heard any conversations --  
-          
-        Mr. Goldman. But that's different than Joe Biden's action.  
-          
-        Mr. Archer. Right.`  
-        [link](https://oversight.house.gov/wp-content/uploads/2023/08/Devon-Archer-Transcript.pdf) - Oversight Committee Interview of Devon Archer
+        Mr. Goldman. Foreign policy.`
+      
+      `Mr. Archer. No -- no -- no on foreign policy.`
+      
+      `Q No basis to disagree with that conclusion.`
+      
+      `A No.`
+      
+      `Q Do you have any basis to disagree with the conclusion that "Hunter Biden's role did not influence U.S. foreign policy decisions"?`
+      
+      `A I have -- yeah, I have no basis.`
+      
+      `Q Do you have any basis to disagree with the conclusion that "Vice President Biden carried out U.S. foreign policy in the interest of the United States"?`
+      
+      `A I have no basis to judge.`
+      
+      `Q Or to disagree with that.`
+      
+      `A Or disagree.`
+      
+      `Q You have no knowledge -- nothing based on your knowledge or experience contradicts this conclusion.`
+      
+      `A No.`
+      
+      `Q Does anything in your knowledge or experience contradict the conclusion that "there was no corruption, wrongdoing, or impropriety on the part of Vice President Biden"?`
+      
+      `A I have no basis to know.`
+      
+      `Q The report also found, quote, "No --"`
+      
+      `Mr. Goldman. I'm sorry. You have no basis to know or is that a no?`
+      
+      `Mr. Archer. I have -- I have -- I would have no idea.`
+      
+      `Mr. Goldman. No basis --`
+      
+      `Mr. Schwartz. Are you aware of any wrongdoing by Vice President Biden?`
+      
+      `Mr. Archer. No, I'm not aware of any.`
+      
+      `Q So based on your knowledge and experience, you have no evidence that would contradict any of these conclusions I just read.`
+      
+      `A No.`
+      
+      `Q The report also found, quote, "No evidence that any action of the U.S. Government or any U.S. official was taken to benefit Burisma or Hunter Biden." Do you have any evidence or knowledge that contradicts this conclusion?`
+      
+      `A No.`
+      
+      `Q So based on everything you saw, heard, and observed, did you have any knowledge of Joe Biden having any involvement with Burisma?`
+      
+      `A No -- not direct, no.`
+      
+      `Q No involvement of Joe --`
+      
+      `A No.`
+      
+      `Q -- Biden with Burisma.`
+      
+      `A No. My only thought is that I think Burisma would have gone out of business if it didn't have the brand attached to it. That's my, like, only honest opinion. But I have no basis for any -- never heard any conversations --`
+      
+      `Mr. Goldman. But that's different than Joe Biden's action.`
+      
+      `Mr. Archer. Right.` - [Devon Archer Deposition Transcript, Committee on Oversight and Accountability and Committee on the Judiciary, 2024](https://oversight.house.gov/wp-content/uploads/2023/08/Devon-Archer-Transcript.pdf)
 - Archer testifies that he disagree with the FD 1023 report on the alleged bribe to Joe Biden
-    - `Q If someone were to conclude from this that this is evidence, this Form 1023 is evidence that Joe Biden was bribed by Mykola Zlochevsky, would you disagree with that conclusion?  
-          
-        A Yeah, I would.  
-          
-        Q So in talking about how Zlochevsky and other Ukrainian businessmen brag --  
-          
-        A Uh-huh.  
-          
-        Q -- exaggerate, tell fibs, is that fair?  
-          
-        A Yep, very similar to D.C. operators.  
-          
-        Q Similar to D.C. operators. In another sense, you know, is it fair to say that people in D.C. like to give off the  
-        impression of access that they don't necessarily actually deliver on?  
-          
-        A Yep, correct. And in Ukraine, in Russia they brag about how much -- they brag about bigger bribes than they actually give. So it's pretty kind of similar symbiosis there.`  
-        [link](https://oversight.house.gov/wp-content/uploads/2023/08/Devon-Archer-Transcript.pdf) - Oversight Committee Interview of Devon Archer
+    - `Q If someone were to conclude from this that this is evidence, this Form 1023 is evidence that Joe Biden was bribed by Mykola Zlochevsky, would you disagree with that conclusion?`
+      
+      `A Yeah, I would.`
+      
+      ` Q So in talking about how Zlochevsky and other Ukrainian businessmen brag --`
+      
+      `A Uh-huh.`
+      
+      `Q -- exaggerate, tell fibs, is that fair?`
+      
+      `A Yep, very similar to D.C. operators.`
+      
+      `Q Similar to D.C. operators. In another sense, you know, is it fair to say that people in D.C. like to give off the impression of access that they don't necessarily actually deliver on?`
+      
+      `A Yep, correct. And in Ukraine, in Russia they brag about how much -- they brag about bigger bribes than they actually give. So it's pretty kind of similar symbiosis there.`  - [Devon Archer Deposition Transcript, Committee on Oversight and Accountability and Committee on the Judiciary, 2024](https://oversight.house.gov/wp-content/uploads/2023/08/Devon-Archer-Transcript.pdf)
 - Archer testifies that he has no knowledge of Hunter ever calling Joe about business.
-    - `Mr. Jordan. The request from Mr. -- from Mykola Zlochevsky and Vadym to Mr. Biden and/or if you said it was to you, the request for help from whom to deal with what pressure?  
-          
-        Mr. Archer. The request -- you know, basically the request is like, can D.C. help? But there were not -- you know, I'm not going to -- there were not -- it wasn't like -- there weren't specific, you know, can the big guy help? It was -- it's always this amorphous,  
-        can we get help in D.C.?  
-          
-        Mr. Jordan. The request was help from the United States Government to deal with the pressure they were under from their prosecutor, and that entailed the freezing of assets at the London bank and other things that were going on in Ukraine?  
-          
-        Mr. Archer. Correct.  
-          
-        Mr. Jordan. Okay.  
-          
-        Mr. Biggs. I just -- I think you might have just clarified. I just want to make sure.  
-          
-        Mr. Archer. Sure.  
-          
-        Mr. Biggs. When you say D.C. help, like they said, we could use some D.C. help, I'm not asking what you think they -- I'm asking what you interpreted that to mean?  
-          
-        Mr. Archer. Well, I'm still learning about it, but it seems like -- really a lot like at the end of the day lobbying, you know, soft lobbying help, firm lobbying help. I mean, there was constant, you know, constant pressure on them, and there were various service providers hired and people working on, you know, help in D.C. A lot of power is obviously flexed here. So that was a -- that was a constant, you know, whether it was putting out fires or helping expand.  
-          
-        Mr. Biggs. So why do you think they were asking Mr. Biden for D.C. help if they had -- I'm assuming what you're saying is they might have had some kind of lobbying group on retainer, perhaps.  
-          
-        Mr. Archer. Yes.  
-          
-        Mr. Biggs. So why do you think they were asking Hunter Biden for D.C. help?  
-          
-        Mr. Archer. I mean, why?  
-          
-        Mr. Biggs. I mean, what did you take away from that?  
-          
-        Mr. Archer. Well, I mean, he was a lobbyist and an expert and obviously he carried, you know, a very powerful name. So I think it was -- that's what they were asking for. They had -- they also -- you know, there was a firm, Blue Star Strategies, that was hired to be, you know, kind of the -- I don't know if they were a lobbying firm or just strategic advisory. It's still unclear what the difference is. But, you know, that was part of the mix. But it was -- yeah, it was a high-pressure environment, and there was -- there was constant requests for help.  
-          
-        BY MR. MANDOLFO:  
-          
-        Q What did Hunter Biden do after he was given that request?  
-          
-        A Listen, I did not hear this phone call, but he -- he called his dad.  
-          
-        Q How do you know that?  
-          
-        A Because he -- because I think Vadym told me. But, again, it's unclear. I just know that there was a call that happened there and I was not privy to it.  
-          
-        Q What did Vadym tell you about the call?  
-          
-        A Just that -- just that they -- "We called D.C." But he didn't -- you know, again, it's not like the -- there was not a -- there was not, "Oh, we've got all our problems solved" kind of, you know, revelation. I was -- I was not on that side of the equation and kind of working on the lobbying side of the business.  
-          
-        Q When Vadym told you this, where were you?  
-          
-        A I was -- you know, basically what -- then we drove back to the hotel I was staying at.  
-          
-        Q Who's "we"?  
-          
-        A Me, Vadym, and Mykola.  
-          
-        Q Was it during that drive back that Vadym told you that Hunter Biden had called VP Biden at that time?  
-          
-        A It would have been at some point there or after. You know, maybe the next day. Again, we spent -- you know, on a board trip where you travel with people from all over the world, we spent 3 days together. So the exact time I can't say, but that was the -- that was the -- that was -- that's what happened.  
-          
-        Mr. Schwartz. He told you expressly he called his father or that he called D.C.?  
-          
-        Mr. Archer. D.C., D.C.`  
-        [Hunter Biden Deposition Transcript, Committee on Oversight and Accountability and Committee on the Judiciary, 2024](https://oversight.house.gov/wp-content/uploads/2023/08/Devon-Archer-Transcript.pdf) - Oversight Committee Interview of Devon Archer
+    - `Mr. Jordan. The request from Mr. -- from Mykola Zlochevsky and Vadym to Mr. Biden and/or if you said it was to you, the request for help from whom to deal with what pressure?`
+      
+      `Mr. Archer. The request -- you know, basically the request is like, can D.C. help? But there were not -- you know, I'm not going to -- there were not -- it wasn't like -- there weren't specific, you know, can the big guy help? It was -- it's always this amorphous, can we get help in D.C.?`
+      
+      `Mr. Jordan. The request was help from the United States Government to deal with the pressure they were under from their prosecutor, and that entailed the freezing of assets at the London bank and other things that were going on in Ukraine?`
+      
+      `Mr. Archer. Correct.`
+      
+      `Mr. Jordan. Okay.`
+      
+      `Mr. Biggs. I just -- I think you might have just clarified. I just want to make sure.`
+      
+      `Mr. Archer. Sure.`
+      
+      `Mr. Biggs. When you say D.C. help, like they said, we could use some D.C. help, I'm not asking what you think they -- I'm asking what you interpreted that to mean?`
+      
+      `Mr. Archer. Well, I'm still learning about it, but it seems like -- really a lot like at the end of the day lobbying, you know, soft lobbying help, firm lobbying help. I mean, there was constant, you know, constant pressure on them, and there were various service providers hired and people working on, you know, help in D.C. A lot of power is obviously flexed here. So that was a -- that was a constant, you know, whether it was putting out fires or helping expand.`
+      
+      `Mr. Biggs. So why do you think they were asking Mr. Biden for D.C. help if they had -- I'm assuming what you're saying is they might have had some kind of lobbying group on retainer, perhaps.`
+      
+      `Mr. Archer. Yes.`
+      
+      `Mr. Biggs. So why do you think they were asking Hunter Biden for D.C. help?`
+      
+      `Mr. Archer. I mean, why?`
+      
+      `Mr. Biggs. I mean, what did you take away from that?`
+      
+      `Mr. Archer. Well, I mean, he was a lobbyist and an expert and obviously he carried, you know, a very powerful name. So I think it was -- that's what they were asking for. They had -- they also -- you know, there was a firm, Blue Star Strategies, that was hired to be, you know, kind of the -- I don't know if they were a lobbying firm or just strategic advisory. It's still unclear what the difference is. But, you know, that was part of the mix. But it was -- yeah, it was a high-pressure environment, and there was -- there was constant requests for help.`
+      
+      `BY MR. MANDOLFO:`
+      
+      `Q What did Hunter Biden do after he was given that request?`
+      
+      `A Listen, I did not hear this phone call, but he -- he called his dad.`
+      
+      `Q How do you know that?`
+      
+      `A Because he -- because I think Vadym told me. But, again, it's unclear. I just know that there was a call that happened there and I was not privy to it.`
+      
+      `Q What did Vadym tell you about the call?`
+      
+      `A Just that -- just that they -- "We called D.C." But he didn't -- you know, again, it's not like the -- there was not a -- there was not, "Oh, we've got all our problems solved" kind of, you know, revelation. I was -- I was not on that side of the equation and kind of working on the lobbying side of the business.`
+      
+      `Q When Vadym told you this, where were you?`
+      
+      `A I was -- you know, basically what -- then we drove back to the hotel I was staying at.`
+      
+      `Q Who's "we"?`
+      
+      `A Me, Vadym, and Mykola.`
+      
+      `Q Was it during that drive back that Vadym told you that Hunter Biden had called VP Biden at that time?`
+      
+      `A It would have been at some point there or after. You know, maybe the next day. Again, we spent -- you know, on a board trip where you travel with people from all over the world, we spent 3 days together. So the exact time I can't say, but that was the -- that was the -- that was -- that's what happened.`
+      
+      `Mr. Schwartz. He told you expressly he called his father or that he called D.C.?`
+      
+      `Mr. Archer. D.C., D.C.` - [Devon Archer Deposition Transcript, Committee on Oversight and Accountability and Committee on the Judiciary, 2024](https://oversight.house.gov/wp-content/uploads/2023/08/Devon-Archer-Transcript.pdf)
 # Justice Department Opens Tax Fraud Investigation
 - On 9 December 2020, Hunter Biden announced that he had been under investigation since late 2018 for potential criminal violations of tax and money laundering laws.
     - `The Justice Department is investigating the tax affairs of President-elect Joseph R. Biden Jr.’s son Hunter, he disclosed in a statement on Wednesday.`
