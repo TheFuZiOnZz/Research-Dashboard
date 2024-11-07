@@ -169,3 +169,5 @@
 	  
 	  `It is unclear as of today how Smith’s prosecutors will approach dismissing both the federal election subversion case in Washington, D.C., and their ongoing appeal of Judge Aileen Cannon’s dismissal of the classified documents case.` - [Special counsel Jack Smith expected to wind down Trump prosecutions: Sources, ABC News, 2024](https://abcnews.go.com/Politics/special-counsel-jack-smith-expected-wind-trump-prosecutions/story?id=115571646)
 - 
+# Smith Releases the Report
+- 
