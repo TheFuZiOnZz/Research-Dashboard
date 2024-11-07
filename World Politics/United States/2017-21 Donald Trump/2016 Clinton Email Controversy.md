@@ -15,7 +15,10 @@
 - [link](https://www.google.com)
 # Reopening of FBI investigation
 - [link](https://vault.fbi.gov/fbi-communication-on-discovery-of-hillary-clinton-e-mails-on-anthony-weiners-laptop-computer/fbi-communication-on-discovery-of-hillary-clinton-e-mails-on-anthony-weiners-laptop-computer-part-01-of-01) - FBI Communication on Discovery of Hillary Clinton E-mails on Anthony Weiner's Laptop Computer [2016]
-# Political Impact of Reopening of FBI investigation on 2016 Election
+# Political Impact of Reopening of FBI investigation on 2016 Election0.32
+-+
+.
+65
 - [link](https://sci-hub.ee/https://doi.org/10.1111/ssqu.12729)
 - [link](https://fivethirtyeight.com/features/the-comey-letter-probably-cost-clinton-the-election/)
 # Strzok & Page Text Messages
