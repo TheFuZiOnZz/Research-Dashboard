@@ -5,18 +5,18 @@
 - [link](https://oversight.house.gov/wp-content/uploads/2018/12/Comey-interview-transcript-12-7-18_Redacted-1.pdf) - Comey’s interview transcript [2018]
 - [link](https://www.justice.gov/file/1071991/download) - `A Review of Various Actions by the Federal Bureau of Investigation and Department of Justice in Advance of the 2016 Election` [2018]
 - During her tenure as United States Secretary of State, Hillary Clinton drew controversy by using a private email server for official public communications rather than using official State Department email accounts maintained on federal servers.
-#### Beginning of FBI Investigation
+# Beginning of FBI Investigation
 - 
-#### FBI Recovers Emails
+# FBI Recovers Emails
 - 
-#### Comey’s Public statements
+# Comey’s Public statements
 - 
-#### Initial Investigation Concludes
+# Initial Investigation Concludes
 - [link](https://www.google.com)
-#### Reopening of FBI investigation
+# Reopening of FBI investigation
 - [link](https://vault.fbi.gov/fbi-communication-on-discovery-of-hillary-clinton-e-mails-on-anthony-weiners-laptop-computer/fbi-communication-on-discovery-of-hillary-clinton-e-mails-on-anthony-weiners-laptop-computer-part-01-of-01) - FBI Communication on Discovery of Hillary Clinton E-mails on Anthony Weiner's Laptop Computer [2016]
-#### Political Impact of Reopening of FBI investigation
+# Political Impact of Reopening of FBI investigation on 2016 Election
 - [link](https://sci-hub.ee/https://doi.org/10.1111/ssqu.12729)
 - [link](https://fivethirtyeight.com/features/the-comey-letter-probably-cost-clinton-the-election/)
-#### Strzok & Page Text Messages
+# Strzok & Page Text Messages
 - [link](https://ia800107.us.archive.org/19/items/StrzokPageTexts/FBI-texts.pdf)
