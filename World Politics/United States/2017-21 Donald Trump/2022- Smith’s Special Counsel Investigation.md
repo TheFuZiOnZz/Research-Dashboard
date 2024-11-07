@@ -153,7 +153,7 @@
 	- `Trump posted repeatedly on Truth Social on Wednesday claiming that the filing was election interference.`
 	  
 	  `“The DOJ pushed out this latest ‘hit job’ today because JD Vance humiliated Tim Walz last night in the Debate,” Trump said.` - [5 takeaways from the unsealed new filing on Trump’s 2020 election plot, The Washington Post, 2024](https://www.washingtonpost.com/politics/2024/10/02/jack-smith-trump-2020-election-filing-takeaways/)
-# Trump Wins 2024 Election
+# Trump Wins 2024 Election Stopping Prosecution's
 - On 24 October 2024, Trump said he would fire Smith within two seconds into his presidency.
 	- `Donald Trump said on Thursday he would order the immediate firing of the special counsel Jack Smith if he were re-elected in the November election in the clearest expression of his intent to shut down the two criminal cases brought against him.`
 	  
@@ -168,6 +168,6 @@
 	  `The decision is based on longstanding Department of Justice policy that a sitting president cannot face criminal prosecution while in office, sources said.`
 	  
 	  `It is unclear as of today how Smith’s prosecutors will approach dismissing both the federal election subversion case in Washington, D.C., and their ongoing appeal of Judge Aileen Cannon’s dismissal of the classified documents case.` - [Special counsel Jack Smith expected to wind down Trump prosecutions: Sources, ABC News, 2024](https://abcnews.go.com/Politics/special-counsel-jack-smith-expected-wind-trump-prosecutions/story?id=115571646)
-- 
+
 # Smith Releases the Report
 - On 
