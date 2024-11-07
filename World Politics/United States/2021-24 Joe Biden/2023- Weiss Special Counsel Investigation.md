@@ -646,7 +646,7 @@
         Mr. Schwartz. He told you expressly he called his father or that he called D.C.?  
           
         Mr. Archer. D.C., D.C.`  
-        [link](https://oversight.house.gov/wp-content/uploads/2023/08/Devon-Archer-Transcript.pdf) - Oversight Committee Interview of Devon Archer
+        [Hunter Biden Deposition Transcript, Committee on Oversight and Accountability and Committee on the Judiciary, 2024](https://oversight.house.gov/wp-content/uploads/2023/08/Devon-Archer-Transcript.pdf) - Oversight Committee Interview of Devon Archer
 # Justice Department Opens Tax Fraud Investigation
 - On 9 December 2020, Hunter Biden announced that he had been under investigation since late 2018 for potential criminal violations of tax and money laundering laws.
     - `The Justice Department is investigating the tax affairs of President-elect Joseph R. Biden Jr.’s son Hunter, he disclosed in a statement on Wednesday.`
@@ -721,12 +721,11 @@
 - [link]
 # Biden Impeachment Inquiry
 - On 12 September 2023, McCarthy announced the direction to open an Impeachment inquiry.
-    - `Speaker Kevin McCarthy announced Tuesday he is directing the U.S. House to open an impeachment inquiry into President Joe Biden over his family’s business dealings, launching historic proceedings ahead of the 2024 election.  
-          
-        McCarthy said that House investigations so far “paint a picture of a culture of corruption” around the Biden family as Republicans probe the business dealings of the president’s son, Hunter Biden, from before the Democratic president took office.  
-          
-        “These are allegations of abuse of power, obstruction and corruption, and they warrant further investigation by the House of Representatives,” McCarthy, R-Calif., said at the Capitol, announcing he was directing the House led by the Oversight Committee “to open a formal impeachment inquiry.”`  
-        [link](https://apnews.com/article/mccarthy-biden-impeachment-shutdown-house-republicans-b187202be8814f7acbdd6e2e937e23d4)
+    - `Speaker Kevin McCarthy announced Tuesday he is directing the U.S. House to open an impeachment inquiry into President Joe Biden over his family’s business dealings, launching historic proceedings ahead of the 2024 election.`
+      
+      `McCarthy said that House investigations so far “paint a picture of a culture of corruption” around the Biden family as Republicans probe the business dealings of the president’s son, Hunter Biden, from before the Democratic president took office.`
+      
+      `“These are allegations of abuse of power, obstruction and corruption, and they warrant further investigation by the House of Representatives,” McCarthy, R-Calif., said at the Capitol, announcing he was directing the House led by the Oversight Committee “to open a formal impeachment inquiry.”` - [Speaker McCarthy directs the House to open an impeachment inquiry into President Biden, AP News, 2023](https://apnews.com/article/mccarthy-biden-impeachment-shutdown-house-republicans-b187202be8814f7acbdd6e2e937e23d4)
 ## Hunter Biden Testimony
 - On 28 February 2024, Hunter Biden appeared in front of the Committees representing the impeachment inquiry.
     - `Mr. Biden. Thank you.`
@@ -735,6 +734,5 @@
       
       `You read this fact in the many letters that have been sent to you over the last year as part of your so-called impeachment investigation. You heard this fact when I said it weeks ago standing outside of this building. You heard this fact from a parade of other witnesses, former colleagues, and business partners of mine, including my uncle, who has testified before you in similar proceedings. And now, today, you hear this fact directly from me.`
       
-      `For more than a year, your committees have hunted me in your partisan political pursuit of my dad. You have trafficked in innuendo, distortion, and sensationalism, all the while ignoring the clear and convincing evidence staring you in the face: You do not have evidence to support the baseless and MAGA-motivated conspiracies about my father because there isn't any.` - [Hunter Biden Deposition Transcript](https://oversight.house.gov/wp-content/uploads/2024/02/Hunter-Biden-Transcript_Redacted.pdf)
-    - ` ` [link](https://oversight.house.gov/wp-content/uploads/2024/02/Hunter-Biden-Transcript_Redacted.pdf) Hunter Biden Deposition Transcript
-    - ` ` [link](https://oversight.house.gov/wp-content/uploads/2024/02/Hunter-Biden-Transcript_Redacted.pdf) Hunter Biden Deposition Transcript
+      `For more than a year, your committees have hunted me in your partisan political pursuit of my dad. You have trafficked in innuendo, distortion, and sensationalism, all the while ignoring the clear and convincing evidence staring you in the face: You do not have evidence to support the baseless and MAGA-motivated conspiracies about my father because there isn't any.` - [Hunter Biden Deposition Transcript, Committee on Oversight and Accountability and Committee on the Judiciary, 2024](https://oversight.house.gov/wp-content/uploads/2024/02/Hunter-Biden-Transcript_Redacted.pdf)
+      ` `  - [Hunter Biden Deposition Transcript, Committee on Oversight and Accountability and Committee on the Judiciary, 2024](https://oversight.house.gov/wp-content/uploads/2024/02/Hunter-Biden-Transcript_Redacted.pdf)
