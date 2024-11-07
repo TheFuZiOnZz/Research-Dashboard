@@ -430,8 +430,8 @@
       
 	  `Accordingly, and consistent with longstanding Department of Justice policy and practice, I must respectfully decline the Committee's request for documents and information at this time to protect confidential law enforcement information from disclosure.` - [United States Attorney David Weiss letter to Chairman Jim Jordan (07/06/23), Department of Justice, 2023](https://s3.documentcloud.org/documents/23854516/20230607-out-jordan-investigation.pdf)
 	- `In February 2021, I was asked to remain as United States Attorney for the District of Delaware to continue my oversight of the matter. Since that time, I have fulfilled my responsibilities, consistent with Department practices and procedures, and will continue to do so. Throughout my tenure as U.S. Attorney my decisions have been made-- and with respect to the matter must be made-- without reference to political considerations.` - [United States Attorney David Weiss letter to Chairman Jim Jordan (07/06/23), Department of Justice, 2023](https://s3.documentcloud.org/documents/23854516/20230607-out-jordan-investigation.pdf)
-- On 10 July 2023, 
-	- ` ` - [David Weiss Rebuts I.R.S. Official’s Account of Request in Hunter Biden Case - The New York Times](https://www.nytimes.com/2023/07/10/us/politics/david-weiss-hunter-biden-irs.html)
+- On 10 July 2023, David Weiss said he never asked to be named a special counsel, disputing testimony to a House panel.
+	- ` ` - [David Weiss Rebuts I.R.S. Official’s Account of Request in Hunter Biden Case, The New York Times, 2023](https://www.nytimes.com/2023/07/10/us/politics/david-weiss-hunter-biden-irs.html)
 - On 19 July 2023, Shapley & Zielger testify in front of the House Oversight Committee
     - [Full Committee Hearing - YouTube](https://www.youtube.com/watch?v=E_zWpqBWQK0)
     - [Transcript](https://www.congress.gov/118/meeting/house/116254/documents/HHRG-118-GO00-Transcript-20230719.pdf)
