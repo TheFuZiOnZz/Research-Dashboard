@@ -86,14 +86,18 @@
 - [Wiki](https://en.wikipedia.org/wiki/Ukraine_v._Russian_Federation_(2022))
 - On 26 February 2022,
 # 2022 Bucha Massacre
+- [Bucha massacre - Wikipedia](https://en.wikipedia.org/wiki/Bucha_massacre)
 - War crimes
     - ` ` - [link](https://archive.ph/cf7NV)
     - ` ` - [link](https://archive.ph/dFohi)
     - ` ` - [link](https://archive.ph/geQjo)
-    - [link](https://apnews.com/article/bucha-ukraine-war-cleansing-investigation-43e5a9538e9ba68a035756b05028b8b4)
-# 2022 Izyum Massacre
+    - ` ` - [link](https://apnews.com/article/bucha-ukraine-war-cleansing-investigation-43e5a9538e9ba68a035756b05028b8b4)
+# 2022 Izium Mass Graves
+- [Izium mass graves - Wikipedia](https://en.wikipedia.org/wiki/Izium_mass_graves)
 - War crimes
-	- [link](https://archive.ph/QVKlq) [link](https://www.reuters.com/world/europe/mass-grave-more-than-440-bodies-found-izium-ukraine-police-2022-09-15/) [link](https://www.theguardian.com/world/2022/sep/16/some-hanged-themselves-the-work-to-find-answers-amid-iziums-mass-grave)
+	- ` ` - [link](https://archive.ph/QVKlq) 
+	- ` ` - [link](https://www.reuters.com/world/europe/mass-grave-more-than-440-bodies-found-izium-ukraine-police-2022-09-15/)
+	- ` ` - [link](https://www.theguardian.com/world/2022/sep/16/some-hanged-themselves-the-work-to-find-answers-amid-iziums-mass-grave)
 # 2022 Russian Annexation of Donetsk, Luhansk, Kherson & Zaporizhzhia Oblasts.
 - On 27 September 2022, Russian-installed officials in Ukraine held staged referendums on the annexation of occupied territories of Ukraine by Russia. They were widely described as sham referendums by commentators and denounced by various countries. UN Secretary-General and Biden condemned the Russia annexation plan. 
 	- `“In this moment of peril, I must underscore my duty as Secretary-General to uphold the Charter of the United Nations,” he told journalists in New York.`
