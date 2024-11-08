@@ -424,4 +424,7 @@
       legitimacy and credibility of this investigation.`
       
       `Fundamentally, this decision does nothing to help, and could jeopardize, ongoing efforts to reach a ceasefire agreement that would get hostages out and surge humanitarian assistance in, which are the goals the United States continues to pursue relentlessly.` - [Warrant Applications by the International Criminal Court, United States Department of State, 2024](https://www.state.gov/warrant-applications-by-the-international-criminal-court/)
-    
+- On 20 September 2024, Israel lodges official challenge to the ICC attempt to acquire arresw warrants against Benjamin Netanyahu and Yoav Gallant.
+	- `Israel has submitted an “official challenge” to a request from the international criminal court prosecutor for an arrest warrant against its prime minister, Benjamin Netanyahu.`
+	  
+	  `In May the ICC’s prosecutor, Karim Khan, requested the court issue arrest warrants for Netanyahu and his defence minister, Yoav Gallant over alleged war crimes and crimes against humanity in Gaza.``“The state of Israel submitted today its official challenge to the ICC’s jurisdiction, as well as the legality of the prosecutor’s requests for arrest warrants against Israel’s prime minister and minister of defence,” the foreign ministry’s spokesperson, Oren Marmorstein, said on X.` - [Israel ‘challenges’ international criminal court bid for Netanyahu arrest warrant, The Guardian, 2024](https://www.theguardian.com/law/2024/sep/20/israel-challenge-international-criminal-court-icc-arrest-warrant-benjamin-netanyahu)
