@@ -8,6 +8,6 @@ Argument against the correspondence theory:
 - P3: But there are epistemic facts.
 - C1: Therefore, correspondence theory of truth is incorrect.
 
-Bertrand russell
+Bertrand Russell
 Gottlob Frege
-Ludwing W
+Ludwig Wittgenstein

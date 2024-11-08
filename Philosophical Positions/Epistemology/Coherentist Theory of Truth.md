@@ -1,4 +1,3 @@
-### Coherentist Theory of Truth
 Something is true if it coheres to something that is also true.
 Argument:
 - P1:
@@ -6,3 +5,6 @@ Argument:
 - P3:
 - P4:
 - C1:
+Immanuel Kant
+Georg Wilhelm Friedrich Hegel
+Karl Marx
