@@ -75,6 +75,8 @@
 	  `Russia will have no allies in the denazification of Ukraine. Because this is a purely Russian affair. And also because it is not just the Bandera version of Nazi Ukraine that will be eradicated, but also and above all Western totalitarianism, the imposed programs of civilizational degradation and disintegration, the mechanisms of subordination to the superpower of the West and the USA.`
 	  
 	  `In order to implement the plan of denazification of Ukraine, Russia itself will have to finally part with pro-European and pro-Western illusions, to recognize itself as the last resort of protection and preservation of those values ​​of historical Europe (the Old World) that deserve it and which the West ultimately abandoned, having lost the fight for itself. This fight continued throughout the 20th century and was expressed in the world war and the Russian revolution, inextricably linked with each other.` - [What Russia Should Do with Ukraine, RIA News, 2022](https://ria.ru/20220403/ukraina-1781469605.html)
+- On 28 September 2022, The New York Times released transcripts of Russian soldiers phone calls to family and loved ones
+	- ` ` - [‘Putin Is a Fool’: Intercepted Calls Reveal Russian Army in Disarray, The New York Times, 2022](https://archive.ph/qNmjR)
 # 2022- International Criminal Court Investigation in Ukraine
 - [Wiki](https://en.wikipedia.org/wiki/International_Criminal_Court_investigation_in_Ukraine)
 - On 25 February 2022,
@@ -125,5 +127,3 @@
     - `Asked by reporters if an attack by Ukraine on the territories Russia is claiming as its land would be considered an attack on Russia, Kremlin spokesman Dmitry Peskov said: "It would not be anything else."`
       
       `Putin said last week he was willing to use nuclear weapons to defend Russia's "territorial integrity".` - [Kremlin says any attack on annexed territory will be an attack on Russia, Reuters, 2022](https://www.reuters.com/world/europe/kremlin-says-any-attack-annexed-territory-will-be-an-attack-russia-2022-09-30/)
-# 1
-- ‘Putin Is a Fool’: Intercepted Calls Reveal Russian Army in Disarray - [‘Putin Is a Fool’: Intercepted Calls Reveal Russian Army in Disarray - The New York Times](https://archive.ph/qNmjR)
