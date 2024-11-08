@@ -78,15 +78,14 @@
       `The woman also said there was one ballot for the entire household, rather than per person.`
       
       `Although the evidence is anecdotal, the presence of armed men conducting the vote contradicts Moscow's insistence that this is a free or fair process.` - [Ukraine 'referendums': Soldiers go door-to-door for votes in polls, BBC News, 2022](https://www.bbc.co.uk/news/world-europe-63013356)
-    
 - On 30 September 2022, Russia's president Vladimir Putin announced the annexation of Ukraine's Donetsk, Luhansk, Kherson and Zaporizhzhia regions in an address to both houses of the Russian parliament. Ukraine, the United States, the European Union and the United Nations all condemned the annexation.
     - `President of Russia Vladimir Putin: Citizens of Russia, citizens of the Donetsk and Lugansk people’s republics, residents of the Zaporozhye and Kherson regions, deputies of the State Duma, senators of the Russian Federation, As you know, referendums have been held in the Donetsk and Lugansk people’s republics and the Zaporozhye and Kherson regions. The ballots have been counted and the results have been announced. The people have made their unequivocal choice.`
       
-      `Today we will sign treaties on the accession of the Donetsk People’s Republic, Lugansk People’s Republic, Zaporozhye Region and Kherson Region to the Russian Federation.` - [link](http://en.kremlin.ru/events/president/transcripts/copy/69465)
+      `Today we will sign treaties on the accession of the Donetsk People’s Republic, Lugansk People’s Republic, Zaporozhye Region and Kherson Region to the Russian Federation.` - [Signing of treaties on accession of Donetsk and Lugansk people's republics and Zaporozhye and Kherson regions to Russia, Kremlin, 2022](http://en.kremlin.ru/events/president/transcripts/copy/69465)
 - Ahead of the proclamation, Kremlin spokesperson Dmitry Peskov stated that an attack on the newly annexed territory would be considered an attack on Russia.
     - `Asked by reporters if an attack by Ukraine on the territories Russia is claiming as its land would be considered an attack on Russia, Kremlin spokesman Dmitry Peskov said: "It would not be anything else."`
       
-      `Putin said last week he was willing to use nuclear weapons to defend Russia's "territorial integrity".` - [link](https://www.reuters.com/world/europe/kremlin-says-any-attack-annexed-territory-will-be-an-attack-russia-2022-09-30/)
+      `Putin said last week he was willing to use nuclear weapons to defend Russia's "territorial integrity".` - [Kremlin says any attack on annexed territory will be an attack on Russia, Reuters, 2022](https://www.reuters.com/world/europe/kremlin-says-any-attack-annexed-territory-will-be-an-attack-russia-2022-09-30/)
 # 1
 - Leaked Russian state media victory post - [link](https://web.archive.org/web/20220226224717/https://ria.ru/20220226/rossiya-1775162336.html) < translation [link](https://twitter.com/riakovbasa/status/1498119536985452546)
 - RIA Novosti (Russian propaganda outlet) outright publishes the plan for Ukrainian genocide. [link](https://ria.ru/20220403/ukraina-1781469605.html)
