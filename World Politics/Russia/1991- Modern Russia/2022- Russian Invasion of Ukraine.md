@@ -87,7 +87,7 @@
       
       `Putin said last week he was willing to use nuclear weapons to defend Russia's "territorial integrity".` - [Kremlin says any attack on annexed territory will be an attack on Russia, Reuters, 2022](https://www.reuters.com/world/europe/kremlin-says-any-attack-annexed-territory-will-be-an-attack-russia-2022-09-30/)
 # 1
-- Leaked Russian state media victory post - [link](https://web.archive.org/web/20220226224717/https://ria.ru/20220226/rossiya-1775162336.html) < translation [link](https://twitter.com/riakovbasa/status/1498119536985452546)
+- On 26 February 2022, Rossiya leaked a premade victory post called `The advance of Russia and the new world` arguing that Putin .
 	- `A Russian news agency has published and then deleted an article prematurely praising Russia's success in invading Ukraine.`
 	  
 	  `It applauds Russian President Vladimir Putin for solving the Ukraine "problem", saying that "Ukraine has returned to Russia" through military action. It suggests the author anticipated a rapid victory and the piece was published prematurely.`
@@ -95,5 +95,10 @@
 	  `The article, published by the state-owned RIA-Novosti news agency on Saturday (26 February) and described by Christo Grozev of fact-checkers Bellingcat, external as "extremely shocking, even for Kremlin standards", was quickly deleted from its website.`
 	  
 	  `Other Twitter users called it Russia's "victory celebration".` - [Ukraine crisis: Russian news agency deletes victory editorial, BBC News, 2022](https://www.bbc.co.uk/news/technology-60562240)
+	- `A new world is being born before our eyes. Russia's military operation in Ukraine has opened a new era - in three dimensions at once. And of course, in the fourth, domestic Russian one. Here a new period begins both in ideology and in the very model of our socio-economic system - but this is worth discussing separately a little later.`
+	  
+	  `Russia is restoring its unity - the tragedy of 1991, this terrible catastrophe of our history, its unnatural dislocation, has been overcome. Yes, at a great cost, yes, through the tragic events of a de facto civil war, because now brothers, divided by their belonging to the Russian and Ukrainian armies, are still shooting at each other - but Ukraine as anti-Russia will no longer exist. Russia is restoring its historical completeness, gathering the Russian world, the Russian people together - in all its totality of Great Russians, Belarusians and Little Russians. If we had refused this, had allowed the temporary division to become entrenched for centuries, then we would not only have betrayed the memory of our ancestors, but would also have been cursed by our descendants - for allowing the disintegration of the Russian land.
+	  
+	  ` - [The advance of Russia and the new world, Rossiya, 2022](https://web.archive.org/web/20220226224717/https://ria.ru/20220226/rossiya-1775162336.html)
 - RIA Novosti (Russian propaganda outlet) outright publishes the plan for Ukrainian genocide. [link](https://ria.ru/20220403/ukraina-1781469605.html)
 - ‘Putin Is a Fool’: Intercepted Calls Reveal Russian Army in Disarray - [link](https://archive.ph/qNmjR)
