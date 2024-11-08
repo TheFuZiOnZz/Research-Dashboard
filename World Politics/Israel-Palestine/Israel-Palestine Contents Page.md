@@ -100,6 +100,7 @@
 [1978 Camp David Accords](1948-%20Israeli-Palestinian%20Period/1978%20Camp%20David%20Accords)  
 [1979 Egypt-Israel Peace Treaty](1948-%20Israeli-Palestinian%20Period/1979%20Egypt-Israel%20Peace%20Treaty)  
 [1980 Jerusalem Law](1948-%20Israeli-Palestinian%20Period/1980%20Jerusalem%20Law)  
+[[1981 Operation Opera]]
 [1981 Fahd Plan](1948-%20Israeli-Palestinian%20Period/1981%20Fahd%20Plan)  
 [1981 Golan Heights Law](1948-%20Israeli-Palestinian%20Period/1981%20Golan%20Heights%20Law)  
 [1982-85 Lebanon War](../Lebanon/1945-%20Lebanese%20Republic/1982-85%20Lebanon%20War)  
