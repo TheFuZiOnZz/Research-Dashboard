@@ -5,6 +5,6 @@
 ## [Philosophical Positions](Philosophical%20Positions)  
 ## [Political Positions](Political%20Positions)  
 ## [Red Pill](Red%20Pill/Red%20Pill)  
-## [[Right Critiques]]  
+## [Right Critiques](Right%20Critiques/Right%20Critiques)    
 ## [Social Democracy](Social%20Democracy/Social%20Democracy)  
 ## [World Politics](World%20Politics/World%20Politics)  
