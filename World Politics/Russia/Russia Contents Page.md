@@ -42,7 +42,7 @@
 - SDL - [link](https://socdoneleft.github.io/stinky_rightwinger_factsheet.html#1050_soviet_union_ussr)
 - to read - [Wiki](https://en.wikipedia.org/wiki/Category:Soviet_war_crimes)
 - TO USE TO EXRACT TOPICS, FULL PROPAGANDA DOC ON MULTIPLE COMMUNIST ATROCITIES - [link](https://docs.google.com/document/d/1Gxwhh-vdeB--47HM-20cEVRC9eAMhrapbNf0Sk8VSOs/edit#)
-## Soviet Economy
+### Soviet Economy
 - [link](https://cloudflare-ipfs.com/ipfs/bafykbzacebzsacyrd43t4yxmmyiajmpos5fijr3xnjo7vrjxzt5pxokzbx626?filename=Zickel%20Raymond%20E.%20%28Ed.%29%20-%20Soviet%20Union_%20A%20Country%20Study.pdf)
 - “The Experience of the Factory Committees in the Russian Revolution” by R.M. Jones [https://libcom.org/files/factorycommitteesinrussia_0.pdf](https://libcom.org/files/factorycommitteesinrussia_0.pdf) [PDF, 332kb, EN]
 - “Labor discipline and the decline of the soviet system” by Don Filtzer [https://libcom.org/history/labor-discipline-decline-soviet-system-don-filtzer](https://libcom.org/history/labor-discipline-decline-soviet-system-don-filtzer) [EN]
