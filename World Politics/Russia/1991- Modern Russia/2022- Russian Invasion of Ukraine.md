@@ -36,6 +36,19 @@
 - This Caused non-NATO Countries governments to go from not recommending joining before to reconsidering after the invasion.
     - Before: `A 2014 Action Plan, signed by the Defence Ministers of Finland and Sweden, established a number of concrete joint projects to pursue that further binds the future of their security together. Due to their high levels of interoperability and operational capabilities, no decision about NATO membership would be made without close consultations between the two countries. In the meantime, NATO respects Finland and Sweden’s independence and decision not to join the alliance and does not pressure either countries to make a decision regarding membership. Finally, Finland and Sweden have deep business, cultural, and historical ties. While the two have different motivations around NATO membership, they share deeply held beliefs about their place in the Western community. If an accession were to happen, and if history is any guide, Finland and Sweden would likely join NATO together.` - [link](https://www.wilsoncenter.org/article/sisters-not-twins-prospects-finland-and-swedens-nato-accession)
     - After: `Russian aggression in Ukraine has pushed the Finnish public closer than ever to NATO. Finnish political parties will gather on Tuesday to discuss Russia’s attack on Ukraine and Finland’s role in Europe’s new power balance. Finland’s potential NATO membership will also be on the table, Prime Minister Sanna Marin told reporters Monday.` `“It is very understandable that many Finns have changed or are changing their minds after Russia started waging war on Ukraine,” Marin said.` - [link](https://www.politico.eu/article/finland-nato-membership-sanna-marin-ukraine-russia/)
+- On 26 February 2022, Rossiya leaked a premade victory post called `The advance of Russia and the new world` arguing that Putin has started a new era in Ukraine and called the fall of the Soviet Union an tragedy.
+	- `A Russian news agency has published and then deleted an article prematurely praising Russia's success in invading Ukraine.`
+	  
+	  `It applauds Russian President Vladimir Putin for solving the Ukraine "problem", saying that "Ukraine has returned to Russia" through military action. It suggests the author anticipated a rapid victory and the piece was published prematurely.`
+	  
+	  `The article, published by the state-owned RIA-Novosti news agency on Saturday (26 February) and described by Christo Grozev of fact-checkers Bellingcat, external as "extremely shocking, even for Kremlin standards", was quickly deleted from its website.`
+	  
+	  `Other Twitter users called it Russia's "victory celebration".` - [Ukraine crisis: Russian news agency deletes victory editorial, BBC News, 2022](https://www.bbc.co.uk/news/technology-60562240)
+	- `A new world is being born before our eyes. Russia's military operation in Ukraine has opened a new era - in three dimensions at once. And of course, in the fourth, domestic Russian one. Here a new period begins both in ideology and in the very model of our socio-economic system - but this is worth discussing separately a little later.`
+	  
+	  `Russia is restoring its unity - the tragedy of 1991, this terrible catastrophe of our history, its unnatural dislocation, has been overcome. Yes, at a great cost, yes, through the tragic events of a de facto civil war, because now brothers, divided by their belonging to the Russian and Ukrainian armies, are still shooting at each other - but Ukraine as anti-Russia will no longer exist. Russia is restoring its historical completeness, gathering the Russian world, the Russian people together - in all its totality of Great Russians, Belarusians and Little Russians. If we had refused this, had allowed the temporary division to become entrenched for centuries, then we would not only have betrayed the memory of our ancestors, but would also have been cursed by our descendants - for allowing the disintegration of the Russian land.`
+	  
+	  `Vladimir Putin has taken upon himself - without a drop of exaggeration - historical responsibility, deciding not to leave the solution of the Ukrainian question to future generations. After all, the need to solve it would always remain the main problem for Russia - for two key reasons. And the issue of national security, that is, the creation of an anti-Russia and an outpost for the West to put pressure on us from Ukraine, is only the second most important of them.` - [The advance of Russia and the new world, Rossiya, 2022](https://web.archive.org/web/20220226224717/https://ria.ru/20220226/rossiya-1775162336.html)
 # 2022- International Criminal Court Investigation in Ukraine
 - [Wiki](https://en.wikipedia.org/wiki/International_Criminal_Court_investigation_in_Ukraine)
 - On 25 February 2022,
@@ -87,18 +100,5 @@
       
       `Putin said last week he was willing to use nuclear weapons to defend Russia's "territorial integrity".` - [Kremlin says any attack on annexed territory will be an attack on Russia, Reuters, 2022](https://www.reuters.com/world/europe/kremlin-says-any-attack-annexed-territory-will-be-an-attack-russia-2022-09-30/)
 # 1
-- On 26 February 2022, Rossiya leaked a premade victory post called `The advance of Russia and the new world` arguing that Putin .
-	- `A Russian news agency has published and then deleted an article prematurely praising Russia's success in invading Ukraine.`
-	  
-	  `It applauds Russian President Vladimir Putin for solving the Ukraine "problem", saying that "Ukraine has returned to Russia" through military action. It suggests the author anticipated a rapid victory and the piece was published prematurely.`
-	  
-	  `The article, published by the state-owned RIA-Novosti news agency on Saturday (26 February) and described by Christo Grozev of fact-checkers Bellingcat, external as "extremely shocking, even for Kremlin standards", was quickly deleted from its website.`
-	  
-	  `Other Twitter users called it Russia's "victory celebration".` - [Ukraine crisis: Russian news agency deletes victory editorial, BBC News, 2022](https://www.bbc.co.uk/news/technology-60562240)
-	- `A new world is being born before our eyes. Russia's military operation in Ukraine has opened a new era - in three dimensions at once. And of course, in the fourth, domestic Russian one. Here a new period begins both in ideology and in the very model of our socio-economic system - but this is worth discussing separately a little later.`
-	  
-	  `Russia is restoring its unity - the tragedy of 1991, this terrible catastrophe of our history, its unnatural dislocation, has been overcome. Yes, at a great cost, yes, through the tragic events of a de facto civil war, because now brothers, divided by their belonging to the Russian and Ukrainian armies, are still shooting at each other - but Ukraine as anti-Russia will no longer exist. Russia is restoring its historical completeness, gathering the Russian world, the Russian people together - in all its totality of Great Russians, Belarusians and Little Russians. If we had refused this, had allowed the temporary division to become entrenched for centuries, then we would not only have betrayed the memory of our ancestors, but would also have been cursed by our descendants - for allowing the disintegration of the Russian land.
-	  
-	  ` - [The advance of Russia and the new world, Rossiya, 2022](https://web.archive.org/web/20220226224717/https://ria.ru/20220226/rossiya-1775162336.html)
 - RIA Novosti (Russian propaganda outlet) outright publishes the plan for Ukrainian genocide. [link](https://ria.ru/20220403/ukraina-1781469605.html)
 - ‘Putin Is a Fool’: Intercepted Calls Reveal Russian Army in Disarray - [link](https://archive.ph/qNmjR)
