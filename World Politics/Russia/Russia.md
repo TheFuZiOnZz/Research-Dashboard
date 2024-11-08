@@ -38,7 +38,7 @@
 [1991 Russian Presidential Referendum and Election](1917-91%20Soviet%20Period/1991%20Russian%20Presidential%20Referendum%20and%20Election)  
 [1991 Gorbachev’s General Secretary Resignation](1917-91%20Soviet%20Period/1991%20Gorbachev’s%20General%20Secretary%20Resignation)  
 [1991 Gorbachev’s Presidential Resignation](1917-91%20Soviet%20Period/1991%20Gorbachev’s%20Presidential%20Resignation)  
-## Other
+## To-Do
 - SDL - [link](https://socdoneleft.github.io/stinky_rightwinger_factsheet.html#1050_soviet_union_ussr)
 - to read - [Wiki](https://en.wikipedia.org/wiki/Category:Soviet_war_crimes)
 - TO USE TO EXRACT TOPICS, FULL PROPAGANDA DOC ON MULTIPLE COMMUNIST ATROCITIES - [link](https://docs.google.com/document/d/1Gxwhh-vdeB--47HM-20cEVRC9eAMhrapbNf0Sk8VSOs/edit#)
