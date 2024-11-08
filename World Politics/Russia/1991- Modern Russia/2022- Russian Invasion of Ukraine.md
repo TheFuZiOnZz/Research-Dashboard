@@ -100,7 +100,7 @@
       
       `Putin said last week he was willing to use nuclear weapons to defend Russia's "territorial integrity".` - [Kremlin says any attack on annexed territory will be an attack on Russia, Reuters, 2022](https://www.reuters.com/world/europe/kremlin-says-any-attack-annexed-territory-will-be-an-attack-russia-2022-09-30/)
 # 1
-- RIA Novosti (Russian propaganda outlet) outright publishes the plan for Ukrainian genocide. [link](https://ria.ru/20220403/ukraina-1781469605.html)
+- On 3 April 2022, RIA News outright publishes the plan Ukrainian mass killings. [link](https://ria.ru/20220403/ukraina-1781469605.html)
 	- `The operation to denazify Ukraine, which began with the military phase, will follow the same logic of stages in peacetime as the military operation. At each of them, it will be necessary to achieve irreversible changes, which will become the results of the corresponding stage. In this case, the necessary initial steps of denazification can be defined as follows:`
 	  
 	  `liquidation of armed Nazi formations (which are understood to mean any armed formations of Ukraine, including the Armed Forces of Ukraine), as well as the military, information, and educational infrastructure that ensures their activity;`
