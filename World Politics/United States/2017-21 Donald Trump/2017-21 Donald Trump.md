@@ -56,8 +56,8 @@ See the wiki for more info on the Scientific consensus on climate change - [Wiki
 [2020 The Academic Response to Trump Pandemic Response](2020%20The%20Academic%20Response%20to%20Trump%20Pandemic%20Response)  
 [2020 Biden on Coronavirus](2020%20Biden%20on%20Coronavirus)  
 ## Controversy’s
-[2016 Uranium One Controversy](2016%20Uranium%20One%20Controversy)  
 [2016 Clinton Email Controversy](2016%20Clinton%20Email%20Controversy)  
+[2016 Uranium One Controversy](2016%20Uranium%20One%20Controversy)  
 [2016 Election `Fraud` Conspiracy](2016%20Election%20`Fraud`%20Conspiracy)  
 [2016-19 Mueller’s Special Counsel Investigation](2016-19%20Mueller’s%20Special%20Counsel%20Investigation)  
 [2018 `Spygate` Conspiracy](2018%20`Spygate`%20Conspiracy)  
