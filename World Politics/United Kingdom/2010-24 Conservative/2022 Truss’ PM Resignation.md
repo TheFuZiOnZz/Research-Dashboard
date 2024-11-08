@@ -1,5 +1,5 @@
 ### 2022 Truss’ PM Resignation
-- On 20 October 2022, as a reaction to the [[United Kingdom Contents Page]] controvesy, Liz Truss resigns as Leader of the Conservative Party and therefore Prime Minister after just 44 days in office.
+- On 20 October 2022, as a reaction to the [[United Kingdom]] controvesy, Liz Truss resigns as Leader of the Conservative Party and therefore Prime Minister after just 44 days in office.
     
     - Liz Truss’ Speech: `We delivered on energy bills and on cutting national insurance.  
     -   

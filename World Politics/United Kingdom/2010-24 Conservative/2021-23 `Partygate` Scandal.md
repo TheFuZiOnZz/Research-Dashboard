@@ -220,7 +220,7 @@
     - I have also been clear that there was no intent to break the regulations; at the time I did not consider that the circumstances in which I received a fixed penalty notice were contrary to the regulations. I have accepted the outcome and paid it in compliance with legal requirements. Paying a fixed penalty notice is not a criminal conviction. I have corrected the record in Parliament, where it transpired that the information I previously conveyed in good faith was not ultimately correct: this correction to Parliament is in line with the Ministerial Code.`  
     - [link](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1080212/pm-boris-johnson-lord-geidt-letter-31-may.pdf)
     
-- On 15 June 2022, [[United Kingdom Contents Page]].
+- On 15 June 2022, [[United Kingdom]].
 # 2023 Johnson Resigns as Member of Parliament
 - On 9 June 2023, after receiving a confidential report from the Privileges Committee of the House of Commons that was looking into whether he had intentionally misled Parliament over lockdown-breaking parties in Downing Street during the COVID-19 pandemic, Johnson announced his resignation as MP for Uxbridge and South Ruislip, triggering a by-election.
     

@@ -58,7 +58,7 @@
     - [link](https://hansard.parliament.uk/Commons/2022-05-18/debates/27E5BBC2-C573-45B8-891B-F1CFF1C3E977/AchievingEconomicGrowth?highlight=windfall%20tax\#contribution-972E0255-C4AA-4868-B90E-3D64FD73D7C6)
     
   
-- On 26 May 2022, After the release of the [[United Kingdom Contents Page]], Chancellor Rishi Sunak confirms U-turn on windfall tax to aid in the Cost of living crisis.
+- On 26 May 2022, After the release of the [[United Kingdom]], Chancellor Rishi Sunak confirms U-turn on windfall tax to aid in the Cost of living crisis.
     
     - `The government has U-turned on its opposition to a windfall tax on oil and gas firms, announcing it will introduce a levy to help tackle rising bills. Ministers had rejected the idea - put forward by opposition parties - that would see a one-off charge imposed on the company's record profits. But Chancellor Rishi Sunak said his levy would "tax extraordinary profits fairly and incentivise investments". Labour's Rachel Reeves said Mr Sunak had "finally come to his senses". The chancellor said new tax would raise £5bn over the course of the next year, allowing the government to "help families with the cost of living", while avoiding "having to increase our debt burden further". He added: "There is nothing noble in burdening future generations with ever more debt today because politicians of the day were too weak to make the tough decisions."` [link](https://www.bbc.co.uk/news/uk-politics-61590957)
     

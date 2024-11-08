@@ -8,7 +8,7 @@
     
     - `Speaking to reporters after Labour made gains in the local elections, the leader of the opposition said: "As I've explained a number of times, we were working in the office, we stopped for something to eat - no party, no breach of the rules. "The police obviously have got their job to do, we should let them get on with it. "But I'm confident that no rules were broken. "Meanwhile, we've had a really good set of results today."` [link](https://news.sky.com/story/beergate-durham-police-to-investigate-sir-keir-starmer-over-allegations-he-broke-lockdown-rules-12606679)
     
-- On 25 May 2022, In the Commons debate when the final [[United Kingdom Contents Page]] into [[United Kingdom Contents Page]] was released, Starmer reiterated prior commitments and stated:
+- On 25 May 2022, In the Commons debate when the final [[United Kingdom]] into [[United Kingdom]] was released, Starmer reiterated prior commitments and stated:
     
     - `I have been clear what leadership looks like. I have not broken any rules, and any attempt to compare a perfectly legal takeaway while working to this catalogue of criminality looks even more ridiculous today, but if the police decide otherwise, I will do the decent thing and step down. The public need to know that not all politicians are the same—that not all politicians put themselves above their country—and that honesty, integrity and accountability matter.` [link](https://hansard.parliament.uk/Commons/2022-05-25/debates/E888D0F8-37F7-48A5-8598-4449887A0935/details\#contribution-DBDB2E78-1CE7-4D7A-8653-20D89D52B43C)
     
