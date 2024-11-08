@@ -112,7 +112,7 @@
 # Shokin’s Removal & the Loan Guarantee
 - On 10 February 2015, Viktor Shokin was appointed Prosecutor General of Ukraine, replacing Vitaly Yarema.
     - `To replace Mr. Yarema, the Verkhovna Rada on February 10 approved the president’s nomination of Viktor Shokin, who was appointed deputy procurator general in December 2004 and has served in that position ever since.` [link](https://web.archive.org/web/20170613175247/http://www.ukrweekly.com/uwwp/shokin-replaces-yarema-as-top-prosecutor/)
-- He was a controversial appointee due to his perceived role in blocking prosecutions against those accused of shooting demonstrators in the [[2014]] and was accused of blocking major cases against allies and influential figures and hindering the fight against corruption in Ukraine which caused the EU, IMF, U.S and others to call for his removal.
+- He was a controversial appointee due to his perceived role in blocking prosecutions against those accused of shooting demonstrators in the [2013-14 Euromaidan Protests](2013-14%20Euromaidan%20Protests) and was accused of blocking major cases against allies and influential figures and hindering the fight against corruption in Ukraine which caused the EU, IMF, U.S and others to call for his removal.
     - `“The nomination of Shokin is a shock” – shouted the participants of the manifestation in front of the Ukrainian Embassy in Warsaw. Ukrainians, Kazakhs and Warsaw residents gathered in front of the building and protested against the most recent changes in the Prosecutor General’s Office in Ukraine and the nomination of Victor Shokin to head the prosecutor’s office.  
           
         Representatives of the Open Dialogue Foundation, which organised the protest, were drawing the attention of passers-by and the media present on location, to the attempts by the Prosecutor’s Office to protect and cover for the people responsible for the massacre on Maidan. An appeal was also filed with the Ambassador and addressed to the Ukrainian President, the Prime Minister and MPs, in which Shokin’s nomination was heavily criticised.`  
@@ -151,7 +151,7 @@
         “If you fail, the experiment fails,” he said. “It’s no exaggeration to say the hopes of freedom-loving people the world over are with you.”`  
         [link](https://www.nytimes.com/2015/12/09/world/europe/joe-biden-ukraine.html?module=inline)
 - On 16 February 2016, Poroshenko called on Shokin to resign.
-    - `On February 16, Ukrainian President Petro Poroshenko called on Shokin to resign.` [[12]]
+    - `On February 16, Ukrainian President Petro Poroshenko called on Shokin to resign.` [12](12)
 - On 16 February 2016, Shokin supposedly submitted a letter of resignation.
     - `Prosecutor General Viktor Shokin resigned on Feb. 16, a Kyiv Post source in his office said.  
           
@@ -188,7 +188,7 @@
     - `the Prosecutor General's Office of Ukraine was backed by 264 MPs.  
           
         The president signed a respective document on Lutsenko's appointment immediately after the voting.`  
-        [[1343771lutsenkoapp]]
+        [1343771lutsenkoapp](1343771lutsenkoapp)
 - On 11 October 2019, as part of the 1st Trump impeachment inquiry’s, in testimony to the House Intelligence Committee, former ambassador to Ukraine Marie Yovanovitch testified that the U.S. wanting Shokin’s removal was different in decision making when wanting further reform around Lutsenko’s tenure.
     - `Q There was never as much of a clamor to remove Lutsenko as there was Shokin. Is that fair to say?  
           
@@ -281,7 +281,7 @@
     - [link](https://johnsolomonreports.com/) - Website
     - [link](https://www.scribd.com/user/259237201/JohnSolomon/uploads) - scribd uploads
 - On 23 January 2018, Joe Biden during a Council on Foreign Relations discussion spoke about the negotiations around the firing of Shokin in February-March 2015.
-    - `I remember going, convincing our team that we should be providing loan guarantees. To try to guess the 13th time, I was supposed to announce in Kiev that there was another billion-dollar loan guarantee. I got the commitment that they would take action against the state prosecutor and they did not. they were walking out of the press conference, we are not going to give you the billion dollars. they said you have no authority. you are not the president. I said, call him. [laughter] you are not getting a billion dollars. I'm leaving in six hours. the prosecutor is not fired, you are not getting the money. son of a bitch, he got fired. [laughter] they made some genuine, substantial changes institutionally and with people but one of the three institutions, there is now backsliding.` [[video]](https://www.c-span.org/video/?440141-2/vice-president-biden-us-russia-relations)
+    - `I remember going, convincing our team that we should be providing loan guarantees. To try to guess the 13th time, I was supposed to announce in Kiev that there was another billion-dollar loan guarantee. I got the commitment that they would take action against the state prosecutor and they did not. they were walking out of the press conference, we are not going to give you the billion dollars. they said you have no authority. you are not the president. I said, call him. [laughter] you are not getting a billion dollars. I'm leaving in six hours. the prosecutor is not fired, you are not getting the money. son of a bitch, he got fired. [laughter] they made some genuine, substantial changes institutionally and with people but one of the three institutions, there is now backsliding.` [video](video)(https://www.c-span.org/video/?440141-2/vice-president-biden-us-russia-relations)
 - On 7 August 2020, the National Counterintelligence and Security Center Director William Evanina, released a statement warning that Ukrainian MP Andriy Derkach is a part of Russian disinformation effort to spur corruption investigations into Vice President Biden.
     - `We assess that Russia is using a range of measures to primarily denigrate former Vice President Biden and what it sees as an anti-Russia “establishment.” This is consistent with Moscow’s public criticism of him when he was Vice President for his role in the Obama Administration’s policies on Ukraine and its support for the anti-Putin opposition inside Russia. For example, pro-Russia Ukrainian parliamentarian Andriy Derkach is spreading claims about corruption – including through publicizing leaked phone calls – to undermine former Vice President Biden’s candidacy and the Democratic Party. Some Kremlin-linked actors are also seeking to boost President Trump’s candidacy on social media and Russian television.` [link](https://web.archive.org/web/20200807184418/https://www.dni.gov/index.php/newsroom/press-releases/item/2139-statement-by-ncsc-director-william-evanina-election-threat-update-for-the-american-public)
 - On 18 July 2023, Lev Parnas sent a letter to Chairman Comer detailing his extensive contribution to the Giuliani conspiracy creation story and stating he is willing to testify under oath to Congress.
