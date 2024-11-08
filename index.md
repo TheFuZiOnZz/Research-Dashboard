@@ -7,4 +7,4 @@
 ## [Red Pill](Red%20Pill/Red%20Pill)  
 ## [Right Critiques](Right%20Critiques)  
 ## [Social Democracy](Social%20Democracy/Social%20Democracy)  
-## [World Politics](World%20Politics)  
+## [World Politics](World%20Politics/World%20Politics)  
