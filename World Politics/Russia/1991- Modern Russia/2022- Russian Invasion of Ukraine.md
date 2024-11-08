@@ -88,5 +88,12 @@
       `Putin said last week he was willing to use nuclear weapons to defend Russia's "territorial integrity".` - [Kremlin says any attack on annexed territory will be an attack on Russia, Reuters, 2022](https://www.reuters.com/world/europe/kremlin-says-any-attack-annexed-territory-will-be-an-attack-russia-2022-09-30/)
 # 1
 - Leaked Russian state media victory post - [link](https://web.archive.org/web/20220226224717/https://ria.ru/20220226/rossiya-1775162336.html) < translation [link](https://twitter.com/riakovbasa/status/1498119536985452546)
+	- `A Russian news agency has published and then deleted an article prematurely praising Russia's success in invading Ukraine.`
+	  
+	  `It applauds Russian President Vladimir Putin for solving the Ukraine "problem", saying that "Ukraine has returned to Russia" through military action. It suggests the author anticipated a rapid victory and the piece was published prematurely.`
+	  
+	  `The article, published by the state-owned RIA-Novosti news agency on Saturday (26 February) and described by Christo Grozev of fact-checkers Bellingcat, external as "extremely shocking, even for Kremlin standards", was quickly deleted from its website.`
+	  
+	  `Other Twitter users called it Russia's "victory celebration".` - [Ukraine crisis: Russian news agency deletes victory editorial, BBC News, 2022](https://www.bbc.co.uk/news/technology-60562240)
 - RIA Novosti (Russian propaganda outlet) outright publishes the plan for Ukrainian genocide. [link](https://ria.ru/20220403/ukraina-1781469605.html)
 - ‘Putin Is a Fool’: Intercepted Calls Reveal Russian Army in Disarray - [link](https://archive.ph/qNmjR)
