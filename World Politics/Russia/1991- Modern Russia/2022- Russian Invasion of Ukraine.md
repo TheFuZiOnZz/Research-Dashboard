@@ -101,4 +101,29 @@
       `Putin said last week he was willing to use nuclear weapons to defend Russia's "territorial integrity".` - [Kremlin says any attack on annexed territory will be an attack on Russia, Reuters, 2022](https://www.reuters.com/world/europe/kremlin-says-any-attack-annexed-territory-will-be-an-attack-russia-2022-09-30/)
 # 1
 - RIA Novosti (Russian propaganda outlet) outright publishes the plan for Ukrainian genocide. [link](https://ria.ru/20220403/ukraina-1781469605.html)
+	- `The operation to denazify Ukraine, which began with the military phase, will follow the same logic of stages in peacetime as the military operation. At each of them, it will be necessary to achieve irreversible changes, which will become the results of the corresponding stage. In this case, the necessary initial steps of denazification can be defined as follows:`
+	  
+	  `liquidation of armed Nazi formations (which are understood to mean any armed formations of Ukraine, including the Armed Forces of Ukraine), as well as the military, information, and educational infrastructure that ensures their activity;`
+	  
+	  `the formation of organs of popular self-government and militia (defense and law enforcement) of liberated territories, protecting the population from the terror of underground Nazi groups;`
+	  
+	  `installation of the Russian information space;`
+	  
+	  `confiscation of educational materials and prohibition of educational programs at all levels that contain Nazi ideological principles;`
+	  
+	  `mass investigative actions to establish personal responsibility for war crimes, crimes against humanity, the dissemination of Nazi ideology and support for the Nazi regime;`
+	  
+	  `lustration, publication of the names of accomplices of the Nazi regime, their forced labor to restore the destroyed infrastructure as punishment for Nazi activities (from among those to whom the death penalty or imprisonment will not be applied);`
+	  
+	  `the adoption at the local level, under the supervision of Russia, of primary normative acts of denazification "from below", the prohibition of all types and forms of the revival of Nazi ideology;`
+	  
+	  `the establishment of memorials, commemorative signs, and monuments to the victims of Ukrainian Nazism, perpetuating the memory of the heroes of the fight against it;`
+	  
+	  `inclusion of a set of anti-fascist and denazification norms in the constitutions of the new people's republics;`
+	  
+	  `creation of permanent denazification bodies for a period of 25 years.`
+	  
+	  `Russia will have no allies in the denazification of Ukraine. Because this is a purely Russian affair. And also because it is not just the Bandera version of Nazi Ukraine that will be eradicated, but also and above all Western totalitarianism, the imposed programs of civilizational degradation and disintegration, the mechanisms of subordination to the superpower of the West and the USA.`
+	  
+	  `In order to implement the plan of denazification of Ukraine, Russia itself will have to finally part with pro-European and pro-Western illusions, to recognize itself as the last resort of protection and preservation of those values ​​of historical Europe (the Old World) that deserve it and which the West ultimately abandoned, having lost the fight for itself. This fight continued throughout the 20th century and was expressed in the world war and the Russian revolution, inextricably linked with each other.` - [What Russia Should Do with Ukraine, RIA News, 2022](https://ria.ru/20220403/ukraina-1781469605.html)
 - ‘Putin Is a Fool’: Intercepted Calls Reveal Russian Army in Disarray - [link](https://archive.ph/qNmjR)
