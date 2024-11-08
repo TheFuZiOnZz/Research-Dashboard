@@ -1,0 +1,4 @@
+- [United Nations Security Council Resolution 487 - Wikipedia](https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_487)
+- On 19 June 1981, 
+- The Resolution
+	- ` ` - [Security Council Resolution 487, United Nations, 1981](https://daccess-ods.un.org/access.nsf/Get?OpenAgent&DS=S/RES/486(1981)&Lang=E)

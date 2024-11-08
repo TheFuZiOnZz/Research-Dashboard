@@ -100,7 +100,7 @@
 [1978 Camp David Accords](1948-%20Israeli-Palestinian%20Period/1978%20Camp%20David%20Accords)  
 [1979 Egypt-Israel Peace Treaty](1948-%20Israeli-Palestinian%20Period/1979%20Egypt-Israel%20Peace%20Treaty)  
 [1980 Jerusalem Law](1948-%20Israeli-Palestinian%20Period/1980%20Jerusalem%20Law)  
-[[1981 Operation Opera]]
+[1981 Operation Opera](1981%20Operation%20Opera)  
 [1981 Fahd Plan](1948-%20Israeli-Palestinian%20Period/1981%20Fahd%20Plan)  
 [1981 Golan Heights Law](1948-%20Israeli-Palestinian%20Period/1981%20Golan%20Heights%20Law)  
 [1982-85 Lebanon War](../Lebanon/1945-%20Lebanese%20Republic/1982-85%20Lebanon%20War)  
@@ -153,7 +153,7 @@
 [2018 U.S. Embassy Moved to Jerusalem](1948-%20Israeli-Palestinian%20Period/2018%20U.S.%20Embassy%20Moved%20to%20Jerusalem)  
 [2018- International Criminal Court Investigation in Palestine](1948-%20Israeli-Palestinian%20Period/2018-%20International%20Criminal%20Court%20Investigation%20in%20Palestine)  
 [2018-19 Great March of Return Protest](1948-%20Israeli-Palestinian%20Period/2018-19%20Great%20March%20of%20Return%20Protest)  
-[[2018-19 Operation Northern Shield]]
+[2018-19 Operation Northern Shield](2018-19%20Operation%20Northern%20Shield)  
 [2019 Gaza Economic Protests](1948-%20Israeli-Palestinian%20Period/2019%20Gaza%20Economic%20Protests)  
 [2019-20 Trump Peace Plan](1948-%20Israeli-Palestinian%20Period/2019-20%20Trump%20Peace%20Plan)  
 [2020 Abraham Accords](1948-%20Israeli-Palestinian%20Period/2020%20Abraham%20Accords)  
@@ -161,6 +161,6 @@
 [2021 Israel-Palestine Crisis, Operation Guardian of the Walls](1948-%20Israeli-Palestinian%20Period/2021%20Israel-Palestine%20Crisis,%20Operation%20Guardian%20of%20the%20Walls)  
 [2023- Israel-Hamas War, Operation Iron Swords](2023-%20Israel-Hamas%20War,%20Operation%20Iron%20Swords)  
 [2024- Iran-Israel Conflict](2024-%20Iran-Israel%20Conflict)  
-[[2024 Palestine Admitted as Full Member of the United Nations]]
+[2024 Palestine Admitted as Full Member of the United Nations](2024%20Palestine%20Admitted%20as%20Full%20Member%20of%20the%20United%20Nations)  
 
 [Destiny v Finklestein Notes](Destiny%20v%20Finklestein%20Notes)  
