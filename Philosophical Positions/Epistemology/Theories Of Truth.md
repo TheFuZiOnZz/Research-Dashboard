@@ -5,3 +5,4 @@ Truth. We want it, but why prefer truth over falsehood? Why pursue truth? There 
 [[Deflationism Theory without Truth]]
 [[Identity Theory of Truth]]
 [[Nihilism Theory without Truth]]
+

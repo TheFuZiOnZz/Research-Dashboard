@@ -6,3 +6,7 @@ Argument:
 - P3:
 - P4:
 - C1:
+
+william james
+john dewey
+charles sanders pierce
