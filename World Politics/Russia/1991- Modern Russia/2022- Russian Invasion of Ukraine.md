@@ -84,7 +84,6 @@
       
       `Today we will sign treaties on the accession of the Donetsk People’s Republic, Lugansk People’s Republic, Zaporozhye Region and Kherson Region to the Russian Federation.` - [link](http://en.kremlin.ru/events/president/transcripts/copy/69465)
 - Ahead of the proclamation, Kremlin spokesperson Dmitry Peskov stated that an attack on the newly annexed territory would be considered an attack on Russia.
-    
     - `Asked by reporters if an attack by Ukraine on the territories Russia is claiming as its land would be considered an attack on Russia, Kremlin spokesman Dmitry Peskov said: "It would not be anything else."`
       
       `Putin said last week he was willing to use nuclear weapons to defend Russia's "territorial integrity".` - [link](https://www.reuters.com/world/europe/kremlin-says-any-attack-annexed-territory-will-be-an-attack-russia-2022-09-30/)
