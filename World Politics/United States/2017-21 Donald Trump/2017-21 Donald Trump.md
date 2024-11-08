@@ -78,18 +78,3 @@ See the wiki for more info on the Scientific consensus on climate change - [Wiki
 [2024 House Oversight Committee Report `White House for Sale`](2024%20House%20Oversight%20Committee%20Report%20`White%20House%20for%20Sale`)  
 [2024- Arizona Prosecution of Fake Electors](2024-%20Arizona%20Prosecution%20of%20Fake%20Electors)  
 [2024- Wisconsin Prosecution of Fake Electors](2024-%20Wisconsin%20Prosecution%20of%20Fake%20Electors)  
-# Term 2
-Donald Trump - 20 January 2025 - 20 January 2028  
-## Social Policy
-
-## Economic Policy
-
-## Immigration Policy
-
-## Environmental Policy
-
-## Foreign Policy
-
-## Controversy’s
-
-## Post-Presidency Controversy’s
