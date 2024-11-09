@@ -162,44 +162,42 @@
       
       `A total of 289 MPs voted for the measure on Tuesday in parliament.` - [Rada agrees to dismiss Ukrainian Prosecutor General Shokin, Interfax-Ukraine, 2016](https://web.archive.org/web/20160409051020/http://en.interfax.com.ua/news/general/333889.html)
 - On 12 May 2016, the Verkhovna Rada appointed Lutsenko as Prosecutor General of Ukraine.
-    - `the Prosecutor General's Office of Ukraine was backed by 264 MPs.  
-          
-        The president signed a respective document on Lutsenko's appointment immediately after the voting.`  
-        [1343771lutsenkoapp](1343771lutsenkoapp)
+    - `the Prosecutor General's Office of Ukraine was backed by 264 MPs.`
+      
+      `The president signed a respective document on Lutsenko's appointment immediately after the voting.` - [Lutsenko appointed prosecutor general in Ukraine, UNIAN, 2016](https://www.unian.info/politics/1343771-lutsenko-appointed-prosecutor-general-in-ukraine.html)
 - On 11 October 2019, as part of the 1st Trump impeachment inquiry’s, in testimony to the House Intelligence Committee, former ambassador to Ukraine Marie Yovanovitch testified that the U.S. wanting Shokin’s removal was different in decision making when wanting further reform around Lutsenko’s tenure.
-    - `Q There was never as much of a clamor to remove Lutsenko as there was Shokin. Is that fair to say?  
-          
-        A Yeah, I think that's fair.  
-          
-        Q And what do you account for that?  
-          
-        A I would say that there was, I think, still a hope that one could work with Mr. Lutsenko. There was also the prospect of Presidential elections coming up, and as seemed likely by, you know, December, January, February, whatever the time was, that there would be a change of government. And I think we certainly hoped that Mr. Lutsenko would be replaced in the natural order of things, which is, in fact, what happened. We also had more leverage before. I mean, th1s was not easy. President Poroshenko and Mr. Shokin go way back. In fact, I think they are godfathers to each other's children. So this was, you know, this was a big dea1. But we had assistance, as did the IMF, that we could condition.`  
-        - [link](https://docs.house.gov/meetings/IG/IG00/CPRT-116-IG00-D003.pdf)
+    - `Q There was never as much of a clamor to remove Lutsenko as there was Shokin. Is that fair to say?`
+      
+      `A Yeah, I think that's fair.`
+      
+      `Q And what do you account for that?`
+      
+      `A I would say that there was, I think, still a hope that one could work with Mr. Lutsenko. There was also the prospect of Presidential elections coming up, and as seemed likely by, you know, December, January, February, whatever the time was, that there would be a change of government. And I think we certainly hoped that Mr. Lutsenko would be replaced in the natural order of things, which is, in fact, what happened. We also had more leverage before. I mean, th1s was not easy. President Poroshenko and Mr. Shokin go way back. In fact, I think they are godfathers to each other's children. So this was, you know, this was a big dea1. But we had assistance, as did the IMF, that we could condition.` - [Deposition of Marie Yovanovitch, House Permanent Select Committee on Intelligence, 2019](https://docs.house.gov/meetings/IG/IG00/CPRT-116-IG00-D003.pdf)
 - On 15 October 2019, as part of the 1st Trump impeachment inquiry’s, in testimony to the House Intelligence Committee, former U.S. Deputy Chief of Mission to Ukraine, George Kent testified that Shokin and Lutsenko were seen as not well regarded.
-    - `Q Going back to Shokin's tenure as prosecutor general.  
-          
-        A Yes.  
-          
-        Q You indicated that he was not well regarded for his legitimate prosecutions?  
-          
-        A Correct.  
-          
-        Q And the same can be said of Lutsenko?  
-          
-        A Correct.  
-          
-        Q With regard to Shokin, it really seemed that the IMF and the U.S. Government adopted an official position that Shokin had to go?  
-          
-        A Correct.  
-          
-        Q And that's the subject obviously of the Vice President. You know, he made some statements that have been videotaped about how he played a role in removing Shokin, and as a result, you know, $1 billion in aid was freed up. Are you familiar with that?  
-          
-        A Yes.  
-          
-        Q And is it fair to say that it was the U.S. Government's official position Shokin needed to go?  
-          
-        A Yes.`  
-        - [link](https://docs.house.gov/meetings/IG/IG00/CPRT-116-IG00-D009.pdf)
+    - `Q Going back to Shokin's tenure as prosecutor general.`
+      
+      `A Yes.`
+      
+      `Q You indicated that he was not well regarded for his legitimate prosecutions?`
+      
+      `A Correct.`
+      
+      `Q And the same can be said of Lutsenko?`
+      
+      `A Correct.`
+      
+      `Q With regard to Shokin, it really seemed that the IMF and the U.S. Government adopted an official position that Shokin had to go?`
+      
+      `A Correct.`
+      
+      `Q And that's the subject obviously of the Vice President. You know, he made some statements that have been videotaped about how he played a role in removing Shokin, and as a result, you know, $1 billion in aid was freed up. Are you familiar with that?`
+      
+      `A Yes.`
+      
+      `Q And is it fair to say that it was the U.S. Government's official position Shokin needed to go?`
+      
+      `A Yes.`  
+        - [Deposition of George Kent, House Permanent Select Committee on Intelligence, 2019](https://docs.house.gov/meetings/IG/IG00/CPRT-116-IG00-D009.pdf)
 # Hunter Bidens Laptop Controversy
 - [Wiki](https://en.wikipedia.org/wiki/Hunter_Biden_laptop_controversy)
 - On 26 September 2023, Hunter Biden files a lawsuit against Giuliani for Violation of the Computer Fraud and Abuse Act and Violation of the California Computer Data Access and Fraud Act.
