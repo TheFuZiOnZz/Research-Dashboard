@@ -196,8 +196,7 @@
       
       `Q And is it fair to say that it was the U.S. Government's official position Shokin needed to go?`
       
-      `A Yes.`  
-        - [Deposition of George Kent, House Permanent Select Committee on Intelligence, 2019](https://docs.house.gov/meetings/IG/IG00/CPRT-116-IG00-D009.pdf)
+      `A Yes.` - [Deposition of George Kent, House Permanent Select Committee on Intelligence, 2019](https://docs.house.gov/meetings/IG/IG00/CPRT-116-IG00-D009.pdf)
 # Hunter Bidens Laptop Controversy
 - [Wiki](https://en.wikipedia.org/wiki/Hunter_Biden_laptop_controversy)
 - On 26 September 2023, Hunter Biden files a lawsuit against Giuliani for Violation of the Computer Fraud and Abuse Act and Violation of the California Computer Data Access and Fraud Act.
