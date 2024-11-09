@@ -1,7 +1,6 @@
 [Wiki](https://en.wikipedia.org/wiki/Donald_Trump)  
-# Term 1
 Donald Trump - 20 January 2017 - 20 January 2021  
-## Social Policy
+# Social Policy
 [2017-2021 Trans Military Ban](2017-2021%20Trans%20Military%20Ban)  
 [2017 Discrimination Against LGBTQ+ People](2017%20Discrimination%20Against%20LGBTQ+%20People)  
 [2017 Affordable Care Act Defunding](2017%20Affordable%20Care%20Act%20Defunding)  
@@ -10,26 +9,23 @@ Donald Trump - 20 January 2017 - 20 January 2021
 [2020 Trump Vape Ban](2020%20Trump%20Vape%20Ban)  
 [2020 Trump and the George Floyd Incident](2020%20Trump%20and%20the%20George%20Floyd%20Incident)  
 [2020 Trump Social Media Executive Order and Opinion on Mail-In Voting](2020%20Trump%20Social%20Media%20Executive%20Order%20and%20Opinion%20on%20Mail-In%20Voting)  
-## Economic Policy
+# Economic Policy
 [Trump’s Inherited Economy](Trump’s%20Inherited%20Economy)  
 [2017 Tax Cuts and Jobs Act](2017%20Tax%20Cuts%20and%20Jobs%20Act)  
 [2017 Trump Withdraws U.S. from Trans Pacific Partnership](2017%20Trump%20Withdraws%20U.S.%20from%20Trans%20Pacific%20Partnership)  
 [2019 Trump's Protectionism and Tariffs](2019%20Trump's%20Protectionism%20and%20Tariffs)  
 [2018-21 China-US Trade War](2018-21%20China-US%20Trade%20War)  
-## Immigration Policy
+# Immigration Policy
 [2017-21 Trump's Wall](2017-21%20Trump's%20Wall)  
 [Trump's Mass deportation of illegal immigrants](Trump's%20Mass%20deportation%20of%20illegal%20immigrants)  
 [2017-20 Trump's Attempts to remove DACA](2017-20%20Trump's%20Attempts%20to%20remove%20DACA)  
-## Environmental Policy
-See Energy Factsheet for More Energy and Climate Change info - [link](https://docs.google.com/document/d/1xuJ5J2zuhBYGud_6p4G2U4Y_hkugtu4Lkw4_I045CYQ/edit)  
-See the wiki for more info on the Scientific consensus on climate change - [Wiki](https://en.wikipedia.org/wiki/Scientific_consensus_on_climate_change)  
-
+# Environmental Policy
 [Trump's Climate Change Denial](Trump's%20Climate%20Change%20Denial)  
 [2017 Trump Pulls the U.S. out of the Paris Climate Accord](2017%20Trump%20Pulls%20the%20U.S.%20out%20of%20the%20Paris%20Climate%20Accord)  
 [Green New Deal](../../../Political%20Positions/Economic%20Policy/Green%20New%20Deal)  
 [2017 Trump And The Removal Of EPA Regulations](2017%20Trump%20And%20The%20Removal%20Of%20EPA%20Regulations)  
 [Trump And Coal](Trump%20And%20Coal)  
-## Foreign Policy
+# Foreign Policy
 [2018 North Korea Denuclearisation Attempts](2018%20North%20Korea%20Denuclearisation%20Attempts)  
 [2017 U.S Missile Strike on Syria](2017%20U.S%20Missile%20Strike%20on%20Syria)  
 [2017 ‘Muslim’ Travel Ban](2017%20‘Muslim’%20Travel%20Ban)  
@@ -38,7 +34,7 @@ See the wiki for more info on the Scientific consensus on climate change - [Wiki
 [2020 Soleimani Airport airstrike](../../Iran/2020%20Soleimani%20Airport%20airstrike)  
 [2016-21 Trump Drone Strikes](2016-21%20Trump%20Drone%20Strikes)  
 [2017 Trump and Saudi Arabia Arms Deal](2017%20Trump%20and%20Saudi%20Arabia%20Arms%20Deal)  
-## Coronavirus Policy
+# Coronavirus Policy
 [2020 Trump's Unheeded Warnings](2020%20Trump's%20Unheeded%20Warnings)  
 [2020 Effects Of Trump's Delayed Response](2020%20Effects%20Of%20Trump's%20Delayed%20Response)  
 [2020 Trump’s Attempt to Downplay the Coronavirus Pandemic](2020%20Trump’s%20Attempt%20to%20Downplay%20the%20Coronavirus%20Pandemic)  
@@ -55,7 +51,7 @@ See the wiki for more info on the Scientific consensus on climate change - [Wiki
 [2020 Trump Making American Lives Worse During a Global Pandemic](2020%20Trump%20Making%20American%20Lives%20Worse%20During%20a%20Global%20Pandemic)  
 [2020 The Academic Response to Trump Pandemic Response](2020%20The%20Academic%20Response%20to%20Trump%20Pandemic%20Response)  
 [2020 Biden on Coronavirus](2020%20Biden%20on%20Coronavirus)  
-## Controversy’s
+# Controversy’s
 [2016 Clinton Email Controversy](2016%20Clinton%20Email%20Controversy)  
 [2016 Uranium One Controversy](2016%20Uranium%20One%20Controversy)  
 [2016 Election `Fraud` Conspiracy](2016%20Election%20`Fraud`%20Conspiracy)  
@@ -64,7 +60,7 @@ See the wiki for more info on the Scientific consensus on climate change - [Wiki
 [2019 Trump-Ukraine Controversy, 1st Impeachment](2019%20Trump-Ukraine%20Controversy,%201st%20Impeachment)  
 [2019-23 Durham’s Special Counsel Investigation](2019-23%20Durham’s%20Special%20Counsel%20Investigation)  
 [2020 Election Fraud Conspiracy, 2nd Impeachment](2020%20Election%20Fraud%20Conspiracy,%202nd%20Impeachment)  
-## Post-Presidency Controversy’s
+# Post-Presidency Controversy’s
 [2019-24 Business Fraud Civil Suit](2019-24%20Business%20Fraud%20Civil%20Suit)  
 [2019-24 Business Fraud Criminal Suit](2019-24%20Business%20Fraud%20Criminal%20Suit)  
 [2019-23 E. Jean Carroll v. Donald J. Trump](2019-23%20E.%20Jean%20Carroll%20v.%20Donald%20J.%20Trump)  
