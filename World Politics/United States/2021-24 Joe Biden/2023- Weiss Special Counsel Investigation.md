@@ -43,26 +43,23 @@
       
       `New Deputy Prosecutor General Yuriy Stolyarchuk promises to investigate why the previous leadership of the Prosecutor General's Office actually acted in collusion with Zlochevskyi.` - [How they "merged" high-profile cases. Secrets of the General Prosecutor's Office during the time of Vitaliy Yaremy, Ukrainian Pravda, 2014](https://blogs.pravda.com.ua/authors/leschenko/5549e581cb3df/) (original in Ukrainian, google translated)
 - On 16 January 2015, Prosecutor General Vitaly Yarema announced that Zlochevsky had been put on the wanted list for alleged financial corruption
-    - `Prosecutors have put Mykola Zlochevsky, country’s 48-year-old ecology minister in 2010-2012, on the wanted list for alleged financial corruption, Prosecutor General Vitaliy Yarema said on Jan. 16.  
-          
-        The British government froze $23 million that the ex-minister, whose whereabouts remain unknown, kept in United Kingdom banks, Yarema added. Forbes Ukraine estimated Zlochevsky’s overall fortune at $156 million.`  
-        [link](https://www.kyivpost.com/post/9302)
+    - `Prosecutors have put Mykola Zlochevsky, country’s 48-year-old ecology minister in 2010-2012, on the wanted list for alleged financial corruption, Prosecutor General Vitaliy Yarema said on Jan. 16.`
+      
+      `The British government froze $23 million that the ex-minister, whose whereabouts remain unknown, kept in United Kingdom banks, Yarema added. Forbes Ukraine estimated Zlochevsky’s overall fortune at $156 million.` - [Prosecutors put Zlochevsky, multimillionaire ex-ecology minister, on wanted list, Kyiv Post, 2015](https://www.kyivpost.com/post/9302)
 - On 22 January 2015, the Central Criminal Court in London released the $23 million that were blocked on accounts of Zlochevsky due to inadequate evidence.
-    - `On Jan. 22, oil and gas company Burisma Holding Ltd. issued a news release saying that a British court dropped the criminal charges against Ukraine’s ex-Ecology Minister Mykola Zlochevsky for lack of evidence.  
-          
-        Zlochevsky is Burisma’s only shareholder.  
-          
-        His U.K.-based banking accounts containing some $23 million were unfrozen through the same ruling. Ukraine’s prosecutors put him on a wanted list, according to Prosecutor General Vitaliy Yarema’s Jan. 16 statement (quote starts at 9:40) However, his name cannot be found in the list of wanted individuals who are hiding from the authorities provided by the official website of the Interior Ministry as of Jan. 23.`  
-        [link](https://www.kyivpost.com/post/10119)
+    - `On Jan. 22, oil and gas company Burisma Holding Ltd. issued a news release saying that a British court dropped the criminal charges against Ukraine’s ex-Ecology Minister Mykola Zlochevsky for lack of evidence.`
+      
+      `Zlochevsky is Burisma’s only shareholder.`
+      
+      `His U.K.-based banking accounts containing some $23 million were unfrozen through the same ruling. Ukraine’s prosecutors put him on a wanted list, according to Prosecutor General Vitaliy Yarema’s Jan. 16 statement (quote starts at 9:40) However, his name cannot be found in the list of wanted individuals who are hiding from the authorities provided by the official website of the Interior Ministry as of Jan. 23.` - [British court unfreezes accounts of Yanukovych-era ecology minister Zlochevsky, Kyiv Post, 2015](https://www.kyivpost.com/post/10119)
 - Between 11 February 2015 & 29 March 2016, Zlochevsky allies were threatened by Shokin with prosecution for bribes from Zlochevsky.
-    - `Mr. Shokin was not aggressively pursuing investigations into Mr. Zlochevsky or Burisma. But the oligarch’s allies say Mr. Shokin was using the threat of prosecution to try to solicit bribes from Mr. Zlochevsky and his team, and that left the oligarch’s team leery of dealing with the prosecutor.` [link](https://www.nytimes.com/2019/09/22/us/politics/biden-ukraine-trump.html)
+    - `Mr. Shokin was not aggressively pursuing investigations into Mr. Zlochevsky or Burisma. But the oligarch’s allies say Mr. Shokin was using the threat of prosecution to try to solicit bribes from Mr. Zlochevsky and his team, and that left the oligarch’s team leery of dealing with the prosecutor.` - [Trump, Biden and Ukraine: Sorting Out the Accusations, The New York Times, 2019](https://www.nytimes.com/2019/09/22/us/politics/biden-ukraine-trump.html)
 - On 1 November 2016, Zlochevsky’s illicit enrichment and money laundering charges were closed by the Prosecutor General Office as the reason for the closure was “absence of corpus delicti” (the event of the crime). The case then changed to a tax avoidance charge.
-    - `Investigation continued, and in two years it transformed into tax avoidance investigation. As part of the preliminary investigation, Ukrainian investigators had to establish the origin and legitimacy of significant funds on bank accounts of companies belonging to Zlochevskyi as former top official.  
-          
-        Instead, investigators checked the payment of the personal income tax by Zlochevskyi during his time in the office. District tax inspection hold an audit and did not find any outstanding taxes.  
-          
-        On this basis, the GPO closed the criminal proceedings in the regard of suspicion of Zlochevskyi in illicit enrichment and money laundering on Nov 1, 2016. The reason for the closure was “absence of corpus delicti” (the event of the crime).`  
-        [link](https://antac.org.ua/en/news/burisma-group-of-companies-are-still-under-criminal-investigation-in-ukraine-despite-case-against-mykola-zlochevskyi-was-dumped-by-the-general-prosecutor-s-office/#_edn4)
+    - `Investigation continued, and in two years it transformed into tax avoidance investigation. As part of the preliminary investigation, Ukrainian investigators had to establish the origin and legitimacy of significant funds on bank accounts of companies belonging to Zlochevskyi as former top official.`
+      
+      `Instead, investigators checked the payment of the personal income tax by Zlochevskyi during his time in the office. District tax inspection hold an audit and did not find any outstanding taxes.`
+      
+      `On this basis, the GPO closed the criminal proceedings in the regard of suspicion of Zlochevskyi in illicit enrichment and money laundering on Nov 1, 2016. The reason for the closure was “absence of corpus delicti” (the event of the crime).` - [link](https://antac.org.ua/en/news/burisma-group-of-companies-are-still-under-criminal-investigation-in-ukraine-despite-case-against-mykola-zlochevskyi-was-dumped-by-the-general-prosecutor-s-office/#_edn4)
 - On 29 December 2016, the Prosecutor General Office use the London court result of the letter sent to the UK’s Serious Fraud Office to close Zlochevsky’s Ukrainian proceedings into tax avoidance.
     - `Conclusions of the DPI in the Shevchenkiv district of the Federal Tax Service of Ukraine in the city of Kyiv regarding the absence of violations of tax legislation Zlochevskyi M.V. are confirmed by the decision of the Central Criminal Court of Great Britain dated 01.21.2015 and the opinion of an expert based on the results of a forensic economic examination dated 02.06.2015.` [link](https://www.scribd.com/document/672958466/%D0%92%D0%A0-1030-%D0%92-%D0%93%D0%9F%D0%A3-29-12-16-1) (original in Ukrainian, google translated)
 - In June 2018, the Serious Fraud Office stated that the case was closed.
