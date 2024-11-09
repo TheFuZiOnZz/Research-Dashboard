@@ -131,7 +131,7 @@
 - On 8 December 2015, Biden addresses the Verkhovna Rada and mentions reform of the Prosecutor General Office.
     - `Vice President Joseph R. Biden Jr. urged Ukrainian leaders on Tuesday to curb the power of the business moguls dominating society and to fulfill the promise of the popular revolution that pushed out a pro-Moscow government last year.`
       
-      `Addressing the Ukrainian Parliament, Mr. Biden sternly lectured lawmakers to put aside their own self-interests and to transform this former Soviet republic into a model of democratic change.`
+      `Addressing the Ukrainian Parliament, Mr. Biden sternly lectured lawmakers to put aside their own self-interests and to transform this former Soviet republic into a model of democratic change.`  - [link](https://www.nytimes.com/2015/12/09/world/europe/joe-biden-ukraine.html?module=inline)
     - `Mr. Biden called for an overhaul of the office of prosecutor general, change in the energy sector, transparency about official sources of income and other measures.`
       
       `“If you fail, the experiment fails,” he said. “It’s no exaggeration to say the hopes of freedom-loving people the world over are with you.”` - [link](https://www.nytimes.com/2015/12/09/world/europe/joe-biden-ukraine.html?module=inline)
