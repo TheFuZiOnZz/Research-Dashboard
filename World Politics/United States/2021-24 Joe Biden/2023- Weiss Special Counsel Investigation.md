@@ -61,49 +61,45 @@
       
       `On this basis, the GPO closed the criminal proceedings in the regard of suspicion of Zlochevskyi in illicit enrichment and money laundering on Nov 1, 2016. The reason for the closure was “absence of corpus delicti” (the event of the crime).` - [How GPO headed by Yarema, Shokin and Lutsenko together “dumped” criminal investigations of Zlochevskyi, Anticorruption Action Centre, 2019](https://antac.org.ua/en/news/how-gpo-headed-by-yarema-shokin-and-lutsenko-together-dumped-criminal-investigations-of-zlochevskyi/)
 - On 29 December 2016, the Prosecutor General Office use the London court result of the letter sent to the UK’s Serious Fraud Office to close Zlochevsky’s Ukrainian proceedings into tax avoidance.
-    - `Conclusions of the DPI in the Shevchenkiv district of the Federal Tax Service of Ukraine in the city of Kyiv regarding the absence of violations of tax legislation Zlochevskyi M.V. are confirmed by the decision of the Central Criminal Court of Great Britain dated 01.21.2015 and the opinion of an expert based on the results of a forensic economic examination dated 02.06.2015.` [Deputy of Prosecutor General of Ukraine Yuriy Stolyarchuk letter to Viktor Vasyliovych (, Office of the Prosecutor General, 2016](https://www.scribd.com/document/672958466/%D0%92%D0%A0-1030-%D0%92-%D0%93%D0%9F%D0%A3-29-12-16-1) (original in Ukrainian, google translated)
+    - `Conclusions of the DPI in the Shevchenkiv district of the Federal Tax Service of Ukraine in the city of Kyiv regarding the absence of violations of tax legislation Zlochevskyi M.V. are confirmed by the decision of the Central Criminal Court of Great Britain dated 01.21.2015 and the opinion of an expert based on the results of a forensic economic examination dated 02.06.2015.` [Deputy of Prosecutor General of Ukraine Yuriy Stolyarchuk letter to Viktor Vasyliovych (29/12/16), Office of the Prosecutor General, 2016](https://www.scribd.com/document/672958466/%D0%92%D0%A0-1030-%D0%92-%D0%93%D0%9F%D0%A3-29-12-16-1) (original in Ukrainian, google translated)
 - In June 2018, the Serious Fraud Office stated that the case was closed.
-    - `The Director of the Serious Fraud Office closed the SFO’s investigation into possible money laundering arising from suspicions of corruption in Ukraine.  
-          
-        The SFO concluded in June 2018, based on the material it had been able to obtain, that there is insufficient evidence to meet the full code test in the Code for Crown Prosecutors for an offence related to serious or complex fraud.  
-          
-        This position may be reviewed if any new material becomes available.`  
-        [link](https://web.archive.org/web/20191004012442/https://www.sfo.gov.uk/cases/ukraine-money-laundering-investigation/)
+    - `The Director of the Serious Fraud Office closed the SFO’s investigation into possible money laundering arising from suspicions of corruption in Ukraine.`
+      
+      `The SFO concluded in June 2018, based on the material it had been able to obtain, that there is insufficient evidence to meet the full code test in the Code for Crown Prosecutors for an offence related to serious or complex fraud.`
+      
+      `This position may be reviewed if any new material becomes available.` - [Ukraine money laundering investigation, U.K. Serious Fraud Office, 2018](https://web.archive.org/web/20191004012442/https://www.sfo.gov.uk/cases/ukraine-money-laundering-investigation/)
 - On 20 November 2019, Prosecutor General Ruslan Ryaboshapka say Zlochevsky is suspected of theft of government funds on an especially large scale. Ryaboshapka also said the criminal investigation is currently on hold because Zlochevsky's whereabouts cannot presently be determined.
-    - `Ryaboshapka’s predecessors oversaw a series of investigations into Zlochevsky, a multimillionaire former minister of ecology and natural resources. The allegations concern tax violations, money-laundering and licences given to Burisma during the period where Zlochevsky was a minister.  
-          
-        Ryaboshapka said Zlochevsky was now suspected of the “theft of government funds on an especially large scale,” but did not provide evidence or details.  
-          
-        Ryaboshapka was speaking after being asked about a document from the general prosecutor’s office that was leaked at a separate press conference by three lawmakers earlier on Wednesday.  
-          
-        The document, only part of which was visible, showed Kulyk suspected Zlochevsky of offences including using his official position to embezzle 800 million hryvnias ($33 million) of money belonging to the central bank.  
-          
-        The investigation is effectively on hold, however, because the Ukrainian authorities cannot determine Zlochevsky’s whereabouts.`  
-        [link](https://www.reuters.com/article/us-usa-trump-impeachment-burisma-idUSKBN1XU2N7)
+    - `Ryaboshapka’s predecessors oversaw a series of investigations into Zlochevsky, a multimillionaire former minister of ecology and natural resources. The allegations concern tax violations, money-laundering and licences given to Burisma during the period where Zlochevsky was a minister.`
+      
+      `Ryaboshapka said Zlochevsky was now suspected of the “theft of government funds on an especially large scale,” but did not provide evidence or details.`
+      
+      `Ryaboshapka was speaking after being asked about a document from the general prosecutor’s office that was leaked at a separate press conference by three lawmakers earlier on Wednesday.`
+      
+      `The document, only part of which was visible, showed Kulyk suspected Zlochevsky of offences including using his official position to embezzle 800 million hryvnias ($33 million) of money belonging to the central bank.`
+      
+      `The investigation is effectively on hold, however, because the Ukrainian authorities cannot determine Zlochevsky’s whereabouts.` - [Ukraine widens probe against Burisma founder to embezzlement of state funds, Reuters, 2019](https://www.reuters.com/article/us-usa-trump-impeachment-burisma-idUSKBN1XU2N7)
 - Io 13 June 2020, it was revealed in a press conference that Zlochevsky conspirators were caught trying to bribe the head of the Special Anti-Corruption Prosecutor’s Office Nazar Kholodnitskiy, and Artem Sytnyk, head of the National Anti-Corruption Bureau of Ukraine with $6 million of cash in plastic bags supposedly for Zlochevshy’s birthday.
-    - `It was meant to be a birthday present for Viktor Yanukovych-era ecology minister Mykola Zlochevsky: an end to the state investigation of one of his allegedly illegal enrichment schemes.  
-          
-        Zlochevsky’s henchmen’s brilliant plan was to slip $6 million in cash to the country’s top anti-corruption officials, Nazar Kholodnitskiy, head of the Special Anti-Corruption Prosecutor’s Office (SAPO), and Artem Sytnyk, head of the National Anti-Corruption Bureau of Ukraine (NABU). It was the biggest reported bribe attempt in Ukrainian history, meant to bury this investigation once and for all.  
-          
-        The officials played along and faked the case’s termination, at which point they were handed the $6 million.  
-          
-        Yet in a stunning setback for the conspirators, Kholodnitskiy and Sytnyk ordered their arrest. Three suspects were taken into custody and Kholodnitskiy and Sytnyk displayed the plastic bags full of dollars at a June 13 press conference.  
-          
-        “The plan was to get the best possible outcome – to close the criminal proceedings and ensure the return of Mr. Zlochevsky to Ukraine,” Sytnyk said.`  
-        [link](https://www.kyivpost.com/post/10073)
+    - `It was meant to be a birthday present for Viktor Yanukovych-era ecology minister Mykola Zlochevsky: an end to the state investigation of one of his allegedly illegal enrichment schemes.`
+      
+      `Zlochevsky’s henchmen’s brilliant plan was to slip $6 million in cash to the country’s top anti-corruption officials, Nazar Kholodnitskiy, head of the Special Anti-Corruption Prosecutor’s Office (SAPO), and Artem Sytnyk, head of the National Anti-Corruption Bureau of Ukraine (NABU). It was the biggest reported bribe attempt in Ukrainian history, meant to bury this investigation once and for all.`
+      
+      `The officials played along and faked the case’s termination, at which point they were handed the $6 million.`
+      
+      `Yet in a stunning setback for the conspirators, Kholodnitskiy and Sytnyk ordered their arrest. Three suspects were taken into custody and Kholodnitskiy and Sytnyk displayed the plastic bags full of dollars at a June 13 press conference.`
+      
+      `“The plan was to get the best possible outcome – to close the criminal proceedings and ensure the return of Mr. Zlochevsky to Ukraine,” Sytnyk said.` - [Anti-corruption officials say they were offered $6 million bribe to close Zlochevsky investigation, Kyiv Post, 2020](https://www.kyivpost.com/post/10073)
 - On 23 August 2020, According to an investigation by Al Jazeera, Zlochevsky bought Cypriot citizenship somewhere between 2017 and 2019.
-    - `Among the approved applications seen by Al Jazeera was Ukrainian tycoon Mykola Zlochevsky, owner of the giant Burisma energy company.  
-          
-        When Zlochevsky bought his Cypriot passport in 2017, he was already under investigation for corruption in his home country.  
-          
-        191202080408558  
-          
-        In June 2020 Ukrainian prosecutors said they were offered $6m in cash to drop the investigation.  
-          
-        Zlochevsky and Burisma deny any knowledge of the bribe.  
-          
-        Like many on wanted lists in their home country, Zlochevsky’s Cypriot passport allows him to live beyond the reach of Ukrainian law enforcement.`  
-        [link](https://www.aljazeera.com/news/2020/8/23/exclusive-cyprus-sold-passports-to-criminals-and-fugitives)
+    - `Among the approved applications seen by Al Jazeera was Ukrainian tycoon Mykola Zlochevsky, owner of the giant Burisma energy company.`
+        
+        `When Zlochevsky bought his Cypriot passport in 2017, he was already under investigation for corruption in his home country.`
+        
+        `191202080408558`
+        
+        `In June 2020 Ukrainian prosecutors said they were offered $6m in cash to drop the investigation.`
+        
+        `Zlochevsky and Burisma deny any knowledge of the bribe.`
+        
+        `Like many on wanted lists in their home country, Zlochevsky’s Cypriot passport allows him to live beyond the reach of Ukrainian law enforcement.` - [link](https://www.aljazeera.com/news/2020/8/23/exclusive-cyprus-sold-passports-to-criminals-and-fugitives)
 # Shokin’s Removal & the Loan Guarantee
 - On 10 February 2015, Viktor Shokin was appointed Prosecutor General of Ukraine, replacing Vitaly Yarema.
     - `To replace Mr. Yarema, the Verkhovna Rada on February 10 approved the president’s nomination of Viktor Shokin, who was appointed deputy procurator general in December 2004 and has served in that position ever since.` [link](https://web.archive.org/web/20170613175247/http://www.ukrweekly.com/uwwp/shokin-replaces-yarema-as-top-prosecutor/)
