@@ -112,16 +112,15 @@
       
       `IMF head Christine Lagarde's call on February 10 for "a substantial new effort" from Ukraine's leadership carries particular weight due to fears that the fund could suspend its $17.5 billion portion of an international bailout to help the country kick-start its economy, stay on a democratic track, and weather an ongoing conflict with Russia.`
       
-      `The IMF's stark language set off alarm bells in Kyiv, where President Petro Poroshenko quickly telephoned Lagarde to assure her and allies such as the United States that he recognized the need to "reboot" the government.` - [link](https://www.rferl.org/a/ukraine-imf-demand-poroshenko-corruption/27545849.html)
-- On 24 September 2015, US Ambassador Geoffrey Pyatt made remarks at the Odessa Financial Forum which included the corruption at the Prosecutor Generals Office (Prosecutor General Office) and management of Zlochevsky’s case.
+      `The IMF's stark language set off alarm bells in Kyiv, where President Petro Poroshenko quickly telephoned Lagarde to assure her and allies such as the United States that he recognized the need to "reboot" the government.` - [IMF Demand For Ukraine Reform Just Latest Red Flag For Poroshenko, Radio Free Europe, 2016](https://www.rferl.org/a/ukraine-imf-demand-poroshenko-corruption/27545849.html)
+- On 24 September 2015, US Ambassador Geoffrey Pyatt made remarks at the Odessa Financial Forum which included the corruption at the Prosecutor Generals Office and management of Zlochevsky’s case.
     - `We have learned that there have been times that the Prosecutor General Office not only did not support investigations into corruption, but rather undermined prosecutors working on legitimate corruption cases.`
       
       `For example, in the case of former Ecology Minister Mykola Zlochevsky, the U.K. authorities had seized 23 million dollars in illicit assets that belonged to the Ukrainian people. Officials at the Prosecutor General Office’s office were asked by the U.K to send documents supporting the seizure.`
       
       `Instead they sent letters to Zlochevsky’s attorneys attesting that there was no case against him. As a result the money was freed by the U.K. court and shortly thereafter the money was moved to Cyprus.`
       
-      `The misconduct by the Prosecutor General Office officials who wrote those letters should be investigated, and those responsible for subverting the case by authorizing those letters should – at a minimum – be summarily terminated.`  
-        - [link](https://www.justsecurity.org/wp-content/uploads/2019/09/Remarks-by-US-Ambassador-Geoffrey-Pyatt-at-the-Odesa-Financial-Forum-on-September-24-2015-ukraine.pdf)
+      `The misconduct by the Prosecutor General Office officials who wrote those letters should be investigated, and those responsible for subverting the case by authorizing those letters should – at a minimum – be summarily terminated.` - [Remarks by US Ambassador Geoffrey Pyatt at the Odesa Financial Forum, 2015](https://www.justsecurity.org/wp-content/uploads/2019/09/Remarks-by-US-Ambassador-Geoffrey-Pyatt-at-the-Odesa-Financial-Forum-on-September-24-2015-ukraine.pdf)
 - On 7 December 2015, Biden meets with Poroshenko in Kyiv where the news of the U.S. that a promised loan guarantee was tied to the ouster of Shokin. There was also a push to support continuing investigations into Zlochevsky in Ukraine and the U.K. and possibly opening a U.S. one.
     - `As Vice President Biden flew to Ukraine in early December 2015, he read through his briefing materials in preparation for a meeting with Ukrainian President Petro Poroshenko and what would be a momentous speech to the Ukrainian parliament. A key goal for the trip was to urge the government to crack down on corruption, starting with the removal of the powerful prosecutor general, viewed by U.S. and European officials as an impediment to reform.`
       
