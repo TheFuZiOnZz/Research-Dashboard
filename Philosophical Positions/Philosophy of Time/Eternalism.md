@@ -1,0 +1,2 @@
+[Eternalism (philosophy of time) - Wikipedia](https://en.wikipedia.org/wiki/Eternalism_(philosophy_of_time))
+[Eternalism | Internet Encyclopedia of Philosophy](https://iep.utm.edu/eternalism/#:~:text=Eternalism%20is%20a%20metaphysical%20view,and%20deaths%2C%20is%20equally%20real.)

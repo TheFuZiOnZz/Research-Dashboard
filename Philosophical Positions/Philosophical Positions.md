@@ -42,9 +42,9 @@
 # Philosophy of Time
 ## [A and B Theory Of Time](Philosophy%20of%20Time/A%20and%20B%20Theory%20Of%20Time)  
 
-- [[Presentism]]
-- Eternalism
-- Tense Logic
+## [Presentism](Philosophy%20of%20Time/Presentism)  
+## [Eternalism](Philosophy%20of%20Time/Eternalism)  
+## [Tense Logic](Philosophy%20of%20Time/Tense%20Logic)  
 # Philosophy of Maths
 ## [Mathematical Realism](Philosophy%20of%20Maths/Mathematical%20Realism)  
 ## [Infinity](Philosophy%20of%20Maths/Infinity)  
