@@ -1,0 +1,2 @@
+- [1983 Beirut barracks bombings - Wikipedia](https://en.wikipedia.org/wiki/1983_Beirut_barracks_bombings)
+- On 23 October 1983, 

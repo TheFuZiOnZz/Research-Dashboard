@@ -1,1 +1,3 @@
-### 1982-84 Lebanon Civil War, Third Phase
+[[1983 US Embassy Bombing in Beirut]]
+[[1983 Beirut Barracks Bombings]]
+[[]]
