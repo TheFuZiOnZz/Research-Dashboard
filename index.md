@@ -1,8 +1,8 @@
 # Welcome to TheFuZiOnZz' Research Dashboard
-## [Conspiracy Theories](Conspiracy%20Theories)  
+## [Conspiracy Theories](Conspiracy%20Theories/Conspiracy%20Theories)  
 ## [COVID-19](COVID-19/COVID-19)  
-## [Left Critiques](Left%20Critiques)  
-## [Philosophical Positions](Philosophical%20Positions)  
+## [Left Critiques](Left%20Critiques/Left%20Critiques)  
+## [Philosophical Positions](Philosophical%20Positions/Philosophical%20Positions)  
 ## [Political Positions](Political%20Positions)  
 ## [Red Pill](Red%20Pill/Red%20Pill)  
 ## [Right Critiques](Right%20Critiques/Right%20Critiques)    
