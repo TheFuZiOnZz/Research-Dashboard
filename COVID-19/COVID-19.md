@@ -2,7 +2,7 @@
 # What is COVID-19?
 ## Define
 - Coronavirus disease 2019 (COVID-19) is a contagious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
-- Symptoms of COVID-19 are variable, but often include fever, [link] cough, headache, [link] fatigue, breathing difficulties, and loss of smell and taste. [link]
+- Symptoms of COVID-19 are variable, but often include fever, cough, headache, fatigue, breathing difficulties, and loss of smell and taste.
 ## Long COVID
 - Coronavirus effects long term have been documented as well, also known as `Long COVID` is a set of symptoms people experience after recovering from a diagnosis of COVID-19 6 months after.
 - A 2021 paper found that `52% (32/61) of home-isolated young adults, aged 16–30 years, had symptoms at 6 months, including loss of taste and/or smell (28%, 17/61), fatigue (21%, 13/61), dyspnea (13%, 8/61), impaired concentration (13%, 8/61) and memory problems (11%, 7/61). Our findings that young, home-isolated adults with mild COVID-19 are at risk of long-lasting dyspnea and cognitive symptoms highlight the importance of infection control measures, such as vaccination.` [link](https://www.nature.com/articles/s41591-021-01433-3.pdf)
