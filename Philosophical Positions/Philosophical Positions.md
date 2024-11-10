@@ -1,20 +1,8 @@
-# Meta-Normativity
-## [Robust Realism](Meta-Normativity/Robust%20Realism)  
-# Epistemology
-## [Epistemic Realism vs Anti-Realism](Epistemology/Epistemic%20Realism%20vs%20Anti-Realism)  
-## [Necessary Conditions](Epistemology/Necessary%20Conditions)  
-## [A Priori and A Posteriori](Epistemology/A%20Priori%20and%20A%20Posteriori)  
-## [Analytic-Synthetic Distinction](Epistemology/Analytic-Synthetic%20Distinction)  
-## [Aesthetic-Logic Distinction](Epistemology/Aesthetic-Logic%20Distinction)  
-## [Knowledge & Scepticism](Epistemology/Knowledge%20&%20Scepticism)  
-## [Theories Of Truth](Epistemology/Theories%20Of%20Truth)  
-## [Theories Of Justification & Knowledge](Epistemology/Theories%20Of%20Justification%20&%20Knowledge)  
-## [How we Gain Knowledge](Epistemology/How%20we%20Gain%20Knowledge)  
-## [The Problem With ‘Axioms’](Epistemology/The%20Problem%20With%20‘Axioms’)  
-## [Global Scepticism](Epistemology/Global%20Scepticism)  
-## [Value of knowledge](Epistemology/Value%20of%20knowledge)  
-## [Menos Problem](Epistemology/Menos%20Problem)  
-# Meta-Ethics
+# [[Meta-Normativity]]
+
+# [[Epistemology]]
+
+# [[Meta-Ethics]]
 ## [Moral Realism vs Anti-Realism](Meta-Ethics/Moral%20Realism%20vs%20Anti-Realism)  
 ## [Moral Objectivism Vs Subjectivism](Meta-Ethics/Moral%20Objectivism%20Vs%20Subjectivism)  
 ## [Moral Naturalism Vs Non-Naturalism](Meta-Ethics/Moral%20Naturalism%20Vs%20Non-Naturalism)  
