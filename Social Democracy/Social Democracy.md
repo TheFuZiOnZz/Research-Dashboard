@@ -2,6 +2,7 @@
 ## Define
 - Social Democracy is when the government does stuff, more specifically that the government helps create a basic standard of living through well researched growth plans and tax policy focusing on primarily Wealth Inequality and Income Mobility to create a prosperous model for all.
 	- `Social democracy (sometimes used synonymously with democratic socialism) refers to a political tendency resting on three fundamental features: (1) democracy (e.g., equal rights to vote and form parties), (2) an economy partly regulated by the state (e.g., through Keynesianism), and (3) a welfare state offering social support to those in need (e.g., equal rights to education, health service, employment, and pensions).` - [International encyclopedia of political science, Badie et al., 2011](https://cloudflare-ipfs.com/ipfs/bafykbzacebgzz6ymnszyxxyf36llncqhplu4zilj5nsajnxynpaxpiymbldq4?filename=Bertrand%20Badie%2C%20Dirk%20Berg-Schlosser%2C%20Leonardo%20Morlino%20-%20International%20Encyclopedia%20of%20Political%20Science-SAGE%20Publications%2C%20Inc%20%282011%29.pdf)
+
 # Why Social Democracy?
 ## Models
 - [Creating Social Democracy: A Century of the Social Democratic Labor Party in Sweden, Misgeld et al., 1992](https://ipfs.io/ipfs/bafykbzaceaw5yx7qj2g6xyp6xzct3mr346hceaqyg2hirbvyix7xb656nv7rw?filename=Karl%20Molin%2C%20Klas%20Amark%2C%20Klaus%20Misgeld%20-%20Creating%20Social%20Democracy_%20A%20Century%20of%20the%20Social%20Democratic%20Labor%20Party%20in%20Sweden-Pennsylvania%20State%20University%20Press%20%282000%29.pdf)
