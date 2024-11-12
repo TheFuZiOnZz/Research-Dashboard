@@ -30,11 +30,12 @@
     - `The typical Swedish economic and wage policy program — the R-M model — was never consistently implemented. Yet, a period from the late 1950s to the early 1970s was the golden age for the model; it legitimized the expansion of labor-market policy and the practice of the wage policy of solidarity in Sweden. There were some unique Swedish circumstances behind the application of the R-M model — the highly coordinated wage bargaining system, the strong position for state interventionism, the political dominance of the social democrats and the strength and priorities of LO. Also, by emphasizing price-stability and growth, the R-M model yielded a strong economic rationale for labor-market policies and wage policy of solidarity. Swedish deviations from the model since the middle of the 1970s are explained by negative policy experiences, lost positions and new strategies of LO, new generations of economic policy decision makers, new economic theories (challenging discretionary economic policy) and the growing influence of economists in the Ministry of Finance. The break with the R-M model is also explained by less coordinated wage bargaining (threatening the wage policy of solidarity) and by political-institutional changes, primarily deregulation of credit markets (leading to overheating in the 1980s) and new exchange-rate systems (providing more space for profit booms through devaluations/depreciations).` - [The Rehn-Meidner Model in Sweden: Its Rise, Challenges and Survival, Erixon, 2010](https://annas-archive.org/scidb/10.2753/jei0021-3624440306)
 
 ### Norwegian Aukrust-EFO Model
-
+- The Norwegian Aukrust-EFO Model is a model
 ### Danish Flexicurity Model
-
+- The Danish Flexicurity Model is a model
 ### Icelandic-Finnish Model
-
+- The Icelandic-Finnish Model is a model
+- 
 ## Poverty
 Poverty is the state of not having enough material possessions or income for a person's basic needs.
 - A 2017 paper found that
