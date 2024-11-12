@@ -3,28 +3,28 @@
 - (Personal note: It feels as though there is no consistent definition of what an “alpha male” or “high value male” actually is. It’s essential to nail this down, because an “alpha male” is going to be playing the “alpha” side of the “Alpha Fucks, Beta Bucks” dual-mating strategy that Rollo claims women employ. It’s also reasonable to assume that men are going to want to strive to become an “alpha male” and avoid being a “beta male” in the Red Pill space.)
 - Alphas are not “bad boys” in any kingdom that has an actual alpha hierarchy. They display lots of prosocial behavior, almost necessarily, in wolves and in primates.
     - “Interestingly, while advocates for acting dominant often point to chimps as proof of the exclusivity of this route to male status, recent research has shown that even among primates, alpha male status can be achieved not only through size and strength but through adept sociability and the grooming of others as well.” - Scott Barry Kaufman [article](https://greatergood.berkeley.edu/article/item/the_myth_of_the_alpha_male) from 2015 from the Greater Good Science Center.
-    - “With most mammals, the biggest and most aggressive male claims the alpha male role and gets his choice of food and females. But a new study suggests that at least among chimpanzees, smaller, more mild-mannered males can also use political behavior to secure the top position.” - Mark Foster, [Small Male Chimps Use Politics, Rather Than Aggression, To Lead The Pack](https://www.sciencedaily.com/releases/2009/02/090202174958.htm) (2009), _American Journal of Primatology_
-    - “I conclude that the typical wolf pack is a family, with the adult parents guiding the activities of the group in a division-of-labor system in which the female predominates primarily in such activities as pup care and defense and the male primarily during foraging and food-provisioning and the travels associated with them.” By David Mech, [Alpha status, dominance, and division of labor in wolf packs](https://web.archive.org/web/20051214072331/http://www.npwrc.usgs.gov/resource/2000/alstat/alstat.htm) (1999), _Canadian Journal of Zoology_.
-    - “They identified one chimp, Foudouko, as the alpha leader. Two years later he fell from power, overthrown by a group of younger males. He lived on the outskirts of the group for years before attempting to return in mid-2013. He was killed by his former followers, a rare instance in which a chimp was killed within its own community.” By Michael Greshko, “[In Rare Killing, Chimpanzees Cannibalize Former Leader](https://www.nationalgeographic.com/animals/article/chimpanzees-murder-cannibalism-senegal)”(2017), _National Geographic_.
+    - “With most mammals, the biggest and most aggressive male claims the alpha male role and gets his choice of food and females. But a new study suggests that at least among chimpanzees, smaller, more mild-mannered males can also use political behavior to secure the top position.” - Mark Foster, [Small Male Chimps Use Politics, Rather Than Aggression, To Lead The Pack](https://www.sciencedaily.com/releases/2009/02/090202174958.htm) (2009), American Journal of Primatology
+    - “I conclude that the typical wolf pack is a family, with the adult parents guiding the activities of the group in a division-of-labor system in which the female predominates primarily in such activities as pup care and defense and the male primarily during foraging and food-provisioning and the travels associated with them.” By David Mech, [Alpha status, dominance, and division of labor in wolf packs](https://web.archive.org/web/20051214072331/http://www.npwrc.usgs.gov/resource/2000/alstat/alstat.htm) (1999), Canadian Journal of Zoology.
+    - “They identified one chimp, Foudouko, as the alpha leader. Two years later he fell from power, overthrown by a group of younger males. He lived on the outskirts of the group for years before attempting to return in mid-2013. He was killed by his former followers, a rare instance in which a chimp was killed within its own community.” By Michael Greshko, “[In Rare Killing, Chimpanzees Cannibalize Former Leader](https://www.nationalgeographic.com/animals/article/chimpanzees-murder-cannibalism-senegal)”(2017), National Geographic.
 ## If “Alpha Fucks, and Beta Bucks,” then how is the alpha an actual alpha?
-- If a man is the “beta bucks,” it sounds as though he’s able to procure enough resources to be considered a “provider.” He’s also probably displaying lots of prosocial behavior, which is also “alpha” in nature. What kind of evolutionary model of the world associates someone who can adapt to an environment and provide resources as a “beta”? **Why would women be drawn to anti-social men who provide fewer resources?**
+- If a man is the “beta bucks,” it sounds as though he’s able to procure enough resources to be considered a “provider.” He’s also probably displaying lots of prosocial behavior, which is also “alpha” in nature. What kind of evolutionary model of the world associates someone who can adapt to an environment and provide resources as a “beta”? Why would women be drawn to anti-social men who provide fewer resources?
     - No one seems to be utilizing this strategy, as evidenced from studying extra-partner pairings.
-        1. “A common urban myth is that many fathers are cuckolded into raising children that genetically are not their own. This fear is fuelled not just by the paternity tests that have become a standard staple of gossip magazines, talk shows, and TV series but also by the biological fact that in many socially monogamous species, females appear to regularly engage in mating outside the long-term pair bond…The surprising result of these new studies is that human EPP rates have stayed near-constant at around 1% across several human societies over the past several hundred years. This poses an immediate puzzle for behavioural scientists, who estimated that without the availability of modern contraceptives the historical EPP rates should have been much higher, in the range of 10–20%, based on present behavioural measures of EPCs and observed kin investments of matri- and patrilineal family members, which are known to be inversely related to EPP [13].” Maarten H.D. Larmuseau, Koen Matthijs, Tom Wenseleers (2016), [Cuckolded Fathers Rare in Human Populations,](https://www.sciencedirect.com/science/article/pii/S0169534716000707) _Trends in Ecology & Evolution_
-        2. “Using patrilineal genealogies from the Low Countries spanning a period of over 500 years and Y chromosome genotyping of living descendants, our analysis reveals that historical EPP rates, while low overall, were strongly impacted by socioeconomic and demographic factors. Specifically, we observe that estimated EPP rates among married couples varied by more than an order of magnitude, from 0.4% to 5.9%, and peaked among families with a low socioeconomic background living in densely populated cities of the late 19th century.” Maarten H.D. Larmuseau, Pieter van den Berg, Sofie Claerhout, ..., Kelly Nivelle, Ronny Decorte, Tom Wenseleers.(2019) [A Historical-Genetic Reconstruction of Human Extra-Pair Paternity.](https://www.cell.com/current-biology/pdfExtended/S0960-9822(19)31305-3) _Current Biology_, 29, 4102–4107
+        1. “A common urban myth is that many fathers are cuckolded into raising children that genetically are not their own. This fear is fuelled not just by the paternity tests that have become a standard staple of gossip magazines, talk shows, and TV series but also by the biological fact that in many socially monogamous species, females appear to regularly engage in mating outside the long-term pair bond…The surprising result of these new studies is that human EPP rates have stayed near-constant at around 1% across several human societies over the past several hundred years. This poses an immediate puzzle for behavioural scientists, who estimated that without the availability of modern contraceptives the historical EPP rates should have been much higher, in the range of 10–20%, based on present behavioural measures of EPCs and observed kin investments of matri- and patrilineal family members, which are known to be inversely related to EPP [13].” Maarten H.D. Larmuseau, Koen Matthijs, Tom Wenseleers (2016), [Cuckolded Fathers Rare in Human Populations,](https://www.sciencedirect.com/science/article/pii/S0169534716000707) Trends in Ecology & Evolution
+        2. “Using patrilineal genealogies from the Low Countries spanning a period of over 500 years and Y chromosome genotyping of living descendants, our analysis reveals that historical EPP rates, while low overall, were strongly impacted by socioeconomic and demographic factors. Specifically, we observe that estimated EPP rates among married couples varied by more than an order of magnitude, from 0.4% to 5.9%, and peaked among families with a low socioeconomic background living in densely populated cities of the late 19th century.” Maarten H.D. Larmuseau, Pieter van den Berg, Sofie Claerhout, ..., Kelly Nivelle, Ronny Decorte, Tom Wenseleers.(2019) [A Historical-Genetic Reconstruction of Human Extra-Pair Paternity.](https://www.cell.com/current-biology/pdfExtended/S0960-9822(19)31305-3) Current Biology, 29, 4102–4107
             - 1%-6% at its highest shows that monogamy is the dominant mating strategy.
         3. Population-wide research of modern Europeans shows very low rates of extra-pair paternity, between 1-2% (Anderson, 2006 & Wolf et al., 2012, as cited in Larmuseau). Y-chromosome research indicating historical trends shows a similarly low rate between 1-2% for non-Western populations (Strassmann et al., 2012, as cited in Larmuseau) and for historical Western populations (Larmuseau, 2012; Greef & Erasmus, 2015; Boattini et al., 2015; Solé-Morata et al., 2015, as cited in Larmuseau 2016).
 - If he’s married, he’s probably already at the top of society and passes a ton of markers for being an “alpha.”
     - They make more money.
-        1. “Using data from the German Socio-Economic Panel, it is found that married men enjoy a wage premium even after controlling for self-selection into marriage. In contrast to the popular household specialization hypothesis, men do not substantially reduce their housework time following marriage; neither does the housework time significantly affect the wage rate. This finding contrasts the prevailing view that the wage differential between married and single men results from the division of labour within the household. However, men married to non-working partners receive a larger wage premium than men married to full-time working wives. It is further shown that married men feel less satisfied with their financial situation as compared to their single counterparts. These results indicate that a lower level of pay satisfaction induce married men to put more effort into their work, which leads to higher wages.” Matthias Pollmann-Schult, [_Marriage and Earnings: Why Do Married Men Earn More than Single Men?_](https://academic.oup.com/esr/article-abstract/27/2/147/424307) (2011), European Sociological Review.
+        1. “Using data from the German Socio-Economic Panel, it is found that married men enjoy a wage premium even after controlling for self-selection into marriage. In contrast to the popular household specialization hypothesis, men do not substantially reduce their housework time following marriage; neither does the housework time significantly affect the wage rate. This finding contrasts the prevailing view that the wage differential between married and single men results from the division of labour within the household. However, men married to non-working partners receive a larger wage premium than men married to full-time working wives. It is further shown that married men feel less satisfied with their financial situation as compared to their single counterparts. These results indicate that a lower level of pay satisfaction induce married men to put more effort into their work, which leads to higher wages.” Matthias Pollmann-Schult, [Marriage and Earnings: Why Do Married Men Earn More than Single Men?](https://academic.oup.com/esr/article-abstract/27/2/147/424307) (2011), European Sociological Review.
     - They live longer and enjoy better physical health.
-        1. “A major survey of 127,545 American adults found that married men are healthier than men who were never married or whose marriages ended in divorce or widowhood. Men who have marital partners also live longer than men without spouses; men who marry after age 25 get more protection than those who tie the knot at a younger age, and the longer a man stays married, the greater his survival advantage over his unmarried peers.” Harvard medical school article, [_Marriage and men’s health_](https://www.health.harvard.edu/mens-health/marriage-and-mens-health), June 5th, 2019
+        1. “A major survey of 127,545 American adults found that married men are healthier than men who were never married or whose marriages ended in divorce or widowhood. Men who have marital partners also live longer than men without spouses; men who marry after age 25 get more protection than those who tie the knot at a younger age, and the longer a man stays married, the greater his survival advantage over his unmarried peers.” Harvard medical school article, [Marriage and men’s health](https://www.health.harvard.edu/mens-health/marriage-and-mens-health), June 5th, 2019
     - They have more children.
-        1. “The present findings from a nationally representative sample of Americans living in the late 20th century support the hypothesis that serial monogamy is positively associated with reproductive success in men.” Jokela, M., Rotkirch, A., Rickard, I. J., Pettay, J., & Lummaa, V. (2010). [Serial monogamy increases reproductive success in men but not in women.](https://psycnet.apa.org/record/2010-18254-004) _Behavioral Ecology_, 21(5), 906–912.
+        1. “The present findings from a nationally representative sample of Americans living in the late 20th century support the hypothesis that serial monogamy is positively associated with reproductive success in men.” Jokela, M., Rotkirch, A., Rickard, I. J., Pettay, J., & Lummaa, V. (2010). [Serial monogamy increases reproductive success in men but not in women.](https://psycnet.apa.org/record/2010-18254-004) Behavioral Ecology, 21(5), 906–912.
         2. Serial monogamy is the primary reproductive strategy, not polygamy or “alpha fucks” everyone.
-- Rollo regularly has referenced “the pool boy” in various [tweets](https://twitter.com/RationalMale/status/1527693786146557952) and [writings](https://therationalmale.com/2012/04/23/relationship-game-wife-sex/) for over a decade. **What makes the Pool Boy an alpha male? He provides no resources, is not at the top of any social hierarchy, does not engage in prosocial behavior, etc…**
+- Rollo regularly has referenced “the pool boy” in various [tweets](https://twitter.com/RationalMale/status/1527693786146557952) and [writings](https://therationalmale.com/2012/04/23/relationship-game-wife-sex/) for over a decade. What makes the Pool Boy an alpha male? He provides no resources, is not at the top of any social hierarchy, does not engage in prosocial behavior, etc…
 Random Factoid
 - Rollo has [claimed](https://www.youtube.com/live/HozT-YdG2QQ?feature=share&t=7021) that “a woman’s female ovum will select between competing male’s sperm at the site of conception, meaning that adaptation had to have become useful because there were multiple men’s sperm at the site of conception.”
-    - **Why does Rollo believe multiple men’s sperm are necessary for ovum to engage in discriminatory behavior of different sperm? Does he believe every single male sperm is identical?**
+    - Why does Rollo believe multiple men’s sperm are necessary for ovum to engage in discriminatory behavior of different sperm? Does he believe every single male sperm is identical?
     - Actual answer: women's eggs release a chemoattractant that is selecting for major histocompatibility complex, or a set of genetic factors that are responsible for immune system response and fighting infections. It has nothing to do with selecting for “alpha” or “beta” partners and only attempts to ensure a strong immune profile, especially in cases of preventing low genetic diversity among people who may be attempting to inbreed.
 ## Do you still believe in Pair Bonding? Why would women’s sexual strategy of simultaneously having sex with a beta and an alpha play contrary to their built in desires to pair with only a single person?
 - Pair bonding is largely a myth.
@@ -36,24 +36,24 @@ Random Factoid
     - Oxytocin is released in both men and women during many social activities where bonding occurs. Oxytocin nasal sprays have shown an increase in empathetic responses to perceived “in-group” members. Many different studies around the world show that oxytocin can be administered to increase protective and preferential feelings towards “in-group” members.
 ## While you eager to initially accept findings from evolutionary psychology, why do you run away from them now that the field is turning away from strategic pluralism, or “alpha fucks, beta bucks”? Do you at least recognize that your position is no longer scientific?
 - One of the early proponents of “strategic pluralism,” Steven W. Gangestad, recently did an amazing literature review of the empirical failings of said mating strategy.
-- The following comes from [Women's Estrus and Extended Sexuality: Reflections on Empirical Patterns and Fundamental Theoretical Issues](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.900737/full), by Steven W. Gangestad and Tran Dinh, published in _Evolutionary Psychology_ in June of 2022.
+- The following comes from [Women's Estrus and Extended Sexuality: Reflections on Empirical Patterns and Fundamental Theoretical Issues](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.900737/full), by Steven W. Gangestad and Tran Dinh, published in Evolutionary Psychology in June of 2022.
     - “Comparatively, the fact that women lack sexual swellings or ritualized behavioral cues overlapping with the conceptive phase is revealing about the potential function of their extended sexuality. It likely has not been shaped to facilitate paternity confusion. Strassmann's (1981) explanation of concealed ovulation, broadened to include extended sexuality, may offer one plausible scenario for the evolution of women's extended sexuality. Strassmann argued that, in a species in which males may potentially engage in true paternal care, males most likely to benefit from caring are non-dominant males. Following successful reproduction, males can choose to invest in care or re-enter the mating market to compete for another fertilization (or some combination of these two). The benefits of engaging in care partly depend on the net benefits (e.g., the rate of success) of competing for mating (e.g., Kokko and Jennions, 2008). Non-dominant males benefit less from competing and, therefore, are most likely to benefit from investment in care. As a result, females evolved to prefer non-dominant males as sires for the benefits of paternal care. Accordingly, concealing their conceptive status prevented dominant males from systematically monopolizing conceptive matings through intrasexual competition against non-dominant males (for a discussion of potential contributions of female-female intrasexual competition to the evolution of undisclosed conceptive status in humans, see Krems et al., 2021). As Kokko and Jennions (2008) emphasize, male benefits to investment in care also crucially depend on paternity assurance. In Strassmann's scenario, the concealment of ovulation permits non-dominant males to become sires but also limits their access to cues to conceptive status. Hence, males do not attain paternity assurance through detection of fertility cues. Rather, paternity assurance is achieved through regular sexual access throughout the cycle of a target female (some portion of which is conceptive), in conjunction with reasonable confidence that other males have not engaged in sex with that female during the cycle.”
         - Since women do not go “in heat” and give no external sexual cues to her fertility, “alpha” men would have no way to swoop in and impregnate the woman during her fertile cycle. Men who engage in such behavior, rather than men who continuously mate for extended periods of time, are less likely to find success reproducing. Men are therefore selected to be non-dominant, and women are therefore selecting non-dominant men as they are more likely to remain as primary caretakers.
-    - “In our recently collected dataset of 181 women, we examined moderating impacts of ovarian hormone levels on the association between male partners' attractiveness and women's extra-pair sexual interests (Dinh et al., 2022a). Analyses found that when women's progesterone levels were low—characteristic of the follicular and peri-ovulatory phase—partner attractiveness more strongly predicted extra-pair interest in a negative direction, consistent with previous effects. However, some preregistered effects examined were near-zero. All in all, the null hypothesis that there exist no effects is a very poor explanation of the overall pattern of results, even if we currently do not fully understand the reasons for variable effects (Dinh et al., 2022a,b)10. **This moderation effect, if robust, begs a question. This effect assumes that women differentially value sexually attractive features across conceptive versus non-conceptive phases. Yet, as we discussed above, large-scale replication studies have not found strong, compelling evidence for hormonal moderation of mate preferences (e.g., for muscular bodies).** Durante et al. (2016) suggested one possible resolution. Perhaps mate preference shifts are moderated. For instance, women who are strongly attached to partners may express relatively little interest in extra-pair men when conceptive. It may make sense that these women also show little evidence of increased interest in, say, muscular men when conceptive. The same may apply for women with attractive partners—or, more generally, women who show relatively little interest in extra-pair men during conceptive phases for other reasons. By contrast, when women do express interest in extra-pair men when conceptive, they may be particularly interested in muscular men. This may be one reason why preference shifts are weak overall and not consistently detected. It also remains untested to date.”
+    - “In our recently collected dataset of 181 women, we examined moderating impacts of ovarian hormone levels on the association between male partners' attractiveness and women's extra-pair sexual interests (Dinh et al., 2022a). Analyses found that when women's progesterone levels were low—characteristic of the follicular and peri-ovulatory phase—partner attractiveness more strongly predicted extra-pair interest in a negative direction, consistent with previous effects. However, some preregistered effects examined were near-zero. All in all, the null hypothesis that there exist no effects is a very poor explanation of the overall pattern of results, even if we currently do not fully understand the reasons for variable effects (Dinh et al., 2022a,b)10. This moderation effect, if robust, begs a question. This effect assumes that women differentially value sexually attractive features across conceptive versus non-conceptive phases. Yet, as we discussed above, large-scale replication studies have not found strong, compelling evidence for hormonal moderation of mate preferences (e.g., for muscular bodies). Durante et al. (2016) suggested one possible resolution. Perhaps mate preference shifts are moderated. For instance, women who are strongly attached to partners may express relatively little interest in extra-pair men when conceptive. It may make sense that these women also show little evidence of increased interest in, say, muscular men when conceptive. The same may apply for women with attractive partners—or, more generally, women who show relatively little interest in extra-pair men during conceptive phases for other reasons. By contrast, when women do express interest in extra-pair men when conceptive, they may be particularly interested in muscular men. This may be one reason why preference shifts are weak overall and not consistently detected. It also remains untested to date.”
         - Essentially, even if women’s interests are changing slightly due to hormone cycles, no study has shown that a woman is more willing to “cheat” or engage in extra-pair sexual activity.
             - Dixson et al., 2018; Jones et al., 2018c,d; Jünger et al., 2018a,b; Marcinkowska et al., 2018; Stern et al., 2019, 2020, 2021)
                 - All failed to find women choosing different mates based on their ovulation cycle.
 # Hypergamy
 ## What is hypergamy?
-- Massive discussion paper from the _Institute of Labor Economics_, “[The Economics of Hypergamy](https://cepr.org/publications/dp17914)”, by Ingvild Almas et al.
+- Massive discussion paper from the Institute of Labor Economics, “[The Economics of Hypergamy](https://cepr.org/publications/dp17914)”, by Ingvild Almas et al.
     - “Using evidence from more than 33 million marriages and 67 million births in England and Wales 1837-2022 we show that there was never within this era any period of significant hypergamous marriage by women. The average status of women’s fathers was always close to that of their husbands’ fathers. Consistent with this there was no differential tendency in England of men and women to marry by social status. The evidence is of strong symmetry in marital behaviors between men and women throughout. There is also ancillary evidence that physical attraction cannot have been a very significant factor in marriages in any period 1837-2021, based on the correlation observed in underlying social abilities.”
     - “There is good evidence that women value status more, and physical appearance less, than do men in forming marriages. Yet the popular belief that this produces significant female hypergamy in marriage is incorrect. In England all the way from 1837 to 2021 we find that female marital hypergamy was extremely modest. The average difference between men and women in marriage in terms of their family status was modest and at times non-existent. In terms of family status, matching in marriage was nearly symmetrical between men and women. The male preference for physical attraction would be predicted to reduce the correlation between marital partners in family status. But this was the same effect for women as compared to men.”
 ## If women are hypergamous, why do men cheat more?
 - Men still [report](https://today.yougov.com/topics/society/articles-reports/2022/10/04/how-many-americans-have-cheated-their-partner-poll) cheating in a 2022 YouGov poll 2x as much as women in the US, even though they consider fewer things to be “cheating” than women do. A 2018 study by the Institute of Family Studies researcher Wendy Wang [reports](https://ifstudies.org/blog/predicting-infidelity-an-updated-look-at-who-is-most-likely-to-cheat-in-america) similarly that 20% of men and 10% of women have cheated in a marriage.
 - Rollo [tweeted](https://twitter.com/RationalMale/status/979589521011482625) in 2018 “Guys will berate other guys for cheating. We tell him, at least be a Man and break up with her first. Girls don’t do this. They believe it’s a woman’s prerogative to cheat and keep their LTR in the dark if it means optimizing Hypergamy. The Sisterhood has no code like men do.”
 - Men’s reported rates of cheating is almost 2x as much as women, and this holds true across almost all cultures.
-- **If women have unprecedented access to “alphas” via Tinder and IG, and social encouragement to cheat, and biological imperative to cheat, shouldn’t women be cheating far, far more than men?**
-- **In 2018, Rollo** [**wrote**](https://therationalmale.com/2018/01/15/hypergamy-the-misconceptions/)**: “Hypergamy is an evolved social dynamic. That is to say it is the behavioral extension of biological factors; most notably Ovulatory Shift.”** **Since there is no research supporting this idea of the “dual-mating” hypothesis, is Rollo prepared to walk back the idea of women being hypergamous?**
+- If women have unprecedented access to “alphas” via Tinder and IG, and social encouragement to cheat, and biological imperative to cheat, shouldn’t women be cheating far, far more than men?
+- In 2018, Rollo [wrote](https://therationalmale.com/2018/01/15/hypergamy-the-misconceptions/): “Hypergamy is an evolved social dynamic. That is to say it is the behavioral extension of biological factors; most notably Ovulatory Shift.” Since there is no research supporting this idea of the “dual-mating” hypothesis, is Rollo prepared to walk back the idea of women being hypergamous?
 - In a [2021 YouTube video](https://www.youtube.com/watch?v=MyR6FcT7ozQ&t=837s), Rollo brought up the 17 women for every 1 man hypothesis.
     - This comes from a 2015 study
         - “Researchers discovered a dramatic decline in genetic diversity in male lineages 4,000 to 8,000 years ago – likely the result of the accumulation of material wealth, while in contrast, female genetic diversity was on the rise. This male-specific decline occurred during the mid- to late-Neolithic period. “Instead of ‘survival of the fittest’ in a biological sense, the accumulation of wealth and power may have increased the reproductive success of a limited number of ‘socially fit’ males and their sons,” said Melissa Wilson Sayres, a leading author and assistant professor with ASU’s School of Life Sciences.”
@@ -67,7 +67,7 @@ Random Factoid
 ## If women are hypergamous, how do you explain their attractions to pool boys and gang members?
 - It seems as though “pool boys” and “gangsters” represent the bottom of society in several ways, but, most importantly, they lack the ability to provision resources, which is arguably the key feature of an alpha.
 - It’s not clear that having these “alpha traits” even gets men more play, for example:
-    - In a [2015 study](https://journals.sagepub.com/doi/10.1177/1474704915604563) published in _Evolutionary Psychology_ by Frederick and Jenkins, 60,058 heterosexual participants, in which 52% were men, were surveyed on average sexual partners, with height and BMI being two factors they looked at.
+    - In a [2015 study](https://journals.sagepub.com/doi/10.1177/1474704915604563) published in Evolutionary Psychology by Frederick and Jenkins, 60,058 heterosexual participants, in which 52% were men, were surveyed on average sexual partners, with height and BMI being two factors they looked at.
         - Height
             - very short (5′2″–5′4″; 1%): 9.4 partners
             - short (5′5″–5′7″; 9%): 11.0 partners
@@ -98,12 +98,12 @@ Random Factoid
     - Jennifer Lopez literally split with her husband, Marc Anthony, and started dating a back-up dancer, Casper Smart.
 Random other topics
 The Donovan/Aba&Preach Drama
-- In February, this year, [you claimed](https://www.youtube.com/watch?v=91bfIRLkNCI) that Anthony Johnson was feeding information to Alex from Playing With Fire and Aba and Preach and was paying them money to create the videos. **Do you have any evidence of this, or are you prepared to rescind those claims?**
+- In February, this year, [you claimed](https://www.youtube.com/watch?v=91bfIRLkNCI) that Anthony Johnson was feeding information to Alex from Playing With Fire and Aba and Preach and was paying them money to create the videos. Do you have any evidence of this, or are you prepared to rescind those claims?
     - “I’ll be happy to release all the screenshots I have of you cyber-stalking my daughter.”
     - “You know damn well you took money.” about Aba & Preach’s video about Donovan Sharpe.
     - “You have no reason” to make those videos. Yet Donovan Sharpe did a 5 hour live-stream dragging someone he thought was Preach’s wife.
-- You claimed in the same video that a big hit piece was coming from Donovan Sharpe to Aba and Preach. This was 3 months ago, **where is the hit piece?**
-- Donovan Sharpe said that Preach’s wife was a “fucking fatass,” and his information eventually came out as incorrect. **Why did you defend him when he was attacking the wrong woman?**
+- You claimed in the same video that a big hit piece was coming from Donovan Sharpe to Aba and Preach. This was 3 months ago, where is the hit piece?
+- Donovan Sharpe said that Preach’s wife was a “fucking fatass,” and his information eventually came out as incorrect. Why did you defend him when he was attacking the wrong woman?
 “The Tweet”
 - You said on the Whatever podcast this month that that tweet was “tongue in cheek,” then asked “if I told you to jump off a bridge, would you do it?” Are you saying your advice was the equivalent of asking your fans to jump off a bridge?
 - You also said “the point of the tweet was to show what makes a high value guy.” What makes a high value man, then? Why do Ben Shapiro, Elon Musk and Jeff Bezos not qualify?
@@ -114,8 +114,8 @@ The Donovan/Aba&Preach Drama
     - 4. Lift consistently
     - 5. Eliminate all sedations
     - 6. Learn Game & Networking
-    - **7. Play to your strengths, build wealth**
-    - **8. Resist easing up on your focus**
+    - 7. Play to your strengths, build wealth
+    - 8. Resist easing up on your focus
 Divorce
 - Men fare better than women after divorce.
     - They make more money.
@@ -134,8 +134,8 @@ Divorce
                 - These are very, very, very rare things that the manosphere seem to base their entire understanding of “divorce” around!
             - In 2017, full child support payments were received by 46.4% and 43.1% of custodial mothers and fathers, respectively.
     - They win custody if they fight for it.
-        - Quoting from an old Massachusetts gender bias study, published in the _New England Law Review_, Spring of 1990, [Gender Bias Study of the Court System in Massachusetts](https://amptoons.com/blog/files/Massachusetts_Gender_Bias_Study.htm)
-            - “We began our investigation of child custody aware of a common perception that there is a bias in favor of women in these decisions. Our research contradicted this perception. **Although mothers more frequently get primary physical custody of children following divorce, this practice does not reflect bias but rather the agreement of the parties and the fact that, in most families, mothers have been the primary [*748] caretakers of children. Fathers who actively seek custody obtain either primary or joint physical custody over 70% of the time.** Reports indicate, however, that in some cases perceptions of gender bias may discourage fathers from seeking custody and stereotypes about fathers may sometimes affect case outcomes. In general, our evidence suggests that the courts hold higher standards for mothers than fathers in custody determinations.”
+        - Quoting from an old Massachusetts gender bias study, published in the New England Law Review, Spring of 1990, [Gender Bias Study of the Court System in Massachusetts](https://amptoons.com/blog/files/Massachusetts_Gender_Bias_Study.htm)
+            - “We began our investigation of child custody aware of a common perception that there is a bias in favor of women in these decisions. Our research contradicted this perception. Although mothers more frequently get primary physical custody of children following divorce, this practice does not reflect bias but rather the agreement of the parties and the fact that, in most families, mothers have been the primary [748] caretakers of children. Fathers who actively seek custody obtain either primary or joint physical custody over 70% of the time. Reports indicate, however, that in some cases perceptions of gender bias may discourage fathers from seeking custody and stereotypes about fathers may sometimes affect case outcomes. In general, our evidence suggests that the courts hold higher standards for mothers than fathers in custody determinations.”
     - Alimony is rare.
         - Quoting from a [legal blog](https://www.marseelaw.com/gender-and-alimony-who-gets-it-who-pays-it-whats-changing/#:~:text=In%20the%201960s%2C%2025%20percent,is%20closer%20to%2010%20percent.)
             - “Today, it is far less common for anybody, male or female, to receive alimony after divorce than it was in the past. In the 1960s, 25 percent of divorce settlements included alimony orders. Now, this figure is closer to 10 percent. Women are still the primary alimony recipients, but the number of men who receive alimony from their former spouses is increasing. According to the 2000 census, 0.5 percent of alimony recipients in the United States were male. By 2010, 3 percent of the 400,000 alimony recipients in the country were male.
@@ -144,35 +144,35 @@ I am the only person here with flexibility to change their beliefs. I have no bo
 Vasectomy reversals
 - Typically cost between $5k-$15k, not covered by insurance.
 - Success rate anywhere from 80%-90%
-    - Outcomes of Macrosurgical Versus Microsurgical Vasovasostomy in [Vasectomized Men: a Systematic Review and Meta-analysis](https://www.springer.com/journal/42399) (2021), M. Duijn, _SN Comprehensive Clinical MedicineI_
+    - Outcomes of Macrosurgical Versus Microsurgical Vasovasostomy in [Vasectomized Men: a Systematic Review and Meta-analysis](https://www.springer.com/journal/42399) (2021), M. Duijn, SN Comprehensive Clinical MedicineI
         - “A total of 8305 patients were included by 25 studies. Descriptive analysis showed higher post-operative patency (80.5% vs 91.4%) and pregnancy rates (47.7% vs 73.3%) after microscopic vasovasostomy.”
 # Tate’s Trafficking Charges
 ## What are the Tate brothers and Luana and Georgiana being charged with?
 [https://www.diicot.ro/mass-media/4082-comunicat-de-presa-2-20-06-2023](https://www.diicot.ro/mass-media/4082-comunicat-de-presa-2-20-06-2023)
 [https://www.docdroid.net/kxw0PEr/indictment-en-pdf](https://www.docdroid.net/kxw0PEr/indictment-en-pdf)
-- **Andrew Tate**
+- Andrew Tate
     - Constituting an organized criminal group
     - Human trafficking in a continuous form (4 material acts/victims)
     - Continued rape (2 material acts against 1 victim)
-- **Tristan Tate**
+- Tristan Tate
     - Constituting an organized criminal group
     - Human trafficking in a continuous form (3 material acts/victims)
     - Instigation to assault or other violence (By Georgiana on one of the victims)
-- **Georgiana Naghel**
+- Georgiana Naghel
     - Constituting an organized criminal group
     - Human trafficking in a continuous form (6 material acts/victims)
     - Assault or other violence
     - Illegal access to a computer system
     - Illegal modification of computer data
-- **Luana Radu**
+- Luana Radu
     - Constituting an organized criminal group
     - Human trafficking in a continuous form (5 material acts/victims)
-- **IMPORTANT: DIICOT also opened a new in-rem criminal investigation file into separate allegations of:**
+- IMPORTANT: DIICOT also opened a new in-rem criminal investigation file into separate allegations of:
     - Money laundering
     - Favoring the perpetrator
     - Influencing statements (witness tampering equivalent)
     - Additional human trafficking
-    - **Trafficking of minors**
+    - Trafficking of minors
 ## Romania Human Trafficking Law
 \#M3  
 ART. 210  
@@ -184,7 +184,7 @@ b) by taking advantage of the inability of a person to defend him/herself or to 
 c) by giving and receiving payments or other benefits in exchange for the consent of an individual having authority over such person, shall be punishable by no less than 3 and no more than 10 years of imprisonment and a ban on the exercise of certain rights.  
 (2) Trafficking in persons perpetrated by a public servant while fulfilling his/her professional duties and prerogatives shall be punishable by no less than 5 and no more than 12 years of imprisonment.  
 (3)  
-**The consent of an individual who is a victim of trafficking does not represent a justifying ground *if said consent is obtained via coercion, deception or abuse of power.**
+The consent of an individual who is a victim of trafficking does not represent a justifying ground if said consent is obtained via coercion, deception or abuse of power.
 ## Romania organized crime law
 ART. 367
 Creation of an organized offense group
@@ -218,11 +218,11 @@ criminal investigation body shall order the criminal investigation to start.
 as the case may be, the mentions stipulated in Art. 286 par. (2) lett. a) - c) and
 g).
 \#M2
-(3) When the existing data and evidence in the case constitute **probable cause** to
-believe that a **certain individual** has committed the offense that warranted the
+(3) When the existing data and evidence in the case constitute probable cause to
+believe that a certain individual has committed the offense that warranted the
 start of the criminal investigation the prosecutor shall order that the criminal
 investigation continue in relation to that individual, and the latter shall acquire
-the capacity of **suspect**.
+the capacity of suspect.
 (4) In case of the individuals whose being a target of a criminal investigation is
 conditioned on obtaining a prior authorization or completion of another
 preliminary condition, the start of the criminal investigation can only be ordered
@@ -261,7 +261,7 @@ b) shall return an order to close the case or drop charges, as under the law.
 ## Are the Tate brothers being solely accused of running a criminal gang to take money from women’s TikTok accounts?
 Here are screenshots from page 27 - 29 of the 86 page document that was released. It discusses why they are really charged with setting up an organized criminal group, and it wasn’t just about TikTok. The second image discusses how one victim was manipulated into performing pornographic events and working on TikTok.
 [https://www.docdroid.net/Xctlxsd/motivare-tate-1-pdf](https://www.docdroid.net/Xctlxsd/motivare-tate-1-pdf)
-**TikTok was used to funnel customers into OnlyFans.**
+TikTok was used to funnel customers into OnlyFans.
 ![image2.png](image2.png)
 ![image3.png](image3.png)
 ![image1.png](image1.png)
@@ -405,7 +405,7 @@ In conclusion, considering the reasons presented, under art. 4251, para. 7, poin
 - P.C-D. revealed that for platforms like OnlyFans and TikTok, they used American SIM cards and banned them for Romania through a VPN.
 ## Conversation Transcripts (Source is 10th January court of appeals hearing document, they are transcripts that the judge deemed relevant to establishing a “reasonable suspicion” the defendants committed the crime of human trafficking)
 [https://www.docdroid.net/Xctlxsd/motivare-tate-1-pdf](https://www.docdroid.net/Xctlxsd/motivare-tate-1-pdf)
-**TRANSCRIPTS PART 1**
+TRANSCRIPTS PART 1
 "[04/02/2022, 13:55:01] Andrew: You must understand that once you are mine, you will be mine forever. A woman never leaves her man. I will be the last man in your life.";
 "[04/02/2022, 17:15:24] Andrew: What do we do if we fall in love and I kidnap you to bring you to Bucharest?
 [04/02/2022, 17:15:57] A. U.: I don't think it's kidnapping if I want to come.";
@@ -452,7 +452,7 @@ In conclusion, considering the reasons presented, under art. 4251, para. 7, poin
 [09/02/2022, 01:02:45] Andrew: And I will always take care of you
 [09/02/2022, 01:02:57] Andrew: Nothing bad will happen
 [09/02/2022, 01:03:01] Andrew: But you have to be on my side.”
-**TRANSCRIPTS PART 2**
+TRANSCRIPTS PART 2
 "[02/03/2022, 04:24:02] A. U.: I'm at home with some girls who work for G... you said I would stay with G.
 [02/03/2022, 04:25:12] A. U.: I feel a bit weird
 [02/03/2022, 04:25:43] A. U.: and G said you'll probably come in 5 days???
@@ -467,8 +467,8 @@ In conclusion, considering the reasons presented, under art. 4251, para. 7, poin
 [02/03/2022, 12:29:54] A. U.: So, they undress and stuff? Or something else
 [02/03/2022, 12:30:39] Andrew: No, just bikini
 [02/03/2022, 12:30:41] Andrew: and lingerie
-**[02/03/2022, 12:30:47] Andrew: and they have a live show on TikTok**
-**[02/03/2022, 12:30:56] Andrew: which makes a lot of money**
+[02/03/2022, 12:30:47] Andrew: and they have a live show on TikTok
+[02/03/2022, 12:30:56] Andrew: which makes a lot of money
 [02/03/2022, 12:32:00] A. U.: then why do they need to work for G.? They could do this on their own
 [02/03/2022, 12:35:30] Andrew: they can't
 [02/03/2022, 12:35:32] Andrew: not properly
@@ -483,7 +483,7 @@ In conclusion, considering the reasons presented, under art. 4251, para. 7, poin
 [29/03/2022, 13:20:16] A. U.: OnlyFans and TikTok.
 [29/03/2022, 13:20:22] Andrew: Tristan and Georgiana are.
 [29/03/2022, 13:20:25] Andrew: But I am the one leading them."
-**TRANSCRIPTS PART 3**
+TRANSCRIPTS PART 3
 "[03/03/2022, 14:43:03] A. U.: I had breakfast, talked to my sister. Just had a chat with Y. and she told me something happened between you two. I want to do my exercises, send some emails, read the bible, and maybe go out later if someone else wants to go.
 [03/03/2022, 14:43:14] A. U.: What are you doing?
 [03/03/2022, 14:44:23] Andrew: Yes, go out but only with someone else, not alone.
@@ -511,8 +511,8 @@ In conclusion, considering the reasons presented, under art. 4251, para. 7, poin
 [08/04/2022, 22:33:32] Andrew: This is your last warning.
 [08/04/2022, 22:33:35] Andrew: I can't believe you went.
 [08/04/2022, 22:56:23] A. U.: Ok ♥”
-- ** GO TO 8 FOR REST OF CONVO
-**TRANSCRIPTS PART 4**
+-  GO TO 8 FOR REST OF CONVO
+TRANSCRIPTS PART 4
 "[11/15/21, 1:....:29 PM] Tristan: The next question is obvious.
 [11/15/21, 1:.....:36 PM] Tristan: Why haven't you found the man you're looking for?
 [11/15/21, 1:.....:40 PM] Bear: Is it?
@@ -529,7 +529,7 @@ In conclusion, considering the reasons presented, under art. 4251, para. 7, poin
 [11/30/21, 1:06:39 AM] Bear: I like that a part of me wants to do whatever you ask.
 [11/30/21, 1:07:18 AM] Tristan: Would you really do anything I say?
 [11/30/21, 1:07:24 AM] Tristan: I like how submissive you are."
-**TRANSCRIPTS PART 5**
+TRANSCRIPTS PART 5
 "[12/11/21, 4:45:38 AM] Tristan: You're moving to Europe.
 [12/11/21, 4:45:46 AM] Tristan: You have the plane ticket in January.
 [12/11/21, 4:45:..... AM] Tristan: Ok?
@@ -541,7 +541,7 @@ In conclusion, considering the reasons presented, under art. 4251, para. 7, poin
 [12/22/21, 4:40:49 PM] Tristan: Lord, I wish I was."
 "[1/6/22, 8:54:17 PM] Tristan: Did you change your mind about Europe?
 [1/6/22, 8:54:30 PM] Bear: No."
-**TRANSCRIPTS PART 6**
+TRANSCRIPTS PART 6
 "[3/28/22, 12:11:31 AM] Tristan: Reserve with this card.
 [3/28/22, 12:11:36 AM] Tristan: The name on the card is "T. T."
 [3/28/22, 12:11:43 AM] Bear: Ok, thank you.
@@ -554,7 +554,7 @@ In conclusion, considering the reasons presented, under art. 4251, para. 7, poin
 [4/2/22, 1:34:42 AM] Tristan: You never talk to anyone, unless I introduced you.
 [4/2/22, 1:35:06 AM] Tristan: Romania is my world. No friends from the outside."
 "[4/10/22, 6:39:36 AM] Bear: When can we spend time together, soon? I really wanted to see Romania and for you to be the one showing it to me, please. I want to teach you music and find a job nearby. I can't show my body on OnlyFans – I'm sorry. I want to keep it just for you."
-**TRANSCRIPTS PART 7**
+TRANSCRIPTS PART 7
 [27.08.2021, 23:38:39] Georgiana: Take pictures as you pack your bag for vacation.
 Morning coffee.
 Sweeping or mopping.
@@ -570,7 +570,7 @@ A video of you applying cream, preparing for sleep, and getting into your pajama
 [05.10.2021, 13:58:26] Georgiana: Don't post any of these anywhere.
 [16.10.2021, 02:19:40] C: What do I have to do?
 [16.10.2021, 02:19:54] Georgiana: So, a 2-minute video where instead of a dildo you use a shirt or something (like how you did with the pants), and likewise, bound at the back with handcuffs and gagged.
-**TRANSCRIPTS PART 8**
+TRANSCRIPTS PART 8
 “[09/03/2022, 15:49:13] A. U.: B asked me if I want to go live with her on TikTok
 [09/03/2022, 15:49:31] A. U.: what do you say?
 [09/03/2022, 15:50:45] Andrew: why not
@@ -640,7 +640,7 @@ _Additionally, Andrew says AU can keep all the money from Tiktok, but in reality
 [08/04/2022, 14:23:15] Andrew: you work hard
 [08/04/2022, 14:23:55] A. U.: I've been working almost 8 hours without a break
 [08/04/2022, 14:25:23] Andrew: you'll be rich ♥”
-**TRANSCRIPTS PART 9**
+TRANSCRIPTS PART 9
 [07/02/2022 18:15:37(UTC+0)] Luana: Don't start as well.
 [07/02/2022 18:15:44(UTC+0)] Beatrice: No, I said I'll change. I wasn't complaining here, but instead of staying here, I'd better make videos for OnlyFans since I haven't done them for a while.
 [07/02/2022 18:15:57(UTC+0)] Beatrice: Actually, however you want.
@@ -682,9 +682,9 @@ _Additionally, Andrew says AU can keep all the money from Tiktok, but in reality
 [10/04/2022 01:08:13(UTC+3)] Andrew: And with T's new girl, you're doing a great job.
 [10/04/2022 01:08:21(UTC+3)] Andrew: T wants you to bring her back and for her to stay there.
 [10/04/2022 01:08:30(UTC+3)] Andrew: Tomorrow, I'll take care of B and U. We need to be alone and find a solution for this.
-**[19/02/2022 18:25:49(UTC+2)] Iasmina: Does she know about OnlyFans?**
-**[19/02/2022 18:29:38(UTC+2)] Tristan: No.**
-**[19/02/2022 18:29:46(UTC+2)] Tristan: And she's studying to become a lawyer, she doesn't care.**
+[19/02/2022 18:25:49(UTC+2)] Iasmina: Does she know about OnlyFans?
+[19/02/2022 18:29:38(UTC+2)] Tristan: No.
+[19/02/2022 18:29:46(UTC+2)] Tristan: And she's studying to become a lawyer, she doesn't care.
 [19/02/2022 18:29:49(UTC+2)] Iasmina: I know. She asked me to show her my TikTok, and I wasn't sure.
 [19/02/2022 18:30:15(UTC+2)] Iasmina: Heyy. Sefora just messaged me that she's in Bucharest and asked me to come to her at the hotel, just for a bit.
 [05/03/2022 21:36:12(UTC+2)] Tristan: Go.
@@ -708,13 +708,13 @@ _Additionally, Andrew says AU can keep all the money from Tiktok, but in reality
 [30/03/2022 02:55:30(UTC+3)] Georgiana: You have a 20% deduction, it's been 4 days since you last posted.
 [30/03/2022 02:55:34(UTC+3)] Luana: I'm waiting for yesterday's money.
 [30/03/2022 03:39:01(UTC+3)] Georgiana: IF ANDREW LOOKS TO SEE IF YOU POSTED TIKTOKS, YOU WON'T EVEN HAVE TIME TO PACK. I GUARANTEE YOU'LL FLY FROM THE BALCONY DIRECTLY.
-**TRANSCRIPTS PART 10**
+TRANSCRIPTS PART 10
 [17/01/2022 06:38:50(UTC+0)] Georgiana: I'M CURSING YOU LIKE BEANS BECAUSE WE DON'T HAVE ENOUGH MONEY FOR MEAT.
 [17/01/2022 06:38:52(UTC+0)] Luana: "So far Juicy 160 O. 115 Mercedes 120."
 [18/01/2022 11:00:10(UTC+0)] Georgiana: "I: last TikTok posted on 13 A.: last TikTok posted on 15."
 [18/01/2022 11:00:26(UTC+0)] Georgiana: You can draw your own conclusions.
 [18/01/2022 11:00:39(UTC+0)] Iasmina: 10%.
-**TRANSCRIPTS PART 11**
+TRANSCRIPTS PART 11
 [29/03/2022, 13:20:12] A. U.: I heard that you're the one running the business with the girls.
 [29/03/2022, 13:20:16] A. U.: OnlyFans and TikTok.
 [29/03/2022, 13:20:22] Andrew: Tristan and Georgiana are.
@@ -723,7 +723,7 @@ _Additionally, Andrew says AU can keep all the money from Tiktok, but in reality
 [23/03/2022 00:33:05(UTC+2)] Luana: $3.
 [23/03/2022 00:33:14(UTC+2)] Luana: Give me something, I'm getting annoyed.
 [23/03/2022 00:33:31(UTC+2)] Luana: Because at the end of the month, Andrew will scold Tristan, Tristan will scold me, and I'll scold you.
-**TRANSCRIPTS PART 12**
+TRANSCRIPTS PART 12
 [10/03/2022, 13:56:22] Andrew: Kiss the girls and send me a video. Do something hot and fun. I'm bored and alone on the plane.
 [10/03/2022, 13:58:46] A. U.: Everyone is still sleeping, and I can't do that, baby. I'm not like that.
 [10/03/2022, 13:59:21] Andrew: "Andrew said he wants a video with my pussy on your face."
@@ -751,7 +751,7 @@ _Additionally, Andrew says AU can keep all the money from Tiktok, but in reality
 ...
 [10/03/2022, 16:40:11] Andrew: The pictures are amazing.
 [10/03/2022, 16:40:13] Andrew: I'm proud of you.
-[10/03/2022, 16:40:15] Andrew: You ***.
+[10/03/2022, 16:40:15] Andrew: You .
 [10/03/2022, 16:40:18] Andrew: Well done, baby.
 [10/03/2022, 16:40:37] A. U.: Thank you, baby 😊 ♥
 [10/03/2022, 16:40:42] A. U.: Okay?
@@ -764,7 +764,7 @@ _Additionally, Andrew says AU can keep all the money from Tiktok, but in reality
 [10/03/2022, 16:55:10] A. U.: And what if I don't submit?
 [10/03/2022, 16:55:23] Andrew: You will submit because that's how you get my attention and love.
 [10/03/2022, 16:55:32] Andrew: And punishment comes from love.
-**TRANSCRIPTS PART 13**
+TRANSCRIPTS PART 13
 [N/A] Andrew Tate: You need a tattoo of my name or a big slap
 [N/A] Girl: No tattoos, baby, I hate tattoos. They look cool on others, but not on me.
 [N/A] Andrew Tate: If I told you to put my name in a tattoo, you would do it, so you better hope I don't want that, and I don't want it yet.
@@ -789,7 +789,7 @@ _Additionally, Andrew says AU can keep all the money from Tiktok, but in reality
 [N/A] Girl: Do you want me to be your slave or your wife?
 [N/A] Andrew Tate: You will do whatever I tell you, which is the same thing. If I choose a woman to be my wife, she will love me enough to let me do as I please. I will decide if she is a slave. She doesn't make the rules; I am the man. I don't listen to complaints from women. Just trust me and shut up, don't annoy me again today! It doesn't matter if I call you a slave; what matters is that I can do it if I want to without you being stupid. There are enough stupid women. If I want to choose, I have 10,000 options to choose from.
 [N/A] Andrew Tate: You have to accept that you are mine forever, no matter what I do. And if you want me to treat you nicer, you will convince me with tenderness.
-**TRANSCRIPTS PART 14**
+TRANSCRIPTS PART 14
 RADU LUANA: Professor Cezar Petrică
 RADU LUANA: This is the prosecutor in the case.
 U.M: Cezărel
@@ -809,15 +809,15 @@ RADU LUANA: The one who conducted our search
 U.M: DOOD
 RADU LUANA: I'm preparing the file on her.
 ## Pertinent quotes from judges in the case
-**“**In assessing the maintenance of the concrete danger for public order that the investigation of the defendants at large would present at this stage of the procedure, it is necessary to have in mind given the particularities of the present case, namely: the nature and seriousness of the acts alleged to have been committed by the defendants.
-This is related to: the well-structured nature of the group in question, each member having a clearly established role; **the diversity and multiplicity**
-**of material evidence in the case of each crime**; their transnational character; the long time span in which they were executed; the large number of victims, the consequences produced consisting of the damages caused to each injured person mentioned in the factual situation, by committing the crimes of rape and human trafficking; the sums of money obtained from such serious crimes; the
+“In assessing the maintenance of the concrete danger for public order that the investigation of the defendants at large would present at this stage of the procedure, it is necessary to have in mind given the particularities of the present case, namely: the nature and seriousness of the acts alleged to have been committed by the defendants.
+This is related to: the well-structured nature of the group in question, each member having a clearly established role; the diversity and multiplicity
+of material evidence in the case of each crime; their transnational character; the long time span in which they were executed; the large number of victims, the consequences produced consisting of the damages caused to each injured person mentioned in the factual situation, by committing the crimes of rape and human trafficking; the sums of money obtained from such serious crimes; the
 fact that the defendants showed criminal persistence by committing the alleged acts, the judge of rights and liberties thus appreciates that the investigation in a state of freedom or by ordering a less intrusive restrictive measure (judicial control), without custodial character would be able to induce at the level of the defendants' perception, the idea of a form of justified conduct, which would lead to the possibility of their new involvement in committing similar acts.”
 - Judge deliberating on 21st April house arrest extension
 - [https://www.docdroid.net/x74xAS7/21st-april-decision-pdf](https://www.docdroid.net/x74xAS7/21st-april-decision-pdf)
-“Thus, the judge of rights and liberties finds that in the case, with regard to the two defendants .... and ... the conditions provided by art. 223 para. 1 lit. a, b and c and para. 2 C.proc.pen., since from the evidence administered up to this point, in the case there are enough elements to convince an objective observer that it is possible that the defendants have committed the acts for which they are being investigated and the defendants present a concrete danger to public order , there are also **data**
-**that he would have made preparations to evade the criminal investigation by leaving Romania, that he**
-**would have tried to influence the witnesses and exert pressure on the injured persons**.”
+“Thus, the judge of rights and liberties finds that in the case, with regard to the two defendants .... and ... the conditions provided by art. 223 para. 1 lit. a, b and c and para. 2 C.proc.pen., since from the evidence administered up to this point, in the case there are enough elements to convince an objective observer that it is possible that the defendants have committed the acts for which they are being investigated and the defendants present a concrete danger to public order , there are also data
+that he would have made preparations to evade the criminal investigation by leaving Romania, that he
+would have tried to influence the witnesses and exert pressure on the injured persons.”
 - Judge deliberating on 19th May house arrest extension
 - [https://www.https://www.docdroid.net/ZgjESc6/19th-may-decision-pdfdocdroid.net/ZgjESc6/19th-may-decision-pdf](https://www.docdroid.net/ZgjESc6/19th-may-decision-pdf)
 ## Preventive measures in Romanian legal system
@@ -1103,7 +1103,7 @@ These same aspects regarding the distribution of the money also emerged from the
 - A.S-A. mentioned that N.G. and R.A.L. verbally abused and threatened the girls, and they signed papers committing to earn 10,000 euros per month from TikTok.
 - P.I. told the victim P.C-D that the money she earned from OnlyFans went to A.T., who had invested in her dental work and breast implants.
 - P.I. was manipulated by A.T., constantly blackmailed by N.G., and not allowed to leave the location alone.
-**July 18th House Arrest motivation quotes**
+July 18th House Arrest motivation quotes
 “By the order pronounced on June 23, 2023, the preliminary chamber judge found the legality and grounds for the house arrest measure of the four defendants and ordered its maintenance.
 To issue these solutions, the preliminary chamber judge and the judge of rights and freedoms considered cumulatively fulfilled the provisions of Article 223 paragraph (2) of the Criminal Procedure Code, in conjunction with Article 202 paragraph (1) and (3) of the Criminal Procedure Code, namely that there is evidence suggesting a reasonable presumption that the defendants committed the crimes they are accused of, mainly the offenses of forming a criminal organization and human trafficking, and considering the nature of the offenses, the penalties provided by law for them, the manner in which they were committed, and the personal circumstances of the defendants, the imposition and extension of preventive arrest, and subsequently the imposition, extension, and maintenance of house arrest measures for the defendants brought to trial were necessary.”
 “Therefore, preliminarily, based on the aspects observed and stated earlier, the preliminary chamber judge finds that the preventive measure, the legality and grounds of which are to be verified, was legally imposed and maintained against the four defendants.
