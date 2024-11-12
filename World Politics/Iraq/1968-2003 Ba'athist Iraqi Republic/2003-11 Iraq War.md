@@ -1,6 +1,5 @@
 - [link](https://en.wikipedia.org/wiki/Iraq_War)
-- On 20 March 2003 – 18 December 2011,
-- Iraq Survey Group’s Assessment of WMDs - [link](https://web.archive.org/web/20170324220357/https://www.cia.gov/library/reports/general-reports-1/iraq_wmd_2004/Comp_Report_Key_Findings.pdf)
+- On 20 March 2003 – 18 December 2011
 - Office of Special Plans -[link](https://en.wikipedia.org/wiki/Office_of_Special_Plans)
 # 2002-03 Pre-Invasion
 ## 2002 September Dossier
@@ -47,9 +46,7 @@
 - [link](https://en.wikipedia.org/wiki/9/11_Commission)
 - [link](https://en.wikipedia.org/wiki/9/11_Commission_Report)
 - On 8 November 2002,
-    
     - ` ` - [link]
-    
 ## 2003 February Dossier
 - [link](https://en.wikipedia.org/wiki/Iraq_Dossier)
 - On 3 February 2003,
@@ -58,17 +55,16 @@
 ## 2003-04 Abu Ghraib Torture and Prisoner Abuse
 - [link](https://en.wikipedia.org/wiki/Abu_Ghraib_torture_and_prisoner_abuse)
 - On ,
-    
     - ` ` - [link]
-    
 # 2003-11 Post-Invasion
 ## 2004 Butler Inquiry
 - [link](https://en.wikipedia.org/wiki/Butler_Review)
 - On 3 February 2004,
 - On 14 July 2004, The Review of Intelligence on Weapons of Mass Destruction, Report of a Committee of Privy Counsellors was published.
-    
     - ` ` - [link](http://news.bbc.co.uk/nol/shared/bsp/hi/pdfs/14_07_04_butler.pdf) - The Review of Intelligence on Weapons of Mass Destruction, Report of a Committee of Privy Counsellors
-    
+## Duelfer Report
+- [Wiki](https://en.wikipedia.org/wiki/Iraq_Survey_Group#Duelfer_Report)
+- Iraq Survey Group’s Assessment of WMDs - [link](https://web.archive.org/web/20170324220357/https://www.cia.gov/library/reports/general-reports-1/iraq_wmd_2004/Comp_Report_Key_Findings.pdf)
 ## 2006 Execution of Saddam Hussein
 - [link](https://en.wikipedia.org/wiki/Execution_of_Saddam_Hussein)
 - On 30 December 2006, The execution of former Iraqi president Saddam Hussein took place. Saddam was sentenced to death by hanging, after being convicted of crimes against humanity by the Iraqi Special Tribunal for the Dujail massacre—the killing of 148 Iraqi Shi'ites in the town of Dujail—in 1982, in retaliation for an assassination attempt against him.
