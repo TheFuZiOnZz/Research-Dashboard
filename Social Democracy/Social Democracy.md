@@ -12,6 +12,7 @@
     - This excellent article discusses possibilities of pursuing unorthodox monetary policy to help address 21st century problems with 21st century tools.
 - [The Rise and Fall of Social Democracy, 1918–2017, Benedetto et al., 2020](https://annas-archive.org/scidb/10.1017/S0003055420000234)
 - [Nordic economic policies in the 1970s and 1980s, Mjøset, 1987](https://annas-archive.org/scidb/10.1017/S0020818300027533)
+
 ### Swedish Renn-Meidner Model
 - The Rehn–Meidner model is an economic and wage policy model developed in 1951 by two economists at the research department of the Swedish Trade Union Confederation, Gösta Rehn and Rudolf Meidner. The four main goals to be achieved were: Low inflation, Full employment, High growth and Income equality.
 - A 1993 Rudolf Meidner paper called `Why did the Swedish Model Fail?`, ironically, characterized many achievements of the model
@@ -32,6 +33,7 @@
 ### Danish Flexicurity Model
 
 ### Icelandic-Finnish Model
+
 ## Poverty
 Poverty is the state of not having enough material possessions or income for a person's basic needs.
 - A 2017 paper found that
@@ -44,6 +46,7 @@ Poverty is the state of not having enough material possessions or income for a p
 -  - [link](https://www.fcd-us.org/assets/2011/02/First20Focus20-20Tackling20Child20Poverty.pdf\#page=5)
 -  - [link](https://www.cbpp.org/sites/default/files/atoms/files/9-14-18pov.pdf)
 -  - [link](https://www.cbpp.org/sites/default/files/atoms/files/10-25-13ss.pdf)
+
 ## Wealth Inequality
 Wealth inequality is the unequal distribution of assets among residents of a country.
 - The Gini index is a statistical measure used to represent unequal distributions, e.g. income distribution. It can take any value between 1 and 100 points (or 0 and 1). The closer the value is to 100 the greater is the inequality. 40 or 0.4 is the warning level set by the United Nations. Using this index, we see the U.S. higher compared to Social Democratic countries like Denmark, Finland, Norway and Sweden.  - [Gini index - Sweden, United States, Finland, Denmark, Norway, World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=SE-US-FI-DK-NO&name_desc=false)
@@ -55,6 +58,7 @@ Wealth inequality is the unequal distribution of assets among residents of a cou
 - Younger people face unique systemic disadvantages, such as unemployment, lack of housing, and student debt, indicative of an inadequate economy. Compared to previous generations at the same age, millennials and younger people: Are more unemployed, Own fewer homes themselves, Are failing to out-earn their parents and Are burdened with record student debt.  - [Five charts show why millennials are worse off than their parents, Financial Times, 2017](https://www.ft.com/content/e5246526-8c2c-11e7-a352-e46f43c5825d)
 Although this would seem that removing all Wealth Inequality is a good idea, but for example, Zero wage inequality would be bad for a market because small differences in pay can enormously increase productivity, such as in “merit pay” for teachers
 - A 2020 Paper found that `Empirical research investigating the association between teacher pay incentives and student test scores has grown rapidly over the past decade. To integrate the findings from these studies and help inform the debate over teacher merit pay, this meta-analysis synthesizes effect sizes across 37 primary studies, 26 of which were conducted in the United States. Among the U.S. based studies, the results suggest that the effect of teacher merit pay on student test scores is positive and statistically significant (0.043 standard deviation). This summary effect varies by program design and study context, suggesting that teacher merit pay has the potential to improve student test scores in some contexts but researchers and policymakers should pay close attention to program design and implementation.` - [Teacher Merit Pay: A Meta-Analysis, Pham et al., 2021](https://annas-archive.org/scidb/10.3102/0002831220905580)
+
 ## Income Mobility
 Income mobility is the ability of an individual, family or some other group to improve (or lower) their economic status.
 - The Global Social Mobility Index founded by The World Economic Forum is a statistical measure used to represent in individual countries, how many generations it would take a poor family to reach the median income of that country. It can take any value between 1 and 100 points (or 0 and 1). The closer the value is to 100 the greater is the mobility. Using this index, we see the U.S. higher compared to Social Democratic countries like Denmark, Finland, Norway and Sweden.  - [link](https://www.weforum.org/agenda/2020/01/these-are-the-10-countries-with-the-best-social-mobility/)
@@ -64,9 +68,11 @@ Income mobility is the ability of an individual, family or some other group to i
     - `Life expectancy is strongly associated with income across societies and within societies. The relationship between income class and life expectancy within a society is important for evaluating equity and assessing the costs and benefits of public health and social security policies.` - [Role of income mobility for the measurement of inequality in life expectancy, Kreiner et al., 2018](https://www.pnas.org/doi/pdf/10.1073/pnas.1811455115)
 - A 2018 OECD report found that on average, it would take 5 generations to move from the bottom 10% to the median 50% of incomes in the USA compared to Social Democratic countries like Denmark, Finland, Norway and Sweden.  - [link](https://www.oecd.org/social/broken-elevator-how-to-promote-social-mobility-9789264301085-en.htm)
     - `Africa’s very low income from global trade thus creates the need for loans from the World Bank and funds from the International Monetary Fund (IMF).` `In essence, the externalist perspective outlined thus far views African economies as predominantly dependent on global factors.` - [The global ‘order’, socioeconomic status and the economics of African identity, Kamau and Rutland, 2005](https://annas-archive.org/scidb/10.1080/14725840500235407)
+
 ## The Great Gatsby Curve
 The Great Gatsby curve is a chart plotting the relationship between inequality and intergenerational social immobility using both the Gini and Global Social Mobility Indexes. Social democratic countries tend to rank low in both inequality and mobility.
 - `Denmark, Norway, and Finland all fell at the bottom-left part of the curve. This means that a child in a low-income family has a better opportunity to move up the economic ladder than a child in a similar situation in a country with higher inequality and higher elasticity.` - [link](https://www.businessinsider.com/great-gatsby-curve-relationship-between-income-inequality-and-mobility-2020-2?r=US&IR=T\#nordic-countries-are-closely-grouped-together-at-the-low-inequality-high-mobility-part-of-the-curve-2)
+
 ## General Wellbeing
 - In the 2020 World Happiness report, under the section called `The Nordic Exceptionalism` it discusses `What exactly makes Nordic citizens so exceptionally satisfied with their lives?` it concludes that:
     - `While this chapter focuses on the Nordic countries, a quick glance at the other countries regularly found at the top of international comparisons of life satisfaction – Switzerland, the Netherlands, New Zealand, Canada, and Australia – reveals that they also have most of the same elements in place. Thus, there seems to be no secret sauce specific to Nordic happiness that is unavailable to others. There is rather a more general recipe for creating highly satisfied citizens: Ensure that state institutions are of high quality, non-corrupt, able to deliver what they promise, and generous in taking care of citizens in various adversities.` - [The Nordic Exceptionalism: What Explains Why the Nordic Countries are Constantly Among the Happiest in the World, World Happiness Report et al., 2020](https://happiness-report.s3.amazonaws.com/2020/WHR20_Ch7.pdf)
@@ -76,10 +82,12 @@ The Great Gatsby curve is a chart plotting the relationship between inequality a
     - `Today, the Nordic countries boast some of the most gender-equal labour markets in the OECD. Gender gaps in labour market participation and employment are among the OECD's smallest, particularly for highly-educated men and women.` - [Is the Last Mile the Longest? Economic Gains from Gender Equality in Nordic Countries, OECD, 2018](https://www.oecd.org/els/emp/last-mile-longest-gender-nordic-countries-brief.pdf)
 - Political scientists have tracked a relationship between Socioeconomic status (SES) and political participation.
     - `Simply put, those nearer to the top of the Socioeconomic status ladder are far more likely to participate in politics than those closer to the bottom.` - [Social Networks and Political Participation, Campbell, 2013](https://annas-archive.org/scidb/10.1146/annurev-polisci-033011-201728)
+
 ## Innovation
 - In 2020, the European Commission found that in the EU, countries with more functional safety nets (mainly in Scandinavia and Western Europe) perform better when it comes to innovation.
     - `Sweden continues to be the EU innovation leader, followed by Finland, Denmark and the Netherlands.` - [link](https://ec.europa.eu/growth/industry/policy/innovation/scoreboards_en)
 - In 2020 the World bank ranked Sweden 2nd and the U.S. 3rd in the Global Innovation Index in the highest income group.  - [link](https://www.visualcapitalist.com/national-innovation-the-most-innovative-countries-by-income/)
+
 # Social Safety Nets
 ## [Socialised Healthcare](../Political%20Positions/Social%20Policy/Socialised%20Healthcare)  
 ## [Wage Earner Funds](../Political%20Positions/Economic%20Policy/Wage%20Earner%20Funds)  
@@ -89,18 +97,22 @@ The Great Gatsby curve is a chart plotting the relationship between inequality a
 ## [Socialised Housing](../Political%20Positions/Social%20Policy/Socialised%20Housing)  
 ## [Food Stamps](../Political%20Positions/Economic%20Policy/Food%20Stamps)  
 ## [Unemployment Benefits](Unemployment%20Benefits.md)  
+
 # Economic Funding/Growth
 ## [Keynesian Economics](../Political%20Positions/Economic%20Policy/Keynesian%20Economics)  
 ## [Progressive Income Tax](../Political%20Positions/Economic%20Policy/Progressive%20Income%20Tax)  
 ## [Multilateral & Liberalized Trade](../Political%20Positions/Economic%20Policy/Multilateral%20&%20Liberalized%20Trade)  
+
 # Workers Rights
 ## [Unions](../Political%20Positions/Economic%20Policy/Unions)  
 ## [Capped Work Time](../Political%20Positions/Economic%20Policy/Capped%20Work%20Time)  
 ## [Worker Benefits](../Political%20Positions/Economic%20Policy/Worker%20Benefits)  
 ## [Social Equality](../Political%20Positions/Economic%20Policy/Social%20Equality)  
+
 # Environmental Regulation
 ## [Carbon Tax](../Political%20Positions/Environmental%20Policy/Carbon%20Tax)  
 ## [Emissions Trading](../Political%20Positions/Environmental%20Policy/Emissions%20Trading)  
 ## [1970- Environmental Protection Agency](../Political%20Positions/Environmental%20Policy/1970-%20Environmental%20Protection%20Agency)  
+
 # Anti-Social Democracy Debunks
 ## [Government Assistance Doesn’t Make People Lazy](../Political%20Positions/Economic%20Policy/Government%20Assistance%20Doesn’t%20Make%20People%20Lazy)  
