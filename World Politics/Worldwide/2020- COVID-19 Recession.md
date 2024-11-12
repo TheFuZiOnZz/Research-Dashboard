@@ -1,1 +1,84 @@
 - [Wiki](https://en.wikipedia.org/wiki/COVID-19_recession?wprov=sfti1)
+- On
+- [link](https://www.youtube.com/playlist?list=PL82yk73N8eoWneZjR0wiidhGkAMOeIYAS)
+# What is COVID-19?
+## Define
+- Coronavirus disease 2019 (COVID-19) is a contagious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+- Symptoms of COVID-19 are variable, but often include fever, cough, headache, fatigue, breathing difficulties, and loss of smell and taste.
+## Long COVID
+- Coronavirus effects long term have been documented as well, also known as `Long COVID` is a set of symptoms people experience after recovering from a diagnosis of COVID-19 6 months after.
+- A 2021 paper found that `52% (32/61) of home-isolated young adults, aged 16–30 years, had symptoms at 6 months, including loss of taste and/or smell (28%, 17/61), fatigue (21%, 13/61), dyspnea (13%, 8/61), impaired concentration (13%, 8/61) and memory problems (11%, 7/61). Our findings that young, home-isolated adults with mild COVID-19 are at risk of long-lasting dyspnea and cognitive symptoms highlight the importance of infection control measures, such as vaccination.` [link](https://www.nature.com/articles/s41591-021-01433-3.pdf)
+- A 2021 paper found that `Respondents were considered recovered if they identified themselves as no longer experiencing symptoms at the time of survey completion. 257 respondents (6.8%) recovered after day 28 of illness, and 3505 (93.2%) were still experiencing symptoms at the time of survey completion.` [link](https://www.thelancet.com/pdfs/journals/eclinm/PIIS2589-5370(21)00299-6.pdf)
+- A 2021 paper found that `The 5 most common manifestations were fatigue (58%, 95% CI 42–73), headache (44%, 95% CI 13–78), attention disorder (27% 95% CI 19–36), hair loss (25%, 95% CI 17–34), dyspnea (24%, 95% CI 14–36)` [link](https://www.nature.com/articles/s41598-021-95565-8.pdf)
+# Proposed Treatments
+## Hydroxychloroquine
+- Mention FDA Emergency Use Authorization clearance and then removal
+- A 2020 Nature Article found that `Hydroxychloroquine and its close chemical cousin chloroquine have attracted disproportionate attention in the coronavirus pandemic, spurred by preliminary studies and endorsement from political leaders such as Trump and French President Emmanuel Macron. So far, there is very little data backing the idea that hydroxychloroquine works against coronavirus infection, yet the fervour surrounding it has created drug shortages and affected enrolment in clinical trials for other potential treatments.` `In treatment guidelines released on 21 April, the US National Institutes of Health noted that there is insufficient data to recommend either for or against the use of chloroquine and hydroxychloroquine in people with COVID-19.` `The resulting race to take, or even to hoard, chloroquine led to global shortages, and people who take it to treat autoimmune diseases struggled to access supplies. Meanwhile, there were reports of illness and deaths linked to chloroquine overdoses in the United States and Nigeria.` [link](https://www.nature.com/articles/d41586-020-01165-3)
+- A 2020 paper found that `The meta-analysis found that there was no clinical benefit of using either HCQ by itself or in combination with AZM for the treatment of COVID-19 patients. Hence, it may be prudent for clinicians and researchers to focus on other therapeutic options that may show greater promise in this disease.` [link](https://www.annals.edu.sg/pdf/49VolNo10Oct2020/V49N10p789.pdf)
+## Ivermectin
+- The CDC says `Ivermectin is a U.S. Food and Drug Administration (FDA)-approved prescription medication used to treat certain infections caused by internal and external parasites. When used as prescribed for approved indications, it is generally safe and well tolerated.` `Ivermectin is not authorized or approved by FDA for prevention or treatment of COVID-19. The National Institutes of Health’s (NIH) COVID-19 Treatment Guidelines Panel has also determined that there are currently insufficient data to recommend ivermectin for treatment of COVID-19.` [link](https://emergency.cdc.gov/han/2021/han00449.asp)
+- A 2021 paper found that `A total of 115 patients were enrolled for the study of which 112 were included in the final analysis. Of them, 55 were randomised to the intervention arm while 57 were randomised to the placebo arm. There was no significant difference in the baseline characteristics of the two arms. There was no significant difference in the primary outcome, i.e. negative RT-PCR status on day 6 between the two groups. Similarly, there was no significant difference between the two groups in most of the secondary outcome measures, viz.` [link](https://www.medrxiv.org/content/medrxiv/early/2021/01/09/2021.01.05.21249310.full.pdf)
+- A 2021 paper found that `After the selection, twelve studies (five retrospective cohort studies, six randomized clinical trials and one case series), were included. In total, 7412 participants were reported, the mean age was 47.5 (SD 9.5) years, and 4283 (58%) were male. Ivermectin was not associated with reduced mortality (logRR: 0.89, 95% CI 0.09 to 1.70, p = 0.04, I2= 84.7%), or reduced patient recovery (logRR 5.52, 95% CI -24.36 to 35.4, p = 0.51, I2 = 92.6%). All studies had a high risk of bias, and showed a very low certainty of the evidence.` [link](https://www.medrxiv.org/content/medrxiv/early/2021/01/27/2021.01.26.21250420.full.pdf)
+- A 2021 paper found that `We included 29 RCTs which enrolled 5592 cases. Overall, the certainty of the evidence was very low to low. Compared to standard of care, ivermectin may reduce mortality, may increase symptom resolution or improvement, may increase viral clearance, may reduce infections in exposed individuals and may decrease hospitalizations (Risk difference (RD) 21 fewer per 1000, 95%CI: 35 fewer to 4 more). However, after excluding trials classified as “high risk” or “some concerns” in the risk of bias assessment, most estimates of effect changed substantially: Compared to standard of care, low certainty evidence suggests that ivermectin may not significantly reduce mortality (RD 7 fewer per 1000, 95%CI: 77 fewer to 108 more) nor mechanical ventilation (RD 6 more per 1000, 95%CI: 43 fewer to 86 more), and moderate certainty evidence shows that it probably does not significantly increase symptom resolution or improvement (RD 14 more per 1000, 95%CI: 29 fewer to 71 more) nor viral clearance (RD 12 fewer per 1000, 95%CI: 84 fewer to 76 more). It is uncertain if ivermectin increases or decreases severe adverse events and symptomatic infections in exposed individuals.` [link](https://www.medrxiv.org/content/medrxiv/early/2021/08/21/2021.08.19.21262304.full.pdf)
+# Testing Kits
+## `Polymerase Chain Reaction` Test
+- Polymerase Chain Reaction Test, commonly know as a PCR test is a test to detect whether a person has COVID-19 or not.
+- A 2020 paper found that `We estimated that the probability that the PCR test detected infection peaked at 77% (54 - 88%) 4 days after infection, decreasing to 50% (38 - 65%) by 10 days after infection. Our results suggest a substantially higher probability of detecting infections 1–3 days after infection than previously published estimates. We estimated that testing every other day would detect 57% (33-76%) of symptomatic cases prior to onset and 94% (75-99%) of asymptomatic cases within 7 days if test results were returned within a day.` [link](https://www.medrxiv.org/content/medrxiv/early/2020/12/24/2020.11.24.20229948.full.pdf)
+## `Lateral Flow Device` Test
+- Lateral Flow Device Test, commonly known as a LFD or LFT test, is a rapid turnaround test which includes a swab for your throat and nose that can sample remotely whether test positive for COVID-19. LFTs give results in 30 minutes.
+- A 2021 paper found that `Most of the rapid antigen LFDs showed a high specificity (>98%), and accurately detected 50 PFU/test (equivalent N1 Ct of 23.7 or RNA copy number of 3×106/ml). Sensitivities of the LFDs performed on clinical samples ranged from 65 to 89%. These sensitivities increased in most tests to over 90% for samples with Cts lower than 25. Positive virus culture was achieved for 57 out of 141 samples, with 80% of the positive cultures from swabs with Cts lower than 23. ` `In this comprehensive comparison of antigen LFD and virus infectivity, we demonstrate a clear relationship between Ct values, quantitative culture of infectious virus and antigen LFD positivity in clinical samples. Our data support regular testing of target groups using LFDs to supplement the current PCR testing capacity, to rapidly identify infected individuals in situations where they would otherwise go undetected.` [link](https://www.medrxiv.org/content/medrxiv/early/2021/03/02/2021.02.27.21252427.full.pdf)
+## LAMP Test
+- A LAMP or LamPORE Test is a test to detect whether a person has COVID-19 or not.
+- A 2021 Report found that `With samples from asymptomatic participants, the LamPORE test was found to have an overall sensitivity of 99.57% and specificity of 99.4%, meaning the test is highly effective for testing people without symptoms in the community `[link](https://www.gov.uk/government/news/clinical-evaluation-confirms-high-accuracy-of-highly-mobile-lampore-test#:~:text=With%20samples%20from%20asymptomatic%20participants,symptoms%20in%20the%20community)
+# Vaccines
+[link](https://vac-lshtm.shinyapps.io/ncov_vaccine_landscape/)
+## Define
+- The COVID-19 vaccines come in two types, `Viral Vector` and `mRNA`. In the cases of the Pfizer and Moderna COVID-19 Vaccines, they are mRNA compared to Oxford and Janssen COVID-19 Vaccines which are Viral Vectors.
+- Viral Vector Vaccines are based on a human adenovirus that has been modified to contain the gene for making the spike protein of the SARS-CoV-2 virus that causes COVID-19. The body's immune system responds to this spike protein to produce antibodies.
+- A ribonucleic acid (RNA) vaccine or messenger RNA (mRNA) vaccine is a type of vaccine that uses a copy of a molecule called messenger RNA (mRNA) to produce an immune response. The vaccine transfects molecules of synthetic RNA into immune cells, where the vaccine functions as mRNA, causing the cells to build foreign protein that would normally be produced by a pathogen (such as a virus) or by a cancer cell. These protein molecules stimulate an adaptive immune response which teaches the body to identify and destroy the corresponding pathogen or cancer cells.
+## Pfizer–BioNTech
+- The Pfizer–BioNTech COVID-19 vaccine, also known as the Vaxzevria or Comirnarty, is an mRNA vaccine which requires two jabs, taken 21 days apart, to be fully protected after 14 days.
+- In Phase 3 trials, in a 2020 paper, they found that `In the trial of 43,448 participants, who were 16 years and older, 21,720 of whom received BNT162b2 and 21,728 placebo, the two-dose regimen of 30 μg BNT162b2, which was given 21 days apart, was well-tolerated and demonstrated vaccine efficacy of 95% against COVID-19.` [link](https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-announce-publication-results-landmark)
+- The side effects deemed very common are (in order of frequency): pain and swelling at the injection site, tiredness, headache, muscle aches, chills, joint pain, and fever. [link](https://www.ema.europa.eu/en/documents/product-information/comirnaty-epar-product-information_en.pdf)
+- Side effects can include `Most COVID-19 vaccine recipients (92.4%) reported having at least one side effect at the first or second dose (80.9% to 95.4% across manufacturers), with a median of 3 side effects, ranging from 3-4 across vaccine manufacturers (Table 2). However, only 3.1% reported seeking medical care for their post vaccination side effects (4.3% for J&J vaccine recipients followed by Moderna (3.3%) and Pfizer (2.8%)).` [link](https://www.medrxiv.org/content/medrxiv/early/2021/10/18/2021.10.14.21265010.full.pdf)
+- `On August 23, 2021, the FDA approved the first COVID-19 vaccine. The vaccine has been known as the Pfizer-BioNTech COVID-19 Vaccine, and will now be marketed as Comirnaty, for the prevention of COVID-19 disease in individuals 16 years of age and older.` [link](https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/comirnaty-and-pfizer-biontech-covid-19-vaccine)
+## Moderna
+- The Moderna COVID-19 vaccine, also known as the Spikevax, is an mRNA vaccine which requires two jabs to be fully protected after 14 days.
+- In Phase 3 trials, in a 2021 paper, they found that `The mRNA-1273 vaccine showed 94.1% efficacy at preventing Covid-19 illness, including severe disease. Aside from transient local and systemic reactions, no safety concerns were identified.` [link](https://www.nejm.org/doi/10.1056/NEJMoa2035389)
+- Side effects can include `Most COVID-19 vaccine recipients (92.4%) reported having at least one side effect at the first or second dose (80.9% to 95.4% across manufacturers), with a median of 3 side effects, ranging from 3-4 across vaccine manufacturers (Table 2). However, only 3.1% reported seeking medical care for their post vaccination side effects (4.3% for J&J vaccine recipients followed by Moderna (3.3%) and Pfizer (2.8%)).` [link](https://www.medrxiv.org/content/medrxiv/early/2021/10/18/2021.10.14.21265010.full.pdf)
+## Oxford-AstraZeneca
+- The Oxford-AstraZeneca COVID-19 vaccine, is an Viral Vector vaccine which requires two jabs to be fully protected after 14 days.
+- In Phase 3 trials, in a 2021 paper, they found that `Vaccine efficacy after two standard doses was 55·1% (95% CI 33·0–69·9) with an interval of less than 6 weeks and 81·3% (60·3–91·2) when more than 12 weeks apart` [link](https://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(21)00432-3.pdf)
+- Side effects can include
+## Janssen
+- The Janssen vaccine, also known as the Johnson & Johnson vaccine or J&J, is an Viral Vector vaccine which requires one jab to be fully protected after 14 days.
+- In Phase 3 trials, in a 2021 paper, they found that `Ad26.COV2.S protected against moderate to severe–critical Covid-19 with onset at least 14 days after administration (116 cases in the vaccine group vs. 348 in the placebo group; efficacy, 66.9%; adjusted 95% confidence interval [CI], 59.0 to 73.4) and at least 28 days after administration (66 vs. 193 cases; efficacy, 66.1%; adjusted 95% CI, 55.0 to 74.8). Vaccine efficacy was higher against severe–critical Covid-19 (76.7% [adjusted 95% CI, 54.6 to 89.1] for onset at ≥14 days and 85.4% [adjusted 95% CI, 54.2 to 96.9] for onset at ≥28 days).` [link](https://www.nejm.org/doi/full/10.1056/NEJMoa2101544)
+- Side effects can include `Most COVID-19 vaccine recipients (92.4%) reported having at least one side effect at the first or second dose (80.9% to 95.4% across manufacturers), with a median of 3 side effects, ranging from 3-4 across vaccine manufacturers (Table 2). However, only 3.1% reported seeking medical care for their post vaccination side effects (4.3% for J&J vaccine recipients followed by Moderna (3.3%) and Pfizer (2.8%)).` [link](https://www.medrxiv.org/content/medrxiv/early/2021/10/18/2021.10.14.21265010.full.pdf)
+# Masks
+[link](https://www.bmj.com/content/bmj/375/bmj-2021-068302.full.pdf)
+## Define
+## Efficacy
+# Lockdowns
+## Define
+## Efficacy
+# Contact Tracing & Isolation
+## Define
+## NHS Test & Trace
+- A 2021 paper found that `The Rùm model previously estimated that TTI (Test & Trace and Self-isolation) had reduced transmission by around 18 to 33% in October 2020` [link](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1016865/Canna_Model_Technical_Report__5_.pdf)
+- [link](https://www.health.org.uk/publications/long-reads/nhs-test-and-trace-the-journey-so-far)
+- [link](https://www.health.org.uk/news-and-comment/charts-and-infographics/nhs-test-and-trace-performance-tracker)
+# COVID Variants
+## Background
+## Alpha (lineage B.1.1.7)
+- The Alpha variant is the first documented strain
+## Beta (lineage B.1.351)
+- The
+## Gamma (lineage P.1)
+- The
+## Delta (lineage B.1.617)
+- The
+## Omicron (lineage B.1.1.529)
+- The
+# Natural Immunity vs Vaccinated
+## Omicron immunity vs 2 Jabs Vs 3 Jabs
+- A 2022 study found that `individuals boosted with mRNA vaccines exhibited potent neutralization of Omicron, only 4–6-fold lower than wild type, suggesting enhanced cross-reactivity of neutralizing antibody responses. In addition, we find that Omicron pseudovirus infects more efficiently than other variants tested. Overall, this study highlights the importance of additional mRNA doses to broaden neutralizing antibody responses against highly divergent SARS-CoV-2 variants.` [link](https://www.cell.com/cell/pdf/S0092-8674(21)01496-3.pdf)
