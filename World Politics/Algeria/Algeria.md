@@ -1,1 +1,6 @@
-# [1954-62 Algerian War](1954-62%20Algerian%20War)
+
+# 1830-1962 French Algeria
+## [1954-62 Algerian War](1954-62%20Algerian%20War)
+
+# 1962- People's Democratic Republic of Algeria
+## [1992-2002 Algerian Civil War](1992-2002%20Algerian%20Civil%20War)
