@@ -1,4 +1,5 @@
 # 1918-20 First Republic of Armenia
+## [1918 Declaration of Independence of Armenia](1918%20Declaration%20of%20Independence%20of%20Armenia)
 ## [1920 Red Army Invasion of Armenia](1920%20Red%20Army%20Invasion%20of%20Armenia)
 # 1920-91 Armenian Soviet Socialist Republic
 ## [1988-94 First Nagorno-Karabakh War](1988-94%20First%20Nagorno-Karabakh%20War)
