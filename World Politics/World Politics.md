@@ -1,4 +1,3 @@
-
 # [Afghanistan](Afghanistan/Afghanistan)
 # [Algeria](Algeria/Algeria)
 # [Armenia](Armenia/Armenia)

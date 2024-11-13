@@ -1,5 +1,5 @@
 # 1918-20 Azerbaijan Democratic Republic
-## [[1919-20 Paris Peace Conference]]
+## [1919-20 Paris Peace Conference](../Israel-Palestine/1917-48%20Mandatory%20Palestine%20Period/1919-20%20Paris%20Peace%20Conference)
 ## [1918-20 Armenian–Azerbaijani War](1918-20%20Armenian–Azerbaijani%20War)
 ## [1920 Red Army Invasion of Azerbaijan](1920%20Red%20Army%20Invasion%20of%20Azerbaijan)
 # 1920-91 Azerbaijan Soviet Socialist Republic
