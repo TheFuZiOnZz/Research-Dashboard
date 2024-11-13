@@ -3,4 +3,4 @@
 - On May 25th, 2000, Israel unilaterally withdrew its remaining forces from southern Lebanon.
 - Hezbollah retained control of the Sheba'a Farms in southern Lebanon.
 - On
-- 
+	- [Excerpts from Speech by Hizbullah Secretary-General Nasrallah](https://web.archive.org/web/20071023021211/http://www.mfa.gov.il/MFA/MFAArchive/2000_2009/2000/4/Excerpts%20from%20Speech%20by%20Hizbullah%20Secretary-Genera)
