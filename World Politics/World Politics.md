@@ -16,7 +16,7 @@
 # [Hungary](Hungary/Hungary)
 # [Iran](Iran/Iran)
 # [Iraq](Iraq/Iraq)
-# [Ireland](Ireland/Ireland)  
+# [Ireland](Ireland/Ireland)
 # [Israel-Palestine](Israel-Palestine/Israel-Palestine)
 # [Jordan](Jordan/Jordan)
 # [Kazakhstan](Kazakhstan/Kazakhstan)
