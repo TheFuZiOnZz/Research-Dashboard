@@ -9,5 +9,5 @@
 ## [[2020 Second Nagorno-Karabakh War]]
 ## [[2021- Armenia–Azerbaijan Border Crisis]]
 ## [[2021- ICJ Cases on the Elimination of All Forms of Racial Discrimination]]
-## [[]]
+## [[2022-23 Blockade of Nagorno-Karabakh]]
 ## [[2023 Azerbaijani Offensive in Nagorno-Karabakh]]

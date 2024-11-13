@@ -1,1 +1,2 @@
-# [1988- Nagorno-Karabakh Conflict](../Armenia/1988-%20Nagorno-Karabakh%20Conflict)
+# 1920-91 Azerbaijan Soviet Socialist Republic
+# 1991- Republic of 
