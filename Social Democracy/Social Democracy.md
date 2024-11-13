@@ -38,16 +38,19 @@
 - 
 ## Poverty
 Poverty is the state of not having enough material possessions or income for a person's basic needs.
+- A 2011 paper found that
+	- ` ` - [Tackling Child Poverty & Improving Child Well-Being: Lessons from Britain, Waldfogel, 2011](https://www.fcd-us.org/assets/2011/02/First20Focus20-20Tackling20Child20Poverty.pdf)
 - A 2017 paper found that
     - `Low socio-economic status has repeatedly been listed as a risk factor for numerous metabolic conditions, including obesity, type 2 diabetes and CVD. Although the influences of socio-economic status on health are complex and multifactorial, and although metabolic diseases often include environmental and genetic risk, the contribution of dietary factors is not trivial. In this Opinion, we have considered how the dietary trade-offs faced by individuals who do not consume a beneficial ratio of whole, minimally processed foods (for either financial or social reasons) can have a negative impact on the basic metabolism, immune system and general health of the host, in a manner that is at least partly dependent on the microbiota.` - [How poverty affects diet to shape the microbiota and chronic disease, Harrison and Taren, 2018](https://annas-archive.org/scidb/10.1038/nri.2017.121)
+- A 2019 paper found that
+	- ` ` - [Economic Security Programs Cut Poverty Nearly in Half Over Last 50 Years, Trisi and Saenz, 2019](https://www.cbpp.org/sites/default/files/atoms/files/9-14-18pov.pdf)
 - A 2021 paper found that
     - `Poverty traps are one of the most fundamental concepts in development economics. The contribution of this paper has been to provide evidence for their existence using the combination of a randomized asset transfer and an 11-year panel in rural Bangladesh. Our key finding is that people stay poor because they lack opportunity. It is not their intrinsic characteristics that trap people in poverty but rather their circumstances. This has three implications for how we think about development policy.` - [Why Do People Stay Poor?, Balboni et al., 2022](https://web.archive.org/web/20210417172804/https://economics.mit.edu/files/21191)
     - `The first is that big pushes that enable occupational change will be needed to address the global mass poverty problem.` - [Why Do People Stay Poor?, Balboni et al., 2022](https://web.archive.org/web/20210417172804/https://economics.mit.edu/files/21191)
     - `The second is that big push policies can have long-lasting effects.` - [Why Do People Stay Poor?, Balboni et al., 2022](https://web.archive.org/web/20210417172804/https://economics.mit.edu/files/21191)
-    - `The third is that poverty traps create mismatches between talent and jobs.` - [Why Do People Stay Poor?, Balboni et al., 2022](https://web.archive.org/web/20210417172804/https://economics.mit.edu/files/21191)
--  - [link](https://www.fcd-us.org/assets/2011/02/First20Focus20-20Tackling20Child20Poverty.pdf\#page=5)
--  - [link](https://www.cbpp.org/sites/default/files/atoms/files/9-14-18pov.pdf)
--  - [link](https://www.cbpp.org/sites/default/files/atoms/files/10-25-13ss.pdf)
+    - `The third is that poverty traps create mismatches between talent and jobs.` - [Why Do People Stay Poor?, Balboni et al., 2022](https://web.archive.org/web/20210417172804/https://economics.mit.edu/files/21191)- 
+- A 2024 paper found that
+	- ` ` - [Social Security Lifts More People Above the Poverty Line Than Any Other Program, Romig, 2024](https://www.cbpp.org/sites/default/files/atoms/files/10-25-13ss.pdf)
 
 ## Wealth Inequality
 Wealth inequality is the unequal distribution of assets among residents of a country.
