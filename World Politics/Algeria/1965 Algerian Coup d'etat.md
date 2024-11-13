@@ -1,0 +1,1 @@
+- [1965 Algerian coup d'état - Wikipedia](https://en.wikipedia.org/wiki/1965_Algerian_coup_d%27etat)
