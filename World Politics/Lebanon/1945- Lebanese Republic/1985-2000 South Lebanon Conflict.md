@@ -2,5 +2,5 @@
 - On 16 February 1985 - 25 May 2000,
 - On May 25th, 2000, Israel unilaterally withdrew its remaining forces from southern Lebanon.
 - Hezbollah retained control of the Sheba'a Farms in southern Lebanon.
-- On
-	- [Excerpts from Speech by Hizbullah Secretary-General Nasrallah](https://web.archive.org/web/20071023021211/http://www.mfa.gov.il/MFA/MFAArchive/2000_2009/2000/4/Excerpts%20from%20Speech%20by%20Hizbullah%20Secretary-Genera)
+- On 9 April 2000, 
+	- `The Jews invented the legend of the Nazi atrocities. It is clear that the numbers they talk about are greatly exaggerated. They can speak of fabricated or exaggerated massacres that occurred during the Second World War, but we must forget the massacres that they committed against us and the peoples of the region which are documented and proven` - [Excerpts from Speech by Hizbullah Secretary-General Nasrallah, Israel Ministry Of Foreign Affairs, 2000](https://web.archive.org/web/20071023021211/http://www.mfa.gov.il/MFA/MFAArchive/2000_2009/2000/4/Excerpts%20from%20Speech%20by%20Hizbullah%20Secretary-Genera)
