@@ -3,96 +3,96 @@ Theresa May - 13 July 2016 to 24 July 2019
 Boris Johnson - 24 July 2019 to 6 September 2022  
 Lis Truss - 6 September 2022 to 25 October 2022  
 Rishi Sunak - from 25 October 2022 to 4 July 2024  
-## Economic Policy
-[[2010 Spending Review]]
-[[2010-19 Austerity Program]]
-[[2010-13 Privatisation of Royal Mail]]
-[[2011 Budget Responsibility and National Audit Act]]
-[[2012 Welfare Reform Act]]
-[[2016-20 UK Withdrawal from the European Union (Brexit)]]
-[[2021 National Insurance Rise for Health and Social Care]]
-[[2021 Universal Credit COVID Uplift Cut]]
-[[2021- Cost of Living Crisis]]
-[[2022 OBR’s `Fiscal Risks and Sustainability` Report]]
-[[2022 Emergency Mini-Budget]]
-[[2022 Autumn Statement]]
-[[2023 UK Accession to the CPTPP]]
-[[2023 Spring Budget]]
-[[2023 Autumn Statement]]
-## Energy Policy
-[[2019-24 Fracking]]
-[[2014-22 Woodhouse Colliery Coal Coke Mine]]
-## Foreign Policy
-[[2010 Strategic Defence and Security Review]]
-[[2011 NATO Intervention in Libya]]
-[[2014-21 American-led Intervention in Iraq]]
-[[2016–22 Zaghari-Ratcliffe case]]
-[[2019-20 `Intelligence and Security Committee - Russia Report`]]
-## Housing Policy
-[[2022 Housebuilding Targets]]
-## Human Rights Policy
-[[2013 Marriage (Same Sex Couples) Act]]
-[[2016 Trade Union Act]]
-[[2023 Strikes (Minimum Service Levels) Bill]]
-[[2023 Public Order Act]]
-## Law & Order Policy
-[[2012-18 Home Office Hostile Environment Policy]]
-[[2022 Rwanda Asylum Plan]]
-[[2023 Illegal Migration Bill]]
-## Social Services Policy
-[[2012 Health and Social Care Act]]
-[[2019-22 COVID Contracts]]
-[[2020-22 NHS Test & Trace]]
-[[2020-21 Coronavirus Job Retention Scheme]]
-[[2020 School Exam Grading Controversy]]
-[[2020 Eat-Out-to-Help-Out Scheme]]
-[[2021 `Coronavirus, lessons learned to date` Report]]
-[[2019-24 `40 New Hospitals` Manifesto Pledge]]
-## Transport Policy
-[[2010- High Speed 2 (HS2)]]
-## Voting Policy
-[[2022 Dissolution and Calling of Parliament Act]]
-[[2022 Elections Act]]
-## Controversy’s
-[[2010-13 News International Phone Hacking Scandal]]
-[[2010-15 Peter Cruddas, Cash-for-access to PM Scandal]]
-[[2011 England Riots]]
-[[2016-22 Antisemitism in the Labour Party]]
-[[2017-18 Nadine Dorries, Asking Ministers about the EU Customs Union While Advocating to Leave]]
-[[2017 Grenfell Tower Fire]]
-[[2019-21 Owen Paterson, Paid Advocacy Controversy & Resignation]]
-[[2020-21 Priti Patel, Bullying Report Leading To Alex Allan, Johnson’s 1st Ethics Adviser’s Resignation]]
-[[2020 Dominic Cummings, Traveling with COVID Scandal]]
-[[2020-22 11 Downing Street Refurbishment]]
-[[2020-21 Johnson’s `Let the bodies pile high in their thousands` Comment]]
-[[2020-22 Evgeny Lebedev, House of Lords Peerage]]
-[[2020-21 Peter Cruddas, House of Lords Peerage]]
-[[2021-22 `Beergate` Alleged Scandal]]
-[[2021-22 Matt Hancock, Breaching COVID Regulations & Resignation]]
-[[2021-22 The Telegraph’s `The Lockdown Files`]]
-[[2021 Dominic Raab, Holiday During Afghanistan Crisis]]
-[[2021-23 `Partygate` Scandal]]
-[[2022- The Covid-19 Inquiry]]
-[[2022 Johnson’s Comments On Starmer & Saville]]
-[[2022-23 David Warburton, Whip Suspended for Multiple Misconduct Allegations]]
-[[2022 Lee Anderson Foodbanks Comments]]
-[[2022 Nadine Dorries, Channel 4 Paid Actors Claim]]
-[[2022 John Penrose, Anti-Corruption Tsar’s Resignation]]
-[[2022 Conservative Party Vote of Confidence Against Johnson]]
-[[2022 Lord Geidt, Johnson’s 2nd Ethics Adviser’s Resignation]]
-[[2020-23 Chris Pincher Scandal Leading to Johnson’s PM Resignation]]
-[[2022-23 Zahawi, Undeclared Tax Affairs Investigation Leading To Removal Of Chairman Position]]
-[[2022 Johnson’s City Hall Job Scandal]]
-[[2022 Johnson’s `Deep State` Comment in Parliament]]
-[[2022 Truss, U-Turn on Civil Service Pay Plan During Leadership Campaign]]
-[[2022 Suella Braverman, Personal Email Account Usage]]
-[[2022 Andrew Bridgen, Lobbying Breaches]]
-[[2022 Truss’ PM Resignation]]
-[[2022 Suella Braverman, Manston Migrant Centre]]
-[[2022 Gavin Williamson, Bullying Claims Leading to Cabinet Resignation]]
-[[2022-23 Raab, Investigation Into Professional Conduct Leading to Cabinet Resignation]]
-[[2022-23 Andrew Bridgen, Suspended For COVID Misinformation, Joins Reclaim Party]]
-[[2023 UK Gov Stops Scottish Gov’s Gender Recognition Reform Bill]]
-[[2023 Sunak Filmed in Car Without Seatbelt, and Then Fined]]
-[[2023 Richard Sharp, Chairman of the BBC Appointment By Johnson, Leading to Chairman Resignation]]
-[[2023 Suella Braverman, Attempts to Avoid Parking Fine]]
+# Economic Policy
+## [2010 Spending Review](2010%20Spending%20Review)
+## [2010-19 Austerity Program](2010-19%20Austerity%20Program)
+## [2010-13 Privatisation of Royal Mail](2010-13%20Privatisation%20of%20Royal%20Mail)
+## [2011 Budget Responsibility and National Audit Act](2011%20Budget%20Responsibility%20and%20National%20Audit%20Act)
+## [2012 Welfare Reform Act](2012%20Welfare%20Reform%20Act)
+## [2016-20 UK Withdrawal from the European Union (Brexit)](2016-20%20UK%20Withdrawal%20from%20the%20European%20Union%20(Brexit))
+## [2021 National Insurance Rise for Health and Social Care](2021%20National%20Insurance%20Rise%20for%20Health%20and%20Social%20Care)
+## [2021 Universal Credit COVID Uplift Cut](2021%20Universal%20Credit%20COVID%20Uplift%20Cut)
+## [2021- Cost of Living Crisis](2021-%20Cost%20of%20Living%20Crisis)
+## [2022 OBR’s `Fiscal Risks and Sustainability` Report](2022%20OBR’s%20`Fiscal%20Risks%20and%20Sustainability`%20Report)
+## [2022 Emergency Mini-Budget](2022%20Emergency%20Mini-Budget)
+## [2022 Autumn Statement](2022%20Autumn%20Statement)
+## [2023 UK Accession to the CPTPP](2023%20UK%20Accession%20to%20the%20CPTPP)
+## [2023 Spring Budget](2023%20Spring%20Budget)
+## [2023 Autumn Statement](2023%20Autumn%20Statement)
+# Energy Policy
+## [2019-24 Fracking](2019-24%20Fracking)
+## [2014-22 Woodhouse Colliery Coal Coke Mine](2014-22%20Woodhouse%20Colliery%20Coal%20Coke%20Mine)
+# Foreign Policy
+## [2010 Strategic Defence and Security Review](2010%20Strategic%20Defence%20and%20Security%20Review)
+## [2011 NATO Intervention in Libya](../../Libya/2011%20NATO%20Intervention%20in%20Libya)
+## [2014-21 American-led Intervention in Iraq](../../Iraq/2014-21%20American-led%20Intervention%20in%20Iraq)
+## [2016–22 Zaghari-Ratcliffe case](2016–22%20Zaghari-Ratcliffe%20case)
+## [2019-20 `Intelligence and Security Committee - Russia Report`](2019-20%20`Intelligence%20and%20Security%20Committee%20-%20Russia%20Report`)
+# Housing Policy
+## [2022 Housebuilding Targets](2022%20Housebuilding%20Targets)
+# Human Rights Policy
+## [2013 Marriage (Same Sex Couples) Act](2013%20Marriage%20(Same%20Sex%20Couples)%20Act)
+## [2016 Trade Union Act](2016%20Trade%20Union%20Act)
+## [2023 Strikes (Minimum Service Levels) Bill](2023%20Strikes%20(Minimum%20Service%20Levels)%20Bill)
+## [2023 Public Order Act](2023%20Public%20Order%20Act)
+# Law & Order Policy
+## [2012-18 Home Office Hostile Environment Policy](2012-18%20Home%20Office%20Hostile%20Environment%20Policy)
+## [2022 Rwanda Asylum Plan](2022%20Rwanda%20Asylum%20Plan)
+## [2023 Illegal Migration Bill](2023%20Illegal%20Migration%20Bill)
+# Social Services Policy
+## [2012 Health and Social Care Act](2012%20Health%20and%20Social%20Care%20Act)
+## [2019-22 COVID Contracts](2019-22%20COVID%20Contracts)
+## [2020-22 NHS Test & Trace](2020-22%20NHS%20Test%20&%20Trace)
+## [2020-21 Coronavirus Job Retention Scheme](2020-21%20Coronavirus%20Job%20Retention%20Scheme)
+## [2020 School Exam Grading Controversy](2020%20School%20Exam%20Grading%20Controversy)
+## [2020 Eat-Out-to-Help-Out Scheme](2020%20Eat-Out-to-Help-Out%20Scheme)
+## [2021 `Coronavirus, lessons learned to date` Report](2021%20`Coronavirus,%20lessons%20learned%20to%20date`%20Report)
+## [2019-24 `40 New Hospitals` Manifesto Pledge](2019-24%20`40%20New%20Hospitals`%20Manifesto%20Pledge)
+# Transport Policy
+## [2010- High Speed 2 (HS2)](2010-%20High%20Speed%202%20(HS2))
+# Voting Policy
+## [2022 Dissolution and Calling of Parliament Act](2022%20Dissolution%20and%20Calling%20of%20Parliament%20Act)
+## [2022 Elections Act](2022%20Elections%20Act)
+# Controversy’s
+## [2010-13 News International Phone Hacking Scandal](2010-13%20News%20International%20Phone%20Hacking%20Scandal)
+## [2010-15 Peter Cruddas, Cash-for-access to PM Scandal](2010-15%20Peter%20Cruddas,%20Cash-for-access%20to%20PM%20Scandal)
+## [2011 England Riots](2011%20England%20Riots)
+## [2016-22 Antisemitism in the Labour Party](2016-22%20Antisemitism%20in%20the%20Labour%20Party)
+## [2017-18 Nadine Dorries, Asking Ministers about the EU Customs Union While Advocating to Leave](2017-18%20Nadine%20Dorries,%20Asking%20Ministers%20about%20the%20EU%20Customs%20Union%20While%20Advocating%20to%20Leave)
+## [2017 Grenfell Tower Fire](2017%20Grenfell%20Tower%20Fire)
+## [2019-21 Owen Paterson, Paid Advocacy Controversy & Resignation](2019-21%20Owen%20Paterson,%20Paid%20Advocacy%20Controversy%20&%20Resignation)
+## [2020-21 Priti Patel, Bullying Report Leading To Alex Allan, Johnson’s 1st Ethics Adviser’s Resignation](2020-21%20Priti%20Patel,%20Bullying%20Report%20Leading%20To%20Alex%20Allan,%20Johnson’s%201st%20Ethics%20Adviser’s%20Resignation)
+## [2020 Dominic Cummings, Traveling with COVID Scandal](2020%20Dominic%20Cummings,%20Traveling%20with%20COVID%20Scandal)
+## [2020-22 11 Downing Street Refurbishment](2020-22%2011%20Downing%20Street%20Refurbishment)
+## [2020-21 Johnson’s `Let the bodies pile high in their thousands` Comment](2020-21%20Johnson’s%20`Let%20the%20bodies%20pile%20high%20in%20their%20thousands`%20Comment)
+## [2020-22 Evgeny Lebedev, House of Lords Peerage](2020-22%20Evgeny%20Lebedev,%20House%20of%20Lords%20Peerage)
+## [2020-21 Peter Cruddas, House of Lords Peerage](2020-21%20Peter%20Cruddas,%20House%20of%20Lords%20Peerage)
+## [2021-22 `Beergate` Alleged Scandal](2021-22%20`Beergate`%20Alleged%20Scandal)
+## [2021-22 Matt Hancock, Breaching COVID Regulations & Resignation](2021-22%20Matt%20Hancock,%20Breaching%20COVID%20Regulations%20&%20Resignation)
+## [2021-22 The Telegraph’s `The Lockdown Files`](2021-22%20The%20Telegraph’s%20`The%20Lockdown%20Files`)
+## [2021 Dominic Raab, Holiday During Afghanistan Crisis](2021%20Dominic%20Raab,%20Holiday%20During%20Afghanistan%20Crisis)
+## [2021-23 `Partygate` Scandal](2021-23%20`Partygate`%20Scandal)
+## [2022- The Covid-19 Inquiry](2022-%20The%20Covid-19%20Inquiry)
+## [2022 Johnson’s Comments On Starmer & Saville](2022%20Johnson’s%20Comments%20On%20Starmer%20&%20Saville)
+## [2022-23 David Warburton, Whip Suspended for Multiple Misconduct Allegations](2022-23%20David%20Warburton,%20Whip%20Suspended%20for%20Multiple%20Misconduct%20Allegations)
+## [2022 Lee Anderson Foodbanks Comments](2022%20Lee%20Anderson%20Foodbanks%20Comments)
+## [2022 Nadine Dorries, Channel 4 Paid Actors Claim](2022%20Nadine%20Dorries,%20Channel%204%20Paid%20Actors%20Claim)
+## [2022 John Penrose, Anti-Corruption Tsar’s Resignation](2022%20John%20Penrose,%20Anti-Corruption%20Tsar’s%20Resignation)
+## [2022 Conservative Party Vote of Confidence Against Johnson](2022%20Conservative%20Party%20Vote%20of%20Confidence%20Against%20Johnson)
+## [2022 Lord Geidt, Johnson’s 2nd Ethics Adviser’s Resignation](2022%20Lord%20Geidt,%20Johnson’s%202nd%20Ethics%20Adviser’s%20Resignation)
+## [2020-23 Chris Pincher Scandal Leading to Johnson’s PM Resignation](2020-23%20Chris%20Pincher%20Scandal%20Leading%20to%20Johnson’s%20PM%20Resignation)
+## [2022-23 Zahawi, Undeclared Tax Affairs Investigation Leading To Removal Of Chairman Position](2022-23%20Zahawi,%20Undeclared%20Tax%20Affairs%20Investigation%20Leading%20To%20Removal%20Of%20Chairman%20Position)
+## [2022 Johnson’s City Hall Job Scandal](2022%20Johnson’s%20City%20Hall%20Job%20Scandal)
+## [2022 Johnson’s `Deep State` Comment in Parliament](2022%20Johnson’s%20`Deep%20State`%20Comment%20in%20Parliament)
+## [2022 Truss, U-Turn on Civil Service Pay Plan During Leadership Campaign](2022%20Truss,%20U-Turn%20on%20Civil%20Service%20Pay%20Plan%20During%20Leadership%20Campaign)
+## [2022 Suella Braverman, Personal Email Account Usage](2022%20Suella%20Braverman,%20Personal%20Email%20Account%20Usage)
+## [2022 Andrew Bridgen, Lobbying Breaches](2022%20Andrew%20Bridgen,%20Lobbying%20Breaches)
+## [2022 Truss’ PM Resignation](2022%20Truss’%20PM%20Resignation)
+## [2022 Suella Braverman, Manston Migrant Centre](2022%20Suella%20Braverman,%20Manston%20Migrant%20Centre)
+## [2022 Gavin Williamson, Bullying Claims Leading to Cabinet Resignation](2022%20Gavin%20Williamson,%20Bullying%20Claims%20Leading%20to%20Cabinet%20Resignation)
+## [2022-23 Raab, Investigation Into Professional Conduct Leading to Cabinet Resignation](2022-23%20Raab,%20Investigation%20Into%20Professional%20Conduct%20Leading%20to%20Cabinet%20Resignation)
+## [2022-23 Andrew Bridgen, Suspended For COVID Misinformation, Joins Reclaim Party](2022-23%20Andrew%20Bridgen,%20Suspended%20For%20COVID%20Misinformation,%20Joins%20Reclaim%20Party)
+## [2023 UK Gov Stops Scottish Gov’s Gender Recognition Reform Bill](2023%20UK%20Gov%20Stops%20Scottish%20Gov’s%20Gender%20Recognition%20Reform%20Bill)
+## [2023 Sunak Filmed in Car Without Seatbelt, and Then Fined](2023%20Sunak%20Filmed%20in%20Car%20Without%20Seatbelt,%20and%20Then%20Fined)
+## [2023 Richard Sharp, Chairman of the BBC Appointment By Johnson, Leading to Chairman Resignation](2023%20Richard%20Sharp,%20Chairman%20of%20the%20BBC%20Appointment%20By%20Johnson,%20Leading%20to%20Chairman%20Resignation)
+## [2023 Suella Braverman, Attempts to Avoid Parking Fine](2023%20Suella%20Braverman,%20Attempts%20to%20Avoid%20Parking%20Fine)

@@ -1,20 +1,20 @@
 Edward Heath - 19 June 1970 to 4 March 1974
-## Economic Policy
+# Economic Policy
 
-## Energy Policy
+# Energy Policy
 
-## Foreign Policy
+# Foreign Policy
 
-## Housing Policy
+# Housing Policy
 
-## Human Rights Policy
+# Human Rights Policy
 
-## Law & Order Policy
+# Law & Order Policy
 
-## Social Services Policy
+# Social Services Policy
 
-## Transport Policy
+# Transport Policy
 
-## Voting Policy
+# Voting Policy
 
-## Controversy’s
+# Controversy’s
