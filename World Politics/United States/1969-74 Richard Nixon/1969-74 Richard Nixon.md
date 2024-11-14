@@ -1,15 +1,15 @@
 - [Wiki](https://en.wikipedia.org/wiki/Richard_Nixon)
-## Social Policy
+# Social Policy
 
-## Economic Policy
+# Economic Policy
 
-## Immigration Policy
+# Immigration Policy
 
-## Environmental Policy
+# Environmental Policy
 
-## Foreign Policy
+# Foreign Policy
 
-## Controversy’s
+# Controversy’s
 
 [1972-74 Watergate Scandal](1972-74%20Watergate%20Scandal)
-## Post-Presidency Controversy’s
+# Post-Presidency Controversy’s

@@ -1,14 +1,14 @@
 Donald Trump - 20 January 2025 - 20 January 2028  
-## Social Policy
+# Social Policy
 
-## Economic Policy
+# Economic Policy
 
-## Immigration Policy
+# Immigration Policy
 
-## Environmental Policy
+# Environmental Policy
 
-## Foreign Policy
+# Foreign Policy
 
-## Controversy’s
+# Controversy’s
 
-## Post-Presidency Controversy’s
+# Post-Presidency Controversy’s

@@ -15,7 +15,7 @@ Joe Biden - 20 January 2021 - 20 January 2025
 ## [2022 CHIPS and Science Act](2022%20CHIPS%20and%20Science%20Act)
 # Immigration Policy
 ## [2021 Stopping Trump's Wall](2021%20Stopping%20Trump's%20Wall)
-## Environmental Policy
+# Environmental Policy
 ## [2021 Re-joining the Paris Climate Accord](2021%20Re-joining%20the%20Paris%20Climate%20Accord)
 ## [2021 Keystone XL Pipeline](2021%20Keystone%20XL%20Pipeline)
 ## [2021 Comprehensive Climate Executive Order](2021%20Comprehensive%20Climate%20Executive%20Order)
