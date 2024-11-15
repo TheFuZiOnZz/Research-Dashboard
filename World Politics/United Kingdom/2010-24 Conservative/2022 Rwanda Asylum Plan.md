@@ -1,5 +1,4 @@
-### 2022 Rwanda Asylum Plan
-### Human Rights
+# Human Rights
 - In the UN Refugee Convention 1951, Article 31 states that refugees cannot be penalised for entering the country illegally to claim asylum.
     
     - `The Contracting States shall not impose penalties, on account of their illegal entry or presence, on refugees who, coming directly from a territory where their life or freedom was threatened in the sense of Article 1, enter or are present in their territory without authorization, provided they present themselves without delay to the authorities and show good cause for their illegal entry or presence.` [link](https://www.unhcr.org/libraries/pdf.js/web/viewer.html?file=https%3A%2F%2Fwww.unhcr.org%2Fsites%2Fdefault%2Ffiles%2Flegacy-pdf%2F4ca34be29.pdf?version1692333666)
@@ -8,7 +7,7 @@
     
     - `there is no obligation in the Refugee Convention, either explicit or implicit, to claim asylum in the first safe country reached by a refugees.` [link](https://freemovement.org.uk/are-refugees-obliged-to-claim-asylum-in-the-first-safe-country-they-reach/)
     
-### France
+# France
 - In July 2018, Human Rights Watch found that asylum seekers and migrants in France were not being treated as they should be according to French law.
     
     - `The French Red Cross does age assessments for unaccompanied children in Paris, delegated to do so by the department of Paris (a department is a local administrative division of France), and it has established an evaluation facility (Dispositif d’evaluation des mineurs isolés étrangers, DEMIE) for this purpose. But many children who seek legal recognition of their age report that they are turned away at the door by security guards. Others go through a short interview of approximately five minutes followed by a summary verbal denial. This treatment falls short of what is required by French law, violates international standards, and means that those who are turned away must fend for themselves or seek assistance from nongovernmental organizations to find shelter, food, and other basic necessities.` [link](https://www.hrw.org/sites/default/files/report_pdf/france0718_web.pdf)
