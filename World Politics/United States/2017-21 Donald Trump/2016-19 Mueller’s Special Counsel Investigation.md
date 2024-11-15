@@ -536,8 +536,13 @@
       
       `I react with pleasure," Prigozhin said in the statement. "I've never just been the financier of the Internet Research Agency. I invented it, I created it, I managed it for a long time. It was founded to protect the Russian information space from boorish aggressive propaganda of anti-Russian narrative from the West."` [Wagner chief admits to founding Russian troll farm sanctioned for meddling in US elections, CNN, 2023](https://edition.cnn.com/2023/02/14/europe/russia-yevgeny-prigozhin-internet-research-agency-intl/index.html)
 ## Main Intelligence Directorate Criminal Inditements
-- On 13 July 2018,
-    - [United States v. Netyksho et al., Inditement, 2018](https://www.justice.gov/archives/sco/file/1080281/dl) - GRU inditement
+- On 13 July 2018, The DoJ indicted 12 Russian members, Viktor Borisovich Netyksho, Boris Alekseyevich Antonov, Dmitriy Sergeyevich Badin, Ivan Sergeyevich Yermakov, Aleksey Viktorovich Lukashev, Sergey Aleksandrovich Morgachev, Nikolay Yuryevich Kozachek, Pavel Vyacheslavovich Yershov, Artem Andreyevich Malyshev, Aleksandr Vladimirovich Osadchuk, Aleksey Aleksandrovich Potemkin, and Anatoliy Sergeyevich Kovalev, of the Main Intelligence Directorate of the General Staf also know as the GRU for counts of Conspiracy to Commit an Offense Against the United States, Aggravated Identity Theft, Conspiracy to Launder Money, and Conspiracy to Commit an Offense Against the United States.
+    - `In or around 2016, the Russian Federation (“Russia”) operated a military intelligence agency called the Main Intelligence Directorate of the General Staff (“GRU”). The GRU had multiple units, including Units 26165 and 74455, engaged in cyber operations that involved the staged releases of documents stolen through computer intrusions. These units conducted largescale cyber operations to interfere with the 2016 U.S. presidential election.` - [United States v. Netyksho et al. (Inditement), Department of Justice, 2018](https://www.justice.gov/archives/sco/file/1080281/dl)
+    - ` ` - [United States v. Netyksho et al. (Inditement), Department of Justice, 2018](https://www.justice.gov/archives/sco/file/1080281/dl)
+    - ` ` - [United States v. Netyksho et al. (Inditement), Department of Justice, 2018](https://www.justice.gov/archives/sco/file/1080281/dl)
+    - ` ` - [United States v. Netyksho et al. (Inditement), Department of Justice, 2018](https://www.justice.gov/archives/sco/file/1080281/dl)
+    - ` ` - [United States v. Netyksho et al. (Inditement), Department of Justice, 2018](https://www.justice.gov/archives/sco/file/1080281/dl)
+    - 
 ## George Papadopoulos, Ex-Trump Foreign Policy Adviser
 - [Wiki](https://en.wikipedia.org/wiki/George_Papadopoulos\#Arrest_and_guilty_plea)
 - [link](https://www.justice.gov/archives/sco/file/1007341/download) - U.S. V Papadopoulos - Plea Offer
