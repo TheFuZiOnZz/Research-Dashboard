@@ -18,7 +18,7 @@
       
       `Any IT professional can see that a malware sample mentioned in the Joint Analysis Report was taken from the web and was commonly available. A lot of hackers use it. I think it was inserted in the report to make it look a bit more plausible.` - [Here i am again my Friends!, Guccifer 2.0 Blog, 2017](https://guccifer2.wordpress.com/2017/01/12/fake-evidence/)
 ## Wikileaks & Releasing Stolen Emails
-- [link](https://www.theatlantic.com/politics/archive/2017/11/the-secret-correspondence-between-donald-trump-jr-and-wikileaks/545738/) Assange telling Trump JR to tell trump not to concede if Trump lost 2016
+- Assange telling Trump JR to tell trump not to concede if Trump lost 2016 - [The Secret Correspondence Between Donald Trump Jr. and WikiLeaks, The Atlantic, 2017](https://www.theatlantic.com/politics/archive/2017/11/the-secret-correspondence-between-donald-trump-jr-and-wikileaks/545738/)
 - [Wiki](https://en.wikipedia.org/wiki/2016_Democratic_National_Committee_email_leak)
 - [Wiki](https://en.wikipedia.org/wiki/Podesta_emails)
 - On 22 July 2016, WikiLeaks begins releasing emails that were stolen from the Democratic National Committee computer networks.
@@ -256,7 +256,7 @@
 - On 11 January 2017, Trump during a Press Conference said that the dossier was a disgrace and claimed to have no dealings with Russia due to it being a conflict of interest.
     - `In a press conference the next day, the President-Elect called the release “an absolute disgrace” and said, “I have no dealings with Russia. I have no deals that could happen in Russia, because we’ve stayed away. . . . So I have no deals, I have no loans and I have no dealings. We could make deals in Russia very easily if we wanted to, I just don’t want to because I think that would be a conflict.”` - [Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Department of Justice, 2019](https://www.justice.gov/archives/sco/file/1373816/download)
 - On 23 July 2018, Trump tweeted that the Steele Dossier was the reason the Special Counsel investigation began, which was untrue.
-    - `So we now find out that it was indeed the unverified and Fake Dirty Dossier, that was paid for by Crooked Hillary Clinton and the DNC, that was knowingly & falsely submitted to FISA and which was responsible for starting the totally conflicted and discredited Mueller Witch Hunt!` [@realDonaldTrump Tweet](https://twitter.com/realDonaldTrump/status/1021341698734030848?s=20)
+    - `So we now find out that it was indeed the unverified and Fake Dirty Dossier, that was paid for by Crooked Hillary Clinton and the DNC, that was knowingly & falsely submitted to FISA and which was responsible for starting the totally conflicted and discredited Mueller Witch Hunt!` [@realDonaldTrump Tweet, 2018](https://twitter.com/realDonaldTrump/status/1021341698734030848?s=20)
 - On 9 December 2019, the Office of the Inspector General released a redacted report which mentioned that Steele's reporting wasn't taken at face value, and at every attempt the FBI would verify the sources of any claims. The report notes that the Office of the Inspector General asked the Crossfire Hurricane team if they were concerned about the financial source of the research provided to the FBI. The team replied that it was not a concern for the analysts.
     - `Assistant Director (AD) E.W. "Bill" Priestap and then Deputy Assistant Director (DAD) Peter Strzok told the OIG that the FBl's assessment of Steele's information was not different from the approach the FBI typically uses in evaluating CHS information. They explained that the assessment involved determining the credibility of Steele, including understanding his record of furnishing reliable information, motivation, and possible biases; and verifying the information he provided through independent sources. Priestap described the FBI's approach to the reporting in the following terms:`
       
@@ -563,6 +563,23 @@
 ## Paul Manafort, Ex-Trump Campaign Manager
 - [Wiki](https://en.wikipedia.org/wiki/Paul_Manafort\#Russia_investigations)
 - On 23 December 2020, Manafort was pardoned by Trump. [link](https://www.justice.gov/file/1349071/download)
+	- `Executive Grant of Clemency`
+	  
+	  `DONALD J. TRUMP`
+	  
+	  `President of the United States of America`
+	  
+	  `TO ALL TO WHOM THESE PRESENTS SHALL COME, GREETING:`
+	  
+	  `BE IT KNOWN, THAT THIS DAY, 1, DONALD J. TRUMP, PRESIDENT OF THE UNITED STATES, PURSUANT TO MY POWERS UNDER ARTICLE 11, SECTION 2, CLAUSE 1, OF THE CONSTITUTION, HAVE GRANTED UNTO`
+	  
+	  `MICHAEL T. FLYNN`
+	  
+	  `A FULL AND UNCONDITIONAL PARDON`
+	  
+	  `for the charge of making false statements to Federal investigators, in violation of Section 1001, Title 18, United States Code, as charged in the Information filed under docket number 1:17-CR-00232-EGS in the United States District Court for the District of Columbia; for any and all possible offenses arising from the facts set forth in the Information and Statement of Offense filed under that docket number or that might arise, or be charged, claimed, or asserted, in connection with the proceedings under that docket number; for any and all possible offenses within the investigatory authority or jurisdiction of the Special Counsel appointed on May 17, 2017, including the initial Appointment Order No, 3915-2017 and subsequent memoranda regarding the Special Counsel's investigatory authority; and for any and all possible offenses arising out of facts and circumstances known to, identified by, or in any manner related to the investigation of the Special Counsel, including, but not limited to, any grand jury proceedings in the United States District Court for the District of Columbia or the United States District Court for the Eastern District Of Virginia.`
+	  
+	  `IN TESTIMONY WHEREOF, I have hereunto signed my name and caused the seal of the Department Of Justice to be affixed.` - [Executive Grant of Clemency](https://www.justice.gov/pardon/page/file/1341606/dl)
 ## Rick Gates, Ex-Deputy Chairman Of The Trump Campaign
 - [Wiki](https://en.wikipedia.org/wiki/Rick_Gates_(political_consultant)\#Russia_investigation)
 ## Steve Bannon, Ex-Chief Executive Of The Trump Campaign, "We Build the Wall" Campaign Charges
