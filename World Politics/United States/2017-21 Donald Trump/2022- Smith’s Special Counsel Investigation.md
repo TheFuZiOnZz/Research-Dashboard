@@ -94,16 +94,61 @@
 	- `From on or about June 22, 2022, through in or around August 2022, in Palm Beach County, in the Southern District of Florida, and elsewhere. the defendants,`
 	  
 	  `DONALD J. TRUMP,`
-	  `WALTINE NAUTA, and
-CARLOS DE OLIVEIRA
-did knowingly corruptly persuade and attempt to persuade another person, with intent to cause and
-induce any person to alter, destroy, mutilate, and conceal an object with intent to impair the
-object's integrity and availability for use in an official proceeding; that is—TRUMP, NAUTA,
-and DE OLIVEIRA requested that Trump Employee 4 delete security camera footage at The Mar-
-a-Lago Club to prevent the footage from being provided to a federal grand jury.
-All in violation of Title 18, United States Code, Sections and 2.` - [United States v. Donald Trump. Waltine Nauta and Carlos De Oliviera (Smith, Mishandling Classified Documents, Superseding Indictment), 2024](https://storage.courtlistener.com/recap/gov.uscourts.flsd.648652/gov.uscourts.flsd.648652.85.0_4.pdf)
-	- ` ` - [United States v. Donald Trump. Waltine Nauta and Carlos De Oliviera (Smith, Mishandling Classified Documents, Superseding Indictment), 2024](https://storage.courtlistener.com/recap/gov.uscourts.flsd.648652/gov.uscourts.flsd.648652.85.0_4.pdf)
-	- ` ` - [United States v. Donald Trump. Waltine Nauta and Carlos De Oliviera (Smith, Mishandling Classified Documents, Superseding Indictment), 2024](https://storage.courtlistener.com/recap/gov.uscourts.flsd.648652/gov.uscourts.flsd.648652.85.0_4.pdf)
+	  `WALTINE NAUTA, and`
+	  `CARLOS DE OLIVEIRA`
+	  
+	  `did knowingly corruptly persuade and attempt to persuade another person, with intent to cause and induce any person to alter, destroy, mutilate, and conceal an object with intent to impair the object's integrity and availability for use in an official proceeding; that is—TRUMP, NAUTA, and DE OLIVEIRA requested that Trump Employee 4 delete security camera footage at The Mar-a-Lago Club to prevent the footage from being provided to a federal grand jury.`
+	  
+	  `All in violation of Title 18, United States Code, Sections and 2.` - [United States v. Donald Trump. Waltine Nauta and Carlos De Oliviera (Smith, Mishandling Classified Documents, Superseding Indictment), 2024](https://storage.courtlistener.com/recap/gov.uscourts.flsd.648652/gov.uscourts.flsd.648652.85.0_4.pdf)
+	- `From on or about June 22, 2022, through in or around August 2022, in Palm Beach County, in the Southern District of Florida, and elsewhere. the defendants,`
+	  
+	  `DONALD J. TRUMP,`
+	  `WALTINE NAUTA, and`
+	  `CARLOS DE OLIVEIRA`
+	  
+	  `did corruptly alter, destroy, mutilate, and conceal a record, document and Other Object and attempted to do so, with the intent to impair the object's integrity and availability for use in an ofT,cial proceeding; that is—TRUMP, NAUTA, and DE OLIVEIRA requested that Trump Employee 4 delete security camera footage at The Mar-a-Lago Club to prevent the footage from being provided to a federal grand jury.`
+	  
+	  `All in violation of Title 1 8, United States Code, Sections and 2.` - [United States v. Donald Trump. Waltine Nauta and Carlos De Oliviera (Smith, Mishandling Classified Documents, Superseding Indictment), 2024](https://storage.courtlistener.com/recap/gov.uscourts.flsd.648652/gov.uscourts.flsd.648652.85.0_4.pdf)
+	- `On January 13, 2023, DE OLIVEIRA participated in a voluntary interview with the FBI at DE OLIVEIRA's residence. During the interview, the FBI explained to DE OLIVEIRA that the FBI was investigating how classified documents had been kept at The Mar-a-Lago Club, and the FBI asked DE OLIVEIRA questions about the location and movement Of TRUMP's boxes and other items. DE OLIVEIRA was advised by the FBI that the interview was voluntary and that he could tell the agents to leave at any time. The FBI also advised DE OLIVEIRA that it was a criminal offense to lie to the FBI. The interview was recorded.`
+	  
+	  `On or about January 13, 2023, in Palm Beach County, in the Southern District of Florida, and elsewhere, the defendant, CARLOS DE OLIVEIRA, in a matter within the jurisdiction of the executive branch of the United States govemment, did knowingly and willfully make a materially false, fictitious, and fraudulent statement and representation; that is—in a voluntary interview during a federal criminal investigation being conducted by the FBI, DE OLIVEIRA was asked the following questions and gave the following false answers:`
+	  
+	  `Question: When -- after the end of the presidency, boxes arrived to Mar-a-Lago. Were you part of any group to help --`
+	  
+	  `Answer: No.`
+	  
+	  `Question: -- unload them and move them?`
+	  
+	  `Answer: No.`
+	  
+	  `Question: Do you -- were you -- do you even know, like, or were you even there or aware that boxes were --`
+	  
+	  `Answer: No.
+	  
+	  `Question: -- like, all this stuff was being moved in?`
+	  
+	  `Answer: Never saw anything,`
+	  
+	  `Question:
+Answer:
+Question:
+Answer:
+Question:
+Answer:
+Question:
+Answer:
+
+
+Never saw anything,
+Okay.
+Yeah. And then
+Even his personal stuff. like, his clothes
+Never.
+and furniture, nothing?
+Never saw nothing.
+Okay. So you don't know where items would have
+been stored, as soon as he moved back to Mar-a-
+Lago?` - [United States v. Donald Trump. Waltine Nauta and Carlos De Oliviera (Smith, Mishandling Classified Documents, Superseding Indictment), 2024](https://storage.courtlistener.com/recap/gov.uscourts.flsd.648652/gov.uscourts.flsd.648652.85.0_4.pdf)
 ## Further Recovered Documents
 - On 21 May 2024, Trump handed in a further 4 documents totalling 6 pages with classification markings
     - `Remarkably, the report regarding the Mar-a-Lago search, conducted on December 15-16, 2023, uncovered four more responsive records. See id., Ex. D at 1-15 (four responsive records found at Mar-a-Lago on December 15-16, 2022). The certification misleadingly refers to these documents as "low-level ministerial documents" without any explicit mention whether they had classification markings, indicating only that one document includes "an explanation that it was no longer deemed classified' if not connected to the attachment, and this document had no attachment." Id. ¶ 49. To be clear, the four documents were responsive to the May 2022 subpoena: "On or about December 15, 2022," the former president's counsel informed the government that "a box containing four documents or partial documents, totaling six pages, with classification markings were found in a closet" of the Office's designated space at Mar-a-Lago and "[t]hose documents contained markings at the Secret level."`
