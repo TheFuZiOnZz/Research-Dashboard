@@ -543,7 +543,26 @@
 - [link](https://www.justice.gov/archives/sco/file/1007341/download) - U.S. V Papadopoulos - Plea Offer
 - [link](https://www.justice.gov/archives/sco/file/1007346/download) - U.S. V Papadopoulos - Statement of the Offense
 - [link](https://www.politico.com/f/?id=00000165-4ab8-d0d5-af75-fbfc1ad30001) - U.S. V Papadopoulos - Government’s Sentencing Memorandum
-- On 22 December 2020, Papadopoulos was pardoned by Trump. [link](https://www.justice.gov/pardon/page/file/1348921/download)
+- On 22 December 2020, Papadopoulos was pardoned by Trump. 
+	- `Executive Grant of Clemency`
+	  
+	  `DONALD J. TRUMP`
+	  
+	  `President of the United States of America`
+	  
+	  `TO ALL TO WHOM THESE PRESENTS SHALL COME, GREETING:`
+	  
+	  `BE IT KNOWN, THAT THIS DAY, 1, DONALD J. TRUMP, PRESIDENT OF THE UNITED STATES, PURSUANT TO MY POWERS UNDER ARTICLE 11, SECTION 2, CLAUSE 1, OF THE CONSTITUTION, HAVE GRANTED UNTO`
+	  
+	  `GEORGE PAPADOPOULOS`
+	  
+	  `A FULL AND UNCONDITIONAL PARDON`
+	  
+	  `FOR HIS CONVICTION in the United States District Court for the District of Columbia on an information (Docket No. 17cr182 (RDM)) charging violation of Section 1001 (a)(2), Title 18, United States Code, for which he was sentenced on September 7, 2018, to 14 days' imprisonment, 12 months' supervised release conditioned upon 200 hours' community service within 11 months, a $9,500 fine, and a $100 special assessment.`
+	  
+	  `I HEREBY DESIGNATE, direct, and empower the Office of the Pardon Attorney, as my representative, to sign a grant of clemency to the person named herein. The Office of the Pardon Attorney shall declare that its action is the act of the President, being performed at my direction.`
+	  
+	  `IN TESTIMONY WHEREOF, 1 have hereunto caused this Pardon to be recorded with the Department of Justice.` - [Executive Grant of Clemency for George Papadopoulos, Department of Justice, 2020](https://www.justice.gov/pardon/page/file/1348921/download)
 ## Michael Flynn, Former National Security Adviser
 - Days before Flynn's scheduled sentencing, attorney general Bill Barr appointed Jeffrey Jensen, the U.S. attorney for the United States District Court for the Eastern District of Missouri, to examine Flynn's prosecution. 
 	- ` ` - [Barr Installs Outside Prosecutor to Review Case Against Michael Flynn, Ex-Trump Adviser, The New York Times, 2020](https://www.nytimes.com/2020/02/14/us/politics/michael-flynn-prosecutors-barr.html)
@@ -580,7 +599,27 @@
 ## Paul Manafort, Ex-Trump Campaign Manager
 - [Wiki](https://en.wikipedia.org/wiki/Paul_Manafort\#Russia_investigations)
 - On 23 December 2020, Manafort was pardoned by Trump.
-	- ` ` - 
+	- `Executive Grant of Clemency`
+	  
+	  `DONALD J. TRUMP`
+	  
+	  `President of the United States of America`
+	  
+	  `TO ALL TO WHOM THESE PRESENTS SHALL COME, GREETING:`
+	  
+	  `BE IT KNOWN, THAT THIS DAY, 1, DONALD J. TRUMP, PRESIDENT OF THE UNITED STATES, PURSUANT TO MY POWERS UNDER ARTICLE 11, SECTION 2, CLAUSE 1, OF THE CONSTITUTION, HAVE GRANTED UNTO`
+	  
+	  `PAUL J. MANAFORT, JR.`
+	  
+	  `A FULL AND UNCONDITIONAL PARDON`
+	  
+	  `FOR HIS CONVICTION in the United States District Court for the Eastern District of Virginia on a superseding indictment (Docket No. 1:18-cr-00083-TSE-1) charging him with violations of Sections 2, 1344. and 3551 et seq., Title 18, Section 7206(1), Title 26, and Sections 5314 and 5322(a), Title 31, United States Code, for which he was sentenced on March 7, 2019, to 47 months' imprisonment, three years' supervised release, a $50,000 fine, $25,497,487.60 restitution (as amended by order on March 21, 2019), and a S800 special assessment, and in the United States District Court for the District of Columbia on a superseding information (Docket No. 17-CR-00201-1), charging him with violations of Sections 371, 982(a), and 3551 et seq., Title 18, and Section 2461(c), Title 21, United States Code, for which he was sentenced on March 13, 2019, to 73 months' imprisonment, 36 months' supervised release (concurrent), $6,164,032 restitution, a $200 special assessment, and forfeiture of $11,000,000`
+	  
+	  `I HEREBY DESIGNATE, direct, and empower the Acting Pardon Attorney, as my representative, to sign a grant of clemency to the person named herein. The Acting Pardon Attorney shall declare that her action is the act of the President, being performed at my direction.`
+	  
+	  `I ALSO DIRECT the Bureau of Prisons, upon receipt of this warrant, to effect immediately the release of the Pardon recipient (Reg. No. 35207-016) with all possible speed.`
+	  
+	  `IN TESTIMONY WHEREOF, I have hereunto caused this Pardon to be recorded with the Department of Justice.` - [Executive Grant of Clemency for Paul J. Manafort, Jr, Department of Justice, 2020](https://www.justice.gov/pardon/file/1112506/dl?inline=)
 
 ## Rick Gates, Ex-Deputy Chairman Of The Trump Campaign
 - [Wiki](https://en.wikipedia.org/wiki/Rick_Gates_(political_consultant)\#Russia_investigation)
