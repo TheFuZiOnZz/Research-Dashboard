@@ -26,7 +26,7 @@
 ### Rwanda
 - Between 2013 and 2018, Rwanda had a migrant deal with Israel like the Rwandan-UK Migrant deal. Some 4,000 Eritrean and Sudanese asylum seekers based in Israel were sent to Rwanda and Uganda between 2013 and 2018, before the secretive arrangement was abandoned and almost all are thought to have left the country almost immediately, with many attempting to return to Europe via people-smuggling routes.
     
-    - `Rwanda signed a similar agreement with Israel between 2014 and 2017 that was not a success, with almost of all of the 4,000 detainees sent there swiftly leaving the country to undertake the perilous journey to Europe, some of whom are understood to have fallen prey to human traffickers en route, notably in Libya.` [[u]]
+    - `Rwanda signed a similar agreement with Israel between 2014 and 2017 that was not a success, with almost of all of the 4,000 detainees sent there swiftly leaving the country to undertake the perilous journey to Europe, some of whom are understood to have fallen prey to human traffickers en route, notably in Libya.` - [What is Rwanda’s record on human rights? | The Independent](https://www.independent.co.uk/news/uk/politics/uk-asylum-rwanda-human-rights-b2058668.html)
     
     - `Then-minister of interior Gideon Sa’ar, announces that Israel has signed agreements with “third countries”, and that the departure of “infiltrators” to these countries has begun in limited numbers. According to the Population and Immigration Authority, 1,093 asylum seekers were deported to third countries during 2014.` [link](https://hotline.org.il/en/refugees-and-asylum-seekers-en/voluntary-departure/)
     
