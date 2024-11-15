@@ -643,6 +643,9 @@
 
 ## Rick Gates, Ex-Deputy Chairman Of The Trump Campaign
 - [Wiki](https://en.wikipedia.org/wiki/Rick_Gates_(political_consultant)\#Russia_investigation)
+- Gates and Manafort were both indicted in October 2017 on charges related to their consultation work with pro-Russian political figures in Ukraine.
+- Additional charges were filed in District Court for the Eastern District of Virginia on February 21, 2018, however these charges were withdrawn on February 27, 2018, without prejudice, as agreed to in his plea bargain with Special Counsel Robert S. Mueller III.
+- On December 17, 2019, Gates was sentenced to 45 days' jail and three years of probation.
 ## Steve Bannon, Ex-Chief Executive Of The Trump Campaign, "We Build the Wall" Campaign Charges
 - [Wiki](https://en.wikipedia.org/wiki/Steve_Bannon\#Charges_related_to_%22We_Build_the_Wall%22_campaign)
 - On 19 January 2021, Bannon was pardoned by Trump. 
