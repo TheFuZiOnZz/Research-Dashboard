@@ -168,6 +168,20 @@
 	  `The decision is based on longstanding Department of Justice policy that a sitting president cannot face criminal prosecution while in office, sources said.`
 	  
 	  `It is unclear as of today how Smith’s prosecutors will approach dismissing both the federal election subversion case in Washington, D.C., and their ongoing appeal of Judge Aileen Cannon’s dismissal of the classified documents case.` - [Special counsel Jack Smith expected to wind down Trump prosecutions: Sources, ABC News, 2024](https://abcnews.go.com/Politics/special-counsel-jack-smith-expected-wind-trump-prosecutions/story?id=115571646)
+- On 13 November 2024, Jack Smith announced that he plans to finish his report and leave the job before he can be fired by Trump.
+	- `Jack Smith, the special counsel who pursued two federal prosecutions of Donald J. Trump, plans to finish his work and resign along with other members of his team before Mr. Trump takes office in January, people familiar with his plans said.`
+	  
+	  `Mr. Smith’s goal, they said, is to not leave any significant part of his work for others to complete and to get ahead of the president-elect’s promise to fire him within “two seconds” of being sworn in.`
+	  
+	  `Mr. Smith, who since taking office two years ago has operated under the principle that not even a powerful ex-president is above the law, now finds himself on the defensive as he rushes to wind down a pair of complex investigations slowed by the courts and ultimately made moot by Mr. Trump’s electoral victory.`
+	  
+	  `Mr. Smith’s office is still drawing up its plan for how to end the cases, and it is possible that unforeseen circumstances — such as judicial rulings or decisions by other government officials — could alter his intended timeline. But Mr. Smith is trying to finish his work and leave before Mr. Trump returns to power, the people familiar with his plans said.`
+	  
+	  `The election’s outcome spelled the end of the federal cases against Mr. Trump, since Justice Department policy has long held that a sitting president cannot be prosecuted for crimes. A Supreme Court ruling this summer significantly expanded the scope of official presidential conduct that cannot be prosecuted even after leaving office.` - [Jack Smith Plans to Step Down as Special Counsel Before Trump Takes Office, The New York Times, 2024](https://www.nytimes.com/2024/11/13/us/politics/jack-smith-special-counsel.html)
+- On
+	- 
+- On 
+
 
 # Smith Releases the Report
 - On 
