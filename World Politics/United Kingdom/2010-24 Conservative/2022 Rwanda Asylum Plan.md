@@ -22,7 +22,7 @@
     
     - `while there was an initial increase in small boats detections in 2019, recorded detections on other routes remained relatively stable. Small boat arrivals increased further in 2020 as detections on other routes declined, likely in part due to the coronavirus (COVID-19) pandemic making other methods of entry such as air or ferry less viable. However, in 2021 and 2022, there was a substantial increase in the numbers of small boat arrivals. This occurred despite the other entry methods becoming more viable as global COVID-19 restrictions eased.` [link](https://www.gov.uk/government/statistics/irregular-migration-to-the-uk-year-ending-december-2022/irregular-migration-to-the-uk-year-ending-december-2022)
     
-### Rwanda
+# Rwanda
 - Between 2013 and 2018, Rwanda had a migrant deal with Israel like the Rwandan-UK Migrant deal. Some 4,000 Eritrean and Sudanese asylum seekers based in Israel were sent to Rwanda and Uganda between 2013 and 2018, before the secretive arrangement was abandoned and almost all are thought to have left the country almost immediately, with many attempting to return to Europe via people-smuggling routes.
     
     - `Rwanda signed a similar agreement with Israel between 2014 and 2017 that was not a success, with almost of all of the 4,000 detainees sent there swiftly leaving the country to undertake the perilous journey to Europe, some of whom are understood to have fallen prey to human traffickers en route, notably in Libya.` - [What is Rwanda’s record on human rights? | The Independent](https://www.independent.co.uk/news/uk/politics/uk-asylum-rwanda-human-rights-b2058668.html)
@@ -52,7 +52,7 @@
     - Arbitrary detention, ill-treatment, and torture in official and unofficial detention facilities continued. Fair trial standards were routinely flouted in many sensitive political cases, in which security-related charges are often used to prosecute prominent government critics.`  
     - [link](https://www.hrw.org/world-report/2021/country-chapters/rwanda)
     
-### The Plan
+# The Plan
 - On 14 April 2022, the Home Secretary Priti Patel announced a new plan to send refugees entering the UK to Rwanda to complete their asylum applications.
     
     - `The government has today (Thursday 14 April) set out bold new plans to tackle illegal migration, control our borders and crack down on the criminal gangs exploiting this international crisis.` [link](https://www.gov.uk/government/news/world-first-partnership-to-tackle-global-migration-crisis)
@@ -96,9 +96,9 @@
     - But a ruling by the ECHR on one of the seven cases allowed lawyers for the other six to make successful last-minute applications.`  
     - [link](https://www.theguardian.com/uk-news/2022/jun/14/european-court-humam-right-makes-11th-hour-intervention-in-rwanda-asylum-seeker-plan)
     
-### Supreme Court
+# Supreme Court
 - On 15 November 2023, the UK’s Supreme Court ruled the Rwanda Asylum Plan unlawful.
     
-    - `` [link](https://www.supremecourt.uk/cases/docs/uksc-2023-0093-etc-judgment.pdf)
+    - ` ` [link](https://www.supremecourt.uk/cases/docs/uksc-2023-0093-etc-judgment.pdf)
     
     - [https://www.instituteforgovernment.org.uk/comment/supreme-court-rwanda-rishi-sunak-response](https://www.instituteforgovernment.org.uk/comment/supreme-court-rwanda-rishi-sunak-response)
