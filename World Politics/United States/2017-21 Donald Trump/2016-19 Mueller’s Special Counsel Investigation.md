@@ -560,9 +560,6 @@
     - [link](https://www.buzzfeednews.com/article/jasonleopold/mueller-memos-michael-flynn-fbi-interviews)
 - [link](https://s3.documentcloud.org/documents/20457322/leopold-fbi-foia-mueller-probe-michale-flynn-302.pdf) - Flynn FBI Redacted Interview Notes used in U.S. V Flynn
 - On 25 November 2020, Flynn was pardoned by Trump. [link](https://www.justice.gov/pardon/page/file/1341606/download)
-## Paul Manafort, Ex-Trump Campaign Manager
-- [Wiki](https://en.wikipedia.org/wiki/Paul_Manafort\#Russia_investigations)
-- On 23 December 2020, Manafort was pardoned by Trump.
 	- `Executive Grant of Clemency`
 	  
 	  `DONALD J. TRUMP`
@@ -580,6 +577,11 @@
 	  `for the charge of making false statements to Federal investigators, in violation of Section 1001, Title 18, United States Code, as charged in the Information filed under docket number 1:17-CR-00232-EGS in the United States District Court for the District of Columbia; for any and all possible offenses arising from the facts set forth in the Information and Statement of Offense filed under that docket number or that might arise, or be charged, claimed, or asserted, in connection with the proceedings under that docket number; for any and all possible offenses within the investigatory authority or jurisdiction of the Special Counsel appointed on May 17, 2017, including the initial Appointment Order No, 3915-2017 and subsequent memoranda regarding the Special Counsel's investigatory authority; and for any and all possible offenses arising out of facts and circumstances known to, identified by, or in any manner related to the investigation of the Special Counsel, including, but not limited to, any grand jury proceedings in the United States District Court for the District of Columbia or the United States District Court for the Eastern District Of Virginia.`
 	  
 	  `IN TESTIMONY WHEREOF, I have hereunto signed my name and caused the seal of the Department Of Justice to be affixed.` - [Executive Grant of Clemency for Michael T. Flynn, Department of Justice, 2020](https://www.justice.gov/pardon/page/file/1341606/dl)
+## Paul Manafort, Ex-Trump Campaign Manager
+- [Wiki](https://en.wikipedia.org/wiki/Paul_Manafort\#Russia_investigations)
+- On 23 December 2020, Manafort was pardoned by Trump.
+	- ` ` - 
+
 ## Rick Gates, Ex-Deputy Chairman Of The Trump Campaign
 - [Wiki](https://en.wikipedia.org/wiki/Rick_Gates_(political_consultant)\#Russia_investigation)
 ## Steve Bannon, Ex-Chief Executive Of The Trump Campaign, "We Build the Wall" Campaign Charges
@@ -593,18 +595,14 @@
 	- `STEPHEN BANNON` - [Executive Grant of Clemency for Steve Bannon, Department of Justice, 2021](https://www.justice.gov/file/1358426/download)
 	- `I HEREBY DESIGNATE, direct, and empower the Acting Pardon Attorney, as my representative, to sign each grant of clemency to the persons named herein. The Acting Pardon Attorney shall declare that her action is the act of the President, being performed at my direction.`
 	  
-	  `IN TESTIMONY WHEREOF, 1 have hereunto signed my name and caused the seal of the Department of Justice to be affixed.` - [Executive Grant of Clemency for Steve Bannon, Department of Justice, 2021](https://www.justice.gov/file/1358426/download)
+	  `IN TESTIMONY WHEREOF, I have hereunto signed my name and caused the seal of the Department of Justice to be affixed.` - [Executive Grant of Clemency for Steve Bannon, Department of Justice, 2021](https://www.justice.gov/file/1358426/download)
 ## Michael Cohen, Ex-Trump Lawyer, Campaign Finance Charges
 - [Wiki](https://en.wikipedia.org/wiki/Michael_Cohen_(lawyer)\#Federal_investigations)
 - .
 - In May 2017, two congressional panels asked Cohen to provide information about any communications he had with people connected to the Russian government.
 ## Roger Stone, Ex-Trump Campaign Adviser
 - [Wiki](https://en.wikipedia.org/wiki/Roger_Stone\#Relations_with_Wikileaks_and_Russia_before_the_2016_United_States_elections)
-- On 23 December 2020, Stone was pardoned by Trump. [link](https://www.justice.gov/file/1349096/download)
-## Elliott Broidy, Fmr. RNC Finance Chairman
-- [Wiki](https://en.wikipedia.org/wiki/Elliott_Broidy\#Donald_Trump_administration)
-- [link](https://www.nytimes.com/2020/10/20/us/politics/elliott-broidy-foreign-lobbying.html)
-- On 19 January 2021, Broidy was pardoned by Trump. 
+- On 23 December 2020, Stone was pardoned by Trump.
 	- `Executive Grant of Clemency`
 	  
 	  `DONALD J. TRUMP`
@@ -619,14 +617,24 @@
 	  
 	  `A FULL AND UNCONDITIONAL PARDON`
 	  
-	  `FOR HIS CONVICTION in the United States District Court for the District of Columbia on an indictment (Docket No. I : 19-cr-00018-ABJ-I), charging violations of Sections 2, 1001 (a)(2), 1505, and Title 18, United States Code, for which he was sentenced on February 20, 2020, to 40 months' imprisonment, two years' supervised release, a $20,000 fine, and a $700 special assessment (all portions of sentence commuted on July 10, 2020).`
+	  `FOR HIS CONVICTION in the United States District Court for the District of Columbia on an indictment (Docket No. 1:19-cr-00018-ABJ-1), charging violations of Sections 2, 1001 (a)(2), 1505, and 1512(b)(1), Title 18, United States Code, for which he was sentenced on February 20, 2020, to 40 months' imprisonment, two years' supervised release, a $20,000 fine, and a $700 special assessment (all portions of sentence commuted on July 10, 2020).`
 	  
-	  I HEREBY DESIGNATE, direct, and empower the Office of the Pardon Attorney, as
-my representative, to sign a grant of clemency to the person named herein. The Office of the
-Pardon Attorney shall declare that its action is the act of the President, being performed at my
-direction.
-IN TESTIMONY WHEREOF, 1 have hereunto signed my name and caused the seal of
-the Department of Justice to be affixed.` - [Executive Grant of Clemency for Steve Bannon, Department of Justice, 2021](https://www.justice.gov/file/1358426/download)
+	  `I HEREBY DESIGNATE, direct, and empower the Office of the Pardon Attorney, as my representative, to sign a grant of clemency to the person named herein. The Office of the Pardon Attorney shall declare that its action is the act of the President, being performed at my direction.`
+	  
+	  `IN TESTIMONY WHEREOF, 1 have hereunto signed my name and caused the seal of the Department of Justice to be affixed.` - [Executive Grant of Clemency for Roger Jason Stone, Jr., Department of Justice, 2020](https://www.justice.gov/file/1358426/download)
+## Elliott Broidy, Fmr. RNC Finance Chairman
+- [Wiki](https://en.wikipedia.org/wiki/Elliott_Broidy\#Donald_Trump_administration)
+- [link](https://www.nytimes.com/2020/10/20/us/politics/elliott-broidy-foreign-lobbying.html)
+- On 19 January 2021, Broidy was pardoned by Trump. 
+	- `Executive Grant of Clemency`
+	  
+	  `To ALL TO WHOM THESE PRESENTS SHALL COME, GREETING:`
+	  
+	  `I HEREBY GRANT full and unconditional pardons to the following named persons for those offenses against the United States individually enumerated and set before me for my consideration:` - [Executive Grant of Clemency for Steve Bannon, Department of Justice, 2021](https://www.justice.gov/file/1358426/download)
+	- `ELLIOTT' BROIDY` - [Executive Grant of Clemency for Steve Bannon, Department of Justice, 2021](https://www.justice.gov/file/1358426/download)
+	- `I HEREBY DESIGNATE, direct, and empower the Acting Pardon Attorney, as my representative, to sign each grant of clemency to the persons named herein. The Acting Pardon Attorney shall declare that her action is the act of the President, being performed at my direction.`
+	  
+	  `IN TESTIMONY WHEREOF, I have hereunto signed my name and caused the seal of the Department of Justice to be affixed.` - [Executive Grant of Clemency for Steve Bannon, Department of Justice, 2021](https://www.justice.gov/file/1358426/download)
 # Inspector General Report on the Crossfire Hurricane Investigation
 - On 28 March 2018, Department of Justice Inspector General Michael Horowitz announced that his office would initiate a review of the Crossfire Hurricane investigation.
     - `Department of Justice (DOJ) Inspector General Michael E. Horowitz announced today that, in response to requests from the Attorney General and Members of Congress, the Office of the Inspector General (OIG) will initiate a review that will examine the Justice Department’s and the Federal Bureau of Investigation’s (FBI) compliance with legal requirements, and with applicable DOJ and FBI policies and procedures, in applications filed with the U.S. Foreign Intelligence Surveillance Court (FISC) relating to a certain U.S. person. As part of this examination, the OIG also will review information that was known to the DOJ and the FBI at the time the applications were filed from or about an alleged FBI confidential source. Additionally, the OIG will review the DOJ’s and FBI’s relationship and communications with the alleged source as they relate to the FISC applications.`
