@@ -1,4 +1,4 @@
-- A 2003 report found that
+- A 2003 report found that:
     - `Cases in which the death penalty was sought and imposed could cost about 70% more than cases in which the death penalty wasn’t sought. The estimated median cost of a case in which the death sentence was given was $1.2 million, compared to the same estimated costs for a non-death penalty case of about $740,000.` - [Costs Incurred for Death Penalty Cases: A K-GOAL Audit of the Department of Corrections](https://web.archive.org/web/20151109015151/http://www.kslpa.org/assets/files/reports/04pa03a.pdf)
 - A 2004 report found that in Tennessee, death penalty trials cost an average of 48% more than the average cost of trials in which prosecutors seek life imprisonment. [Tennessee’s Death Penalty: Costs and Consequences, Comptroller of the Treasury Office of Research, 2004](http://www.deathpenaltyinfo.org/documents/deathpenalty.pdf)
 - A 2008 report found that in Maryland death penalty cases cost 3 times more than non-death penalty cases, or $3 million for a single case. [The Cost of the Death Penalty in Maryland, Roman et al., 2008](https://www.urban.org/sites/default/files/publication/31526/411625-The-Cost-of-the-Death-Penalty-in-Maryland.PDF)
@@ -7,8 +7,8 @@
 - On
 
 # It does not deter murder
-- 
-	- `The first question included in the 2008 questionnaire is also regularly asked in Gallup Polls. Here, 88.2% of the polled criminologists do not believe that the death penalty is a deterrent, up slightly from 83.6% in 1996. With the not sure responses eliminated, the proportion of responses that reject the deterrence argument increased from 87.5% in 1996 to 94.3% in 2008. This difference is not statistically significant, which indicates that there has been virtually no change in the experts’ opinions over the twelve years between the two surveys. In contrast, when the question was last posed by Gallup in 2006, 64% of the general public expressed the belief that the death penalty did not lower homicide rates.` - [DO EXECUTIONS LOWER HOMICIDE RATES?: THE VIEWS OF LEADING CRIMINOLOGISTS, Radelet and Lacock](https://files.deathpenaltyinfo.org/legacy/files/DeterrenceStudy2009.pdf)
+- A 2009 report found that Criminologists when polled  on the topic of the death penalty deterring murder, there was widespread disagreement is its effectiveness.
+	- `The first question included in the 2008 questionnaire is also regularly asked in Gallup Polls. Here, 88.2% of the polled criminologists do not believe that the death penalty is a deterrent, up slightly from 83.6% in 1996. With the not sure responses eliminated, the proportion of responses that reject the deterrence argument increased from 87.5% in 1996 to 94.3% in 2008. This difference is not statistically significant, which indicates that there has been virtually no change in the experts’ opinions over the twelve years between the two surveys. In contrast, when the question was last posed by Gallup in 2006, 64% of the general public expressed the belief that the death penalty did not lower homicide rates.` - [Do Executions Lower Homicide Rates?: The Views of Leading Criminologists, Radelet and Lacock, 2009](https://files.deathpenaltyinfo.org/legacy/files/DeterrenceStudy2009.pdf)
    
 
  [https://www.huffpost.com/entry/does-the-death-penalty-re\_b\_13362760](https://www.huffpost.com/entry/does-the-death-penalty-re_b_13362760)  
