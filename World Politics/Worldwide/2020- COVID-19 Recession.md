@@ -78,7 +78,7 @@ See next section for “summary of publications”
 * [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://www.nejm.org/doi/full/10.1056/NEJMc2004973) (7)  
 * [Influenza Virus Aerosols in Human Exhaled Breath: Particle Size, Culturability, and Effect of Surgical Masks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3591312/) (6)  
 * [Flight of the aerosol](https://virologydownunder.com/flight-of-the-aerosol/?share=twitter&nb=1) (15)  
-* [SARS-CoV-2 Viral Load in Uppe	r Respiratory Specimens of Infected Patients](https://www.nejm.org/doi/full/10.1056/NEJMc2001737) (31)  
+* [SARS-CoV-2 Viral Load in Upper Respiratory Specimens of Infected Patients](https://www.nejm.org/doi/full/10.1056/NEJMc2001737) (31)  
 * [Understanding of COVID‐19 based on current evidence](https://onlinelibrary.wiley.com/doi/full/10.1002/jmv.25722) (30)  
 * [Do N95 Respirators Provide 95% Protection Level Against Airborne Viruses, and How Adequate Are Surgical Masks?](https://pubmed.ncbi.nlm.nih.gov/16490606/)   
 * [Performance of an N95 Filtering Facepiece Particulate Respirator and a Surgical Mask During Human Breathing: Two Pathways for Particle Penetration](https://pubmed.ncbi.nlm.nih.gov/19598054/)  
