@@ -1,8 +1,8 @@
 - A 2003 report found that:
     - `Cases in which the death penalty was sought and imposed could cost about 70% more than cases in which the death penalty wasn’t sought. The estimated median cost of a case in which the death sentence was given was $1.2 million, compared to the same estimated costs for a non-death penalty case of about $740,000.` - [Costs Incurred for Death Penalty Cases: A K-GOAL Audit of the Department of Corrections](https://web.archive.org/web/20151109015151/http://www.kslpa.org/assets/files/reports/04pa03a.pdf)
-- A 2004 report found that in Tennessee, death penalty trials cost an average of 48% more than the average cost of trials in which prosecutors seek life imprisonment. [Tennessee’s Death Penalty: Costs and Consequences, Comptroller of the Treasury Office of Research, 2004](http://www.deathpenaltyinfo.org/documents/deathpenalty.pdf)
-- A 2008 report found that in Maryland death penalty cases cost 3 times more than non-death penalty cases, or $3 million for a single case. [The Cost of the Death Penalty in Maryland, Roman et al., 2008](https://www.urban.org/sites/default/files/publication/31526/411625-The-Cost-of-the-Death-Penalty-in-Maryland.PDF)
-- A 2008 report found that in California the current system costs $137 million per year; it would cost $11.5 million for a system without the death penalty. [Report and Recommendations on the Administration of the Death Penalty in California, California Commission on the Fair Administration of Justice, 2008](https://web.archive.org/web/20120229154704/http://www.deathpenalty.org/downloads/FINAL%20REPORT%20DEATH%20PENALTY%20ccfaj%20June%2030.2008.pdf)
+- A 2004 report found that in Tennessee, death penalty trials cost an average of 48% more than the average cost of trials in which prosecutors seek life imprisonment. - [Tennessee’s Death Penalty: Costs and Consequences, Comptroller of the Treasury Office of Research, 2004](http://www.deathpenaltyinfo.org/documents/deathpenalty.pdf)
+- A 2008 report found that in Maryland death penalty cases cost 3 times more than non-death penalty cases, or $3 million for a single case. - [The Cost of the Death Penalty in Maryland, Roman et al., 2008](https://www.urban.org/sites/default/files/publication/31526/411625-The-Cost-of-the-Death-Penalty-in-Maryland.PDF)
+- A 2008 report found that in California the current system costs $137 million per year; it would cost $11.5 million for a system without the death penalty. - [Report and Recommendations on the Administration of the Death Penalty in California, California Commission on the Fair Administration of Justice, 2008](https://web.archive.org/web/20120229154704/http://www.deathpenalty.org/downloads/FINAL%20REPORT%20DEATH%20PENALTY%20ccfaj%20June%2030.2008.pdf)
 - There is also a problem of not being able to undo `It is now clear that innocent defendants will be convicted and sentenced to death with some regularity as long as the death penalty exists.` - [link](https://deathpenaltyinfo.org/policy-issues/innocence)
 - On
 
@@ -10,9 +10,9 @@
 - A 2009 report found that Criminologists when polled  on the topic of the death penalty deterring murder, there was widespread disagreement is its effectiveness.
 	- `The first question included in the 2008 questionnaire is also regularly asked in Gallup Polls. Here, 88.2% of the polled criminologists do not believe that the death penalty is a deterrent, up slightly from 83.6% in 1996. With the not sure responses eliminated, the proportion of responses that reject the deterrence argument increased from 87.5% in 1996 to 94.3% in 2008. This difference is not statistically significant, which indicates that there has been virtually no change in the experts’ opinions over the twelve years between the two surveys. In contrast, when the question was last posed by Gallup in 2006, 64% of the general public expressed the belief that the death penalty did not lower homicide rates.` - [Do Executions Lower Homicide Rates?: The Views of Leading Criminologists, Radelet and Lacock, 2009](https://files.deathpenaltyinfo.org/legacy/files/DeterrenceStudy2009.pdf)
 - The Death Penalty Information Center found that lower murder rates correlate with a lack of the Death Penalty legalised in a state between 1990 & 2020
-	- `The murder rate in non-death penalty states has remained consistently lower than the rate in states with the death penalty, and the gap has grown since 1990` - [Murder Rate of Death Penalty States Compared to Non-Death Penalty States | Death Penalty Information Center](https://deathpenaltyinfo.org/facts-and-research/murder-rates/murder-rate-of-death-penalty-states-compared-to-non-death-penalty-states)
-- 
- [https://files.deathpenaltyinfo.org/legacy/documents/NatResCouncil-Deterr.pdf](https://files.deathpenaltyinfo.org/legacy/documents/NatResCouncil-Deterr.pdf)  
+	- `The murder rate in non-death penalty states has remained consistently lower than the rate in states with the death penalty, and the gap has grown since 1990` - [Murder Rate of Death Penalty States Compared to Non-Death Penalty States, Death Penalty Information Center](https://deathpenaltyinfo.org/facts-and-research/murder-rates/murder-rate-of-death-penalty-states-compared-to-non-death-penalty-states)
+- A 2012 report found that 
+	- `The committee concludes that research to date is not informative about whether capital punishment decreases, increases, or has no effect on homicide rates. Therefore, these studies should not be used to inform deliberations requiring judgments about the effect of the death penalty on homicide. Claims that research demonstrates that capital punishment decreases or increases the homicide rate or has no effect on it should not influence policy judgments about capital punishment.` - [Deterrence and the Death Penalty, National Research Council, 2012](https://dpic-cdn.org/production/legacy/NatResCouncil-Deterr.pdf)
    A panel of the National Academy of Sciences unanimously concluded that there was no credible evidence that the death penalty deters homicides
 - 
  [https://deathpenaltyinfo.org/news/study-international-data-shows-declining-murder-rates-after-abolition-of-death-penalty](https://deathpenaltyinfo.org/news/study-international-data-shows-declining-murder-rates-after-abolition-of-death-penalty)  
@@ -79,29 +79,29 @@
    The odds of a death trial are 1.75 times higher against black defendants than white defendants, adjusting for many variables
 
 # It is expensive
-
+- 
 [Amnesty International](https://www.amnestyusa.org/issues/death-penalty/death-penalty-facts/death-penalty-cost/) have good studies on it, which I will link down here
-
+- 
  [https://files.deathpenaltyinfo.org/legacy/documents/deathpenalty.pdf](https://files.deathpenaltyinfo.org/legacy/documents/deathpenalty.pdf)  
    In Tennessee, death penalty trials cost an average of 48% more than the average cost of trials in which prosecutors seek life imprisonment 
-
+- 
  [https://pdfs.semanticscholar.org/2981/5daf99ef101a39609de843bbf7f2d3659563.pdf](https://pdfs.semanticscholar.org/2981/5daf99ef101a39609de843bbf7f2d3659563.pdf)  
    In Kansas, the estimated cost of a death penalty case was 70% more than the cost of a comparable non-death penalty case  
    Death penalty case costs were counted through to execution (median cost $1.26 million). Non-death penalty case costs were counted through to the end of incarceration (median cost $740,000)  
-     
+-  
  [https://www.urban.org/research/publication/cost-death-penalty-maryland/view/full\_report](https://www.urban.org/research/publication/cost-death-penalty-maryland/view/full_report)  
    In Maryland, death penalty cases cost 3 times more than non-death penalty cases, or $3 million for a single case  
    It cost the taxpayer at least $37.2 million for each of just five executions since the death penalty was re-enacted in 1978
-
+- 
  [https://digitalcommons.law.scu.edu/cgi/viewcontent.cgi?article=1000\&context=ncippubs](https://digitalcommons.law.scu.edu/cgi/viewcontent.cgi?article=1000&context=ncippubs)  
    In California, the current system costs $137 million per year  
    It would cost $11.5 million for a system without the death penalty
-
+- 
  [https://scholarlycommons.susqu.edu/cgi/viewcontent.cgi?article=1026\&context=supr](https://scholarlycommons.susqu.edu/cgi/viewcontent.cgi?article=1026&context=supr)  
    On average, across all 50 states, a death row inmate costs $1.12 million more than a general population inmate
-
+- 
  [https://deathpenaltyinfo.org/news/pennsylvania-death-penalty-costs-estimated-at-350-million](https://deathpenaltyinfo.org/news/pennsylvania-death-penalty-costs-estimated-at-350-million)   
    The cases of the 185 people on Pennsylvania’s death row is estimated to cost $351.5 million
-
+- 
  [https://files.deathpenaltyinfo.org/legacy/documents/CookCostRpt.pdf](https://files.deathpenaltyinfo.org/legacy/documents/CookCostRpt.pdf)  
    North Carolina: “Thus abolition of the death penalty would have reduced state expenditures on murder cases by about $10.8 million per year”
