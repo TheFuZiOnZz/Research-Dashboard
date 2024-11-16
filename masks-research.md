@@ -1,8 +1,3 @@
-# Papers about effectiveness of basic masks \#masks4all
-
-Curated by [Jeremy Howard](https://twitter.com/jeremyphoward) and the fast.ai community. Summaries by [Reshama Shaikh](https://twitter.com/reshamas). Additional help from Frederik Questier. The papers below have been used to create [a video](https://youtu.be/BoDwXwZXsDI), and [a newspaper article](https://www.washingtonpost.com/outlook/2020/03/28/masks-all-coronavirus/), summarizing the utility of basic masks. In summary: everyone should wear masks, which they should make themselves using t-shirts and/or paper towels, whenever they go out in public. I’ve also made a little [summary on Twitter](https://twitter.com/jeremyphoward/status/1242894378441506816?s=20) of the video, and [a summary of the article](https://twitter.com/jeremyphoward/status/1243992999127920643).
-
-We ended up, somewhat accidentally, finding that we’d created a campaign after we made this literature summary\! So now you’ll find lots of information about masks, including how to make your own, at [Masks4All.co](http://Masks4All.co).
 
 ## Paper Summaries
 
