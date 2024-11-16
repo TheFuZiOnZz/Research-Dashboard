@@ -9,12 +9,7 @@
 # It does not deter murder
 - A 2009 report found that Criminologists when polled  on the topic of the death penalty deterring murder, there was widespread disagreement is its effectiveness.
 	- `The first question included in the 2008 questionnaire is also regularly asked in Gallup Polls. Here, 88.2% of the polled criminologists do not believe that the death penalty is a deterrent, up slightly from 83.6% in 1996. With the not sure responses eliminated, the proportion of responses that reject the deterrence argument increased from 87.5% in 1996 to 94.3% in 2008. This difference is not statistically significant, which indicates that there has been virtually no change in the experts’ opinions over the twelve years between the two surveys. In contrast, when the question was last posed by Gallup in 2006, 64% of the general public expressed the belief that the death penalty did not lower homicide rates.` - [Do Executions Lower Homicide Rates?: The Views of Leading Criminologists, Radelet and Lacock, 2009](https://files.deathpenaltyinfo.org/legacy/files/DeterrenceStudy2009.pdf)
-   
-
- [https://www.huffpost.com/entry/does-the-death-penalty-re\_b\_13362760](https://www.huffpost.com/entry/does-the-death-penalty-re_b_13362760)  
-   “We found that among the 25 states with the highest murder rate, 20 have the death penalty”  
-   “Among the 25 states with low murder rates, 11 have the death penalty”
-
+- 
  [https://deathpenaltyinfo.org/facts-and-research/murder-rates/murder-rate-of-death-penalty-states-compared-to-non-death-penalty-states](https://deathpenaltyinfo.org/facts-and-research/murder-rates/murder-rate-of-death-penalty-states-compared-to-non-death-penalty-states)  
    “The murder rate in non-death penalty states has remained consistently lower than the rate in states with the death penalty, and the gap has grown since 1990”  
    “During the last 20 years, the homicide rate in states with the death penalty has been 48% \- 101% higher than in states without the death penalty”
