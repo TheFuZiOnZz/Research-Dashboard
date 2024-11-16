@@ -15,7 +15,7 @@
 - Because co-operative by themselves do not challenge the system and may divert energy away from doing so, Marx noted that a variety of establishment figures had become supporters of co-operative.
     - `It is perhaps for this very reason that plausible noblemen, philanthropic middle-class spouters, and even kept political economists have all at once turned nauseously complimentary to the very co-operative labor system they had vainly tried to nip in the bud by deriding it as the utopia of the dreamer, or stigmatizing it as the sacrilege of the socialist.` - [Inaugural Address of the International Working Men’s Association, Marx, 1864](https://www.marxists.org/archive/marx/works/1864/10/27.htm)
 
-- # Resilience {#resilience}
+# Resilience
 
 [Olsen 14](https://institute.coop/sites/default/files/resources/070%202013_Olsen_The%20Relative%20Survival%20of%20Worker%20Cooperatives%20and%20Barriers%20to%20Their%20Creation.pdf)
 
@@ -82,7 +82,7 @@
 * While employee ownership is associated with higher productivity, the greater survival rate of these companies is not explained by higher productivity, financial strength, or compensation flexibility  
 * Rather, the higher survival is linked to their greater employment stability, suggesting that employee ownership companies may provide greater employment security as part of an effort to build a more cooperative culture, which can increase employee commitment, training, and willingness to make adjustments when economic difficulties occur
 
-# Wage Structure {#wage-structure}
+# Wage Structure
 
 [Pencavel et al. 06](https://journals.sagepub.com/doi/abs/10.1177/001979390606000102)
 
@@ -126,7 +126,7 @@
 * Coops are less likely to lay off workers during economic downturns, prefeing to share to work, even accepting a lower price of the product in order to remain in the market and maintain production and employment  
 * They tend to offer better fringe benefits than conventional companies in their field
 
-# Productivity {#productivity}
+# Productivity
 
 [Logue et al. 05](https://community-wealth.org/sites/clone.community-wealth.org/files/downloads/article-logue-yates.pdf)
 
@@ -139,7 +139,7 @@
 [O'Boyle et al. 16](https://onlinelibrary.wiley.com/doi/abs/10.1111/1748-8583.12115)
 
 * A meta‐analysis of 102 samples representing 56,984 firms aimed at studying the effects of employee ownership on productivity  
-* The analysis found that Employee ownership has a small, but positive and statistically significant relation to firm performance ( ![urn:x-wiley:09545395:media:hrmj12115:hrmj12115-math-0001][image1] = 0.04)  
+* The analysis found that Employee ownership has a small, but positive and statistically significant relation to firm performance (p = 0.04)  
 * The effect is generally positive for studies with different sampling designs (samples assessing change in performance pre‐employee–post‐employee ownership adoption or samples on firms with employee ownership), different performance operationalisation (efficiency or growth) and firm type (publicly held or privately held)  
 * It found no differences in effects on performance in publicly held versus privately held firms, stock or stock option‐based ownership plans or differences in effects across different firm sizes (i.e. number of employees)  
 * It found that the effect of employee ownership on performance has increased in studies over time and that studies with samples from outside the USA report stronger effects than those within  
@@ -167,7 +167,7 @@
 * Notably, the research does not conflict with the general idea that cooperatives have significantly higher survival rates  
 * This data seems to suggest that the performance in productivity for worker cooperatives is highly dependant and varies greatly depending on the industry
 
-# Worker satisfaction and wellbeing {#worker-satisfaction-and-wellbeing}
+# Worker satisfaction and wellbeing
 
 [Coad et al. 14](https://www.sciencedirect.com/science/article/abs/pii/S0165176514001980)
 
