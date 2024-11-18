@@ -4,7 +4,8 @@
 - The next day, the House Judiciary Committee opened a separate investigation into the documents.
 - On 5 January 2023, Lausch advised Garland that a special counsel was warranted.
 	- ` ` - [Timeline of the Biden Documents Case: What We Know So Far, The New York Times, 2023](https://www.nytimes.com/2023/01/12/us/politics/biden-documents-timeline.html)
-- On January 12, Garland announced that he was appointing a special counsel
+- On January 12, Garland announced that he was appointing a special counsel and named Robert K. Hur to oversee the investigation.
+	- ` ` - [Biden Documents: Special Counsel Will Investigate Biden Documents Case, The New York Times, 2023](https://www.nytimes.com/live/2023/01/12/us/biden-classified-documents)
 # Hur Releases the Report
 - On 8 February 2024, Hur released the Special Counsel report titled `Report on the Investigation Into Unauthorized Removal, Retention, and Disclosure of Classified Documents Discovered at Locations Including the Penn Biden Center and the Delaware Private Residence of President Joseph R. Biden, Jr.`
     - ` ` [link](https://www.justice.gov/storage/report-from-special-counsel-robert-k-hur-february-2024.pdf)
@@ -14,6 +15,7 @@
 - 
 # Hur Testifies to Congress
 - On 12 March 2024,
+	- [Hearing on the Report of Special Counsel Robert K. Hur, YouTube, ](https://www.youtube.com/watch?v=9ptskBAGKOo)
 # House Attempts Garland Impeachment
 - On 13 June 2024,
 	- ` ` [link](https://www.axios.com/2024/06/12/house-votes-merrick-garland-contempt-of-congress)
