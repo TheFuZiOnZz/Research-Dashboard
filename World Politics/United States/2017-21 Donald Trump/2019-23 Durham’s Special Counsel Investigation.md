@@ -29,6 +29,9 @@
 - The FBI encouraged a Confidential Human Source to infiltrate the Clinton campaign to attempt to entrap Hilary Clinton
     - `According to CHS-A, Insider-I, on behalf of Foreign Govemment-3, sought access through CHS-A, to a Clinton campaign fundraising event in the Fall of 2015. Although CHSA was initially advised by an individual associated with the fundraising efforts that Insider-1 could attend, that individual consulted with the campaign and disinvited Insider-1 to the event because of the perceived negative attention a foreign national might attract. According to CHS-A, the fundraising contact suggested CHS-A schedule a separate meeting for Insider-1. Field Office-I renewed the OIA from late 2014 for the CHS to attend the late November 2015 event and make introductions on behalf of Insider-I, but ultimately CHS-A did not attend the event.` - [Report on Matters Related to Intelligence Activities and Investigations Arising Out of the 2016 Presidential Campaigns, U.S. Department of Justice, 2023](https://www.justice.gov/storage/durhamreport.pdf)
 # Inditements
+## Michael Sussmann
 - [link](https://www.washingtonpost.com/national-security/2022/05/31/sussmann-not-guilty-lying-fbi-hillary-clinton/)
+## Igor Danchenko
 - [link](https://www.washingtonpost.com/national-security/2022/10/18/igor-danchenko-john-durham-verdict/)
+## Kevin Clinesmith
 - [link](https://www.washingtonpost.com/national-security/kevin-clinesmith-fbi-john-durham/2021/01/28/b06e061c-618e-11eb-afbe-9a11a127d146_story.html?itid=lk_inline_manual_8)
