@@ -674,9 +674,9 @@
     - ` ` - [United States of America v. Robert Hunter Biden (Weiss, Tax Fraud Charges, Plea Agreement), United States District Court For the District of Delaware, 2023](https://www.politico.com/f/?id=00000189-9524-dee7-a7ab-fd7d1d600000)
 - On 26 July 2023, Hunter Biden pled not guilty meaning plea deal fell apart.
     - ` ` - [United States of America v. Robert Hunter Biden (Weiss, Tax Fraud Charges, Diversion Agreement), United States District Court For the District of Delaware, 2023](https://www.politico.com/f/?id=00000189-9524-df68-afbb-bdaf61fa0000)
-    - ` ` - [United States of America v. Robert Hunter Biden (Weiss, Tax Fraud Charges, Initial Appearance for Plea Hearing Transcript), United States District Court For the District of Delaware, 2023](https://s3.documentcloud.org/documents/23888608/transcript-of-july-26-2023-hearing.pdf
+    - ` ` - [United States of America v. Robert Hunter Biden (Weiss, Tax Fraud Charges, Initial Appearance for Plea Hearing Transcript), United States District Court For the District of Delaware, 2023](https://s3.documentcloud.org/documents/23888608/transcript-of-july-26-2023-hearing.pdf)
 ## Gal Luft Indited for FARA Violations
-- - [link](https://www.nytimes.com/2023/07/11/us/politics/gal-luft-hunter-biden-indictment-justice-department.html)
+- [link](https://www.nytimes.com/2023/07/11/us/politics/gal-luft-hunter-biden-indictment-justice-department.html)
 - On 10 July 2023, Gal Luft was indited of eight charges including acting as an unregistered foreign agent of Chinese entities under the US Foreign Agents Registration Act, violating trade sanctions against Iran, at the behest of Chinese entities, recruited and paid an unnamed adviser to then-president-elect Donald Trump to adopt pro-Chinese positions.
     - ` ` - [United States of America v. Gal Luft (Weiss, Inditement), United States District Court For the District of Delaware, 2023](https://www.justice.gov/usao-sdny/file/1304911/dl?inline)
 ## Hunter Biden Gun Charges Indictment
