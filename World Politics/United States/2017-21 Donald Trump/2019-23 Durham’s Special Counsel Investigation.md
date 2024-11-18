@@ -21,7 +21,7 @@
 - [Wiki](https://en.wikipedia.org/wiki/Nora_Dannehy)
 - [Nora Dannehy, top prosecutor on John Durham team, resigns, CNN Politics](https://edition.cnn.com/2020/09/11/politics/nora-dannehy-john-durham/index.html)
 - [Top Aide in Review of Russia Inquiry Resigns From Justice Dept, The New York Times](https://www.nytimes.com/2020/09/11/us/politics/nora-dannehy-durham-russia-investigation.html)
-- [Barr Pressed Durham to Find Flaws in the Trump-Russia Investigation, The New York Times](https://www.nytimes.com/2023/01/26/us/politics/durham-trump-russia-barr.html)
+- [How Barr’s Quest to Find Flaws in the Russia Inquiry Unraveled, The New York Times, 2023](https://www.nytimes.com/2023/01/26/us/politics/durham-trump-russia-barr.html)
 ### FBIs Attempt To Spy on Clinton Campaign
 - The FBI encouraged a Confidential Human Source to infiltrate the Clinton campaign to attempt to entrap Hilary Clinton
     
