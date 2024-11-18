@@ -15,14 +15,15 @@
       
       `(b) The Special Counsel is authorized to investigate whether any federal official, employee, or any other person or entity violated the law in connection with the intelligence, counter-intelligence, or law-enforcement activities directed at the 2016 presidential campaigns, individuals associated with those campaigns, and individuals associated with the administration of President Donald J. Trump, including but not limited to Crossfire Hurricane and the investigation of Special Counsel Robert S. Mueller, III.` - [link](https://www.justice.gov/file/1370931/download)
 # Durham’s Press Statement Before Special Counsel Appointment
-- [link](https://www.justice.gov/usao-ct/pr/statement-us-attorney-john-h-durham)
+- 
+	- ` ` - [Statement of U.S. Attorney John H. Durham, Department of Justice](https://www.justice.gov/usao-ct/pr/statement-us-attorney-john-h-durham)
 # Nora Dannehy Resignation
 - [Wiki](https://en.wikipedia.org/wiki/Nora_Dannehy)
 - [Nora Dannehy, top prosecutor on John Durham team, resigns, CNN Politics](https://edition.cnn.com/2020/09/11/politics/nora-dannehy-john-durham/index.html)
 - [Top Aide in Review of Russia Inquiry Resigns From Justice Dept, The New York Times](https://www.nytimes.com/2020/09/11/us/politics/nora-dannehy-durham-russia-investigation.html)
 - [How Barr’s Quest to Find Flaws in the Russia Inquiry Unraveled, The New York Times, 2023](https://www.nytimes.com/2023/01/26/us/politics/durham-trump-russia-barr.html)
 # Durham Releases the Report
-- On May 15, 2023, Durham's final 306-page unclassified report called `Report on Matters Related to Intelligence Activities and Investigations Arising Out of the 2016 Presidential Campaigns` was publicly released.
+- On 15 May 2023, Durham's final 306-page unclassified report called `Report on Matters Related to Intelligence Activities and Investigations Arising Out of the 2016 Presidential Campaigns` was publicly released.
 	- ` ` - [Report on Matters Related to Intelligence Activities and  Investigations Arising Out of the 2016 Presidential Campaigns, Department of Justice, 2023](https://www.justice.gov/storage/durhamreport.pdf)
 ## FBIs Attempt To Spy on Clinton Campaign
 - The FBI encouraged a Confidential Human Source to infiltrate the Clinton campaign to attempt to entrap Hilary Clinton
