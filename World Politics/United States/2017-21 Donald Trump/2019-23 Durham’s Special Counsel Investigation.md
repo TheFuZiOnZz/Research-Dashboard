@@ -41,7 +41,7 @@
 ## The Alfa Bank and Yotaphone Allegations
 - On
 	- ` ` - [Report on Matters Related to Intelligence Activities and Investigations Arising Out of the 2016 Presidential Campaigns, U.S. Department of Justice, 2023](https://www.justice.gov/storage/durhamreport.pdf)
-# Inditements
+# Criminal Inditements & Charges
 ## Michael Sussmann
 - [link](https://www.washingtonpost.com/national-security/2022/05/31/sussmann-not-guilty-lying-fbi-hillary-clinton/)
 - 
