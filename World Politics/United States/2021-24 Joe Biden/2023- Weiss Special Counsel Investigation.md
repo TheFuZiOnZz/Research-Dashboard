@@ -13,7 +13,7 @@
 - On 14 April 2014, the UK’s Serious Fraud Office froze approximately $23 million belonging to companies controlled by Zlochevsky.
     - `According to a court judgment from January 2015, the $23m in the account that had been frozen in London was the proceeds of the sale of an oil storage facility, which Zlochevsky had owned via a shell company in the British Virgin Islands, a tax haven that does not reveal who controls the many thousands of companies based there. The $23m arrived in London from Latvia, a minimally regulated Eastern European country, where banks are famously welcoming towards money from the former Soviet Union.`
       
-      `On 14 April 2014, the money was frozen at a special court hearing in London requested by the Serious Fraud Office. As described in the later court judgment, the SFO argued that “there were reasonable grounds to believe that the defendant [Zlochevsky] had engaged in criminal conduct in Ukraine and the funds in the BNP account were believed to be the proceeds of such criminal conduct”.` - [The money machine: how a high-profile corruption investigation fell apart | Ukraine, The Guardian, 2017](https://www.theguardian.com/world/2017/apr/12/the-money-machine-how-a-high-profile-corruption-investigation-fell-apart)
+      `On 14 April 2014, the money was frozen at a special court hearing in London requested by the Serious Fraud Office. As described in the later court judgment, the SFO argued that “there were reasonable grounds to believe that the defendant [Zlochevsky] had engaged in criminal conduct in Ukraine and the funds in the BNP account were believed to be the proceeds of such criminal conduct”.` - [The money machine: how a high-profile corruption investigation fell apart, The Guardian, 2017](https://www.theguardian.com/world/2017/apr/12/the-money-machine-how-a-high-profile-corruption-investigation-fell-apart)
 - On 28 April 2014, the UK’s Serious Fraud Office opened a money laundering investigation into Zlochevsky.
     - `The Director of the SFO has opened a criminal investigation into possible money laundering arising from suspicions of corruption in Ukraine. The SFO has obtained a restraint order freezing approximately $23m of assets in the UK in connection with this case. For reasons of confidentiality we cannot say more at this time.` - [Money laundering investigation opened, U.K. Serious Fraud Office, 2014](https://www.sfo.gov.uk/2014/04/28/money-laundering-investigation-opened/)
 - On 12 May 2014, Hunter Biden’s position on Burisma's board is publicly announced.
@@ -197,11 +197,7 @@
       `Q And is it fair to say that it was the U.S. Government's official position Shokin needed to go?`
       
       `A Yes.` - [Deposition of George Kent, House Permanent Select Committee on Intelligence, 2019](https://docs.house.gov/meetings/IG/IG00/CPRT-116-IG00-D009.pdf)
-# Hunter Bidens Laptop Controversy
-- [Wiki](https://en.wikipedia.org/wiki/Hunter_Biden_laptop_controversy)
-- On 26 September 2023, Hunter Biden files a lawsuit against Giuliani for Violation of the Computer Fraud and Abuse Act and Violation of the California Computer Data Access and Fraud Act.
-    - ` ` - [link](https://storage.courtlistener.com/recap/gov.uscourts.cacd.899829/gov.uscourts.cacd.899829.1.0.pdf)
-# Blue Star Strategies Lobbying
+# Blue Star Strategies Lobbying U.S. Government for Burisma
 - - [link](https://www.politico.com/news/2021/06/03/blue-star-burisma-justice-department-investigation-491681)
 - - [link](https://www.grassley.senate.gov/news/news-releases/johnson-grassley-seek-information-regarding-blue-star-strategies-work-burisma)
 - On 2 December 2015, Blue Star Strategies sends a letter to Burisma disclosing an itinerary of VP Biden’s trip to Ukraine. The letter doesn’t mention Burisma in the planned messaging.
@@ -314,7 +310,11 @@
       `(c) The Special Counsel is authorized to prosecute federal crimes in any federal judicial district arising from the investigation of these matters.`
       
       `(d) Sections 600.4 to 600.10 of Title 28 of the Code of Federal Regulations are applicable to the Special Counsel.` - [Appointment of David C. Weiss as Special Counsel, Department of Justice, 2023](https://www.justice.gov/media/1309991/dl?inline)
-# House Oversight Committee investigation into the Biden family
+# Hunter Bidens Laptop Controversy
+- [Wiki](https://en.wikipedia.org/wiki/Hunter_Biden_laptop_controversy)
+- On 26 September 2023, Hunter Biden files a lawsuit against Giuliani for Violation of the Computer Fraud and Abuse Act and Violation of the California Computer Data Access and Fraud Act.
+    - ` ` - [link](https://storage.courtlistener.com/recap/gov.uscourts.cacd.899829/gov.uscourts.cacd.899829.1.0.pdf)
+# House Oversight Committee Investigation into the Biden Family
 - On
     - ` ` - [link]
 - [Wiki](https://en.wikipedia.org/wiki/United_States_House_Oversight_Committee_investigation_into_the_Biden_family)
@@ -616,7 +616,25 @@
       `Mr. Schwartz. He told you expressly he called his father or that he called D.C.?`
       
       `Mr. Archer. D.C., D.C.` - [Devon Archer Deposition Transcript, House Committee on Oversight and Accountability and Committee on the Judiciary, 2024](https://oversight.house.gov/wp-content/uploads/2023/08/Devon-Archer-Transcript.pdf)
-# Justice Department Opens Tax Fraud Investigation
+# Biden Impeachment Inquiry
+- On 12 September 2023, McCarthy announced the direction to open an Impeachment inquiry.
+    - `Speaker Kevin McCarthy announced Tuesday he is directing the U.S. House to open an impeachment inquiry into President Joe Biden over his family’s business dealings, launching historic proceedings ahead of the 2024 election.`
+      
+      `McCarthy said that House investigations so far “paint a picture of a culture of corruption” around the Biden family as Republicans probe the business dealings of the president’s son, Hunter Biden, from before the Democratic president took office.`
+      
+      `“These are allegations of abuse of power, obstruction and corruption, and they warrant further investigation by the House of Representatives,” McCarthy, R-Calif., said at the Capitol, announcing he was directing the House led by the Oversight Committee “to open a formal impeachment inquiry.”` - [Speaker McCarthy directs the House to open an impeachment inquiry into President Biden, AP News, 2023](https://apnews.com/article/mccarthy-biden-impeachment-shutdown-house-republicans-b187202be8814f7acbdd6e2e937e23d4)
+## Hunter Biden Testimony
+- On 28 February 2024, Hunter Biden appeared in front of the Committees representing the impeachment inquiry.
+    - `Mr. Biden. Thank you.`
+      
+      `I am here today to provide the committees with the one uncontestable fact that should end the false premise of this inquiry: I did not involve my father in my business, not while I was a practicing lawyer, not in my investments or transactions, domestic or international, not as a board member, and not as an artist, never.`
+      
+      `You read this fact in the many letters that have been sent to you over the last year as part of your so-called impeachment investigation. You heard this fact when I said it weeks ago standing outside of this building. You heard this fact from a parade of other witnesses, former colleagues, and business partners of mine, including my uncle, who has testified before you in similar proceedings. And now, today, you hear this fact directly from me.`
+      
+      `For more than a year, your committees have hunted me in your partisan political pursuit of my dad. You have trafficked in innuendo, distortion, and sensationalism, all the while ignoring the clear and convincing evidence staring you in the face: You do not have evidence to support the baseless and MAGA-motivated conspiracies about my father because there isn't any.` - [Hunter Biden Deposition Transcript, House Committee on Oversight and Accountability and Committee on the Judiciary, 2024](https://oversight.house.gov/wp-content/uploads/2024/02/Hunter-Biden-Transcript_Redacted.pdf)
+      ` `  - [Hunter Biden Deposition Transcript, House Committee on Oversight and Accountability and Committee on the Judiciary, 2024](https://oversight.house.gov/wp-content/uploads/2024/02/Hunter-Biden-Transcript_Redacted.pdf)
+# Criminal Inditements & Charges
+## Hunter Biden Tax Fraud Indictment
 - On 9 December 2020, Hunter Biden announced that he had been under investigation since late 2018 for potential criminal violations of tax and money laundering laws.
     - `The Justice Department is investigating the tax affairs of President-elect Joseph R. Biden Jr.’s son Hunter, he disclosed in a statement on Wednesday.`
       
@@ -650,26 +668,6 @@
       `“If I thought a special counsel was the right tool, I would name one, but I haven’t.”`
       
       `Barr also said that he hopes the Biden administration will handle the Hunter Biden probe “responsibly.”` - [Attorney General Barr won't name special counsel for Hunter Biden probe, CNBC, 2020](https://www.cnbc.com/2020/12/21/attorney-general-barr-wont-name-special-counsel-for-hunter-biden-probe.html)
-
-# Biden Impeachment Inquiry
-- On 12 September 2023, McCarthy announced the direction to open an Impeachment inquiry.
-    - `Speaker Kevin McCarthy announced Tuesday he is directing the U.S. House to open an impeachment inquiry into President Joe Biden over his family’s business dealings, launching historic proceedings ahead of the 2024 election.`
-      
-      `McCarthy said that House investigations so far “paint a picture of a culture of corruption” around the Biden family as Republicans probe the business dealings of the president’s son, Hunter Biden, from before the Democratic president took office.`
-      
-      `“These are allegations of abuse of power, obstruction and corruption, and they warrant further investigation by the House of Representatives,” McCarthy, R-Calif., said at the Capitol, announcing he was directing the House led by the Oversight Committee “to open a formal impeachment inquiry.”` - [Speaker McCarthy directs the House to open an impeachment inquiry into President Biden, AP News, 2023](https://apnews.com/article/mccarthy-biden-impeachment-shutdown-house-republicans-b187202be8814f7acbdd6e2e937e23d4)
-## Hunter Biden Testimony
-- On 28 February 2024, Hunter Biden appeared in front of the Committees representing the impeachment inquiry.
-    - `Mr. Biden. Thank you.`
-      
-      `I am here today to provide the committees with the one uncontestable fact that should end the false premise of this inquiry: I did not involve my father in my business, not while I was a practicing lawyer, not in my investments or transactions, domestic or international, not as a board member, and not as an artist, never.`
-      
-      `You read this fact in the many letters that have been sent to you over the last year as part of your so-called impeachment investigation. You heard this fact when I said it weeks ago standing outside of this building. You heard this fact from a parade of other witnesses, former colleagues, and business partners of mine, including my uncle, who has testified before you in similar proceedings. And now, today, you hear this fact directly from me.`
-      
-      `For more than a year, your committees have hunted me in your partisan political pursuit of my dad. You have trafficked in innuendo, distortion, and sensationalism, all the while ignoring the clear and convincing evidence staring you in the face: You do not have evidence to support the baseless and MAGA-motivated conspiracies about my father because there isn't any.` - [Hunter Biden Deposition Transcript, House Committee on Oversight and Accountability and Committee on the Judiciary, 2024](https://oversight.house.gov/wp-content/uploads/2024/02/Hunter-Biden-Transcript_Redacted.pdf)
-      ` `  - [Hunter Biden Deposition Transcript, House Committee on Oversight and Accountability and Committee on the Judiciary, 2024](https://oversight.house.gov/wp-content/uploads/2024/02/Hunter-Biden-Transcript_Redacted.pdf)
-# Criminal Inditements & Charges
-## Hunter Biden Tax Fraud Indictment
 - On 20 June 2023, Weiss filed a federal inditement for Hunter Biden on charges of tax fraud for 2017 & 2018 tax years.
     - `During the calendar year 2017, the defendant Robert Hunter Biden, who was a resident of the District of Columbia, had and received taxable income in excess of $1,500,000.00 on which taxable income there was owing to the United States of America an income tax in excess of $100,000.00. He was required by law to pay, on or before April 17, 2018, that income tax to the Internal Revenue Service Center, at Hartford, Connecticut, or to another Internal Revenue Service office permitted by the Commissioner of Internal Revenue. Well knowing and believing all of the foregoing, Robert Hunter Biden did willfully fail, on or about April 17, 2018, in the District of Columbia and elsewhere, to pay the income tax due.`
       
@@ -687,13 +685,12 @@
 - - [link](https://www.nytimes.com/2023/07/11/us/politics/gal-luft-hunter-biden-indictment-justice-department.html)
 - On 10 July 2023, Gal Luft was indited of eight charges including acting as an unregistered foreign agent of Chinese entities under the US Foreign Agents Registration Act, violating trade sanctions against Iran, at the behest of Chinese entities, recruited and paid an unnamed adviser to then-president-elect Donald Trump to adopt pro-Chinese positions.
     - ` ` - [United States of America v. Gal Luft (Weiss, Inditement), United States District Court For the District of Delaware, 2023](https://www.justice.gov/usao-sdny/file/1304911/dl?inline)
-
-# Hunter Biden Gun Charges Indictment
+## Hunter Biden Gun Charges Indictment
 - On 14 September 2023, Weiss filed a federal inditement for Hunter Biden on charges of knowingly made a false and fictious written statement, intended and likely to deceive that dealer with respect to a fact material to the lawfulness of the sale of the firearm while knowing that he was an unlawful user of and addicted to any stimulant, narcotic drug, and any other controlled substance.
     - `On or about October 12, 2018, in the District of Delaware, the defendant, Robert Hunter Biden, in connection with the acquisition of a firearm, that is, a Colt Cobra 38SPL revolver with serial number RA 551363 from Company 1, licensed under the provisions of Chapter 44, Title 18, United States Code, knowingly made a false and fictious written statement, intended and likely to deceive that dealer with respect to a fact material to the lawfulness of the sale of the firearm under the provisions of Chapter 44, Title 18, United States Code, in that defendant, Robert Hunter Biden, provided a written statement on Form 4473 certifying he was not an unlawful user of, and addicted to, any stimulant, narcotic drug, and any other controlled substance, when in fact, as he knew, that statement was false and fictitious.` - [United States of America v. Robert Hunter Biden (Weiss, Gun Charges, Inditement), United States District Court For the District of Delaware, 2023](https://storage.courtlistener.com/recap/gov.uscourts.ded.82797/gov.uscourts.ded.82797.40.0.pdf)
     - `On or about October 12, 2018, in the District of Delaware, the defendant, Robert Hunter Biden, in connection with the acquisition of a firearm, that is, a Colt Cobra 38SPL revolver with serial number RA 551363, knowingly made a false statement and representation to Company 1, licensed under the provisions of Chapter 44, Title 18, United States Code, with respect to information required by the provisions of Chapter 44, Title 18, United States Code, to be kept in the FFL holder's records, in that defendant, Robert Hunter Biden, certified on the Form 4473 that he was not an unlawful user of, and addicted to, any stimulant, narcotic drug, and any other controlled substance, when in fact, as he knew, that statement was false and fictitious.` - [United States of America v. Robert Hunter Biden (Weiss, Gun Charges, Inditement), United States District Court For the District of Delaware, 2023](https://storage.courtlistener.com/recap/gov.uscourts.ded.82797/gov.uscourts.ded.82797.40.0.pdf)
     - `On or about October 12, 2018, through on or about October 23, 2018, in the District of Delaware, the defendant Robert Hunter Biden, knowing that he was an unlawful user of and addicted to any stimulant, narcotic drug, and any other controlled substance as defined in Title 21, United States Code, Section 802, did knowingly possess a firearm, that is, a Colt Cobra 38SPL revolver with serial number RA 551363, said firearm having been shipped and transported in interstate commerce.` - [United States of America v. Robert Hunter Biden (Weiss, Gun Charges, Inditement), United States District Court For the District of Delaware, 2023](https://storage.courtlistener.com/recap/gov.uscourts.ded.82797/gov.uscourts.ded.82797.40.0.pdf)
-# Tony Bobulinski
+## Tony Bobulinski
 - [Wiki](https://en.wikipedia.org/wiki/Hunter_Biden_laptop_controversy#Hunter_Biden_story_pitch)
-# Jason Galanis
-- - [link]
+## Jason Galanis
+- 
