@@ -1,0 +1,3 @@
+- [Soviet–Japanese War - Wikipedia](https://en.wikipedia.org/wiki/Soviet%E2%80%93Japanese_War)
+- [Invasion of the Kuril Islands - Wikipedia](https://en.wikipedia.org/wiki/Invasion_of_the_Kuril_Islands)
+- On 8 August – 2 September 1945, 
