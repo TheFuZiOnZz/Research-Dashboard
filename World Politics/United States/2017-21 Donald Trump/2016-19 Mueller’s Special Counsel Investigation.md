@@ -1,14 +1,15 @@
 [link](https://rationalwiki.org/wiki/Mueller_investigation)
-# Russian Social Active Measures Campaign
+# Russian Influence
+## Russian Social Active Measures Campaign
 - [link](https://web.archive.org/web/20221121100354/https://intelligence.house.gov/social-media-content/) - overview of the social media content disseminated by Russian Trolls 1
 - [link](https://web.archive.org/web/20221209090405/https://intelligence.house.gov/uploadedfiles/2018_02_27_13_40_38_twitter_suppression.pdf) - examples of the social media content disseminated by Russian Trolls 2
 - [link](https://web.archive.org/web/20221209090443/https://intelligence.house.gov/social-media-content/social-media-advertisements.htm) - multiple packs of examples of the social media content disseminated by Russian Trolls
 - [link](https://web.archive.org/web/20221209090440/https://intelligence.house.gov/uploadedfiles/hpsci_minority_exhibits_memo_11.1.17.pdf) - Numbers from the social media platforms on Russia-Linked Accounts
 - On 7 October 2016,
-# Russian Hacking & Dumping Operations
-## GRU’s Persona DCLeaks
+## Russian Hacking & Dumping Operations
+### GRU’s Persona DCLeaks
 - 
-## GRU’s Persona Guccifer 2.0
+### GRU’s Persona Guccifer 2.0
 - On 12 January 2017, Guccifer 2.0 released a blog post stating that accusations of ties with the Russian Government were unfounded.
     - `I really hope you’ve missed me a lot. Though I see they didn’t let you forget my name. The U.S. intelligence agencies have published several reports of late claiming I have ties with Russia.`
       
@@ -17,7 +18,7 @@
       `The technical evidence contained in the reports doesn’t stand up to scrutiny. This is a crude fake.`
       
       `Any IT professional can see that a malware sample mentioned in the Joint Analysis Report was taken from the web and was commonly available. A lot of hackers use it. I think it was inserted in the report to make it look a bit more plausible.` - [Here i am again my Friends!, Guccifer 2.0 Blog, 2017](https://guccifer2.wordpress.com/2017/01/12/fake-evidence/)
-## Wikileaks & Releasing Stolen Emails
+### Wikileaks & Releasing Stolen Emails
 - Assange telling Trump JR to tell trump not to concede if Trump lost 2016 - [The Secret Correspondence Between Donald Trump Jr. and WikiLeaks, The Atlantic, 2017](https://www.theatlantic.com/politics/archive/2017/11/the-secret-correspondence-between-donald-trump-jr-and-wikileaks/545738/)
 - [Wiki](https://en.wikipedia.org/wiki/2016_Democratic_National_Committee_email_leak)
 - [Wiki](https://en.wikipedia.org/wiki/Podesta_emails)
@@ -32,9 +33,7 @@
 	  
 	  `Nevertheless, DHS continues to urge state and local election officials to be vigilant and seek cybersecurity assistance from DHS. A number of states have already done so. DHS is providing several services to state and local election officials to assist in their cybersecurity. These services include cyber “hygiene” scans of Internet-facing systems, risk and vulnerability assessments, information sharing about cyber incidents, and best practices for securing voter registration databases and addressing potential cyber threats. DHS has convened an Election Infrastructure Cybersecurity Working Group with experts across all levels of government to raise awareness of cybersecurity risks potentially affecting election infrastructure and the elections process. Secretary Johnson and DHS officials are working directly with the National Association of Secretaries of State to offer assistance, share information, and provide additional resources to state and local officials.` - [Joint Statement from the Department Of Homeland Security and Office of the Director of National Intelligence on Election Security, Homeland Security, 2016](https://www.dhs.gov/archive/news/2016/10/07/joint-statement-department-homeland-security-and-office-director-national)
 # Russian Government Links to and Contacts With the Trump Campaign
-## 1
-- 
-# Papadopoulos’ Meets Mifsud About dirt on Clinton, Opening Crossfire Hurricane Investigation
+## Papadopoulos’ Meets Mifsud About dirt on Clinton, Opening Crossfire Hurricane Investigation
 - On 26 April 2016, Papadopoulos’ Meets Mifsud, Mifsud says they have thousands of Clinton’s emails, namely dirt.
     - `After a stop in Rome, Mifsud returned to England on April 25, 2016. The next day, Papadopoulos met Mifsud for breakfast at the Andaz Hotel (the same location as their last meeting). During that meeting, Mifsud told Papadopoulos that he had met with high-level Russian government officials during his recent trip to Moscow. Mifsud also said that, on the trip, he learned that the Russians had obtained “dirt” on candidate Hillary Clinton. As Papadopoulos later stated to the FBI, Mifsud said that the “dirt” was in the form of “emails of Clinton,” and that they “have thousands of emails.”` - [Report On The Investigation Into Russian Interference In The 2016 Presidential Election, U.S. Department of Justice, 2019](https://www.justice.gov/archives/sco/file/1373816/download)
 - On 6 May 2016, Papadopoulos’ relays this `dirt` to Alexander Downer, the Australian High Commissioner to the United Kingdom.
@@ -48,7 +47,7 @@
     - `This information is contained in the FBI case-opening document and related materials. The information is law-enforcement sensitive (LES) and must be treated accordingly in any external dissemination. The foreign government conveyed this information to the U.S. government on July 26, 2016, a few days after WikiLeaks’s release of Clinton-related emails. The FBI opened its investigation of potential coordination between Russia and the Trump Campaign a few days later based on the information.` - [Report On The Investigation Into Russian Interference In The 2016 Presidential Election, U.S. Department of Justice, 2019](https://www.justice.gov/archives/sco/file/1373816/download)
 - On 31 July 2016, The FBI opened the Crossfire Hurricane Investigation in response to Papadopoulos’ claim of damaging material on Clinton from the Australian High Commissioner to the United Kingdom.
     - `July 2016 was also the month WikiLeaks first released emails stolen by the GRU from the DNC. On July 22, 2016, WikiLeaks posted thousands of internal DNC documents revealing information about the Clinton Campaign. Within days, there was public reporting that U.S. intelligence agencies had “high confidence” that the Russian government was behind the theft of emails and documents from the DNC. And within a week of the release, a foreign government informed the FBI about its May 2016 interaction with Papadopoulos and his statement that the Russian government could assist the Trump Campaign. On July 31, 2016, based on the foreign government reporting, the FBI opened an investigation into potential coordination between the Russian government and individuals associated with the Trump Campaign.` - [Report On The Investigation Into Russian Interference In The 2016 Presidential Election, U.S. Department of Justice, 2019](https://www.justice.gov/archives/sco/file/1373816/download)
-# Meeting at Trump Tower with Veselnitskaya
+## Meeting at Trump Tower with Veselnitskaya
 - [Wiki](https://en.wikipedia.org/wiki/Trump_Tower_meeting)
 - On 9 June 2016, Trump held a meeting with Russian attorney, Natalia Veselnitskaya, and other members of the Trump Campaign on receiving damaging information on Clinton. It also included a conversation on the U.S. Magnitsky Act and Trump's postiton on it.
     - `On June 9, 2016, senior representatives of the Trump Campaign met in Trump Tower with a Russian attorney expecting to receive derogatory information about Hillary Clinton from the Russian government. The meeting was proposed to Donald Trump Jr. in an email from Robert Goldstone, at the request of his then-client Emin Agalarov, the son of Russian real-estate developer Aras Agalarov. Goldstone relayed to Trump Jr. that the “Crown prosecutor of Russia... offered to provide the Trump Campaign with some official documents and information that would incriminate Hillary and her dealings with Russia” as part of Russia and its government’s support for Mr. Trump.” Trump Jr. immediately responded that “if it’s what you say I love it,” and arranged the meeting through a series of emails and telephone calls.`
@@ -58,7 +57,8 @@
       `The Russian attorney who spoke at the meeting, Natalia Veselnitskaya, had previously worked for the Russian government and maintained a relationship with that government throughout this period of time. She claimed that funds derived from illegal activities in Russia were provided to Hillary Clinton and other Democrats. Trump Jr. requested evidence to support those claims, but Veselnitskaya did not provide such information. She and her associates then turned to a critique of the origins of the Magnitsky Act, a 2012 statute that imposed financial and travel sanctions on Russian officials and that resulted in a retaliatory ban on adoptions of Russian children. Trump Jr. suggested that the issue could be revisited when and if candidate Trump was elected. After the election, Veselnitskaya made additional efforts to follow up on the meeting, but the Trump Transition Team did not engage.` - [Report On The Investigation Into Russian Interference In The 2016 Presidential Election, U.S. Department of Justice, 2019](https://www.justice.gov/archives/sco/file/1373816/download)
 - The Mueller Report lays out that Veselnitskaya has a history of connections to Putin and Russian Government officials
     - `From approximately 1998 until 2001, Veselnitskaya worked as a prosecutor for the Central Administrative District of the Russian Prosecutor’s Office, and she continued to perform government-related work and maintain ties to the Russian government following her departure. She lobbied and testified about the Magnitsky Act, which imposed financial sanctions and travel restrictions on Russian officials and which was named for a Russian tax specialist who exposed a fraud and later died in a Russian prison. Putin called the statute “a purely political, unfriendly act,” and Russia responded by barring a list of current and former U.S. officials from entering Russia and by halting the adoption of Russian children by U.S. citizens. Veselnitskaya performed legal work for Denis Katsyv, the son of Russian businessman Peter Katsyv, and for his company Prevezon Holdings Ltd., which was a defendant in a civil-forfeiture action alleging the laundering of proceeds from the fraud exposed by Magnitsky. She also appears to have been involved in an April 2016 approach to a U.S. congressional delegation in Moscow offering “confidential information” from “the Prosecutor General of Russia” about “interactions between certain political forces in our two countries.”` - [Report On The Investigation Into Russian Interference In The 2016 Presidential Election, U.S. Department of Justice, 2019](https://www.justice.gov/archives/sco/file/1373816/download)
-# Trump Campaign’s Response to Reports About Russian Support for Trump
+# Obstruction of Justice
+## Trump Campaign’s Response to Reports About Russian Support for Trump
 - On 26 February 2016, Reuters reported Russian ties to Flynn.
     - `Donald Trump is receiving foreign policy advice from a former U.S. military intelligence chief who wants the United States to work more closely with Russia to resolve global security issues, according to three sources.`
       
@@ -502,9 +502,10 @@
     - `As we stated in our meeting of March 5 and reiterated to the Department early in the afternoon of March 24, the introductions and executive summaries of our two-volume report accurately summarize this Office’s work and conclusions. The summary letter the Department sent to Congress and released to the public late in the afternoon of March 24 did not fully capture the context, nature, and substance of this Office’s work and conclusions. We communicated that concern to the Department on the morning of March 25. There is now public confusion about critical aspects of the results of our investigation. This threatens to undermine a central purpose for which the Department appointed the Special Counsel: to assure full public confidence in the outcome of the investigations. See Department of Justice, Press Release (May 17, 2017).`
       
       `While we understand that the Department is reviewing the full report to determine what is appropriate for public release—a process that our Office is working with you to complete—that process need not delay release of the enclosed materials. Release at this time would alleviate the misunderstandings that have arisen and would answer congressional and public questions about the nature and outcome of our investigation. It would also accord with the standard for public release of notifications to Congress cited in your letter.` - [Special Counsel Robert Mueller Letter to Attorney General William Barr, U.S. Department of Justice, 2019](https://int.nyt.com/data/documenthelper/796-mueller-letter-to-barr/02499959cbfa313c36d4/optimized/full.pdf)
+# Mueller Releases the Report
 - On 18 April 2019, a redacted version of the Mueller Report was released to the public.
 # Mueller Testifies to Congress
-
+- 
 # Criminal Inditements & Charges
 - [Wiki](https://en.wikipedia.org/wiki/Criminal_charges_brought_in_the_Mueller_special_counsel_investigation)
 - [Sessions discussed Trump campaign-related matters with Russian ambassador, U.S. intelligence intercepts show - The Washington Post](https://www.washingtonpost.com/world/national-security/sessions-discussed-trump-campaign-related-matters-with-russian-ambassador-us-intelligence-intercepts-show/2017/07/21/3e704692-6e44-11e7-9c15-177740635e83_story.html)
