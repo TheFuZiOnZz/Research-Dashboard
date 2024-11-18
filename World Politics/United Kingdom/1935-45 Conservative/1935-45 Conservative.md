@@ -14,7 +14,7 @@ Winston Churchill - 10 May 1940 to 26 July 1945
 # Law & Order Policy
 
 # Social Services Policy
-
+## [1944 Education Act](1944%20Education%20Act)
 # Transport Policy
 
 # Voting Policy
