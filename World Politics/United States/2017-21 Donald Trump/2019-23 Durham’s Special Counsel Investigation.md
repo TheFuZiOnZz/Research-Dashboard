@@ -1,6 +1,6 @@
 - [Wiki](https://en.wikipedia.org/wiki/Durham_special_counsel_investigation)
 - [link](https://www.justice.gov/storage/durhamreport.pdf)
-# Pre-Investigation
+# Pre-Special Counsel Investigation
 - On 13 May 2019, following [Special Counsel Mueller's report](2016-19%20Mueller’s%20Special%20Counsel%20Investigation), Attorney General Barr directed United States Attorney John Durham to conduct a preliminary review into certain matters related to the 2016 presidential election campaigns.
     - `On May 13, 2019, I directed United States Attorney John Durham to conduct a preliminary review into certain matters related to the 2016 presidential election campaigns, and Mr. Durham's review subsequently developed into a criminal investigation, which remains ongoing. Following consultation with Mr. Durham, I have determined that, in light of the extraordinary circumstances relating to these matters, the public interest warrants Mr. Durham continuing this investigation pursuant to the powers and independence afforded by the Special Counsel regulations.` [Appointment of Special Counsel to Investigate Matters Related to Intelligence Activities and Investigations Arising Out of the 2016 Presidential Campaigns, U.S. Department of Justice, 2019](https://www.justice.gov/file/1370931/download)
 - On 9 December 2019, Durham disagreed with Horowitz' OIG report's findings.
@@ -10,7 +10,7 @@
       
       `I previously directed you to conduct a review into certain activities involving the campaigns in the 2016 U.S. presidential election and certain related matters. In advance of the commencement of criminal proceedings in the U.S. District Court for the District of Columbia, I hereby appoint you as Special Attorney to the Attorney General pursuant to 28 U.S.C. 515. In this capacity, you may exercise, within the scope of the review, the full power and authority of a United States Attorney, whether or not you are a resident of the district in which the proceeding is brought.`
       
-      `Unless otherwise terminated or extended by action of the Attorney General, this appointment shall expire after the completion of all investigations, matters, cases, or actions related to the review.` - [link](https://s3.documentcloud.org/documents/7217008/DOJ-OIP-19-0685-A.pdf)
+      `Unless otherwise terminated or extended by action of the Attorney General, this appointment shall expire after the completion of all investigations, matters, cases, or actions related to the review.` - [Attorney General William Barr's Letter to U.S. Attorney John Durham](https://s3.documentcloud.org/documents/7217008/DOJ-OIP-19-0685-A.pdf)
 - On 19 October 2020, Barr appointed Durham to Special Counsel and was authorized to continue Durham’s original review.
     - `Accordingly, by virtue of the authority vested in the Attorney General, including 28 U.S.C. §§ 509,5 10, and 515, in order to discharge my responsibility to provide supervision and management of the Department of Justice, and to ensure a full and thorough investigation of these matters, I hereby order as follows:`
       
