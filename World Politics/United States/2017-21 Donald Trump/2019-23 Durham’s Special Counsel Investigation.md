@@ -1,27 +1,19 @@
 - [Wiki](https://en.wikipedia.org/wiki/Durham_special_counsel_investigation)
 - [link](https://www.justice.gov/storage/durhamreport.pdf)
 - On 13 May 2019, following Special Counsel Mueller's report, Attorney General Barr directed United States Attorney John Durham to conduct a preliminary review into certain matters related to the 2016 presidential election campaigns.
-    
     - `On May 13, 2019, I directed United States Attorney John Durham to conduct a preliminary review into certain matters related to the 2016 presidential election campaigns, and Mr. Durham's review subsequently developed into a criminal investigation, which remains ongoing` [link](https://www.justice.gov/file/1370931/download)
-    
 - On 6 February 2020, Barr appointed Durham "as Special Attorney to the Attorney General pursuant to 28 U.S.C. S 515."
-    
-    - `Dear U.S. Attorney Durham:  
-    -   
-    - I previously directed you to conduct a review into certain activities involving the campaigns in the 2016 U.S. presidential election and certain related matters. In advance of the commencement of criminal proceedings in the U.S. District Court for the District of Columbia, I hereby appoint you as Special Attorney to the Attorney General pursuant to 28 U.S.C. 515. In this capacity, you may exercise, within the scope of the review, the full power and authority of a United States Attorney, whether or not you are a resident of the district in which the proceeding is brought.  
-    -   
-    - Unless otherwise terminated or extended by action of the Attorney General, this appointment shall expire after the completion of all investigations, matters, cases, or actions related to the review.`  
-    - [link](https://s3.documentcloud.org/documents/7217008/DOJ-OIP-19-0685-A.pdf)
-    
+    - `Dear U.S. Attorney Durham:`
+      
+      `I previously directed you to conduct a review into certain activities involving the campaigns in the 2016 U.S. presidential election and certain related matters. In advance of the commencement of criminal proceedings in the U.S. District Court for the District of Columbia, I hereby appoint you as Special Attorney to the Attorney General pursuant to 28 U.S.C. 515. In this capacity, you may exercise, within the scope of the review, the full power and authority of a United States Attorney, whether or not you are a resident of the district in which the proceeding is brought.`
+      
+      `Unless otherwise terminated or extended by action of the Attorney General, this appointment shall expire after the completion of all investigations, matters, cases, or actions related to the review.` - [link](https://s3.documentcloud.org/documents/7217008/DOJ-OIP-19-0685-A.pdf)
 - On 19 October 2020, Barr appointed Durham to Special Counsel and was authorized to continue Durham’s original review.
-    
-    - `Accordingly, by virtue of the authority vested in the Attorney General, including 28 U.S.C. §§ 509,5 10, and 515, in order to discharge my responsibility to provide supervision and management of the Department of Justice, and to ensure a full and thorough investigation of these matters, I hereby order as follows:  
-    -   
-    - (a) John Durham, United States Attorney for the District of Connecticut, is appointed to serve as Special Counsel for the Department of Justice.  
-    -   
-    - (b) The Special Counsel is authorized to investigate whether any federal official, employee, or any other person or entity violated the law in connection with the intelligence, counter-intelligence, or law-enforcement activities directed at the 2016 presidential campaigns, individuals associated with those campaigns, and individuals associated with the administration of President Donald J. Trump, including but not limited to Crossfire Hurricane and the investigation of Special Counsel Robert S. Mueller, Ill.`  
-    - [link](https://www.justice.gov/file/1370931/download)
-    
+    - `Accordingly, by virtue of the authority vested in the Attorney General, including 28 U.S.C. §§ 509,5 10, and 515, in order to discharge my responsibility to provide supervision and management of the Department of Justice, and to ensure a full and thorough investigation of these matters, I hereby order as follows:`
+      
+      `(a) John Durham, United States Attorney for the District of Connecticut, is appointed to serve as Special Counsel for the Department of Justice.`
+      
+      `(b) The Special Counsel is authorized to investigate whether any federal official, employee, or any other person or entity violated the law in connection with the intelligence, counter-intelligence, or law-enforcement activities directed at the 2016 presidential campaigns, individuals associated with those campaigns, and individuals associated with the administration of President Donald J. Trump, including but not limited to Crossfire Hurricane and the investigation of Special Counsel Robert S. Mueller, III.` - [link](https://www.justice.gov/file/1370931/download)
 - On May 15, 2023, Durham's final 306-page unclassified report called `Report on Matters Related to Intelligence Activities and Investigations Arising Out of the 2016 Presidential Campaigns` was publicly released.
 ### Durham’s Press Statement Before Special Counsel Appointment
 - [link](https://www.justice.gov/usao-ct/pr/statement-us-attorney-john-h-durham)
