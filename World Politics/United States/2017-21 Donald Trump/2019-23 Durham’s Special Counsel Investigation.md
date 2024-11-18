@@ -11,6 +11,7 @@
       `I previously directed you to conduct a review into certain activities involving the campaigns in the 2016 U.S. presidential election and certain related matters. In advance of the commencement of criminal proceedings in the U.S. District Court for the District of Columbia, I hereby appoint you as Special Attorney to the Attorney General pursuant to 28 U.S.C. 515. In this capacity, you may exercise, within the scope of the review, the full power and authority of a United States Attorney, whether or not you are a resident of the district in which the proceeding is brought.`
       
       `Unless otherwise terminated or extended by action of the Attorney General, this appointment shall expire after the completion of all investigations, matters, cases, or actions related to the review.` - [Attorney General William Barr's Letter to U.S. Attorney John Durham, 2020](https://s3.documentcloud.org/documents/7217008/DOJ-OIP-19-0685-A.pdf)
+# Durham Made Special Counsel
 - On 19 October 2020, Barr appointed Durham to Special Counsel and was authorized to continue Durham’s original review.
     - `Accordingly, by virtue of the authority vested in the Attorney General, including 28 U.S.C. §§ 509, 510, and 515, in order to discharge my responsibility to provide supervision and management of the Department of Justice, and to ensure a full and thorough investigation of these matters, I hereby order as follows:`
       
