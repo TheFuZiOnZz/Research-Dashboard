@@ -1,6 +1,7 @@
 - [Wiki](https://en.wikipedia.org/wiki/Joe_Biden_classified_documents_incident)
 # Pre-Special Counsel Investigation
 - On 14 November 2022, After the discovery of the first batch of documents, Attorney General Merrick Garland assigned U.S. Attorney John R. Lausch Jr. to conduct an initial investigation.
+# Hur Made Special Counsel
 - On 5 January 2023, Lausch advised Garland that a special counsel was warranted.
 	- `On January 5, 2023, Mr. Lausch briefed me on the results of his initial investigation and advised me that further investigation by a Special Counsel was warranted. Based on Mr. Lausch's initial investigation, I concluded that, under the Special Counsel regulations, it was in the public interest to appoint a Special Counsel.  In the days since, while Mr. Lausch continued the investigation, the Department identified Mr. Hur for appointment as Special Counsel.` - [Attorney General Merrick B. Garland Delivers Remarks on the Appointment of a Special Counsel, U.S. Department of Justice, 2023](https://www.justice.gov/opa/speech/attorney-general-merrick-b-garland-delivers-remarks-appointment-special-counsel-0)
 - On 12 January 2023, Garland announced that he was appointing a special counsel and named Robert K. Hur to oversee the investigation.
