@@ -75,6 +75,11 @@
 - On ,
     - ` ` - [link]
 - On 6 July 2016,
+	- `The SIS report of 23 September is addressed in the Box below.`
+	  
+	  `On 23 September, SIS issued a second report from the same sourcing chain as the 11 September report. That stated VX, sarin and soman had been produced at Al-Yarmuk, and were loaded into a variety of “containers”, including “linked hollow glass spheres”. The source commented that there had been “accelerated production of CW substances at Al-Yarmuk for several years”. It was described by SIS as expanding and clarifying the intelligence in the first report, and that it was “valuable intelligence”.`
+	  
+	  `The report was circulated to the same restricted group as the report on 11 September, with the addition of Mr Mark Bowman, Mr Brown’s Private Secretary. It arrived too late to have influenced the conclusions in the dossier.` - [The Report of the Iraq Inquiry: Volume 4, The Chilcot Inquiry, 2016](https://assets.publishing.service.gov.uk/media/5a80b723e5274a2e8ab51c0c/The_Report_of_the_Iraq_Inquiry_-_Volume_IV.pdf)
     - ` ` - [The Report of the Iraq Inquiry: Executive Summary, The Chilcot Inquiry, 2016](https://assets.publishing.service.gov.uk/media/5a80f42ced915d74e6231626/The_Report_of_the_Iraq_Inquiry_-_Executive_Summary.pdf)
     - ` ` - [The Report of the Iraq Inquiry: Volume 1, The Chilcot Inquiry, 2016](https://assets.publishing.service.gov.uk/media/5a809f9d40f0b62302694943/The_Report_of_the_Iraq_Inquiry_-_Volume_I.pdf)
     - ` ` - [The Report of the Iraq Inquiry: Volume 2, The Chilcot Inquiry, 2016](https://assets.publishing.service.gov.uk/media/5a80b6a640f0b62302695161/The_Report_of_the_Iraq_Inquiry_-_Volume_II.pdf)
