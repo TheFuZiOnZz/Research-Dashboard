@@ -500,6 +500,8 @@
       
       `While we understand that the Department is reviewing the full report to determine what is appropriate for public release—a process that our Office is working with you to complete—that process need not delay release of the enclosed materials. Release at this time would alleviate the misunderstandings that have arisen and would answer congressional and public questions about the nature and outcome of our investigation. It would also accord with the standard for public release of notifications to Congress cited in your letter.` - [Special Counsel Robert Mueller Letter to Attorney General William Barr, U.S. Department of Justice, 2019](https://int.nyt.com/data/documenthelper/796-mueller-letter-to-barr/02499959cbfa313c36d4/optimized/full.pdf)
 - On 18 April 2019, a redacted version of the Mueller Report was released to the public.
+# Mueller Testifies to Congress
+
 # Criminal Inditements & Charges
 - [Wiki](https://en.wikipedia.org/wiki/Criminal_charges_brought_in_the_Mueller_special_counsel_investigation)
 - [Sessions discussed Trump campaign-related matters with Russian ambassador, U.S. intelligence intercepts show - The Washington Post](https://www.washingtonpost.com/world/national-security/sessions-discussed-trump-campaign-related-matters-with-russian-ambassador-us-intelligence-intercepts-show/2017/07/21/3e704692-6e44-11e7-9c15-177740635e83_story.html)

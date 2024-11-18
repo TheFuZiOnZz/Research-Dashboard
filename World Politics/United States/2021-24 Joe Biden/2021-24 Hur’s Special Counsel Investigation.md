@@ -5,9 +5,9 @@
 # Hur Releases the Report
 - On 8 February 2024, Hur released the Special Counsel report titled `Report on the Investigation Into Unauthorized Removal, Retention, and Disclosure of Classified Documents Discovered at Locations Including the Penn Biden Center and the Delaware Private Residence of President Joseph R. Biden, Jr.`
     - ` ` [link](https://www.justice.gov/storage/report-from-special-counsel-robert-k-hur-february-2024.pdf)
-# Biden-Hur Interview Transcript
+## Biden-Hur Interview Transcript
 - [link](https://s3.documentcloud.org/documents/24476280/hur1.pdf)
-# Deletion of Audio Recordings by Biden’s Ghostwriter
+## Deletion of Audio Recordings by Biden’s Ghostwriter
 - 
 # Hur Testifies to Congress
 - On 12 March 2024,

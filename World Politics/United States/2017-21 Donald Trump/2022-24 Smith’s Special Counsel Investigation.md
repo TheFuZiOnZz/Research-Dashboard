@@ -68,13 +68,13 @@
     - On June 3rd,, 2022, Trump's attorney provided 38 more documents.
     - On August 8th, 2022, the FBI recovered 102 more classified documents while executing a court-authorized search warrant.
 ## NARA's Attempt of Retrieval of Documents
-- [link]
+- 
 ## Justice Department Documents Subpoenas
-- [link]
+- 
 ## FBI Search of Mar-a-Lago
-- [link]
+- 
 ## Trump Requests Special Master
-- [link]
+- 
 ## Original Trump and Nauta Federal Indictment
 - [Wiki](https://en.wikipedia.org/wiki/Federal_prosecution_of_Donald_Trump)
 - On 8 June 2023, Trump was indited on 37 charges including Wilful Retention of National Defence Information, Conspiracy to Obstruct Justice, Withholding a Document or Record, Corruptly Concealing a Document or Record, Concealing a Document in a Federal Investigation, Scheme to Conceal and False Statements and Representations. An aide to Trump, Walt Nauta was also indited for the same charges barring Wilful Retention of National Defence Information.
@@ -235,8 +235,5 @@
 	  `The election’s outcome spelled the end of the federal cases against Mr. Trump, since Justice Department policy has long held that a sitting president cannot be prosecuted for crimes. A Supreme Court ruling this summer significantly expanded the scope of official presidential conduct that cannot be prosecuted even after leaving office.` - [Jack Smith Plans to Step Down as Special Counsel Before Trump Takes Office, The New York Times, 2024](https://www.nytimes.com/2024/11/13/us/politics/jack-smith-special-counsel.html)
 - On
 	- 
-- On 
-
-
 # Smith Releases the Report
 - On 
