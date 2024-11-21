@@ -17,7 +17,7 @@
 	  `In the 1980s, Aqil directed the taking of American and German hostages in Lebanon and held them there.`
 	  
 	  `On July 21, 2015, the U.S. Department of the Treasury designated Aqil pursuant to Executive Order 13582 for acting for or on behalf of Hizballah. Subsequently, on September 10, 2019, the U.S. Department of State designated Aqil as a Specially Designated Global Terrorist pursuant to Executive Order 13224, as amended.` - [Ibrahim Aqil – Rewards For Justice, U.S. Department of State, 2023](https://rewardsforjustice.net/rewards/ibrahim-aqil/)
-- Ibrahim Aqil was reportedly involved in planning a Hezbollah operation in northern Israel, which was believed to be similar to the [October 7 Hamas-led attacks](2023-%20Israel-Hamas%20War,%20Operation%20Iron%20Swords.md).
+- Ibrahim Aqil was reportedly involved in planning a Hezbollah operation in northern Israel, which was believed to be similar to the [October 7 Hamas-led attacks](2023-%20Israel-Hamas%20War.md).
 	- `Elijah Magnier, a Brussels-based military and counterterrorism analyst with knowledge of the group, said he was one of the group’s old guard.`
 	  
 	  `“He started at the beginning of Hezbollah’s creation, and he moved to different responsibilities. To be a member of the Jihadi Council, this is the highest (post), and to be the leader of the Radwan Forces is also very privileged,” Magnier said.` - [Hezbollah commander killed in Israeli airstrike was top military official on US wanted list, AP News, 2024](https://apnews.com/article/lebanon-hezbollah-israel-mideast-tensions-attack-8ec89de2b117b52e2c09b19155e35d13)
