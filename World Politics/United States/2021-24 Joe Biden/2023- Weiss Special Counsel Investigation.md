@@ -1,6 +1,6 @@
 - [Wiki](https://en.wikipedia.org/wiki/Weiss_special_counsel_investigation)
 - [Wiki](https://en.wikipedia.org/wiki/Biden%E2%80%93Ukraine_conspiracy_theory)
-- - [link](https://mediaite.com/wp-content/uploads/2023/09/Memo-Appendix-Impeachment-Claims-Debunked-14pp.pdf)
+- [link](https://mediaite.com/wp-content/uploads/2023/09/Memo-Appendix-Impeachment-Claims-Debunked-14pp.pdf)
 - The Weiss special counsel investigation is a investigation into Hunter Biden, the son of U.S. President Joe Biden in relation to alleged corruption, tax fraud and gun charges.
 ## Zlochevsky, Burisma Holdings & Hunter Biden
 - Burisma Holdings Limited was a holding company based in Kyiv, Ukraine for a group of energy exploration and production companies. It was registered in Limassol, Cyprus, until being dissolved in 2023. Burisma Holdings operated in the Ukrainian natural gas market since 2002. It was one of the largest private natural gas producers in Ukraine, until 2019. It was owned by Ukrainian oligarch Mykola Zlochevsky through his company Brociti Investments Limited.
@@ -198,12 +198,11 @@
       
       `A Yes.` - [Deposition of George Kent, House Permanent Select Committee on Intelligence, 2019](https://docs.house.gov/meetings/IG/IG00/CPRT-116-IG00-D009.pdf)
 # Blue Star Strategies Lobbying U.S. Government for Burisma
-- - [link](https://www.politico.com/news/2021/06/03/blue-star-burisma-justice-department-investigation-491681)
-- - [link](https://www.grassley.senate.gov/news/news-releases/johnson-grassley-seek-information-regarding-blue-star-strategies-work-burisma)
+- [Sources: Dem lobbying firm under federal investigation for Burisma work, POLITICO, 2021](https://www.politico.com/news/2021/06/03/blue-star-burisma-justice-department-investigation-491681)
+- [Johnson, Grassley Seek Information Regarding Blue Star Strategies’ Work for Burisma Holdings, Senate Homeland Security and Governmental Affairs Committee & Senate Finance Committee, 2019](https://www.grassley.senate.gov/news/news-releases/johnson-grassley-seek-information-regarding-blue-star-strategies-work-burisma)
 - On 2 December 2015, Blue Star Strategies sends a letter to Burisma disclosing an itinerary of VP Biden’s trip to Ukraine. The letter doesn’t mention Burisma in the planned messaging.
-    - `According to the senior administration officials on the call, Vice President Biden will discuss the following issues and themes during his trip to Ukraine, namely that the U.S.:  
-          
-        maintains its strong and sustained commitment to Ukraine in the face of Russian aggression;  
+    - `According to the senior administration officials on the call, Vice President Biden will discuss the following issues and themes during his trip to Ukraine, namely that the U.S.:`
+      `maintains its strong and sustained commitment to Ukraine in the face of Russian aggression;  
           
         continues to categorically oppose Russia's annexation of Crimea;  
           
@@ -291,14 +290,13 @@
     - ` ` - [link](https://www.nytimes.com/2020/09/23/us/politics/biden-inquiry-republicans-johnson.html)
 # Intelligence Community Report
 - On 15 March 2021, The Office of the Director of National Intelligence declassified and released a report on `Foreign Threats to the 2020 US Federal Elections`
-    - `We assess that Russia's intelligence services, Ukraine-linked individuals with ties to Russian intelligence and their networks, and Russian state media, trolls, and online proxies engaged in activities targeting the 2020 US presidential election. The primary effort the IC uncovered revolved around a narrative-that Russian actors began spreading as early as 2014-alleging corrupt ties between President Biden, his family, and other US officials and Ukraine. Russian intelligence services relied on Ukraine-linked proxies and these proxies' networks-including their US contacts-to spread this narrative to give Moscow plausible deniability of their involvement. We assess that the goals of this effort went beyond the US presidential campaign to include reducing the Trump administration's support for Ukraine. As the US presidential election neared, Moscow placed increasing emphasis on undermining the candidate it saw as most detrimental to its global interests. We have no evidence suggesting the Ukrainian Government was involved in any of these efforts.  
-          
-        A network of Ukraine-linked individuals-including Russian influence agent Konstantin Kilimnik-who were also connected to the Russian Federal Security Service (FSB) took steps throughout the election cycle to damage US ties to Ukraine, denigrate President Biden and his candidacy, and benefit former President Trump's prospects for reelection. We assess this network also sought to discredit the Obama administration by emphasizing accusations of corruption by US officials, and to falsely blame Ukraine for interfering in the 2016 US presidential election.  
-          
-        Derkach, Kilimnik, and their associates sought to use prominent US persons and media conduits to launder their narratives to US officials and audiences. These Russian proxies met with and provided materials to Trump administration-linked US persons to advocate for formal investigations; hired a US furn to petition US officials; and attempted to make contact with several senior US officials. They also made contact with established US media figures and helped produce a documentary that aired on a US television network in late January 2020.  
-          
-        As part of his plan to secure the reelection of former President Trump, Derkach publicly released audio recordings four times in 2020 in attempts to implicate President Biden and other current or former US Government officials in allegedly corrupt activities related to Ukraine. Derkach also worked to initiate legal proceedings in Ukraine and the US related to these allegations. Former Ukrainian officials associated with Derkach sought to promote similar claims throughout late 2019 and 2020, including through direct outreach to senior US Government officials.`  
-        - [link](https://s3.documentcloud.org/documents/20515484/icadeclass16mar21.pdf) - Foreign Threats to the 2020 US Federal Elections
+    - `We assess that Russia's intelligence services, Ukraine-linked individuals with ties to Russian intelligence and their networks, and Russian state media, trolls, and online proxies engaged in activities targeting the 2020 US presidential election. The primary effort the IC uncovered revolved around a narrative-that Russian actors began spreading as early as 2014-alleging corrupt ties between President Biden, his family, and other US officials and Ukraine. Russian intelligence services relied on Ukraine-linked proxies and these proxies' networks-including their US contacts-to spread this narrative to give Moscow plausible deniability of their involvement. We assess that the goals of this effort went beyond the US presidential campaign to include reducing the Trump administration's support for Ukraine. As the US presidential election neared, Moscow placed increasing emphasis on undermining the candidate it saw as most detrimental to its global interests. We have no evidence suggesting the Ukrainian Government was involved in any of these efforts.`
+      
+      `A network of Ukraine-linked individuals-including Russian influence agent Konstantin Kilimnik-who were also connected to the Russian Federal Security Service (FSB) took steps throughout the election cycle to damage US ties to Ukraine, denigrate President Biden and his candidacy, and benefit former President Trump's prospects for reelection. We assess this network also sought to discredit the Obama administration by emphasizing accusations of corruption by US officials, and to falsely blame Ukraine for interfering in the 2016 US presidential election.`
+      
+      `Derkach, Kilimnik, and their associates sought to use prominent US persons and media conduits to launder their narratives to US officials and audiences. These Russian proxies met with and provided materials to Trump administration-linked US persons to advocate for formal investigations; hired a US furn to petition US officials; and attempted to make contact with several senior US officials. They also made contact with established US media figures and helped produce a documentary that aired on a US television network in late January 2020.`
+      
+      `As part of his plan to secure the reelection of former President Trump, Derkach publicly released audio recordings four times in 2020 in attempts to implicate President Biden and other current or former US Government officials in allegedly corrupt activities related to Ukraine. Derkach also worked to initiate legal proceedings in Ukraine and the US related to these allegations. Former Ukrainian officials associated with Derkach sought to promote similar claims throughout late 2019 and 2020, including through direct outreach to senior US Government officials.` - [Foreign Threats to the 2020 US Federal Elections, Office of the Director of National Intelligence, 2021](https://s3.documentcloud.org/documents/20515484/icadeclass16mar21.pdf)
 # Weiss Made Special Counsel
 - On 11 August 2023, David Weiss is appointed Special Counsel by Garland and was authorized to continue Weiss’ prior investigations into Hunter Biden and other associated matters.
     - `In 2019, United States Attorney David C. Weiss, along with federal law enforcement partners, began investigating allegations of certain criminal conduct by, among others, Robert Hunter Biden. That investigation includes the investigation and prosecutions referenced and described in United States v. Robert Hunter Biden, Criminal Action Nos. 23-mj-274 (MN) and 23-61 (MN) (D. Dei.). By virtue of the authority vested in the Attorney General, including 28 U.S.C 509, 510, 515, and 533, in order to discharge my responsibility to provide supervision and management of the Department of Justice, and to ensure a full and thorough investigation of certain matters, I hereby order as follows:`
@@ -314,11 +312,9 @@
 - [Wiki](https://en.wikipedia.org/wiki/Hunter_Biden_laptop_controversy)
 - On 26 September 2023, Hunter Biden files a lawsuit against Giuliani for Violation of the Computer Fraud and Abuse Act and Violation of the California Computer Data Access and Fraud Act.
     - ` ` - [link](https://storage.courtlistener.com/recap/gov.uscourts.cacd.899829/gov.uscourts.cacd.899829.1.0.pdf)
-# House Oversight Committee Investigation into the Biden Family
-- On
-    - ` ` - [link]
+# House Oversight Committee Investigation Into the Biden Family
 - [Wiki](https://en.wikipedia.org/wiki/United_States_House_Oversight_Committee_investigation_into_the_Biden_family)
-- - [link](https://oversight.house.gov/the-bidens-influence-peddling-timeline/) - Majority’s purporting timeline
+- [link](https://oversight.house.gov/the-bidens-influence-peddling-timeline/) - Majority’s purporting timeline
 - The United States House Oversight Committee investigation into the Biden family is an investigation by the United States House of Representatives into whether US President Joe Biden is improperly involved in his family's foreign business practices, with allegations of "international influence peddling schemes", bribery, and a Justice Department cover-up. The investigation was initiated on 11 January 2023, by Republican committee chairman James Comer and includes examination of the foreign business activities of Biden's son, Hunter, and brother, James. The committee is also investigating Twitter's involvement in the Hunter Biden laptop controversy.
 ## FBI FD-1023 Form
 - On 3 May 2023, Chairman Comer’s and Senator Grassley request the FD-1023 from the FBI.
@@ -691,4 +687,4 @@
 ## Tony Bobulinski
 - [Wiki](https://en.wikipedia.org/wiki/Hunter_Biden_laptop_controversy#Hunter_Biden_story_pitch)
 ## Jason Galanis
-- 
+-              
