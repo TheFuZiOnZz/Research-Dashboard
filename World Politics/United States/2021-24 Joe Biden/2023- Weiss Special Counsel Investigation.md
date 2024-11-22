@@ -198,37 +198,33 @@
       
       `A Yes.` - [Deposition of George Kent, House Permanent Select Committee on Intelligence, 2019](https://docs.house.gov/meetings/IG/IG00/CPRT-116-IG00-D009.pdf)
 # Blue Star Strategies Lobbying U.S. Government for Burisma
-- [Sources: Dem lobbying firm under federal investigation for Burisma work, POLITICO, 2021](https://www.politico.com/news/2021/06/03/blue-star-burisma-justice-department-investigation-491681)
 - [Johnson, Grassley Seek Information Regarding Blue Star Strategies’ Work for Burisma Holdings, Senate Homeland Security and Governmental Affairs Committee & Senate Finance Committee, 2019](https://www.grassley.senate.gov/news/news-releases/johnson-grassley-seek-information-regarding-blue-star-strategies-work-burisma)
 - On 2 December 2015, Blue Star Strategies sends a letter to Burisma disclosing an itinerary of VP Biden’s trip to Ukraine. The letter doesn’t mention Burisma in the planned messaging.
     - `According to the senior administration officials on the call, Vice President Biden will discuss the following issues and themes during his trip to Ukraine, namely that the U.S.:`
-      `maintains its strong and sustained commitment to Ukraine in the face of Russian aggression;  
-          
-        continues to categorically oppose Russia's annexation of Crimea;  
-          
-        urges Ukraine to pass more reforms strengthening rule of law and governance;  
-          
-        wants to see full implementation of the recently passed anti-corruption laws;  
-          
-        remains concerned about Ukraine's ongoing economic and humanitarian needs, especially as winter approaches;  
-          
-        supports implementation of the Minsk Agreements and de-escalation of the violence that persists along the conflict line with Russia and separatists;  
-          
-        reinforces a broader diplomatic strategy with the support of European partners to maintain the sanctions against Russia until the Minsk Agreements are fully implemented; and  
-          
-        advocates for ongoing U.S- security assistance to Ukraine, including U.S.-led training of Ukrainian military.`  
-        - [link](https://gop-waysandmeans.house.gov/wp-content/uploads/2023/09/T47-Exhibit-310B-VP-Biden-Trip-Briefing-Attachment-12.02.2015_Redacted.pdf)
+      
+      `maintains its strong and sustained commitment to Ukraine in the face of Russian aggression;`
+      
+      `continues to categorically oppose Russia's annexation of Crimea;`
+      
+      `urges Ukraine to pass more reforms strengthening rule of law and governance;`
+      
+      `wants to see full implementation of the recently passed anti-corruption laws;`
+      
+      `remains concerned about Ukraine's ongoing economic and humanitarian needs, especially as winter approaches;`
+      
+      `supports implementation of the Minsk Agreements and de-escalation of the violence that persists along the conflict line with Russia and separatists;`
+      
+      `reinforces a broader diplomatic strategy with the support of European partners to maintain the sanctions against Russia until the Minsk Agreements are fully implemented; and`
+      
+      `advocates for ongoing U.S- security assistance to Ukraine, including U.S.-led training of Ukrainian military.` - [Trip Briefing for 02/12/15, Blue Star Strategies, 2015](https://gop-waysandmeans.house.gov/wp-content/uploads/2023/09/T47-Exhibit-310B-VP-Biden-Trip-Briefing-Attachment-12.02.2015_Redacted.pdf)
 - On 24 February 2016, the State Department receives request for a meeting with Blue Star Strategies’ Chief Executive, Karen Tramontano to discuss the corruption allegations on Burisma.
-    - `Per our conversation, Karen Tramontano of Blue Star Strategies requested a meeting to discuss with IJ/S Novelli USG remarks alleging Burisma (Ukranian energy company) of corruption. She noted that two high profile U.S. citizens are affiliated with the company (including Hunter Biden as a board member). Tramontano would like to talk with U/S Novelli about getting a better understanding of how the U.S. came to the determination that the company is corrupt. According to Tramontano, there is no evidence of corruption, has been no hearing or process, and evidence to the contrary has not been considered. Would appreciate any background you may be able to provide on this issue and suggested TPs for U/S Novelli's meeting.` - [link](https://www.scribd.com/document/433389210/Bluestar-Novelli-Contacts)
-- On
-    - ` ` - [link]
+    - `Per our conversation, Karen Tramontano of Blue Star Strategies requested a meeting to discuss with IJ/S Novelli USG remarks alleging Burisma (Ukranian energy company) of corruption. She noted that two high profile U.S. citizens are affiliated with the company (including Hunter Biden as a board member). Tramontano would like to talk with U/S Novelli about getting a better understanding of how the U.S. came to the determination that the company is corrupt. According to Tramontano, there is no evidence of corruption, has been no hearing or process, and evidence to the contrary has not been considered. Would appreciate any background you may be able to provide on this issue and suggested TPs for U/S Novelli's meeting.` - [Email from the State Department to CEO of Blue Star Strategies, U.S. Department of State, 2016](https://www.scribd.com/document/433389210/Bluestar-Novelli-Contacts)
 - On 3 June 2021, Politico reported Blue Star Strategies was under investigation by the DoJ for possible failed to comply with disclosure requirements under the Foreign Agents Registration Act.
-    - `The Justice Department is investigating the work of a consulting firm linked to the president’s son for potential illegal lobbying, four people familiar with the probe told POLITICO.  
-          
-        The firm, Blue Star Strategies, took on as a client the Ukrainian energy company Burisma while Hunter Biden served on its board. Republican operatives’ efforts to investigate Burisma and the alleged corruption that surrounded the firm were at the heart of the first Trump impeachment.  
-          
-        The probe comes as the Justice Department ramps up its scrutiny of foreign governments’ efforts to influence U.S. politics through covert lobbying operations. Much of that enforcement work has focused on Republicans linked to former President Donald Trump, including an active probe of his personal lawyer Rudy Giuliani. The existence of the investigation into Blue Star, meanwhile, shows that DOJ’s torqued-up enforcement efforts may also create legal jeopardy for firms and operatives aligned with the Democratic Party.`  
-        - [link](https://www.politico.com/news/2021/06/03/blue-star-burisma-justice-department-investigation-491681)
+    - `The Justice Department is investigating the work of a consulting firm linked to the president’s son for potential illegal lobbying, four people familiar with the probe told POLITICO.`
+      
+      `The firm, Blue Star Strategies, took on as a client the Ukrainian energy company Burisma while Hunter Biden served on its board. Republican operatives’ efforts to investigate Burisma and the alleged corruption that surrounded the firm were at the heart of the first Trump impeachment.`
+      
+      `The probe comes as the Justice Department ramps up its scrutiny of foreign governments’ efforts to influence U.S. politics through covert lobbying operations. Much of that enforcement work has focused on Republicans linked to former President Donald Trump, including an active probe of his personal lawyer Rudy Giuliani. The existence of the investigation into Blue Star, meanwhile, shows that DOJ’s torqued-up enforcement efforts may also create legal jeopardy for firms and operatives aligned with the Democratic Party.` - [Sources: Dem lobbying firm under federal investigation for Burisma work, POLITICO, 2021](https://www.politico.com/news/2021/06/03/blue-star-burisma-justice-department-investigation-491681)
 - On 17 May 2022, Blue Star Strategies disclose that the DoJ investigation found no wrongdoing and and been closed.
     - `A Justice Department probe into a Washington lobbying firm’s work for Burisma Holdings has been closed with no finding of wrongdoing, according to an attorney for the CEO of the firm, Blue Star Strategies.  
           
@@ -687,4 +683,4 @@
 ## Tony Bobulinski
 - [Wiki](https://en.wikipedia.org/wiki/Hunter_Biden_laptop_controversy#Hunter_Biden_story_pitch)
 ## Jason Galanis
--              
+- 
