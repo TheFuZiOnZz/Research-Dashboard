@@ -226,20 +226,16 @@
       
       `The probe comes as the Justice Department ramps up its scrutiny of foreign governments’ efforts to influence U.S. politics through covert lobbying operations. Much of that enforcement work has focused on Republicans linked to former President Donald Trump, including an active probe of his personal lawyer Rudy Giuliani. The existence of the investigation into Blue Star, meanwhile, shows that DOJ’s torqued-up enforcement efforts may also create legal jeopardy for firms and operatives aligned with the Democratic Party.` - [Sources: Dem lobbying firm under federal investigation for Burisma work, POLITICO, 2021](https://www.politico.com/news/2021/06/03/blue-star-burisma-justice-department-investigation-491681)
 - On 17 May 2022, Blue Star Strategies disclose that the DoJ investigation found no wrongdoing and and been closed.
-    - `A Justice Department probe into a Washington lobbying firm’s work for Burisma Holdings has been closed with no finding of wrongdoing, according to an attorney for the CEO of the firm, Blue Star Strategies.  
-          
-        The firm’s work for Burisma became a flashpoint in the debate over Hunter Biden’s role on the board of the Ukrainian oil and natural gas company, which has faced allegations of corruption domestically as well as in Britain and the United States.  
-          
-        The conclusion of the probe, which has not been previously reported, involved the firm submitting a new filing with the Justice Department detailing its lobbying activities on behalf of Burisma and its owner, Mykola Zlochevsky, in 2015 and 2016. A Justice Department spokesman declined to comment.`  
-        - [link](https://www.washingtonpost.com/politics/2022/05/17/burisma-blue-star-strategies-doj-probe/)
+    - `A Justice Department probe into a Washington lobbying firm’s work for Burisma Holdings has been closed with no finding of wrongdoing, according to an attorney for the CEO of the firm, Blue Star Strategies.`
+      
+      `The firm’s work for Burisma became a flashpoint in the debate over Hunter Biden’s role on the board of the Ukrainian oil and natural gas company, which has faced allegations of corruption domestically as well as in Britain and the United States.`
+      
+      `The conclusion of the probe, which has not been previously reported, involved the firm submitting a new filing with the Justice Department detailing its lobbying activities on behalf of Burisma and its owner, Mykola Zlochevsky, in 2015 and 2016. A Justice Department spokesman declined to comment.` - [Lobbying shop says DOJ probe into its work for Burisma has been closed, The Washington Post, 2022](https://www.washingtonpost.com/politics/2022/05/17/burisma-blue-star-strategies-doj-probe/)
 - On 23 May 2022, Ranking Members of the Senate Judiciary Committee, Ron Johnson & Charles Grassley send a letter to AG Garland saying that Tramontano’s FARA filings were illegitimate.
-    - `In 2020, we examined the extent to which Blue Star Strategies, a Democratic lobbying firm, met with Obama administration officials on behalf of its foreign client, Burisma Holdings (“Burisma”), and the company’s corrupt Russia-aligned owner, Mykola Zlochevsky. Based on our investigative records and recently published Foreign Agents Registration Act (“FARA”) forms, it appears that Blue Star Strategies’ top executives, Karen Tramontano and Sally Painter, filed incomplete and misleading information with the Department of Justice (“DOJ”).  
-          
-        According to FARA filings dated May 12, 2022, Ms. Tramontano and Ms. Painter disclosed under penalty of perjury their meetings with government officials on behalf of Burisma and Mr. Zlochevsky. The form noted that in February 2016, Blue Star Strategies emailed and met with then-State Department official Amos Hochstein to “introduce Mr. Zlochevsky’s attorney so he could present an explanation of the adverse proceedings in the U.K. and Ukraine involving Mr. Zlochevsky.”`  
-        - [link](https://www.grassley.senate.gov/imo/media/doc/johnson_grassley_to_doj_-_blue_star_strategies.pdf)
+    - `In 2020, we examined the extent to which Blue Star Strategies, a Democratic lobbying firm, met with Obama administration officials on behalf of its foreign client, Burisma Holdings (“Burisma”), and the company’s corrupt Russia-aligned owner, Mykola Zlochevsky. Based on our investigative records and recently published Foreign Agents Registration Act (“FARA”) forms, it appears that Blue Star Strategies’ top executives, Karen Tramontano and Sally Painter, filed incomplete and misleading information with the Department of Justice (“DOJ”).`
+      
+      `According to FARA filings dated May 12, 2022, Ms. Tramontano and Ms. Painter disclosed under penalty of perjury their meetings with government officials on behalf of Burisma and Mr. Zlochevsky. The form noted that in February 2016, Blue Star Strategies emailed and met with then-State Department official Amos Hochstein to “introduce Mr. Zlochevsky’s attorney so he could present an explanation of the adverse proceedings in the U.K. and Ukraine involving Mr. Zlochevsky.”` - [Letter from Ron Johnson & Charles Grassley to Attorney General Merrick Gartland (23/05/22), U.S. Senate Judiciary Committee, 2022](https://www.grassley.senate.gov/imo/media/doc/johnson_grassley_to_doj_-_blue_star_strategies.pdf)
 # Conspiracy Theory Starts
-- On
-    - ` ` - [link]
 - [Wiki](https://en.wikipedia.org/wiki/Andrii_Derkach) - Andrii Derkach
 - [Wiki](https://en.wikipedia.org/wiki/John_Solomon_(political_commentator)) - John Solomon
     - - [link](https://www.propublica.org/article/how-a-veteran-reporter-worked-with-giuliani-associates-to-launch-the-ukraine-conspiracy)
