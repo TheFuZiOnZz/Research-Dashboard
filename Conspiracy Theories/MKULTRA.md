@@ -1,3 +1,3 @@
 - [MKUltra - Wikipedia](https://en.wikipedia.org/wiki/MKUltra)
 - [MKULTRA - RationalWiki](https://rationalwiki.org/wiki/MKULTRA)
-- [link](https://www.nytimes.com/packages/pdf/national/13inmate_ProjectMKULTRA.pdf)
+- [Project MKUltra, The CIA's Program of Research in Behavioral Modification, Joint Hearing Before the Subcommittee on Health and Scientific Research of the Committee on Human Resources United States Senate, 1977](https://www.nytimes.com/packages/pdf/national/13inmate_ProjectMKULTRA.pdf)
