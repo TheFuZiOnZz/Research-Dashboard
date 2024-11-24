@@ -1,3 +1,1 @@
-# The Great Reset
-## Point 1
-- Text
+- [Great Reset - Wikipedia](https://en.wikipedia.org/wiki/Great_Reset)
