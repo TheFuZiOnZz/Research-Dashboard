@@ -1,0 +1,3 @@
+- [Plame affair - Wikipedia](https://en.wikipedia.org/wiki/Plame_affair)
+- [Plame affair grand jury investigation - Wikipedia](https://en.wikipedia.org/wiki/Plame_affair_grand_jury_investigation)
+- 

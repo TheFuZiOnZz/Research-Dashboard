@@ -1,2 +1,0 @@
-- [Plame affair - Wikipedia](https://en.wikipedia.org/wiki/Plame_affair)
-- 
