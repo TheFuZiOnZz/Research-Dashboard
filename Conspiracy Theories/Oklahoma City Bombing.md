@@ -1,3 +1,3 @@
-# Oklahoma City Bombing
-## Point 1
-- Text
+- [Oklahoma City bombing - Wikipedia](https://en.wikipedia.org/wiki/Oklahoma_City_bombing)
+- [Oklahoma City bombing conspiracy theories - Wikipedia](https://en.wikipedia.org/wiki/Oklahoma_City_bombing_conspiracy_theories)
+- [Timothy McVeigh - RationalWiki](https://rationalwiki.org/wiki/Timothy_McVeigh)
