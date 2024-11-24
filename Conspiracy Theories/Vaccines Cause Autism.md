@@ -3,7 +3,7 @@
 - [link](https://docs.google.com/document/d/1fZj78ylDcPhXIvLBtEGTcyKDtjFCKv99hjoIG0USZIo)
 - [link](https://www.cdc.gov/vaccinesafety/concerns/autism.html)
 - [link](https://web.archive.org/web/20211220151430/https://lizditz.typepad.com/files/g_taylor_list_debunked_v2.0_8_7.pdf)
-## Wakefield’s Paper
+# Wakefield’s Paper
 - The `Vaccines Cause Autism` claim can be traced back to a, now retracted, 1998 study by Andrew Wakefield and 11 co-authors published in The Lancet titled `Ileal-lymphoid-nodular hyperplasia, non-specific colitis, and pervasive developmental disorder in children` [link](https://www.thelancet.com/action/showPdf?pii=S0140-6736%2897%2911096-0) claiming to find a correlation between the MMR vaccine and autism.
     - `In eight children, the onset of behavioural problems had been linked, either by the parents or by the child's physician, with measles, mumps, and rubella vaccination. Five had had an early adverse reaction to immunisation (rash, fever, delirium; and, in three cases, convulsions). In these eight children the average interval from exposure to first behavioural symptoms was 6·3 days (range 1–14). Parents were less clear about the timing of onset of abdominal symptoms because children were not toilet trained at the time or because behavioural features made children unable to communicate symptoms.`
     - `Fudenberg noted that for 15 of 20 autistic children, the first symptoms developed within a week of vaccination.`
@@ -32,14 +32,14 @@
     - `Accordingly the Panel has determined that Dr Wakefield’s name should be erased from the medical register. The Panel concluded that it is the only sanction that is appropriate to protect patients and is in the wider public interest, including the maintenance of public trust and confidence in the profession and is proportionate to the serious and wide-ranging findings made against him.` [link](https://web.archive.org/web/20110809092833/http://www.gmc-uk.org/Wakefield_SPM_and_SANCTION.pdf_32595267.pdf)
 - On January 11 2011, an article by The Washington Post reporter Brian Deer identified further undisclosed financial conflicts of interest that Wakefield reportedly stood to earn up to $43 million per year selling test kits.
     - [link](http://voices.washingtonpost.com/checkup/2011/01/wakefield_tried_to_capitalize.html)
-## Wakefield’s Book
+# Wakefield’s Book
 - Andrew Wakefield’s `Callous Disregard Autism and Vaccines - The Truth Behind a Tragedy` [link](https://cloudflare-ipfs.com/ipfs/bafykbzacebn6jvjx2cojb4oejbvphsghw3vcyjjgtemoudktcvjau3ne3wjde?filename=Andrew%20J.%20Wakefield%2C%20Jenny%20McCarthy%20-%20Callous%20Disregard_%20Autism%20and%20Vaccines--The%20Truth%20Behind%20a%20Tragedy-Skyhorse%20%282011%29.pdf)
-## MMR Vaccine
+# MMR Vaccine
 - [link](https://sci-hub.ee/10.1053/j.spid.2005.05.002)
 - [link](https://sci-hub.ee/10.1016/j.idc.2015.08.001)
-## Effect on Vaccination Rates
+# Effect on Vaccination Rates
 - [link](https://sci-hub.ee/10.1542/peds.2013-2365)
-## Current Research
+# Current Research
 - A 2014 paper found that
     - `Eleven of the 12 identified reviews shared the current conclusion that there was no evidence for a link between vaccination and autistic spectrum disorder, advocating continuation of current immunisation practices` [link](https://sci-hub.ee/10.1016/j.vaccine.2014.04.085)
 - A 2014 paper found that

@@ -9,6 +9,6 @@
 # [Pizzagate](Pizzagate)
 # [The Great Reset](The%20Great%20Reset)
 # [The Twitter Files](The%20Twitter%20Files)
-# [U.S. Moon Landing](U.S.%20Moon%20Landing)
+# [U.S. Moon Landings](U.S.%20Moon%20Landings)
 # [Vaccines Cause Autism](Vaccines%20Cause%20Autism)
 # [Waco Siege](Waco%20Siege)
