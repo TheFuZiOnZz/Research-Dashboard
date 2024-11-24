@@ -1,4 +1,3 @@
-# MKULTRA
-## Point 1
-- Text [link](https://www.nytimes.com/packages/pdf/national/13inmate_ProjectMKULTRA.pdf)
-
+- [MKUltra - Wikipedia](https://en.wikipedia.org/wiki/MKUltra)
+- [MKULTRA - RationalWiki](https://rationalwiki.org/wiki/MKULTRA)
+- [link](https://www.nytimes.com/packages/pdf/national/13inmate_ProjectMKULTRA.pdf)

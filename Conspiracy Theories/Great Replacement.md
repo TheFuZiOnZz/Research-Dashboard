@@ -1,2 +1,3 @@
 - [Great Replacement conspiracy theory - Wikipedia](https://en.wikipedia.org/wiki/Great_Replacement_conspiracy_theory)
+- [The Great Replacement - RationalWiki](https://rationalwiki.org/wiki/The_Great_Replacement)
 - 

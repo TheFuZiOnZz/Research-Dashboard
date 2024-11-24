@@ -1,3 +1,2 @@
-# Jefferey Epstein
-## Point 1
-- Text
+- [Jeffrey Epstein - Wikipedia](https://en.wikipedia.org/wiki/Jeffrey_Epstein)
+- [Jeffrey Epstein - RationalWiki](https://rationalwiki.org/wiki/Jeffrey_Epstein)
