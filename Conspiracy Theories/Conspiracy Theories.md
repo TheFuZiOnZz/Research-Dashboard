@@ -1,4 +1,4 @@
-# [9-11](9-11)
+# [2001 September 11th Attacks](2001%20September%2011th%20Attacks)
 # [Chemtrails](Chemtrails)
 # [Flat Earth](Flat%20Earth)
 # [Great Replacement](Great%20Replacement)
@@ -11,4 +11,4 @@
 # [The Twitter Files](The%20Twitter%20Files)
 # [U.S. Moon Landings](U.S.%20Moon%20Landings)
 # [Vaccines Cause Autism](Vaccines%20Cause%20Autism)
-# [Waco Siege](Waco%20Siege)
+# [1993 Waco Siege](1993%20Waco%20Siege)
