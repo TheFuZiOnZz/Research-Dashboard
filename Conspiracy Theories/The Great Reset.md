@@ -1,1 +1,2 @@
 - [Great Reset - Wikipedia](https://en.wikipedia.org/wiki/Great_Reset)
+- [World Economic Forum - RationalWiki](https://rationalwiki.org/wiki/World_Economic_Forum#The_Great_Reset)
