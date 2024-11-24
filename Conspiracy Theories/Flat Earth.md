@@ -1,1 +1,3 @@
+- [Flat Earth - Wikipedia](https://en.wikipedia.org/wiki/Flat_Earth)
+- [Flat Earth - RationalWiki](https://rationalwiki.org/wiki/Flat_Earth)
 - [link](https://www.youtube.com/watch?v=2gFsOoKAHZg)

@@ -1,3 +1,2 @@
-# Great Replacement
-## Point 1
-- [Wiki](https://en.wikipedia.org/wiki/Great_Replacement)
+- [Great Replacement conspiracy theory - Wikipedia](https://en.wikipedia.org/wiki/Great_Replacement_conspiracy_theory)
+- 

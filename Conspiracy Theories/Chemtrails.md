@@ -1,2 +1,3 @@
-- [Wiki](https://en.wikipedia.org/wiki/Chemtrail_conspiracy_theory)
+- [Chemtrail conspiracy theory - Wikipedia](https://en.wikipedia.org/wiki/Chemtrail_conspiracy_theory)
+- [Chemtrails - RationalWiki](https://rationalwiki.org/wiki/Chemtrails)
 - 
