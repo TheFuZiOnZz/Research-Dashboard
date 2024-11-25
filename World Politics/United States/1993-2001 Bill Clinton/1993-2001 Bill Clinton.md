@@ -15,5 +15,5 @@
 # Controversy’s
 ## [1996-98 Monica Lewinsky Scandal](1996-98%20Monica%20Lewinsky%20Scandal)
 ## [2000-02 Dot-Com Bubble](../../Worldwide/2000-02%20Dot-Com%20Bubble)
-## [1993-2000 Damforth Special Counsel Investigation](1993-2000%20Damforth%20Special%20Counsel%20Investigation.md)
+## [1993-2000 Danforth Special Counsel Investigation](1993-2000%20Danforth%20Special%20Counsel%20Investigation.md)
 # Post-Presidency Controversy’s
