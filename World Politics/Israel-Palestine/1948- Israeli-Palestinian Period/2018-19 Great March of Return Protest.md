@@ -62,4 +62,938 @@
 - - ` ` [link](https://www.notion.soohchr.org/sites/default/files/Documents/HRBodies/HRCouncil/CoIOPT/A_HRC_40_74.pdf) - Summary Report
     
     - ` ` [link](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session40/Documents/A_HRC_40_74_CRP2.pdf) - Full Report
-    
+
+- Initial impression
+    - Border protests spanning 6 months (beginning 30th March 2018), involving 10-30k participants
+    - Most participants peaceful and away from the buffer zone
+    - Some approach the wall, throwing stones, molotov cocktails, burning tires, launching incendiary kites and balloons (later in the protest) and a small handful armed with rifles
+    - Hamas present at the protests, but only a marginal contingency
+    - IDF shoots with live fire, using what should be a last resort as a first resort; no real effort at non-lethal crowd control
+    - 200+ dead, many of them outside of the buffer zone, most unarmed, only 1 (according to UN analysis through IHL & policing analysis, only 1 was deemed a legitimate threat)
+    - Clear disproportionate response to an albeit conceivable threat. Very likely severe crimes committed. No cunt prosecuted.
+- [Human Rights Council report](https://www.ohchr.org/sites/default/files/Documents/HRBodies/HRCouncil/CoIOPT/A_HRC_40_74.pdf), advance edited version
+    - 30 March - 31 December 2018 (focus on 30 March, 14 May and 12 October)
+    - Applicable law
+        - Israel and Palestine bound by IHL & Israel bound by rules on occupation
+    - Context and background
+        - Weekly demonstrations near the fence (up since 1996) along the armistice line of 1949
+        - Blockade
+            - 54% unemployment, 68% rendered food insecure, collective punishment, 2017 UN warning that Gaza would become "unliveable" due to blockade measures
+        - Return of refugees
+            - 242 affirmed necessity of a "just settlement" of the Palestinian refugee problem
+            - Israel opposition to 194, arguing that “the influx of millions of Palestinians into the State of Israel would threaten the existence of Israel as a Jewish state, obliterating its basic identity as the homeland of the Jewish people and a refuge for persecuted Jews worldwide.”
+        - 7 Jan 2018, Ahmed Abu Artema posts idea of a non-violent march at the fence
+            - “what if 200,000 demonstrators marched peacefully and broke through the fence east of Gaza and entered a few kilometres into the lands that are ours, holding the flags of Palestine and the keys to return, accompanied by international media, and then set up tents inside and established a city there.”
+        - National committee and 12 sub-committees established to organise the march
+            - Involved members from civil society, student unions, women's groups, eminent persons, representatives from DFLP, Fatah, Hamas, PFLP and PIJ (not al-Qassam or al-Quds brigades)
+            - Unifying principle that the march would be "fully peaceful from beginning to end" and demonstrators would be unarmed
+            - 5 demonstration sites: northern Gaza, east of Gaza City, central Gaza Strip, east of Khan Younis and Rafah
+                - Each camp with tents positioned 700-1000m
+    - Israeli preparations and rules of engagement
+        - Israeli security mentioned a new security threat in demonstrations, closely linked with armed groups and an attempt to mask "terror activities"
+            - Partly based on public statements about return and crossing the fence, including in ambiguous and inflammatory terms
+        - Reinforced positions at the fence, more than 100 sharpshooters, leaflets dropped in Gaza + contacting bus companies to warn against participation, strengthening of the fence and underground barrier, barbed wire coils, cleared vegetation, trenches and earth mounds on the Israeli side
+        - Live fire ONLY permitted as a last resort in the event of imminent threat to life or limb of Israeli soldiers or civilians; crossing the fence seen as a potential imminent threat, in part because the crowd might include militants
+        - Permitted snipers to shoot at the legs of "main inciters" to prevent the crowd from crossing the fence
+        - Also permitted lethal force against any demonstrators "directly participating in hostilities"
+    - Legal assessment of demonstrations
+        - Commission argues that, despite some acts of significant violence, the demonstrations were civilian and "did not constitute combat or a military campaign"
+        - It is aware "that the international legal community holds divergent views on whether organised armed group members may be targeted at any time, or only when directly participating in hostilities."
+        - Legal framework applied was that of law enforcement, based in IHL
+            - Law enforcement rules only permit lethal force in self-defence of the defence of others when there is an imminent threat to life
+            - "Owing to the ongoing armed conflict, rules of IHL were also in effect and operated as lex specialis during active hostilities"
+            - "An imminent or immediate threat should be understood to mean a matter of seconds, not hours (A/HRC/26/36, para. 59)."
+        - Israeli Supreme Court approved rules of engagement, arguing “the use of potentially lethal force for the sake of dispersing a mass riot – from which an actual and imminent danger is posed to life or bodily integrity – is, in principle, permitted, subject to proving necessity and proportionality.”
+    - Statistics
+        - 189 killed, 183 by live ammunition, 29 members of armed groups that were parties to the conflict with Israel (commission unsure about 18 killed)
+        - Fatalities by live ammunition: 183 (1 woman, 35 children, 2 press, 3 health workers)
+        - Injuries by live ammunition: 6106 (159 women (2.6%), 940 children (15%), 4903 (80%) "lower limb" targeted, 88% limbs total)
+        - Injuries by fragments/shrapnel: 1576
+        - Injuries by rubber-coated metal bullet: 438
+        - Injuries by direct tear-gas canister: 1084
+        - OCHA recorded 23,313 injuries, including tear gas inhalation
+        - 4 Israelis injured by stones
+    - 30th March 2018
+        - 40-50k attendees, festive atmosphere with poetry readings, seminars, lectures, cultural and sporting activities
+        - Most gathered at camps ~300m from the fence
+        - Smaller numbers moved closer and stood, sat or lay on the ground; some threw stones, burned tires and waved flags
+        - 9 am: Israel responds with live ammunition
+        - Casualties at El Bureij
+            - Mohammad Obeid (24)
+                - Shot in both legs with 1 bullet whilst walking alone 150m from the fence
+            - Schoolboy (16)
+                - Shot in the face as he distributed sandwiches, 300m from the fence. Hearing now permanently impaired
+            - Abed Hawajri (41)
+                - Shot standing in a crowd ~150m from the fence
+            - Naji Abu Hojayeer (24)
+                - Shot in the abdomen and killed, 300m from the fence
+            - Yousef Kronz (19)
+                - Student journalist shot in the legs with 2 bullets, wearing a vest marked "press", 800m from the fence
+        - Casualties at North Gaza
+            - Mohammad Kamal Najar (25)
+                - Killed when shot in the abdomen after approaching a wounded friend, 50m from the fence, throwing stones at soldiers
+            - Tha'ier Rabaa (30)
+                - Shot in the thigh 30m from the fence, died a week later
+            - Mohammad Ajouri (17)
+                - Shot in the leg, giving onions to demonstrators to relieve tear-gas symptoms ~300m from fence
+            - Abdel Fatah Nabi (18)
+                - Shot in the back of the head running with a tire, ~400m from the fence
+            - Bader Sabagh (19)
+                - Shot in the head smoking a cigarette ~300m from the fence
+        - Casualties at Gaza City
+            - Schoolboy (13)
+                - Shot in the leg ~300m from the fence
+        - Casualties at Khan Younis
+            - Schoolgirl (13)
+                - Injured with bullet fragmentation, 4 men attempted to evacuate her, 3 were shot:
+            - Marwan Qudieh (45) and two others
+            - Jihad Abu Jamous (30)
+                - Shot in the head ~300m from the fence
+        - Casualties at Rafah
+            - Ameen Abu Mo'amar (25)
+                - Killed by shot to the abdomen ~60m from the fence
+            - Maryam Abu Matar (16)
+                - Shot in the leg waving a Palestinian flag, 50m from the fence
+            - Alaa Dali (21)
+                - Shot in the leg holding his bicycle and watching from ~300m
+        - 18 killed, 703 wounded with live ammunition
+    - 14th May 2018
+        - "Return of a million", coincided with US Embassy in Jerusalem and 70th anniversary of the Nakba
+        - 35-40k attendees at 5 original sites plus 8 additional sites
+        - IDF warning: “the Hamas terrorist organization plans to send armed terrorists among 250,000 violent rioters to swarm and breach Israel’s border with Gaza and enter Israeli communities”. Hamas “plans to carry out a massacre in Israel. The Israel Defense Forces will not let them.”
+        - Many young and middle aged men slung/threw stones, burned tires; others cut away barbed wire coils or approached the fence, two demonstrators crossed the fence and set fire to an empty berm, then ran back
+        - Casualties in Gaza City
+            - Yasser Habeeb (24)
+                - Shot in the neck 100m from the fence, throwing stones and burning tires
+            - Ala'a Khteeb (27)
+                - Shot in the head cutting through barbed wire coils and approaching the fence
+            - Husein Abu Aweida (41)
+                - Shot in the back ~200m from the fence, died 2 weeks later
+            - Schoolboy (16)
+                - Shot in the leg with live ammunition 80m from the fence
+            - Carpenter (58)
+                - Shot in the leg ~300m from the fence
+            - Graphic designer (26)
+                - Shot in the abdomen 150 from the fence
+        - Casualties in North Gaza
+            - Accountancy student (23)
+                - Shot in the leg 200m from the fence, holding a flag
+            - Mohammad Najar (33)
+                - Shot in the chest sitting on a hill, 500m the fence
+            - University student (22)
+                - Shot in the right hip standing alone 100m from the fence
+            - Mahmoud Jundya (20)
+                - Shot in the leg filming on his mobile, 50m from the fence; shot in the back and killed as he lay on the ground
+        - Casualties in Rafah
+            - Ali Khafajah (21)
+                - Shot in the head whilst on the phone 150m from the fence
+        - Casualties in Khan Younis
+            - Mahmoud Abu Taima (23)
+                - Shot in the head ~150m from the fence
+        - Incident which may have amounted to "direct participation in hostilities"
+            - Near Al-Shuhada cemetery (North Gaza)
+            - Person in civilian clothes, metres away from a large group of demonstrators and cheered on by them, fired a rifle towards the Israeli side of the fence from 50-70m amid thick smoke from tires
+            - Unclear whether he was part of a militant group
+            - Israel responded with tank and gunfire for 40 mins, killing 21, including 8 alleged members of armed groups, a paramedic and two children (Mohammad Abu Al-Kheir, 15 and Ibrahim Ahmad Ali Al Zarqua, 17)
+        - Total 60 demonstrators killed, 8 alleged members of armed groups, 1,162 shot with live ammunition, 141 wounded by bullet fragmentation and shrapnel
+        - 1 Israeli soldier lightly wounded, reportedly by a stone
+    - 12 October 2018
+        - 15,000 attendees
+        - A minority burned tires near the fence, threw stones, flew incendiary kites and balloons and cut barbed wire coils
+        - East of Bureij
+            - Group of demonstrators cut the fence with machetes, axes and wire cutters
+            - 20 demonstrators crossed into Israeli territory
+            - Shot with live ammunition, most retreated, one man who remained was shot at point blank (contradictory statements from IDF, and Gazan witnesses)
+        - 7 demonstrators killed, 186 wounded, mostly by live ammunition
+    - Protected groups
+        - 35 children killed overall
+        - 3 clearly marked paramedics
+        - 2 journalists
+        - 5 with disabilities
+    - Amputations etc
+        - 21 paralysed, 122 amputations (mostly lower limb)
+    - Findings
+        - Barring two possible incidents, use of live ammunition was unlawful
+        - Less lethal alternatives were available and substantial defences in place, rendering the use of lethal force neither necessary nor proportionate
+        - Principle of distinction not met under IHL
+        - At least 29 killed were members of armed groups
+        - International legal dispute over whether organised armed group members can be targeted at any time
+            - Report argues that "in accordance with the law enforcement paradigm as informed by international human rights law and in the absence of arms and active hostiles, the commission concluded that, in this specific context, targeting individuals purely on the basis of their membership of an armed group and not on their conduct at the time was impermissible."
+            - All bar 2 were considered not to be directly participating in hostilities (98)
+        - Excessive use of force by the ISF against violent demonstrators had violated the rights of thousands who were peaceful
+        - Some members of the higher national committee, including Hamas, encouraged or defended use of incendiary kites and balloons; failed to prevent and stop the use of these 'indiscriminate devices'
+        - 14th May gunman endangered civilian lives and risked violating principle of distinction
+    - Accountability
+        - Israel's application of the status of "main inciters" does not exist in international law
+        - Or Commission of Inquiry in Israel 2003 determined “it should be made unequivocally clear that firing live ammunition, including sniper fire, is not a means to disperse crowds… This is a means to be used only in special circumstances, such as when there is a real and immediate threat to life…”
+        - 5 criminal investigations opened by IDF, including into the deaths of 4 children
+- [HRC report full](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session40/Documents/A_HRC_40_74_CRP2.pdf)
+    - Summary
+        - Protest civilian in nature, bringing them under a law enforcement legal paradigm
+        - ISF conduct also violated IHL which permits civilians to be targeted only when they "directly participate in hostilities." "This purposefully high threshold was not met by demonstrators' conduct... with one possible exception on 14 May."
+        - 29 people killed were members of organised armed groups; 18 of undetermined status
+            - Commission views it is unlawful to shot a member of an armed group on the basis of membership alone
+        - Israeli rules permitted shooting legs of "key inciters/key rioters" (people who burnt tires, cut the fence, lead the crowd)
+        - Israel committed war crimes and possibly crimes against humanity
+        - Hamas failed to stop incendiary and explosive kites and balloons
+    - Applicable law
+        - IHRL
+            - Israel signs International Covenant for Civil and Political Rights (ICCPR) in 1966, comes into force 1992, State of Palestine acceeded to the ICCPR in 2014
+            - States can be held internationally responsible for violations occurring inside their territory and outside "if the State exercises jurisdiction there, has effective control, or the actions of the State agents there have significant and foreseeable human rights impacts."
+            - 2004 ICJ ruling that Israel's conduct in the OPT must conform to the ICCPR - Israel rejects this
+        - Customary international human rights law
+            - Arbitrary deprivation of life, freedom from discrimination, torture, inhuman and degrading treatment all form part of customary international human rights law
+        - Self-defence under international law
+            - States have the right to self defence against an unlawful and imminent (armed) attack
+            - Self defence justifies use of necessary and proportional force, including lethal force, if attack is imminent
+        - International humanitarian law
+            - Both parties to the four Geneva Conventions
+                - Palestine acceded to Additional Protocols I and II, Israel has not, but has accepted some provisions as customary international law
+                - Palestine acceded to Fourth Hague Convention on the War on Land; Israel has not but does recognise that the regulations reflect customary law
+        - Customary international humanitarian law
+            - Parties to an armed conflict are bound by customary rules of IHL
+            - IHL customary principles and rules are binding upon non-State actors that are party to a conflict so long as they have a measure of organised structure
+        - Occupation law
+            - “Territory is considered occupied when it is actually placed under the authority of the hostile army. The occupation extends only to the territory where such authority has been established and can be exercised.”
+            - Recognised as customary IHL by Israel
+            - "Effective control" test
+                - Armed forces physically present in the territory of another party, without consent
+                - Presence of foreign armed forces displaces the local sovereign authority
+                - Foreign forces have established or can readily establish their own authority
+            - Was Gaza no longer occupied after 2005?
+                - ICRC: "the criteria to be met... should generally mirror the ones used to determine the occupation's beginning"
+                    - Departing foreign forces might "retain key elements of authority" which can "amount to effective control"
+                - 2009 and 2016, UNSC reaffirmed that Israel retains the status of occupying power in the OPT, including Gaza
+                    - Does it? [2009 resolution](http://unscr.com/en/resolutions/doc/1860) refers to a ceasefire during Cast Lead, not a statement on whether or not Israel remained a belligerent occupier after 2005
+                    - [2016 resolution](https://www.un.org/webcast/pdfs/SRES2334-2016.pdf) is about settlements and a reaffirming of 242; no mention of Gaza
+                    - [GA resolution, Nov 2018](https://www.un.org/unispal/wp-content/uploads/2018/11/A.C.4.73.L.18-1.pdf), might be implying it but seems more like a general condemnation of settlements, blockade, military operations etc.
+                    - [Declaration](https://www.un.org/unispal/document/auto-insert-187192/#:~:text=The%20participating%20High%20Contracting%20Parties%20reiterate%20the%20need%20to%20fully,to%20distinguish%20between%20civilians%20and) adopted by Conference of High Contracting Parties to the Fourth Geneva Convention: "They equally express their deep concern, from an international humanitarian law standpoint, about certain measures taken by the occupying Power in the Occupied Palestinian Territory, including the closure of the Gaza Strip."
+                    - ICRC 2012: "In the OPT - that is, the West Bank, East Jerusalem, and the Gaza Strip - the applicable legal framework is the law of belligerent occupation"
+                    - Cites the "authoritative pronouncements of the ICJ" but only mentions an advisory opinion on the WB wall from 2004? (67)
+        - Existence of an armed conflict
+            - During the period, all parties were bound by laws of armed conflict
+            - Crimes under international law
+                - Armed conflict or occupation is a necessary prerequisite for war crimes
+                - "Widespread or systematic attack on a civilian population" is necessary to commit crimes against humanity
+                - Crimes against humanity
+                    - Three chapeau elements required for CAH
+                        1. Individual must commit an inhumane act with requisite criminal intent
+                        2. The inhumane act must form part of a widespread or systematic attack directed against civilians
+                        3. Attack must be pursuant to, or in furtherance of, a state or organisational policy
+                    - Underlying crimes include murder, torture, other inhumane acts and persecution
+                    - Widespread means attacks committed on a large scale
+                    - "Systematic" refers to "organised nature of the acts of violence and the improbability of their random occurrence"
+                    - Systematic nature may be evidence of policy: "It can also be inferred through repeated actions occurring in the same sequence, or the existence of preparations or collective mobilisation orchestrated and coordinated by the State or organisation."
+                        - "such a policy may, in exceptional circumstances, be implemented by a deliberate failure to take action, which is consciously aimed at encouraging such attack"
+        - Law enforcement paradigm
+            - LE paradigm applies in absence of active hostilities e.g. during ceasefires or periods of general calm, and/or where one party is in firm control over an area
+                - Also applies during active hostilities
+            - Under LE paradigm, state agents may only use force when
+                - It serves legitimate LE purpose
+                - All possible preventative and precautionary measures have been taken in advance
+                - It is strictly necessary
+                - It is in proportion to the seriousness of the offence, the risk of harm to others
+            - Lethal force
+                - Shoot to stop (e.g. limbs) is an extreme measure only resorted to when strictly necessary to protect life or prevent serious injury from an imminent threat
+                - Lethal force only allowed where strictly unavoidable in order to protect life from an imminent threat
+                    - Not speculative, should mean "a matter of seconds, not hours"
+        - IHL: conduct of hostilities paradigm
+            - Conduct of hostilities refers to collective resort to means of warfare, including active combat, launching attacks and similar military operations.
+            - "When one party's forces engage in military acts designed to undermine the military capabilities of the other, the conduct of hostilities legal paradigm applies. So long as other IHL principles are respected, parties are not barred from targeting, with lethal force, members of an enemy State's armed forces, and civilians who directly participate in hostilites"
+        - Fundamental IHL principles related to hostilites
+            - Proportionality
+                - To target a building or object it must:
+                    1. by nature, location, purpose or use, make an effective contribution to military action
+                    2. destruction, capture or neutralisation would offer definite military advantage
+                - Must verify military objective, choose weapons and timing with a view for avoiding or minimising civilian casualties, issuing advance warnings when feasible
+            - Direct participation in hostilities
+                - If a civilian directly participates in hostilities, they lose the protection against attack
+                - They are targetable on their way to an attack, during the attack and when returning therefrom
+                    - After returning, they regain protected status
+            - Qualifying conduct
+                1. Civilian must (reasonably be expected to) cause harm to enemy forces
+                2. Conduct must directly cause harm (indirect causes, or generally supporting the war effort, do not suffice)
+                3. The act must be specifically designed to directly cause the threshold of harm in support of a party to conflict and to the detriment of another
+                    - DPH is "any hostile act that is specifically designed to support one party to an armed conflict by directly causing - **_on its own or as an integral part of a concrete and coordinated military operation_** - harm to the military operations or military capacity of another party, or death, injury or destruction to persons **_or objects protected against direct attack._**"
+            - Continuous Combat Function
+                - Person with CCF status is an organised armed group member (otherwise a civilian because they are not in a state military), but their regular function is one of armed combat
+                - CCF aims to create parity between states and non-state armed groups (making non-state armed group members targetable outside of hostilities)
+                - [Not to be confused with reservists](https://casebook.icrc.org/case-study/icrc-interpretive-guidance-notion-direct-participation-hostilities#:~:text=An%20individual%20recruited%2C%20trained%20and,carries%20out%20a%20hostile%20act.), who are civilians
+                - CCF is not in IHL treaties and the concept is unsettled
+                - "The Commission believes that during an armed conflict but in situations regulated by the law enforcement paradigm, human rights law prohibits the targeting of individuals in the crowd with lethal force if based purely on their membership in an armed group"
+            - Application of legal frameworks ("parallel approach")
+                - ICRC: "If enemy fighters were located in the crowd of rioting civilians, they could be directly targeted under IHL rules on the conduct of hostilities. However, their mere presence, or the fact that the fighters launched attacks from the crowd, would not turn the rioting civilians into direct participants in hostilities... If it were to prove too difficult to distinguish the rioting civilians from the fighters, it might be appropriate to deal with the entire situation under law enforcement, and apply an escalation of force procedure with respect to all persons posing a threat."
+    - GMR background and principles
+        - Ahmed Abu Artema
+            - Gazan poet & journalist
+            - Jan 7th 2018: _“what if 200,000 demonstrators marched peacefully and broke through the fence east of Gaza and entered a few kilometres into the lands that are ours, holding the flags of Palestine and the keys to return, accompanied by international media, and then set up tents inside and established a city there.”_
+            - Believes violence has failed and insisted the protests remain non-violent
+            - Advocate of a one state solution for two people: _“on the other side that are calling for the Palestinian right of return too. It is important to strengthen this idea in order to seek to achieve peaceful coexistence based on equality”_
+        - Principles of the march
+            - Draw attention to resolution 194 and the Palestinian refugees' right to return
+            - 12 principles
+                - Mostly reiterations of Resolution 194 and non-violent protest
+                - "The organisers are keen to... affirm that it is a new form of resistance different to confrontations and throwing stones"
+                - "... it is preferable to start a sit-in 700 metres away from the separation fence to prevent the clash of young people with the occupation forces. Progress will be gradual and in accordance with the discretion of hte committees and national bodies in charge, which can be done in stages..."
+                - Insistence on no partisan slogans and imagery - only the Palestinian flag and humanitarian slogans in Arabic, English and Hebrew
+        - Members of the Higher National Committee
+            - HNC and 12 subcommittees with reps from Hamas, Fatah, DFLP, PFLP and PIJ
+            - Armed wings not represented
+            - Subcommittees for media, elders and honourables, legal, students, popular activity, women, health, refugees, youth, folklore etc (4-15 members)
+            - 5 different protest sites along the fence (northern Gaza, east of Gaza City, central Gaza, east of Khan Youis and Rafah)
+            - "Return camps" 700-1000 m from the fence; tents named after villages which were abandoned in 1948
+            - Jakkar road (built by Hamas in 2015) is around 200-300m from the fence and informally demarcates the no-go zone
+            - HNC levelled the ground in areas of sites, organised buses and provided financial support
+            - "In accordance with the GMR principles, the activities set up at the return camps encouraged people to attend the GMR while remaining far away from the fence."
+            - Sand bags set up ~700m from the fence to protect the tents (subsequently bulldozed by the ISF)
+            - Intention to gradually move closer to the fence "as the weeks progressed, at the discretion of the HNC"
+            - April 2018, Khaled al-Batsh (senior official of Islamic Jihad - not mentioned in the report), coordinator of the HNC's subcommittees announced moving the tents 50m closer as a first step
+        - Communication and media
+            - Efforts through lectures and media to preserve the peaceful nature of the protest; no armed police deployed at the sites; policy of no arms
+            - "The Commission was told that Hamas security officials checked the protestors for weapons at the entrance of some sites"
+            - Facebook page called "Great March of Return" created by Artema and other activists (35,000 followers by early 2019)
+                - "The posts reiterate the importance of preserving the peaceful nature of the GMR, while also calling on protesters to cross into Israel on 14 May and providing guidelines for doing so"
+        - Participation of women and girls
+            - Unique environment for women, allowing them to participate visibly in public events
+            - Participated as organisers, journalists, bloggers, demonstrators, paramedics and distributing food and water
+            - 3rd July, demonstration called "Women Under Siege"
+    - Israel's assessment of the demonstrations
+        - Emphasis on Israel's ongoing armed conflict with al-Qassam and al-Quds Brigades and the fact that that Hamas and PIJ were both on the HNC
+            - IDF: "by the start of 2018, Hamas' strategic military assets have had their effectiveness curbed by Israeli defences both in the aerial domain and underground"
+        - GMR as a security threat
+            - IDF saw protests as having been “appropriated by Hamas in order to further its attacks against Israel, to create heightened security tensions in the Gaza arena and to increase political and diplomatic pressure on Israel, internally and internationally”
+            - Intention to not allow mass infiltration or to tolerate damage to the fence
+            - 100 snipers deployed, primarily from the special forces
+            - Israeli warnings to Gazans that Hamas was pressuring them to perform provocative actions; advised that anyone approaching the fence would be endangering their life
+            - Description of Hamas turning the area into a "combat zone"
+            - Submission to the Supreme Court
+                - HNC led by Hamas
+                - Plan to infiltrate Israel under the cover of demonstration
+                - Risk of "mass infiltration" by a large "incited" crowd that could attack soldiers or civilians living only hundreds of meters from the Strip
+                - Risk of a soldier being captured ]
+                - Facebook post by Issam Adwan, Jan 16, 2018, “As long as the Palestinians have the spirit of courage and daring, why not breach the border that was set up by the enemy in order to prevent them returning to their occupied lands? Wouldn’t the approaching of thousands of families towards the border confuse the enemy, attract the media to the causes of our people, expose our enemy, revive the region, and encourage our people to dare against the occupying enemy… What will our people lose from the attempt, except for the misery and poverty that they endured in the lands of the refuge?”
+                - Haniyeh quotes, April 9th 2018:
+                    - _“Here I am emphasizing more and more that the March is peaceful and I hope all the factions and our people understand the aim behind this March, we are leading this March with a lethal weapon, the weapon made of people and masses that we will use to knock over the doors of the occupation forces and open the doors of return and breaking the siege. Yes, at this time we emphasize the peacefulness of the March.”_
+                    - _“Our weapons are in our hands, our missiles in our hands, our tunnels are with us and the improvement of our resistance is ongoing by God’s will. This does not contradict that.”_
+                    - _“Yes we will break the walls of the blockade, we will remove the occupation entity, and we will return to all of Palestine’s land by God’s will.”_
+                - Social media posts ahead of 14 May talking about removing the fence and marching towards Israeli towns near the fence (while maintaining the campaign's peaceful character)
+        - Commission's understanding regarding the role of Hamas in the GMR and the three phases
+            - As a HNC member, Hamas supported camp infrastructure, coordination and technical/administrative support
+            - Since 2014, Hamas had patrolled Jakkar Road and prevented people from reaching the buffer zone, but stopped in Spring 2018 to allow the marches
+            - Phase 1 (30 March - 14 May)
+                - Characterised as popular festive event; concerts, barbeques, cultural activities and sports games
+                - Messages of return understood as symbolic, with no intention to break the fence other than "random and uncoordinated acts by demonstrators' edging towards the fence and returning back"
+            - Phase 2 (14 May - early October)
+                - Large numbers of killings from May 14th "changed the atmostphere"
+                - Fewer families attending
+                - Anger over killings and injuries drove youths to more violent acts - incendiary kites, slingshots and incendiary balloons
+                - More damage to and breaching of the separation fence
+                - Protestors claimed to escalate due to ISF actions; ISF claimed to escalate due to protestors' action
+            - Phase 3 (early October - 31 December)
+                - Hamas tries to exert more control over the protests
+                - Negotiations facilitated by Egypt and UNSCO over fuel deliveries to Gaza from Qatar
+                    - Hamas asked to contain demonstrations, and Israel asked to minimise use of firepower
+                    - November: Gazans gain 12 hours of electricity per day as opposed to 4 since mid 2017
+                - Hamas increase in popularity through WB and Gaza
+                    - Waning popularity before protests; violent suppression of peaceful assemblies; ill-treatment and torture; failure of Hamas-Fatah reconciliation
+                - Most protestors did not turn up to demonstrate because of a call from Hamas, though they did use the demonstrations as a bargaining chip in negotiations
+                - Quote from international Gaza-based observer: "There is a third phase, now. Over the past weeks we’ve seen fewer people injured and killed comparatively. In this third phase, Hamas has shown that they can control the situation, if they want to stop people from going closer to the fence, they can"
+        - Israeli preparations ahead of and during the GMR
+            - Initial preparation
+                - Leaflets in Gaza and warnings to transportation companies not to transport "terrorists" and "violent rioters"
+                - Israeli agricultural land cleared on their side of the border
+                - Earth mounds or berms built for snipers 30-70m from the fence
+                - Barbed wire coils in the ARAs, creating a de-facto no-go zone 20-80m west of the fence
+                    - ISF would occasionally enter the strip to repair damage or replace wire coils
+                - Sniper units typically consisting of two snipers, a spotter/observer and a senior commander (required to approve use of live ammunition)
+            - Less-lethal means
+                - Israel stated its use of force against unarmed civilians at the GMR was in accordance with the law-enforcement paradigm
+                - Only in exceptional circumstances can more severe means be employed immediately, before less harmful means
+                - Level D riot permits loudspeakers, batons, water cannons, skunk water, tear gas launchers, grenades and bullets, stun grenades, paintball guns, 40mm sponge grenades, **_only after_** giving a warning
+                    - Skunk water
+                        - Water, yeast and sodium bicarbonate (baking soda), sprayed from water cannons
+                        - Effective range of 60-70m
+                        - Too focused, limited effect when protests are long and can extend for up to two kilometres
+                        - Drones are more effective but have shorter range and need periodic refilling
+                    - Stun grenade
+                        - Bright light and loud sound to temporarily stun crowds; can damage the eardrum; used at least once
+                    - Tear gas
+                        - Restricted by military and police orders; may only be used to disperse "serious disturbances that endanger public safety"
+                        - Allowed under international law for law enforcement but not hostilities
+                        - Extensively used in the GMR albeit with problems: tear gas blown back by west-east Gaza breeze; lack of range
+                        - Medic statements suggest the gas was incredibly strong
+                    - Sponge grenades
+                        - Max range 70m, less dangerous than rubber bullets, only permitted when aimed at the lower body (not against children, the elderly or pregnant women)
+                    - 37mm rubber-coated metal bullets
+                        - Prohibited at less than 40m and against children
+                        - Calls within Israel for their prohibition
+                        - Only allowed to be directed at the lower body and when visibility is good
+                        - Used but not on a large scale because they are insufficient at 70 metres
+                    - 0.22 calibre live ammunition (Ruger bullets)
+                        - Less lethal than larger calibre ammunition; largely discontinued 2001-08 due to criticism in the Second Intifada
+                    - Firearms
+                        - IDF ultimately decided to use 7.62 mm ammunition (not 0.22)
+                        - Permitted in law enforcement in cases of preventing real danger to life or physical integrity and only after a prior warning
+                        - Can be used without warning only in the case of self defence
+        - Rules of engagement applied by Israel in the demonstrations
+            - IDF statement: “due to the limited effectiveness of various non-lethal means in negating the threats detailed above, the IDF has also been required to use potentially lethal force as a measure of last resort.”
+            - Israeli police RoE are public, but IDF RoE is not
+            - Law enforcement and laws of armed conflict applied by the IDF side by side
+                - "The demonstrations were therefore not seen as “purely civilian”, meaning that any actions of combat/hostilities which might be integrated in the demonstrations would be seen as part of the ongoing armed conflict between Israel and Hamas."
+                - Israeli government assertion at the Supreme Court: use of force during the protests were subject to rules of law enforcement with IHL-based "conduct of hostilities" invoked only when the situation called for it
+            - Hostilities only applicable “where there are reliable indications that a person is participating in the hostilities (for example, when a person is identified as a member of Hamas’ armed forces, or when a person is engaged in activities amounting to direct participation in hostilities, such as firing at Israeli soldiers)”
+            - Accordingly, soldiers authorised to use lethal force "as a last resort in order to address a real and imminent danger to human life or bodily integrity"
+            - Israel to the Supreme Court: “For example, when a violent mob reaches the security infrastructure and acts to sabotage it, an imminent threat may exist as a result of the destruction of these defenses and the possibility of infiltrations by violent multitudes of rioters, individuals or operatives.”
+            - Permission to shoot at the legs of "key rioters" or "key inciters"
+            - Also permits lethal force against civilian protestors who take **direct part in hostilities** or if they are **members of organised armed groups**
+                - "Israel does not distinguish in this respect between members who have an actual combat role in the organised armed group and those members who do not possess such a role" - strange characterisation? the [quoted paragraph](https://www.gov.il/BlobFolder/generalpage/operation-protective-edge-full-report/en/English_Terrorism_DOCS_IDFConduct.pdf) (264) makes exceptions for people in protected roles or _hors de combat_
+            - Israeli Court declined to view videos presented by petitioners and only assessed compliance with international law on a case-by-case basis
+    - Legal assessment of rules of engagement
+        - "The Commission agreed with the Government of Israel’s assertion that the two legal paradigms set out previously - the IHRL-based law enforcement paradigm and the IHL-based conduct of hostilities paradigm – applied in parallel to the demonstrations."
+        - ISF rules of engagement
+            - Israeli Supreme Court treated "key inciter / key rioter" category with caution as it does not exist in IHL or IHRL, but accepted that these rioters were the "_avant garde_ of the imminent threat to life"
+            - How key rioters are identified
+                - Coordinating tactical placement of burning tires
+                - Coordinating people towards pulling back parts of security infrastructure
+                - Moving through the crowd whilst talking into a radio; pulling barbed wire coils
+                - Inciting the mob
+                - Influencing behaviour
+                - Providing the conditions for which mass breach or infiltration may occur
+                - Breaching infrastructure and attacking the IDF
+            - The commission doesn't see this activity as "posing an imminent threat to someone's life"
+            - The commission (319) seems to imply that the threshold wouldn't necessarily be met, even if the fence were breached: "Even if the crowd were to cut it and cross, as happened on occasion, normally the crowd would be several dozens of meters away from the nearest IDF soldier and at least 800 meters away from the nearest civilian community. As indicated in the section below, IDF snipers are typically positioned at the top of sand berms or inside armoured personnel carriers, along with other soldiers, armed with automatic weapons and wearing personal protective equipment including body armour and ballistic helmets; the crowd is unarmed. The soldiers’ combined firepower, along with additional mobile forces in the vicinity, would be substantial protection."
+            - IDF argues that people can sustain the role of "key instigator/rioter", even as they withdraw to rest before continuing their activity
+                - Commission argues (321)
+                - that because a 'key inciter' can rest and then resume activity, this undermines the notion that there is an imminent threat to life - but doesn't consider how this applies to people participating in hostilities?
+        - Assessment under the law enforcement paradigm
+            - Protest sites
+                - Abu Safia (North Gaza) site
+                    - 30 tents representing different families, clans and tribes
+                    - 700-1000 m from the fence
+                    - Rolls of barbed wire east of Jakkar road, 50-150m from the fence
+                    - ISF berms 50-100m behind the fence (3-4m high)
+                    - Fields mostly flattened but still some rugged terrain providing psots for cover
+                - Malaka (S-E of Gaza City) site
+                    - Nahal Oz Kibbutz 2km from the fence
+                    - Camp ~500m from the fence
+                    - Barbed wire rolls 30m from the fence
+                    - 5 ISF mounds with 7-10 soldiers each
+                - El Bureij (Central Gaza) site
+                    - 15-20 tents, the "Camp of Return"
+                    - 700-100m from the fence
+                    - Barbed wire 30-50m from the fence (Gazan side)
+                    - Berms 20-30m from the fence (Israeli side) with around 5 soldiers each
+                - Khan Younis site
+                    - 750m from the fence
+                    - Barbed wire ~50m from the fence (Gazan side)
+                    - Berms 50-100m from the fence (Israeli side)
+                - East Rafah site
+                    - 1km northwest of Kerem Shalom crossing
+                    - Camp ranged 400-700m from the fence at different times
+                    - 3-4 sand berms on the Israeli side, 1 on the Gazan side, east of the camp to shield demonstrators
+            - Conduct and imminent threat
+                - Kites and balloons not seen as constituting imminent threat to civilians
+                - Closest civilian community was kibbutz Nahal Oz, 800m from the fence (closer area designated a no-go zone for Israeli civilians)
+                - "In addition, kibbutzim neighbouring Gaza are protected with a range of security measures, including high smart perimeter fences, with barbed wire and electronic notification systems. In addition, Israel has substantial forces in the area (including bases and battle tanks that can be deployed to the kibbutzim within minutes, as well as fortified gun towers.)"
+            - Throwing stones and other non-explosive objects
+                - Stones from 20m could cause injury but not "imminent threat of death or serious bodily injury, especially taking into account ISF's protective equipment"
+                - "A demonstrator in the act of slinging a stone or other non-explosive object may pose an imminent threat of serious bodily injury to an ISF soldier, however, not in every case"
+            - Burning tyres
+                - Tyres used to provide cover for people hurling objects or attempting to damage or breach the fence
+                - "The Commission does not find that an individual in the act of burning tyres posed an imminent threat of death or serious bodily injury"
+            - Incendiary kites
+                - Mostly made of plastic and sticks with burning rags or coals fixed to the tail - generally to set fire to Israeli farmland
+                - Flying kites does "not pose an imminent threat or serious bodily injury to ISF soldiers or Israeli civilians"
+                - "The potential for death and serious bodily injury may exist if individuals fly incendiary kites directly at ISF positions, albeit not in every case... Starting a fire that sweeps across fields may pose a threat of death or serious injury, however, the threat is not imminent."
+            - Incendiary balloons
+                - Mostly consisting of burning rags or coals carried by balloons or condoms inflated with helium gas; others allegedly with IEDs attached
+                - Dangerous or threatening behaviour, but "do not pose an imminent threat to life or serious bodily injury"
+            - Cutting coils or the fence
+                - Individuals who damaged the fence have crossed, or intended to cross into Israel
+                - Damage to a barrier does not create a threat of death or serious injury to individuals on the other side
+                - "while a breach to the fence could lead to additional threats to the ISF and Israeli civilians, these additional threats are distinct and must be addressed separately"
+                - Damaging the separation fence "does not necessarily pose an imminent threat of death or serious injury"
+            - Crossing the fence
+                - "The mere act of crossing the separation fence into Israel does not, in itself, pose an imminent threat to life or serious bodily injury"
+            - Possession of hand-held cutting weapons and tools
+                - "hand-held cutting weapons and tools can be used to kill or cause serious bodily harm to others; however... this threat arises once the individual in possession actually attacks someone"
+                - "Mere possession of hand-held cutting weapons and tools, even by individuals who have crossed the fence into Israel, does not pose an imminent threat to life or serious bodily harm"
+            - Molotov cocktails
+                - Much more dangerous than other IIDs such as lit coals or cloth balls soaked in fuel because the burning liquid of a Molotov can spread instantly
+                - "Were demonstrators to throw Molotov cocktails at ISF soldiers at short range, this might pose an imminent threat of death or serious injury"
+            - Grenades
+                - Claims that some demonstrators threw grenades
+                - ISF reports that soldiers were injured by grenades on July 13th and Sept 21st
+                - No comments from Israel
+                - "A grenade thrown at short range could pose an imminent threat of death or serious injury"
+            - Firearms
+                - Two instances found of people carrying arms (one pistol and one rifle)
+                - "Were a demonstrator to use firearms against the ISF or Israeli citizens, the ISF’s use of lethal force in response to such an imminent threat would be lawful, so long as it was necessary and proportionate."
+            - Expert opinion on extreme cases of hostile crowds
+                - Cases where there is imminent threat to life and all other measures have been exhausted
+                - The commission did not find such extreme circumstances present (377)
+                - “In an extreme case where there is a tumultuous and chaotic disturbance created by an assembly of people exhibiting a ferocious degree of violence; where it is genuinely believed that the actions of a large proportion of the people forming the assembly pose an imminent or grave threat to life; and where it is not possible to distinguish between those who do pose that threat and those who do not, it could be argued that the only way to reduce the threat is to disperse the assembly, and that the only way to disperse the assembly is to use firearms.“ On such an occasion it is probable that a number of individuals within the assembly, who are not themselves presenting an imminent or grave threat to life, and who, because of the circumstances cannot be distinguished from those who are posing the threat, would be killed or injured by firearms discharged to disperse the assembly. Furthermore, apart from the impossibility of distinguishing between people who themselves do or do not present the necessary threat to life at any specific instant, the fact of participation in an assembly of people which, collectively, present the threat could be seen as justification under the basic principles, for the use of firearms against them as individuals.”
+            - Instances of breaches
+                - Videos of groups cutting through the fence, dancing, chanting, praying, throwing stones, kissing the ground, planting flags then returning to Gaza when the ISF approached - the ISF deployed lethal force nonetheless
+                - Some groups crossed and committed acts of vandalism or damaged property; one empty sniper position was set on fire; Kerem Shalom crossing installations burned
+                - Acts did not seem to occur during protests but at other locations along the fence - outside of the Commission's mandate
+                - "The Commission did not ignore the possibility that any individual, or group, may in fact seek to harm, kidnap or even kill an ISF soldier or Israeli citizens beyond. Against the weaponry and defences faced, there was little likelihood of success, but given the history and context, the possibility had to be taken seriously."
+            - Legitimate law enforcement objective
+                - The commission finds that "defending the separation fence from damage... is a legitimate objective"
+                - Necessity
+                    - Use of force only permitted when no other way exists to achieve a law enforcement objective - lethal force only necessary when needed to save a life
+                    - "where the ISF responded to the crowd of demonstrators approaching the fence with less lethal measures... it averted whatever threat may have existed"
+                    - If the ISF could avert threats at the fence without lethal force, it is a fortiori unlawful to shoot a 'main rioter' who emboldens the people making those threats
+                    - "Deploying potentially lethal force in order to protect the fence... is per se excessive, as it does not avert an imminent threat to someone's life"
+                - Proportionality
+                    - Proportionality threshold "sets a maximum on the force that might be used to achieve a specific legitimate objective"
+                    - Weapon as harmful as a 7.62 sniper bullet can only be used under Law Enforcement Paradigm if a threat is imminent (moments away and the attacker is close enough to carry it out)
+                    - Crowd control typically ineffective beyond 80m - argument that beyond 80 m is not 'imminent' threat
+                    - ISD seems to have used lethal force to prevent a threat from 'becoming imminent', as opposed to averting an 'existing threat'
+        - IHL-based conduct of hostilities paradigm  
+            - Applicable in parallel if someone is actively participating in hostilities and in accordance with:  
+            1. Distinction  
+            2. Proportionality  
+            3. Precautions in attack  
+            - Israeli Supreme Court using 'directly participating in the armed conflict', suggesting they equate this with 'directly participating in hostilities'  
+            - Report argues that DPH is not status-based, but rather, activity-based (rejection of Continuous Combat Function)  
+            - ICRC's Interpretive Guidance: conduct must harm in sufficient measure... "inflict death, injury, or destruction on protected persons or objects"  
+            - Commission finds one instance where the threshold of DPH is 'arguably' met: May 14th North Gaza  
+            - "Even if it can be argued that persons with a 'continuous combat function'... could be... legitimately targeted at any time... the risk to bystanders is unacceptably high"  
+            - Proportionality challenged based partly on 1,576 people being injured by bullet fragmentation or shrapnel
+        - Stats
+            - 189 killed, 6103 wounded by live ammunition
+            - One Israeli soldier killed outside the protest sites
+            - 29 either current or former members of Palestinian armed groups party to the conflict (18 people with ambiguous affiliation)
+                - "The Commission did not find indications that these armed groups were involved in the organization or staging of violent incidents at the protests, with the possible exception of a 14 May North Gaza incident"
+    - Specific incidents
+        - 30 March 2018
+            - 40-50,000 demonstrators, mostly at the "Camps of Return" along the Jakkar road.
+            - Smaller numbers move towards the fence, standing, sitting and lying on the ground. Others throwing stones, burning tyres and waving flags.
+            - 9 am, ISF responds with live ammunition
+            - 18 killed, 703 wounded with live ammunition
+            - East of El Bureij
+                - 7-14,000 attendees
+                - Small numbers of people throwing stones and waving flags in the buffer zone
+                - One man shot 150 m from the fence, alone on the phone (no stone throwing or burning tyres at this point)
+                - 21 year old student shot in both legs ~1km
+                - Abed Hawajri: shot in the abdomen standing near the back of a crowd, nothing in his hands, 150m from the fence
+                    - [Prominent leader](https://twitter.com/SafaPs/status/980116030117896192) in the DFLP
+                - 16 year old distributing sandwiches ~300m from the fence, shot in the face (fractured jaw, deaf in one ear, unable to taste or smell)
+                - 25 year old mechanic killed 300m from the fence, surrounded by hundreds of people
+            - Abu Safia
+                - Demonstrations from 7:30am to 7pm
+                - No evidence of weapons at the site
+                - 10 am - youth throwing stones and burning tyres; ISF responds with ammunition and tear gas
+            - Malaka, Gaza City
+                - Several thousand attendees
+                - 10 am: some people burning tyres and throwing stones
+            - Khan Younis
+                - Thousands of attendees from 7 am
+                - Majority stood ~300 m from the fence waving flags
+                - Some burning tyres, throwing stones and trying to approach the fence
+                - Fares al-Raqab
+                    - No mention of [PIJ armed wing](https://archive.ph/Yvrvi) membership
+                - Jihad Abu Jamous
+                    - 30 y/o, shot in the head 250-300m from the fence, [Israeli intel](https://www.terrorism-info.org.il/app/uploads/2018/04/E_107_18.pdf) claims he is a Fatah militant, but does not provide evidence
+                        - [Al-Aqsa Martyr's Brigade](https://fatehmedia.eu/2018/04/02/%D8%A3%D8%A8%D9%88-%D8%AC%D8%A7%D9%85%D9%88%D8%B3-%D9%85%D9%86-%D8%AD%D9%8A%D8%A7%D8%A9-%D8%A7%D9%84%D8%B4%D9%82%D8%A7%D8%A1-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%AE%D9%84%D9%88%D8%AF/) claim
+            - East of Rafah
+                - Largely peaceful
+                - Some demonstrators throwing stones and burning tyres
+        - 31 Mar - 13 May 2018
+            - Live ammunition used throughout
+            - Demonstrators start sending kites and balloons causing damage in Southern Israel
+            - Slingshots used and tear gas canisters thrown back at the IDF
+            - Removal of barbed wire and fence cut through
+            - Protestors adjusting positions in order for smoke (blown by the wind) to screen them
+            - Kites, cutting of wire and tyre burning organised by self-declared "units" of demonstrators
+                - Communicated through social media; seemingly condoned by the HNC
+                - Conflicting information on whether they were directed or controlled by the HNC - one member told the Commission that the HNC supported them with money and told them when and where to fly kites
+            - "While members of armed groups appeared to be involved at times, the Commission did not find that armed groups initiated or directed these activities during the times and sites of GMR demonstrations."
+        - 14 May
+            - Some prior calls on social media to breach the fence and reach Israeli communities; HNC insist any crossing must be non-violent and unarmed
+            - IDF warns of terror breach and 250,000 violent rioters "swarming" Israel - 11 battalions deployed
+            - 35-40,000 demonstrators
+            - Israeli preparation
+                - Permission to shoot anyone armed across the 300m line and anyone unarmed at less than 100m
+                - 3 am - bulldozers levelled the ground at demonstration sites
+            - Large crowds at all sites congregated around tents and between Jakkar Road and the fence
+            - Stone slinging, throwing, burning tyres, pulling away barbed wire coils; fence breached by two people who set fire to an empty berm (1 shot dead, the other injured)
+            - ISF claims of grenades and IEDs being thrown, but not confirmed by the Commission
+            - 1,162 people shot with live ammunition
+            - Gaza City
+                - ~200 people burning tyres, throwing stones, approaching the fence
+                - Shots fired every few minutes by the ISF from 9:30am to 5:30pm
+            - East of El Bureij
+                - First arrivals at 6am
+                - 8:30am - hundreds gathered, some burning tyres and throwing stones
+                    - Live fire within the next hour
+            - Khan Younis
+                - Thousands of demonstrators, additional tents set up
+                - Hundreds approached the wire coils, burning tyres and throwing stones
+                    - Live ammunition and tear gas cannisters used (also through drones)
+                - Demonstrators attempted to cross the fence and were repelled by gun fire
+            - Rafah
+                - Particularly large and intense
+                - Some burning tyres to create a smoke screen, cutting of wire, stone throwing, attempts to reach the fence
+                - ISF deployed in larger numbers, including tank crews; heavy amounts of tear gas fired
+        - 15 May - 11 Oct
+            - Demonstrations held each Friday
+            - Periods of de-escalation / negotiation efforts / holidays
+            - Several "night units" and "baffle squads" set up to harass the ISF at night (shouting, loudspeakers, damaging the fence, launching home made fireworks / firecrackers)
+                - Not sure if they were directed by any org
+            - Increased intensity of demonstration days / attacks on the fence (15 attempted crossings and 24 launchings of balloons and kites)
+            - Israel temporarily closes crossings and halting fuel and gas imports; limiting fishing waters
+        - 12 Oct
+            - 15,000 demonstrators
+            - All sites: minority throwing stones, launching balloons and kites, cutting wire, attempts to breach the fence
+            - Fence breached in 2 locations
+            - ISF claim of explosives planted at the fence - not confirmed by the Commission
+            - 136 wounded by live ammunition
+            - El Bureij Camp
+                - Fence breached at 4-5pm; fence cut with axes, machetes and other tools; 20 climbed through and were pushed back with live fire
+            - North Gaza
+                - Small group burning tyres - smoke screen so thick, the fence could not be seen
+                - Stone throwing, slingshots, cutting of coils
+                - Large group reached the fence, one managed to climb part of it
+            - Makala, Gaza City
+                - Two people shot and killed, one shot in the chest with dozens of young people near the coils ~30m from the fence
+            - Rafah
+                - 27 injured with shrapnel or live ammunition
+                - "Sizable numbers of people seen close to the separation fence"
+                - Barbed wire pulled away
+    - One incident which "may have" amount to DPH
+        - 14 May near Al-Shuhada cemetery (new demonstration site)
+        - Hundreds of people 50-300m from the fence
+            - Stone throwing, burning tyres, some approached the barbed wire coils
+            - Others approached 50-100m from the fence
+        - 12:50 pm: "heavy and indiscriminate shooting... from the ISF, targeting the young men approaching the fence and also those who were on Jakkar road"
+        - Video of a person in civilian clothes, metres away from a sizeable group, firing a rifle towards the Israeli side
+            - 50-70m from the fence, amid thick smoke
+            - Israel responded with live and gunfire for ~40 mins, killing 21, including 8 alleged members of armed groups, a paramedic and two children
+    - Razan al-Najjar
+        - Volunteer paramedic killed on 1st June
+        - IDF investigation:
+            - 5th June Twitter statement
+                - 22-year old Palestinian woman killed, no shots aimed towards her, examination ongoing
+            - Later tweet:
+                - Human shields accusation that "the medic was incited by Hamas to give up her life for their goals"
+                - Video allegedly showing her throwing a gas canister
+            - Interview of Razan supposedly admitting to acting as a human shield for Hamas
+                - Full interview (published June 2nd) has her saying she acted as a "human shield for injured demonstrators"
+            - Netanyahu spokesperson, Jun 7th:
+                - Accuses her of being a human shield to cover for terrorists
+            - Palestinian misinfo
+                - IDF woman blamed for Razan's death even though she hadn't served in 2 years
+    - Impact on women
+        - Less women killed, but many still injured: 159 shot with live ammunition, 59 injured by bullet fragments, 36 by rubber coated bullets, 60 hit by tear gas cannisters
+        - More representation than usual, but still a low proportion of women present
+            - Forbidden by families, need for consent
+        - One 16 year old shot in the abdomen near the tents ~800m from the fence
+        - Some participated in clashes, though were less likely to be shot:
+            - _"Women do not usually go close to the fence like I do. I burn tyres and throw stones, usually women do not do that. When the men want to cut the fence, I help them. For example, I walk in front of them to cover them when approaching the fence. Soldiers do not kill women usually – men on the other hand are hunted by Israelis like birds."_ - 26 year-old participant
+            - March 30th: woman talks about rescuing men who were stuck near the fence: _"As a woman, they would not shoot me"_
+        - Intersection of discrimination at home and destitution under blockade
+            - 3 cases of women talking about indifference to injury or death at the protests
+            - One alluded to the financial incentive of their family being compensated (no longer being a "burden")
+        - Role of women in treating the injured
+            - Overwhelming of hospitals means many patients were discharged early and had to be cared for by their families, primarily by the women
+        - Domestic violence
+            - Injured demonstrators likely to exhibit anger, aggression, hopelessness and severe depression, leading to an increase in domestic violence
+            - 51% of married Gazan women report being exposed to at least one form of violence by family members (only 1% seek help)
+            - Domestic violence not illegal in Palestine - divorce is legally permissible but socially discouraged
+        - Reports of women facing abuse from men who blame them for injuries of family members in the marches
+            - Example of husband suffering chronic brain seizures after inhaling tear gas
+            - Example of a woman being threatened with divorce for leaving the house to join the protests
+- Incidents before the march
+    - [Feb 2018](https://www.nytimes.com/2018/02/17/world/middleeast/israel-gaza-benjamin-netanyahu.html): 4 Israeli soldiers wounded by an [explosive device](https://www.youtube.com/watch?v=KZnby8jmfYw&rco=1) attached to a flag at the border
+        - 2 severe injuries amid a riot of hundreds of protestors, who were throwing rocks and trying to tear down the fence
+        - Israeli tanks respond by firing on an observation post near the scene
+        - Netanyahu calls for airstrikes on six targets
+        - Rocket fire from Hamas, more tank fire from Israel & 2nd wave of air attacks
+        - 2 injuries reported by Gazan health officials
+        - “We’ve been speaking about these staged riots for a long time,” Colonel Conricus said. “When Hamas organizes these riots and pushes people towards the fence, what we’re saying is, this isn’t a peaceful demonstration, these people aren’t unarmed, they’re rioters — and among the rioters are actual terrorist operatives who have other things in mind.”
+- 30 March 2018
+    - [IDF claims](https://www.ynetnews.com/articles/0,7340,L-5214268,00.html) at least 10 killed were terrorists, 8 of which were Hamas
+        - Hamas argues only 5
+    - [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85) website lists 5 dead from 30th March
+        - [Musab Zuhair Al-Saloul](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2724/%D9%85%D8%B5%D8%B9%D8%A8-%D8%B2%D9%87%D9%8A%D8%B1-%D8%A7%D9%84%D8%B3%D9%84%D9%88%D9%84)
+            - Died at the border "along with the girlfriend of the martyr Muhammad Al-Rabaya"
+        - [Sari Walid Muhammad Abu Odeh](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2722/%D8%B3%D8%A7%D8%B1%D9%8A-%D9%88%D9%84%D9%8A%D8%AF-%D8%A3%D8%A8%D9%88-%D8%B9%D9%88%D8%AF%D8%A9)
+            - "Embraced his friend in his arms as a shiled of protection when he was suddenly shot in the foot. However, he chose him over himself and carried him to treat him, but the treacherous occupation artillery shells were closer to them than anything else"
+        - [Jihad Ahmed Farina](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2723/%D8%AC%D9%87%D8%A7%D8%AF-%D8%A3%D8%AD%D9%85%D8%AF-%D9%81%D8%B1%D9%8A%D9%86%D8%A9)
+            - Died at the March of Return "with four other mujahideen"
+        - [Muhammad Naeem Abu Amr](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2720/%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%B9%D9%8A%D9%85-%D8%A3%D8%A8%D9%88-%D8%B9%D9%85%D8%B1%D9%88)
+            - Died at the March of Return "with four other mujahideen"
+        - [Ahmed Ibrahim Odeh](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2721/%D8%A3%D8%AD%D9%85%D8%AF-%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D8%B9%D9%88%D8%AF%D8%A9)
+            - Died "on the doorstep of Gaza, metres away from the occupied country, Ahmed and his friends stood."
+    - [PIJ website](https://archive.ph/7ZpQm) lists 1
+        - [Fares Mahmoud Muhammad al-Raqab](https://archive.ph/Yvrvi)
+            - Died April 2nd; [Israeli intelligence](https://www.terrorism-info.org.il/app/uploads/2018/04/E_091_18.pdf) claims he was shot at the GMR on March 30th
+            - As does the [HRC report](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session40/Documents/A_HRC_40_74_CRP2.pdf): "Fares Al-Raqab was a 26-year-old resident of Bani Suheila. The ISF shot and killed him between 2.30 and 4 p.m. Material viewed by the Commission indicate that he was running away from the separation fence, at about 150 to 200 m, when he was shot in the back. The bullet entered his abdomen and he died of his injuries on 2 April"  
+                
+    - DFLP
+        - [Abdul-Qader al-Hawajri](https://israelpalestinetimeline.org/abdul-qader-al-hawajri/)
+            - [Described](https://twitter.com/SafaPs/status/980116030117896192) as a "prominent leader in the Democratic Front", [died](https://twitter.com/SafaPs/status/980029793436565504) March 30
+    - Al-Aqsa Martyrs (circumstantial evidence - not 100%)
+        - Jihad Zuhair Abu Jamous
+            - Attributed to "Shaheed Nidal al-'Amoudi Battalion" by [Israeli intel](https://www.terrorism-info.org.il/app/uploads/2018/04/E_107_18.pdf), though they provide no evidence
+            - Shown in an al-Aqsa Martyr's Brigade poster by an unofficial [Fatah media page](https://fatehmedia.eu/2018/04/02/%D8%A3%D8%A8%D9%88-%D8%AC%D8%A7%D9%85%D9%88%D8%B3-%D9%85%D9%86-%D8%AD%D9%8A%D8%A7%D8%A9-%D8%A7%D9%84%D8%B4%D9%82%D8%A7%D8%A1-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%AE%D9%84%D9%88%D8%AF/), seems to have been shot approaching the wire
+            - He has a page on the [official Fatah site](https://www.fateh-gaza.com/post/149148), but the link doesn't seem to work
+            - Obituary mentions him taking a slingshot to the march:
+                - "He was carrying a slingshot. His mother asked him: “Isn’t it peaceful? Why are you carrying this thing then?” He replied: “I will not use it unless the soldiers start, and all the young men like me, don’t worry.”
+    - [Haniyeh](https://www.timesofisrael.com/hamas-vows-gaza-protests-to-continue-until-they-return-to-all-of-palestine/) after the event (standing in front of a picture of Gandhi, MLK and Mandela): "We will break the walls of the blockade, remove the occupation entity and return to all of Palestine"
+        - [Awarding a child](https://twitter.com/SafaPs/status/980430885727166464) who approached the fence wearing an "onion plant" mask
+- 14 May 2018
+    - [Hamas claims 50](https://edition.cnn.com/2018/05/16/middleeast/hamas-members-gaza-deaths/index.html) killed were their members
+        - Salah al-Bardaweel: “In the last round of demonstrations 62 people were martyred; 50 of them are from Hamas and 12 from the people,” al-Bardaweel replied, adding, “I am telling you, these are official numbers.”
+        - Hamas spokesman Abdel Latif Quanau: “The protests are peaceful and include all political and military factions. The Qassem Brigade, Hamas, Islamic Jihad, and all the factions, are a part of the Palestinian people. When the people decided to move, all the people of all the different factions moved with them. And just as the various factions pursue military resistance, they also pursue peaceful resistance.”
+        - Ahmed Abu Artema (who conceived of the GMR)
+            - “I personally doubt the number,” he told CNN in a phone conversation. “This is rhetoric, I don’t believe al-Bardaweel has confirmed the number; the reporter provoked him with his question.”
+        - If true, 31 al-Qassam, 19 members
+    - [al-Qassam site](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85) lists 25 al-Qassam deaths
+        - [Ahmed Fayez Harb Shehadeh](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2878/%D8%A3%D8%AD%D9%85%D8%AF-%D9%81%D8%A7%D9%8A%D8%B2-%D8%B4%D8%AD%D8%A7%D8%AF%D8%A9)
+            - "Ahmed was martyred, along with the martyr Ahmed Al-Rantisi, the martyr Shaher Al-Madhoun, the martyr Yahya Al-Dagour, the martyr Jihad Musa, and Imad Al-Naqar, all of whom were from the Al-Qadisiyah battalion in the Sheikh Radwan."
+            - 6 total in battalion
+        - [Moataz Bassam Al-Nono](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2873/%D9%85%D8%B9%D8%AA%D8%B2-%D8%A8%D8%B3%D8%A7%D9%85-%D8%A7%D9%84%D9%86%D9%88%D9%86%D9%88)
+        - [Moatasem Fawzi Abu Luli](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2871/%D9%85%D8%B9%D8%AA%D8%B5%D9%85-%D9%81%D9%88%D8%B2%D9%8A-%D8%A3%D8%A8%D9%88-%D9%84%D9%88%D9%84%D9%8A)
+            - Died at Rafah border, "advanced with a group of young men towards the temporary wire, cut it, and while pulling it, he was shot in the head"
+        - [Mahmoud Yahya Hussein](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2870/%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D9%8A%D8%AD%D9%8A%D9%89-%D8%AD%D8%B3%D9%8A%D9%86)
+        - [Ismail Khalil Al-Dahuk](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2864/%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84-%D8%AE%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%AF%D8%A7%D9%87%D9%88%D9%83)
+        - [Yahya Ismail Rajab Al-Dakour](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2860/%D9%8A%D8%AD%D9%8A%D9%89-%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84-%D8%A7%D9%84%D8%AF%D8%A7%D9%82%D9%88%D8%B1)
+            - Listed in the Al-Qadisiyah battalion
+        - [Muhammad Riyad Abdul Rahman Al-Amoudi](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2859/%D9%85%D8%AD%D9%85%D8%AF-%D8%B1%D9%8A%D8%A7%D8%B6-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D9%88%D8%AF%D9%8A)
+            - Died in return march at the eastern cemetery, east of Jabalia camp, sniped in the head
+        - [Shaher Mahmoud Al-Madhoun](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2856/%D8%B4%D8%A7%D9%87%D8%B1-%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D8%A7%D9%84%D9%85%D8%AF%D9%87%D9%88%D9%86)
+        - [Taher Ahmed Madi](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2857/%D8%B7%D8%A7%D9%87%D8%B1-%D8%A3%D8%AD%D9%85%D8%AF-%D9%85%D8%A7%D8%B6%D9%8A)
+        - [Khalil Ismail Mansour](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2854/%D8%AE%D9%84%D9%8A%D9%84-%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84-%D9%85%D9%86%D8%B5%D9%88%D8%B1)
+        - [Samer Nael Awni Al-Shawa](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2855/%D8%B3%D8%A7%D9%85%D8%B1-%D9%86%D8%A7%D8%A6%D9%84-%D8%A7%D9%84%D8%B4%D9%88%D8%A7)
+        - [Jihad Muhammad Othman Musa](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2853/%D8%AC%D9%87%D8%A7%D8%AF-%D9%85%D8%AD%D9%85%D8%AF-%D9%85%D9%88%D8%B3%D9%89)
+        - [Mustafa "Mohamed Samir" Mahmoud Al-Masry](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2852/%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A)
+            - [Video](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2852/%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A)
+        - [Ahmed Zuhair Hamid Al-Shawa](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2851/%D8%A3%D8%AD%D9%85%D8%AF-%D8%B2%D9%87%D9%8A%D8%B1-%D8%A7%D9%84%D8%B4%D9%88%D8%A7)
+            - [Video](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2851/%D8%A3%D8%AD%D9%85%D8%AF-%D8%B2%D9%87%D9%8A%D8%B1-%D8%A7%D9%84%D8%B4%D9%88%D8%A7)
+        - [Ahmed Mahmoud Al-Rantisi](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2850/%D8%A3%D8%AD%D9%85%D8%AF-%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D8%A7%D9%84%D8%B1%D9%86%D8%AA%D9%8A%D8%B3%D9%8A)
+            - Al-Qadisiyah Battalion
+        - [Ahmed Mohamed Hamdan](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2843/%D8%A3%D8%AD%D9%85%D8%AF-%D9%85%D8%AD%D9%85%D8%AF-%D8%AD%D9%85%D8%AF%D8%A7%D9%86)
+            - "and as soon as he finished his work, he quickly went home to take off his military uniform and put on civilian clothes to go out and participate with his people in the Millions of Return and breaking the siege"
+        - [Jihad Mufid Al-Farra](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2842/%D8%AC%D9%87%D8%A7%D8%AF-%D9%85%D9%81%D9%8A%D8%AF-%D8%A7%D9%84%D9%81%D8%B1%D8%A7)
+            - Participated in marches, returned to the camp to sit with his mother, went to pray (doesn't say where) and was hit by a sniper
+        - [Muhammad Hassan Al-Abadla](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2841/%D9%85%D8%AD%D9%85%D8%AF-%D8%AD%D8%B3%D9%86-%D8%A7%D9%84%D8%B9%D8%A8%D8%A7%D8%AF%D9%84%D8%A9)
+            - Joined the march east of Khan Yunis, shot in the chest and killed
+        - [Izz al-Din Nahed al-Awaiti](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2840/%D8%B9%D8%B2-%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D9%86%D8%A7%D9%87%D8%B6-%D8%A7%D9%84%D8%B9%D9%88%D9%8A%D8%B7%D9%8A)
+            - Shot in the head marching towards the wire
+        - [Anas Hamdan Qudaih](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2839/%D8%A3%D9%86%D8%B3-%D8%AD%D9%85%D8%AF%D8%A7%D9%86-%D9%82%D8%AF%D9%8A%D8%AD)
+        - [Mahmoud Saber Abu Taima](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2838/%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D8%B5%D8%A7%D8%A8%D8%B1-%D8%A3%D8%A8%D9%88-%D8%B7%D8%B9%D9%8A%D9%85%D8%A9)
+            - Stationed on the borders, marched on eastern border of Khan Yunis, shot by a sniper
+        - [Ahmed Salem Al-Jarf](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2837/%D8%A3%D8%AD%D9%85%D8%AF-%D8%B3%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%AC%D8%B1%D9%81)
+            - Died east of Khan Yunis "on the front lines in the confrontations with the occupation forces"
+        - [Wissam Youssef Hegazy](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2846/%D9%88%D8%B3%D8%A7%D9%85-%D9%8A%D9%88%D8%B3%D9%81-%D8%AD%D8%AC%D8%A7%D8%B2%D9%8A)
+            - Shot in the head in the Abasan Al-Jadeeda border area, died 12/8/2018; "During his participation in the return marches, he always said to his peers, “I want a bullet in my head to rise to the level of a martyr to God.”
+        - [Muhammad Ghassan Abu Farhana](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2845/%D9%85%D8%AD%D9%85%D8%AF-%D8%BA%D8%B3%D8%A7%D9%86-%D8%A3%D8%A8%D9%88-%D9%81%D8%B1%D8%AD%D8%A7%D9%86%D8%A9)
+            - Shot in the stomach at Al-Faraheen "in the first row", died of his wounds on June 20, 2018
+                - "“The right to return, mother.” As if his heart was making his mother feel that she would lose him, so she urged him not to leave, but he chose to answer the call, and he said to her again. “The right to return, mother.""
+        - Imad Al-Naqar
+            - Listed as part of the al-Qadisiyah Battallion in other biographies, but not found on the page, SUGGESTING not every al-Qassam martyr has their own entry
+    - [PIJ website](https://web.archive.org/web/20180515154233/https://saraya.ps/post/54519/%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%AF-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A-%D9%88%D8%B0%D8%B1%D8%A7%D8%B9%D9%87%D8%A7-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D9%8A%D8%AD%D8%AA%D8%B3%D8%A8%D8%A7%D9%86-%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D9%85%D9%86-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9-%D8%A8%D8%AE%D8%A7%D9%86%D9%8A%D9%88%D9%86%D8%B3) claimed 3 from al-Quds Brigades
+        - [Ubeida Salem Abd Rabbo Farhan](https://archive.ph/Yvrvi)
+            - [Claimed by PIJ](https://www.middleeasteye.net/news/gaza-palestinians-who-died-during-great-march-return) as a member of al-Quds Brigades  
+                
+        - [Fadi Hassan Salman Abu Salmi](https://archive.ph/Yvrvi)
+            - Amputee from Cast Lead and in a wheelchair
+            - "He was at the front of the ranks in all the confrontations with the occupation in Khan Yunis"  
+        - [Ahmed Adel Moussa al-Shaer](https://www.middleeasteye.net/news/gaza-palestinians-who-died-during-great-march-return)
+            - Shot in the chest east of Khan Yunis
+            - 16 years old; listed as 15 in the [HRC report](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session40/Documents/A_HRC_40_74_CRP2.pdf) (p. 121)  
+    - Affiliates / possible militants (evidence more circumstantial)
+        - [Mos'ab Yousef Abu Laileya](https://israelpalestinetimeline.org/mosab-yousef-abu-laileya/)
+            - Worked for the Military Intelligence Department of the PA in the Gaza Strip, killed in central-eastern Gaza
+            - Seems to match [Israeli intel](https://www.terrorism-info.org.il/app/uploads/2018/05/E_129_18-1.pdf), although they don't mention that he was PA
+        - [Ahmed Al-Shawa](https://twitter.com/SafaPs/status/996027641202380805)
+            - Wrapped in a Hamas flag and wearing an al-Qassam headband
+        - [Yazan Tubasi](https://twitter.com/SafaPs/status/996357509995745280)
+            - Wrapped in a Hamas flag and wearing an al-Qassam headband
+        - [Muhammad Samir Dowidar](https://twitter.com/SafaPs/status/996320161215938565)
+            - Wrapped in a Hamas flag
+        - [Ahmed al-Adini](https://twitter.com/SafaPs/status/996280142933712896/photo/4)
+            - [Wrapped in PFLP flag](https://www.dailymail.co.uk/news/article-5730097/Palestinians-prepare-bury-dead-day-bloody-protests.html) and headband
+        - [Mahmoud Saber Abu Ta'imah](https://twitter.com/SafaPs/status/996032012527038467/photo/1)
+            - [Wrapped](https://twitter.com/SafaPs/status/996032012527038467/photo/1) in what seems to be a Hamas flag
+        - [Mukhtar Abu Khamash](https://www.newarab.com/analysis/remembering-great-return-march-protesters-killed-israel)
+            - [Wrapped in Hamas flag](https://www.dailymail.co.uk/news/article-5730097/Palestinians-prepare-bury-dead-day-bloody-protests.html)
+        - [Muhammad Mazen Alyan](https://twitter.com/ShehabAgency/status/997933091715997696)
+            - Wrapped in a Hamas flag and wearing an al-Qassam headband
+            - [Shot in the head east](https://www.middleeasteye.net/news/gaza-palestinians-who-died-during-great-march-return) of al-Bureij and died 5 days later
+    - [NYT article](https://www.nytimes.com/interactive/2018/04/13/world/middleeast/gaza-fence-aerial.html)
+        - Fence "is not the sturdiest of barriers"
+            - 10 foot high "smart fence" with sensors to detect infiltrators
+            - "If a crowd of thousands surged towards the fence, it would take about 30 seconds to cross" - the contractor who built it
+            - Former head of Israel's National Security Council: hundreds or thousands of people inside Israel is "not something we would be able to contain. So the right way is to make sure nothing happens to the fence."
+        - People shot with their backs turned to the fence whilst praying or with nothing in their hands
+        - IDF used water cannons to douse fires and tear gas to push back crowds
+        - IDF instructed to shoot to warn, then shoot to wound, before shooting to kill BUT also "anyone who approaches the fence endangers his life."
+        - Haniyeh: the demonstrators had "taught the world how to be men" 4
+- 12 October 2018
+    - al-Qassam site
+        - [Muhammad Abdel Hafeez Ismail](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2869/%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%AD%D9%81%D9%8A%D8%B8-%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84)
+            - Died east of the Bureij camp, "appeared in a video before his martyrdom, shouting loudly at the top of his voice and calling on the masses to come forward, cut the fleeting wire, and cross the occupied territories, and there he ascended. He was shot by a Zionist sniper"
+    - PFLP
+        - [Mohammed Ashraf Mohammed al-Awada](https://www.middleeasteye.net/news/gaza-palestinians-who-died-during-great-march-return)
+            - [PFLP site](https://pflp.ps/post/17768/%D8%A7%D9%84%D8%AC%D8%A8%D9%87%D8%A9-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%D9%8A%D8%A9-%D8%AA%D9%86%D8%B9%D9%8A-%D8%B1%D9%81%D9%8A%D9%82%D9%87%D8%A7-%D8%A7%D9%84%D8%B4%D9%87%D9%8A%D8%AF-%D8%A7%D8%A8%D9%86-%D8%A7%D9%84%D8%B4%D9%87%D9%8A%D8%AF-%D9%85%D8%AD%D9%85%D8%AF-%D8%A3%D8%B4%D8%B1%D9%81-%D8%A7%D9%84%D8%B9%D9%88%D8%A7%D9%88%D8%AF%D8%A9)
+- al-Qassam deaths outside of main dates
+    - [Abdullah Muhammad Jibril Al-Shamali](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2872/%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%84%D9%87-%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A)
+        - Died 22/04/2018, 2 days after advancing on the eastern border of Rafah
+    - [Karim Ahmed Ali Fatayer](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2867/%D9%83%D8%B1%D9%8A%D9%85-%D8%A3%D8%AD%D9%85%D8%AF-%D8%B9%D9%84%D9%8A-%D9%81%D8%B7%D8%A7%D9%8A%D8%B1)
+        - Died 17/08/2018 at march east of Bureij
+    - [Ahmed Awad Abu Odeh](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2865/%D8%A3%D8%AD%D9%85%D8%AF-%D8%B9%D9%88%D8%A7%D8%AF-%D8%A3%D8%A8%D9%88-%D8%B9%D9%88%D8%AF%D8%A9)
+        - Died 07/12/2018 of gas inhalation at the GMR
+    - [Omar Jumah Abu Foul](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2866/%D8%B9%D9%85%D8%B1-%D8%AC%D9%85%D8%B9%D8%A9-%D8%A3%D8%A8%D9%88-%D9%81%D9%88%D9%84)
+        - Died 15/5/2018 marching at Eastern Cemetery of Jabalia
+    - [Muhammad Bassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2863/%D9%85%D8%AD%D9%85%D8%AF-%D8%A8%D8%B3%D8%A7%D9%85-%D8%B4%D8%AE%D8%B5%D8%A9)
+        - Died 28/09/2018 marching at Malka camp, east of Gaza City
+    - [Mujahid Nabil Al-Khudary](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2858/%D9%85%D8%AC%D8%A7%D9%87%D8%AF-%D9%86%D8%A8%D9%8A%D9%84-%D8%A7%D9%84%D8%AE%D8%B6%D8%B1%D9%8A)
+        - Died 05/04/2018 "bombed by reconnaissance planes belonging to the occupation army... near the... fence east of Gaza"
+    - [Nassar Iyad Abu Taim](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2848/%D9%86%D8%B5%D8%A7%D8%B1-%D8%A5%D9%8A%D8%A7%D8%AF-%D8%A3%D8%A8%D9%88-%D8%AA%D9%8A%D9%85)
+        - Died 26/10/2018 "shot by a Zionist sniper while he was in the first rows participating with his people in the return marches", east of Khan Yunis
+    - [Ahmed Saeed Abu Lebda](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2847/%D8%A3%D8%AD%D9%85%D8%AF-%D8%B3%D8%B9%D9%8A%D8%AF-%D8%A3%D8%A8%D9%88-%D9%84%D8%A8%D8%AF%D8%A9)
+        - Died 26/10/2018 shot by a sniper "in the first ranks participating with his people in the return marches", east of Khan Yunis
+    - [Ahmed Ziyad Al-Assi](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2844/%D8%A3%D8%AD%D9%85%D8%AF-%D8%B2%D9%8A%D8%A7%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D8%B5%D9%8A)
+        - Died 08/06/2018 directly hit on the head by a gas bomb during the "millions of Jerusalem" (awkward translation)
+    - [Muhammad Khaled Abu Raida](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2836/%D9%85%D8%AD%D9%85%D8%AF-%D8%AE%D8%A7%D9%84%D8%AF-%D8%A3%D8%A8%D9%88-%D8%B1%D9%8A%D8%AF%D8%A9)
+        - Worked at reconnaissance points on the eastern border "following the enemy's movements at night", shot dead 06/05/2018 responding to a call for aid, no mention of GMR here, but he is mentioned in other biographies
+    - [Bahaa Abdul Rahman Qadeeh](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2834/%D8%A8%D9%87%D8%A7%D8%A1-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86-%D9%82%D8%AF%D9%8A%D8%AD)
+        - Worked in reconnaissance points and towers, died May 6th at the GMR east of Khan Yunis
+    - [Abdel Dayem Ismail Abu Musameh](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2835/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%AF%D8%A7%D9%8A%D9%85-%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84-%D8%A3%D8%A8%D9%88-%D9%85%D8%B3%D8%A7%D9%85%D8%AD)
+        - Died May 6th at the GMR east of Khan Yunis
+    - [Magdy Ramadan Shabat](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2832/%D9%85%D8%AC%D8%AF%D9%8A-%D8%B1%D9%85%D8%B6%D8%A7%D9%86-%D8%B4%D8%A8%D8%A7%D8%AA)
+        - Shot in the neck 06/04/2018 east of Jabalia, "80 meters from the passing line"
+- PIJ deaths outside of main dates
+    - [Mohammad Nasser Shurab](https://web.archive.org/web/20180714135332/http://www.saraya.ps/)
+        - [al-Quds Martys list](https://archive.ph/Yvrvi), died July 14th east of Khan Yunis
+- Other deaths outside of main dates
+    - [Yahya Badr Mohammad al-Hasanat](https://www.tasnimnews.com/fa/news/1397/08/06/1863380/%D9%81%D9%84%D8%B3%D8%B7%DB%8C%D9%86-%D8%B4%D9%87%D8%A7%D8%AF%D8%AA-%DB%8C%DA%A9-%D9%81%D9%84%D8%B3%D8%B7%DB%8C%D9%86%DB%8C-%D8%AF%DB%8C%DA%AF%D8%B1-%D8%AF%D8%B1-%D8%BA%D8%B2%D9%87-%D8%AC%D9%86%D8%A7%DB%8C%D8%AA-%D8%AC%D8%AF%DB%8C%D8%AF-%D9%86%D8%B8%D8%A7%D9%85%DB%8C%D8%A7%D9%86-%D8%B5%D9%87%DB%8C%D9%88%D9%86%DB%8C%D8%B3%D8%AA-%D8%AF%D8%B1-%DA%A9%D8%B1%D8%A7%D9%86%D9%87-%D8%A8%D8%A7%D8%AE%D8%AA%D8%B1%DB%8C)
+        - Wounded on Oct 26th, died Oct 28th, circumstantial evidence
+    - [Ayesh Ghassan Ayesh Hamid Shaath](https://www.facebook.com/ShaatNews/photos/a.521321417976730/1790175867757939/?type=3)
+        - Seems to be claimed by Fatah in central Khan Yunis, died Oct 26th
+    - [Ahmed Yahya Yaghi](https://felesteen.news/post/31712/%D8%A7%D9%84%D8%B4%D9%87%D9%8A%D8%AF-%D8%A3%D8%AD%D9%85%D8%AF-%D9%8A%D8%A7%D8%BA%D9%8A-%D8%A7%D8%B3%D8%AA%D9%82%D8%A8%D9%84%D8%AA%D9%87-%D8%A3%D9%85%D9%87-%D8%A8%D8%A7%D9%84%D8%B2%D8%BA%D8%A7%D8%B1%D9%8A%D8%AF-%D9%88%D9%88%D8%A7%D9%84%D8%AF%D9%87-%D8%A8%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%B3%D8%A7%D8%A8)
+        - Died August 3rd after a sniper shot to the chest east of Gaza City, claimed by Al-Aqsa Martyrs Brigades
+            - "He was always leading the ranks, participating in transporting the wounded and martyrs, and motivating them to participate and advance to the separation fence"
+            - His father "heard Ahmed... calling his friends, asking them to hurry to participate in the marches"
+            - "He did not hide in his interview with the Felesteen newspaper that the family was expecting to receive the news of Ahmed's martyrdom and killing by occupation snipers, because he participates in every Friday of the return marches and is in the front rows of the demonstrators, which are most exposed to occupation fire."
+- [Israeli intelligence center](https://www.terrorism-info.org.il/app/uploads/2019/01/E_012_19.pdf)
+    - March 30, 2018 - Jan 14th, 2019 fatalities
+        - 96 Hamas (45 al-Qassam, 51 affiliated)
+        - 39 Fatah (6 military)
+            - Yahya Badr Mohammad al-Hasanat (probably not a militant)
+                - No evidence that "Fatah Knight Brigades" is an on-the-ground organisation. Just seems to be a larpy facebook page.
+        - 6 PIJ (all military)
+        - 6 PFLP (all affiliates)
+        - 37 unknown (I guess they mean civilians?)
+        - 31% of fatalities (58) were operatives of military wings & 150/187 affiliated with some organisation
+    - Militant numbers from Hamas and PIJ both seem to match. As for the affiliates, the report mostly gathers pictures and announcements from various social media pages. Gives dates of posts but no links, making it very difficult to verify the affiliation claims.
+    - [March 30, 2018 - May 15, 2018](https://www.terrorism-info.org.il/app/uploads/2018/05/E_129_18-1.pdf)
+- NOTES
+    - 44 al-Qassam deaths just from their website
+    - National committee for the march [led by Khaled al-Batsh](https://jcpa.org/gaza-march-of-return-the-complete-picture/), a leader of Islamic Jihad
+    - Lex specialis
+        - some parts may constitute IHL, some may constitute IHRL, some might be both
+    - UN report summary somehow manages to miss every Hamas member in their list of names from March 30th and May 14th. [The full report](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session40/Documents/A_HRC_40_74_CRP2.pdf) does name some from May 14th but doesn't mention their affiliation:
+        - p. 123: "Taher Madhi was a 24-year-old from Al-Shati Refugee Camp. The ISF shot him in the torso at approximately 12 p.m. when he was roughly 300 m from the separation fence. Mahdi had been walking away from the fence towards the Camp of Return when he was shot. He died of lacerations to his internal organs. The Commission finds that Taher did not pose a threat of imminent death or serious injury to ISF soldiers when he was shot."
+            - [His al-Qassam page](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2857/%D8%B7%D8%A7%D9%87%D8%B1-%D8%A3%D8%AD%D9%85%D8%AF-%D9%85%D8%A7%D8%B6%D9%8A)
+        - p. 130: "Jihad Al-Faraa was a 29-year-old from Al-Qararah. The ISF soldiers shot him in the neck at the Abasan al-Jadidah protest site. His death was declared at hospital. He was shot after standing for noon prayers in the courtyard of the Camp of Return, about 300 meters from the separation fence."
+            - [His al-Qassam page](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2842/%D8%AC%D9%87%D8%A7%D8%AF-%D9%85%D9%81%D9%8A%D8%AF-%D8%A7%D9%84%D9%81%D8%B1%D8%A7)
+        - p. 130: "Ahmad Hamdan was a 27-year-old from al-Amal neighbourhood in Khan Younis. The ISF shot him multiple times in the chest and abdomen with live ammunition. Video footage of him seconds before he was killed shows that he was standing among a crowd of protestors with thick clouds of smoke around them. He was pronounced dead on arrival at the hospital."
+            - [His al-Qassam page](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2843/%D8%A3%D8%AD%D9%85%D8%AF-%D9%85%D8%AD%D9%85%D8%AF-%D8%AD%D9%85%D8%AF%D8%A7%D9%86)
+        - p. 131: "Mahmoud Abu Taima was a 23-year-old from Khan Younis. Between 2.30 and 2.45 p.m., the ISF shot him in the head with live ammunition. Mahmoud was approximately 150 m from the separation fence when he was shot. He was declared dead on admission to hospital."
+            - [His al-Qassam page](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2838/%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D8%B5%D8%A7%D8%A8%D8%B1-%D8%A3%D8%A8%D9%88-%D8%B7%D8%B9%D9%8A%D9%85%D8%A9)
+        - p. 131: "Mo’tassim Abu Loli was a 20-year-old janitor from Rafah. ISF soldiers shot him in the head with live ammunition around 11 a.m. The bullet caused multiple skull fractures and severe brain laceration. Mo’tassim died at the hospital shortly thereafter. The night before he was shot, he left his home for the demonstration site carrying a toolbox with fence-cutting tools. Before the ISF killed him, Mo’tassim had been injured several times during his participation in the demonstrations, including once with rubber bullet in the leg."
+            - [His al-Qassam page](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2871/%D9%85%D8%B9%D8%AA%D8%B5%D9%85-%D9%81%D9%88%D8%B2%D9%8A-%D8%A3%D8%A8%D9%88-%D9%84%D9%88%D9%84%D9%8A)
+                - "The day before his martyrdom, he sent a Facebook message to his friends and told them that he would be a martyr."
+                - "The martyr advanced with a group of young men towards the temporary wire, cut it, and while pulling it, he was shot in the head"
+    - Occupied debate things
+        - [Hague Regulations 1907](https://ihl-databases.icrc.org/en/ihl-treaties/hague-conv-iv-1907/regulations-art-42?activeTab=undefined) (Art 42): "Territory is considered occupied when it is actually placed under the authority of the hostile army. The occupation extends only to the territory where such authority has been established and can be exercised."
+- [ICRC](https://www.icrc.org/en/doc/assets/files/other/icrc-002-0990.pdf): What constitutes "direct participation in hostilities" (p. 46)
+    - "hostilities" - collective resort to means and methods of injuring the enemy
+    - "participation" - individual involvement of a person in hostilities
+        - Conduct that constitutes part of the hostilities is described as 'direct participation' regardless of whether the individual is a civilian or member of armed forces
+        - Does not refer to status, function or affiliation, but to their engagement in specific hostile acts
+    - Constitutive Elements of Direct Participation in Hostilities
+        - Must meet the following criteria:
+            1. "the act must be likely to adversely affect the military operations or military capacity of a party to an armed conflict or, alternatively, to inflict death, injury, or destruction on persons or objects protected against direct attack (threshold of harm), and"
+            2. "there must be a direct causal link between the act and the harm likely to result either from that act, or from a coordinated military operation of which that act constitutes an integral part (direct causation), and"
+            3. "the act must be specifically designed to directly cause the required threshold of harm in support of a party to the conflict and to the detriment of another (belligerent nexus)."
+        - Threshold of harm
+            - Must be likely to adversely affect the military operations/capacity of a party or, to inflict death, injury or destruction on protected persons/objects
+            - Threshold of "likely" harm i.e. harm may be a reasonably expected result of an act
+        - Adversely affecting the military operations or military capacity of a party to the conflict
+            - "the military operations or military capacity of a party to the conflict can be adversely affected by sabotage and other armed or unarmed activities"
+        - Inflicting death, injury or destruction on persons or objects protected against direct attack
+            - "In the absence of military harm... a specific act must be likely to cause at least death, injury, or destruction"
+            - Building fences, road blocks, interruption of electricity, water or fuel supplies... would not, in the absence of adverse military effects, cause the kind and degree of harm required to qualify as direct participation in hostilities
+        - Direct Causation
+            - General war effort and war-sustaining activities may result in harm reaching the threshold required for direct participation, others would merely build the capacity to cause such harm
+            - Distinction between direct and indirect causation - because "indirect causation" would be too broad and would deprive large parts of the civilian population of their protections
+            - Direct causation should be understood as one causal step - not to include research, design, provision of finances, electricity, fuel etc **_unless carried out as an integral part of a specific military operation_**
+            - "Only where persons are specifically recruited and trained for the execution of a predetermined hostile act can such activities be regarded as an integral part of that act and, therefore, as direct participation in hostilities" - referring specifically to otherwise indirect acts?
+        - Direct causation in collective operations
+            - "The standard of direct causation must therefore be interpreted to include conduct that causes harm only in conjunction with other acts" - referring to example of unmanned aerial vehicles (operator, people illuminating the target, data collection, radio operators, overall commander)
+        - Causal, temporal and geographic proximity
+            - Element of direct causation must be determined by reference to the harm that can reasonably be expected to directly result from a concrete act or operation e.g.
+                - Driving an ammunition truck: A civilian truck driver directly transporting ammunition to an active firing position vs transporting from a factory to a port for further shipping to a storehouse (former = direct participation, latter = connection is too remote; would need to be counted as a civilian when assessing proportionality)
+                - Voluntary human shields: "Where civilians voluntarily or deliberately position themselves to create a physical obstacle to military operations of a party to the conflict, they could directly cause the threshold of harm required for a qualification as direct participation in hostilities"
+                    - Relevant in urban environments where civilians give physical cover to fighting personnel - though in artillery and air attacks, this presence may shift proportionality assessments
+                    - Depending on circumstances, voluntary human shields may not always reach the required threshold of harm
+        - Belligerent Nexus
+            - "An act must be specifically designed to directly cause the required threshold of harm in support of a party to the conflict and to the detriment of another"
+            - Belligerent nexus and subjective intent
+                - Belligerent nexus is expressed in the design of the act or operation - does not depend on the state of mind of every participant
+                - "even civilians forced to directly participate in hostilities or children below the lawful recruitment age may lose protection against direct attack"
+                - People forced to act as human shields would remain protected despite the belligerent nexus (subject to proportionality)
+            - Important in the following 4 situations:
+                - Self-defence against marauding soldiers may cause the required threshold of harm, but clearly does not support a party to the conflict against the other
+                - Civilian authorities using force to suppress riots may cause death etc but would not constitute hostilities conducted between parties to an armed conflict
+        - Three requirements
+            - Threshold of harm, direct causation and belligerent nexus all required for activities to amount to direct participation in hostilities
+        - Beginning and end of direct participation in hostilities
+        - Preparatory measures
+            - Military operations preparatory to an attack, of a specifically military nature, so closely linked to subsequent execution that they already constitute an integral part of the act
+            - Preparatory measures aiming to carry out an act vs measures aiming to establish capacity to carry out the act
+        - Deployment and return
+            - Deployment and return are part of military operation as long as they remain integral to that operation
+                - Military withdrawal not to be confused with surrender or _hors de combat_
+            - Hostile act ends when the individual had physically separate from the operation and has resumed distinct activities
+    - Concept of Civilian in Non-International Armed Conflict
+        - Civilians, armed forces and organised armed groups all mutually exclusive categories
+        - Article 3, Geneva Convention
+            - "Suspension of combat" insufficient for members of organised armed groups
+        - State Armed Forces
+            - Includes regular armed forces and other armed groups or units organised under a command responsible to the state
+            - Membership defined by law and formal integration into permanent units distinguishable by uniforms, insignia and equipment
+            - Civilian protection restored when a member is either fully discharged or deactivated as a reservist
+        - Organised Armed Group
+            - Non-State parties comprise both fighting forces and supportive segments of the civilian population (armed group refers exclusively to the armed or military wing)
+            - Elastic nature of membership renders it "particularly difficult to distinguish between a non-State party to the conflict and its armed forces"
+            - Membership cannot depend on abstract affiliation, family ties, or other arbitrary criteria
+            - Membership must depend on the continuous function of an individual corresponding to the conduct of hostilities on behalf of a non-State party to the conflict
+        - "Continuous combat function"
+            - Lasting integration into an organised armed group of a non-State party to an armed conflict
+            - If recruited, trained and equipped to take part in hostilities, continuous combat function can be assumed even before the first hostile act is carried out
+            - Distinguishable from reservists who re-integrate into civilian life after basic training or active membership
+            - Supporters or people who accompany an organised armed group, without participating in hostilities, are not members of the group
+            - A civilian continuously engaged in hostilities may be seen in a continuous combat function, but not if their participation is spontaneous and sporadic
+            - "Presumption of protection in case of doubt"
+        - Modalities Governing the Loss of Protection
+            - Civilians
+            - Protection is lost for exactly as long as the civilian engages in direct participation in hostilities
+            - Members of organised armed groups
+                - Members cease to be civilians for as long as they remain members by virtue of their continuous combat function
+                - "The restriction of loss of protection to the duration of specific hostile acts was designed to respond to spontaneous, sporadic or unorganised hostile acts by civilians and cannot be applied to organised armed groups"
+                - Members of armed groups retain 'continuous combat function' because otherwise, it would provide them "with a significant operational advantage over members of State armed forces, who can be attacked on a continuous"
+                    - "IHL deprives them of protection against direct attack for as long as they remain members of that group"
+                - Disengagement doesn't need to be openly declared - just needs lasting distance from the group and reintegration into civilian life or a non-combat function
+            - Precautions and Presumptions in Situations of Doubt
+                - Requirement of feasible precautions
+                    - Attacks must be suspended if the target is not a legitimate
+            - In cases of doubt, an individual must be presumed to be a civilian
+                - Standard of doubt is not as strict as that in criminal proceedings, "but rather must reflect the level of certainty that can reasonably be achieved in the circumstances"
+                - Factors taken into account include the intelligence available to the decision maker, the urgency of the situation, "and the harm likely to result to the operating forces or to persons and objects protected against direct attack from an erroneous decision"
