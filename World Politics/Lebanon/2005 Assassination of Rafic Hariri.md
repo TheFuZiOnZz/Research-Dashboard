@@ -1,0 +1,2 @@
+- [Assassination of Rafic Hariri - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Rafic_Hariri)
+- On 14 February 2005, 

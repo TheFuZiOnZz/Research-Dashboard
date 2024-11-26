@@ -9,6 +9,7 @@
 ## [1975-90 Lebanon Civil War](1945-%20Lebanese%20Republic/1975-90%20Lebanon%20Civil%20War)
 ## [1982-85 Lebanon War](1945-%20Lebanese%20Republic/1982-85%20Lebanon%20War)
 ## [1985-2000 South Lebanon Conflict](1945-%20Lebanese%20Republic/1985-2000%20South%20Lebanon%20Conflict)
+## [2005 Assassination of Rafic Hariri](2005%20Assassination%20of%20Rafic%20Hariri)
 ## [2006 Lebanon War, Israel-Hezbollah War](1945-%20Lebanese%20Republic/2006%20Lebanon%20War,%20Israel-Hezbollah%20War)
 ## [2018-19 Operation Northern Shield](2018-19%20Operation%20Northern%20Shield.md)
 ## [2024- Iran-Israel Conflict](2024-%20Iran-Israel%20Conflict.md)
