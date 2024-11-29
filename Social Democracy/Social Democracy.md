@@ -101,7 +101,7 @@ The Great Gatsby curve is a chart plotting the relationship between inequality a
 ## [Minimum Wage](../Political%20Positions/Economic%20Policy/Minimum%20Wage)  
 ## [Socialised Housing](../Political%20Positions/Social%20Policy/Socialised%20Housing)  
 ## [Food Stamps](../Political%20Positions/Economic%20Policy/Food%20Stamps)  
-## [Unemployment Benefits](Unemployment%20Benefits.md)  
+## [Unemployment Benefits](Unemployment%20Benefits)  
 
 # Economic Funding/Growth
 ## [Keynesian Economics](../Political%20Positions/Economic%20Policy/Keynesian%20Economics)  

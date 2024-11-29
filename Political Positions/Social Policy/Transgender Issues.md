@@ -1,4 +1,4 @@
-### Medical Transition
+# Medical Transition
 - A 2010 meta-analysis found that:
     - `We identified 28 eligible studies. These studies enrolled 1833 participants with GID (1093 male-to-female, 801 female-to-male) who underwent sex reassignment that included hormonal therapies. All the studies were observational and most lacked controls. Pooling across studies shows that after sex reassignment, 80% of individuals with GID reported significant improvement in gender dysphoria; 78% reported significant improvement in psychological symptoms; 80% reported significant improvement in quality of life; and 72% reported significant improvement in sexual function.` - [Hormonal therapy and sex reassignment: a systematic review and meta-analysis of quality of life and psychosocial outcomes, Murad et al., 2010](https://annas-archive.org/scidb/10.1111/j.1365-2265.2009.03625.x) 
 - A 2018 literature review found that:

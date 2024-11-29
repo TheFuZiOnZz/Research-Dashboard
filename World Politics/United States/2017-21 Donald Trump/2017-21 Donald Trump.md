@@ -32,7 +32,7 @@ Donald Trump - 20 January 2017 - 20 January 2021
 ## [2015 Joint Comprehensive Plan of Action](../../Iran/1979-%20Islamic%20Republic%20of%20Iran/2015%20Joint%20Comprehensive%20Plan%20of%20Action)
 ## [Trump on the Iran Deal (JCPOA)](Trump%20on%20the%20Iran%20Deal%20(JCPOA))
 ## [2020 Soleimani Airport airstrike](../../Iran/2020%20Soleimani%20Airport%20airstrike)
-## [2017-21 Trump Drone Strikes](2017-21%20Trump%20Drone%20Strikes.md)
+## [2017-21 Trump Drone Strikes](2017-21%20Trump%20Drone%20Strikes)
 ## [2017 Trump and Saudi Arabia Arms Deal](2017%20Trump%20and%20Saudi%20Arabia%20Arms%20Deal)
 # Coronavirus Policy
 ## [2020 Trump's Unheeded Warnings](2020%20Trump's%20Unheeded%20Warnings)
@@ -66,7 +66,7 @@ Donald Trump - 20 January 2017 - 20 January 2021
 ## [2019-23 E. Jean Carroll v. Donald J. Trump](2019-23%20E.%20Jean%20Carroll%20v.%20Donald%20J.%20Trump)
 ## [2020- Georgia Election Racketeering Prosecution](2020-%20Georgia%20Election%20Racketeering%20Prosecution)
 ## [2022- Michigan Prosecution of Fake Electors](2022-%20Michigan%20Prosecution%20of%20Fake%20Electors)
-## [2022-24 Smith’s Special Counsel Investigation](2022-24%20Smith’s%20Special%20Counsel%20Investigation.md)
+## [2022-24 Smith’s Special Counsel Investigation](2022-24%20Smith’s%20Special%20Counsel%20Investigation)
 ## [2023- Nevada Prosecution of Fake Electors](2023-%20Nevada%20Prosecution%20of%20Fake%20Electors)
 ## [2023-24 Trump v. United States, Absolute Immunity SCOTUS Case](2023-24%20Trump%20v.%20United%20States,%20Absolute%20Immunity%20SCOTUS%20Case)
 ## [2023-24 Trump v. Anderson, 14th Amendment, Section 3 Disqualification Case](2023-24%20Trump%20v.%20Anderson,%2014th%20Amendment,%20Section%203%20Disqualification%20Case)

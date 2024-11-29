@@ -1,4 +1,3 @@
-### 2009 UN Goldstone Report on Operation Cast Lead
 - [Wiki](https://en.wikipedia.org/wiki/United_Nations_Fact_Finding_Mission_on_the_Gaza_Conflict)
 - [link](https://publish.obsidian.md/lonerbox/Goldstone+report) - Lonerbox notes
 - On 15 September 2009, a 575-page report by UN inquiry team was released, officially titled "Human Rights in Palestine and Other Occupied Arab Territories: Report of the United Nations Fact Finding Mission on the Gaza Conflict". It concluded that the IDF and Palestinian armed groups committed war crimes and possibly crimes against humanity.
