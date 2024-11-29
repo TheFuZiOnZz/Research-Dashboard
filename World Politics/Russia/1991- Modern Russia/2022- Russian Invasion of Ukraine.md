@@ -78,8 +78,8 @@
 - On 28 September 2022, The New York Times released transcripts of Russian soldiers phone calls to family and loved ones, in which they discussed low moral for war, descriptions of deceased civilians, being misled into the frontlines of war instead of training, criticisms of Putin and the Russian Government around military strategy blunders and the medias description of the war.
 	- ` ` - [‘Putin Is a Fool’: Intercepted Calls Reveal Russian Army in Disarray, The New York Times, 2022](https://archive.ph/qNmjR)
 
-# [2022- International Criminal Court Investigation in Ukraine](2022-%20International%20Criminal%20Court%20Investigation%20in%20Ukraine)  
-# [2022- International Court of Justice Case for Russian Invasion of Ukraine](2022-%20International%20Court%20of%20Justice%20Case%20for%20Russian%20Invasion%20of%20Ukraine)  
+# [2022- ICC Investigation in Ukraine](2022-%20ICC%20Investigation%20in%20Ukraine.md)  
+# [2022- ICJ Case for Russian Invasion of Ukraine](2022-%20ICJ%20Case%20for%20Russian%20Invasion%20of%20Ukraine.md)  
 # [2022 Bucha Massacre](2022%20Bucha%20Massacre)  
 # [2022 Izium Mass Graves](2022%20Izium%20Mass%20Graves)  
 # [2022 Russian Annexation of Donetsk, Luhansk, Kherson & Zaporizhzhia Oblasts](2022%20Russian%20Annexation%20of%20Donetsk,%20Luhansk,%20Kherson%20&%20Zaporizhzhia%20Oblasts)  

@@ -6,7 +6,7 @@
 # [2023- South Africa v. Israel ICJ Case](2023-%20South%20Africa%20v.%20Israel%20ICJ%20Case)
 # [2023- Operation Prosperity Guardian](2023-%20Operation%20Prosperity%20Guardian)
 # [2024 Our Narrative Hamas Press Release](2024%20Our%20Narrative%20Hamas%20Press%20Release)
-# [2024 International Criminal Court Investigation into Genocide in Gaza](2024%20International%20Criminal%20Court%20Investigation%20into%20Genocide%20in%20Gaza)
+# [2024 ICC Investigation into Genocide in Gaza](2024%20ICC%20Investigation%20into%20Genocide%20in%20Gaza.md)
 # [2024 Hamas Leaked Letters](2024%20Hamas%20Leaked%20Letters)
 # [2024 US DOJ Inditement](2024%20US%20DOJ%20Inditement)
 # [2024 Killing of Yahya Sinwar](2024%20Killing%20of%20Yahya%20Sinwar)

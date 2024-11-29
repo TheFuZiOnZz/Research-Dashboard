@@ -53,9 +53,9 @@
 ## [1945 Charter of the Arab League](1917-48%20Mandatory%20Palestine%20Period/1945%20Charter%20of%20the%20Arab%20League)  
 ## [1946 Anglo-American Committee of Inquiry](1917-48%20Mandatory%20Palestine%20Period/1946%20Anglo-American%20Committee%20of%20Inquiry)  
 ## [1946-47 London Conference](1917-48%20Mandatory%20Palestine%20Period/1946-47%20London%20Conference)  
-## [1947 United Nations Special Committee on Palestine](1917-48%20Mandatory%20Palestine%20Period/1947%20United%20Nations%20Special%20Committee%20on%20Palestine)  
+## [1947 UN Special Committee on Palestine](1947%20UN%20Special%20Committee%20on%20Palestine.md)  
 ## [1947 Ad Hoc Committee on the Palestinian Question](1917-48%20Mandatory%20Palestine%20Period/1947%20Ad%20Hoc%20Committee%20on%20the%20Palestinian%20Question)  
-## [1947 United Nations Partition Plan for Palestine, Resolution 181](1917-48%20Mandatory%20Palestine%20Period/1947%20United%20Nations%20Partition%20Plan%20for%20Palestine,%20Resolution%20181)  
+## [1947 UN Partition Plan for Palestine, Resolution 181](1947%20UN%20Partition%20Plan%20for%20Palestine,%20Resolution%20181.md)  
 ## [1947-48 Civil War in Mandatory Palestine](1917-48%20Mandatory%20Palestine%20Period/1947-48%20Civil%20War%20in%20Mandatory%20Palestine)  
 # 1948- Israeli-Palestinian Period
 - ## [Wiki](https://en.wikipedia.org/wiki/Israeli%E2%80%93Palestinian_conflict)
@@ -151,7 +151,7 @@
 ## [2017-18 Basic Law, Israel as the Nation-State of the Jewish People](1948-%20Israeli-Palestinian%20Period/2017-18%20Basic%20Law,%20Israel%20as%20the%20Nation-State%20of%20the%20Jewish%20People)  
 ## [2017 Hamas Charter](1948-%20Israeli-Palestinian%20Period/2017%20Hamas%20Charter)  
 ## [2018 U.S. Embassy Moved to Jerusalem](1948-%20Israeli-Palestinian%20Period/2018%20U.S.%20Embassy%20Moved%20to%20Jerusalem)  
-## [2018- International Criminal Court Investigation in Palestine](1948-%20Israeli-Palestinian%20Period/2018-%20International%20Criminal%20Court%20Investigation%20in%20Palestine)  
+## [2018- ICC Investigation in Palestine](2018-%20ICC%20Investigation%20in%20Palestine.md)  
 ## [2018-19 Great March of Return Protest](1948-%20Israeli-Palestinian%20Period/2018-19%20Great%20March%20of%20Return%20Protest)  
 ## [2018-19 Operation Northern Shield](2018-19%20Operation%20Northern%20Shield.md)  
 ## [2019 Gaza Economic Protests](1948-%20Israeli-Palestinian%20Period/2019%20Gaza%20Economic%20Protests)  
@@ -161,6 +161,6 @@
 ## [2021 Israel-Palestine Crisis, Operation Guardian of the Walls](1948-%20Israeli-Palestinian%20Period/2021%20Israel-Palestine%20Crisis,%20Operation%20Guardian%20of%20the%20Walls)  
 ## [2023- Israel-Hamas War](2023-%20Israel-Hamas%20War)  
 ## [2024- Iran-Israel Conflict](2024-%20Iran-Israel%20Conflict.md)  
-## [2024 Palestine Admitted as Full Member of the United Nations](2024%20Palestine%20Admitted%20as%20Full%20Member%20of%20the%20United%20Nations.md)  
+## [2024 Palestine Admitted as Full Member of the UN](2024%20Palestine%20Admitted%20as%20Full%20Member%20of%20the%20UN.md)  
 
 ## [Destiny v Finklestein Notes](Destiny%20v%20Finklestein%20Notes)  
