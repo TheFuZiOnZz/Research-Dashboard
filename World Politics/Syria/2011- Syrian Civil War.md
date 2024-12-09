@@ -4,4 +4,5 @@
 - ISIL loses all its territory in March 2019
 - Death of Abu Bakr al-Baghdadi in October 2019
 - Death of Abu Ibrahim al-Hashimi al-Qurashi in February 2022
-[[2018 Battle of Khasham]]
+## [2018 Battle of Khasham](2018%20Battle%20of%20Khasham)
+## [2024 Syrian Opposition Offensives](2024%20Syrian%20Opposition%20Offensives)
