@@ -765,6 +765,9 @@
 	- ` ` - [Liz Cheney loses House Republican leadership post over feud with Trump, CNN, 2021](https://www.cnn.com/2021/05/12/politics/liz-cheney-gop-conference-vote/index.html)
 # OIG Analysis on Secret Service Preparation for January 6
 - [link](https://www.oig.dhs.gov/sites/default/files/assets/2024-08/OIG-24-42-Aug24-Redacted.pdf)
+# OIG Report on FBI's use of CHS and Intelligence Collection Efforts
+- On 
+	-  - [A Review of the Federal Bureau of Investigation’s Handling of Its Confidential Human Sources and Intelligence Collection Efforts in the Lead Up to the January 6, 2021 Electoral Certification](https://oig.justice.gov/sites/default/files/reports/25-011_0.pdf)
 # Trump Claiming Fraud In Previous Elections
 - On 6 November 2012, Trump tweeted that the 2012 Election had instances of vote switching at machines.
     - `More reports of voting machines switching Romney votes to Obama. Pay close attention to the machines, don't let your vote be stolen` - [@realdonaldtrump Tweet, 2012](https://web.archive.org/web/20170715102520/https://twitter.com/realDonaldTrump/status/265905510115590144)
