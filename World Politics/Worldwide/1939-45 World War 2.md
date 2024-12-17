@@ -35,6 +35,7 @@
 ## [1941-45 Holocaust](../Israel-Palestine/1917-48%20Mandatory%20Palestine%20Period/1941-45%20Holocaust)
 ## [1941 Sikorski–Mayski Agreement](../Russia/1917-91%20Soviet%20Period/1941%20Sikorski–Mayski%20Agreement)
 ## [1941 Attack on Pearl Harbour](1941%20Attack%20on%20Pearl%20Harbour)
+## [1942 Wannsee Conference](1942%20Wannsee%20Conference)
 ## [1942-43 Battle of Stalingrad](1942-43%20Battle%20of%20Stalingrad)
 ## [1942 Battle of Midway](1942%20Battle%20of%20Midway)
 ## [1943 Operation Mincemeat](1943%20Operation%20Mincemeat)
