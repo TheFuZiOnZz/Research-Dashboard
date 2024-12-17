@@ -1,4 +1,1 @@
-
 - [Wiki](https://en.wikipedia.org/wiki/Battle_of_Midway)
-- > `` [link]
-    
