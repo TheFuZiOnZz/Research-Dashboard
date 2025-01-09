@@ -1,3 +1,4 @@
+- [Matt Gaetz Report Is Out And It's Bad (ft. Liz Dye), LegalEagle, 2025](https://youtu.be/7duzY5x1Kq8?si=i4dBR4bU1agjO5Xm)
 - On 9 April 2021, The House committee announced it was investigating a series of widely reported allegations relating to Representative Matt Gaetz.
 	- `The Committee is aware of public allegations that Representative Matt Gaetz may have engaged in sexual misconduct and/or illicit drug use, shared inappropriate images or videos on the House floor, misused state identification records, converted campaign funds to personal use, and/or accepted a bribe, improper gratuity, or impermissible gift, in violation of House Rules, laws, or other standards of conduct. The Committee, pursuant to Committee Rule 18(a), has begun an investigation and will gather additional information regarding the allegations.`
 	  
