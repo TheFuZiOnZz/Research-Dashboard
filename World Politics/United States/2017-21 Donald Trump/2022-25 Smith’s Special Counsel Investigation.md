@@ -236,4 +236,6 @@
 - On
 	- 
 # Smith Releases the Report
-- On 
+- On 7 January 2025, the report was finalised and handed to Attorney General Garland for final review . 
+- On 13 January 2025, Smith releases the report to the public.
+	- ` ` - [Report on Efforts to Interfere With the Lawful Transfer of Power Following the 2020 Presidential Election or the Certification of the Electoral College Vote Held on January 6, 2021, U.S. Department of Justice, 2025](https://static01.nyt.com/newsgraphics/documenttools/76c2c1e8fe2e5ae7/d2d77a9c-full.pdf)
