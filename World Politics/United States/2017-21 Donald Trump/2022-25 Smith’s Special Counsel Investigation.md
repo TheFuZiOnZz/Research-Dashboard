@@ -251,12 +251,25 @@
 	- `Accompanying this letter, I am providing you "a confidential report explaining the prosecution or declination decisions reached by the Special Counsel." 28 C.F.R. § 600.8. The Report consists of two volumes: Volume One addresses the Election Case, and Volume Two addresses the Classified Documents Case. I understand that you are considering whether all or part of my Report can be made public, consistent with applicable legal restrictions. See 28 C.F.R. § 600.9(c). Both volumes minimize the identification of witnesses and co-conspirators, consistent with accepted Department practice, and we have provided a redacted version of Volume Two that identifies certain information that remains under seal or is restricted from public disclosure by Federal Rule of Criminal Procedure 6(e). Because Volume Two discusses the conduct of Mr. Trump's alleged co-conspirators in the Classified Documents Case, Waltine Nauta and Carlos De Oliveira, consistent with Department policy, Volume Two should not be publicly released while their case remains pending.` - [Report on Efforts to Interfere With the Lawful Transfer of Power Following the 2020 Presidential Election or the Certification of the Electoral College Vote Held on January 6, 2021 (Volume One: The Election Case), U.S. Department of Justice, 2025](https://static01.nyt.com/newsgraphics/documenttools/76c2c1e8fe2e5ae7/d2d77a9c-full.pdf)
 ## Volume One: The Election Case
 ### The Results of the Investigation
-### 
 - 
 	- ` ` - [Report on Efforts to Interfere With the Lawful Transfer of Power Following the 2020 Presidential Election or the Certification of the Electoral College Vote Held on January 6, 2021 (Volume One: The Election Case), U.S. Department of Justice, 2025](https://static01.nyt.com/newsgraphics/documenttools/76c2c1e8fe2e5ae7/d2d77a9c-full.pdf)
+### The Law
+- 
 	- ` ` - [Report on Efforts to Interfere With the Lawful Transfer of Power Following the 2020 Presidential Election or the Certification of the Electoral College Vote Held on January 6, 2021 (Volume One: The Election Case), U.S. Department of Justice, 2025](https://static01.nyt.com/newsgraphics/documenttools/76c2c1e8fe2e5ae7/d2d77a9c-full.pdf)
+### The Principles of Federal Prosecution
+- 
 	- ` ` - [Report on Efforts to Interfere With the Lawful Transfer of Power Following the 2020 Presidential Election or the Certification of the Electoral College Vote Held on January 6, 2021 (Volume One: The Election Case), U.S. Department of Justice, 2025](https://static01.nyt.com/newsgraphics/documenttools/76c2c1e8fe2e5ae7/d2d77a9c-full.pdf)
+### Investigative Procedure and Policy
+- 
 	- ` ` - [Report on Efforts to Interfere With the Lawful Transfer of Power Following the 2020 Presidential Election or the Certification of the Electoral College Vote Held on January 6, 2021 (Volume One: The Election Case), U.S. Department of Justice, 2025](https://static01.nyt.com/newsgraphics/documenttools/76c2c1e8fe2e5ae7/d2d77a9c-full.pdf)
+### Investigative Challenges and Litigation Issues
+- 
+	- ` ` - [Report on Efforts to Interfere With the Lawful Transfer of Power Following the 2020 Presidential Election or the Certification of the Electoral College Vote Held on January 6, 2021 (Volume One: The Election Case), U.S. Department of Justice, 2025](https://static01.nyt.com/newsgraphics/documenttools/76c2c1e8fe2e5ae7/d2d77a9c-full.pdf)
+### Conclusion
+- 
 	- ` ` - [Report on Efforts to Interfere With the Lawful Transfer of Power Following the 2020 Presidential Election or the Certification of the Electoral College Vote Held on January 6, 2021 (Volume One: The Election Case), U.S. Department of Justice, 2025](https://static01.nyt.com/newsgraphics/documenttools/76c2c1e8fe2e5ae7/d2d77a9c-full.pdf)
 ## Volume Two: The Documents Case
 - Pending Release
+### Conclusion
+- 
+	- ` ` - [Report on (Volume Two: The Documents Case), U.S. Department of Justice, 2025]()
