@@ -1,9 +1,10 @@
 
 - [Wiki](https://en.wikipedia.org/wiki/Smith_special_counsel_investigation)
 - [Wiki](https://en.wikipedia.org/wiki/FBI_investigation_into_Donald_Trump%27s_handling_of_government_documents)
-- The Smith special counsel investigation is an investigation opened by U.S. Attorney General, Merrick Garland, on November 18, 2022, to continue two investigations that had been initiated by the Department of Justice (DOJ). Garland appointed Jack Smith to lead the independent investigations. Smith was tasked with investigating former president Donald Trump's role in the January 6 United States Capitol attack, and Trump's mishandling of government records, including classified documents.
+- The Smith special counsel investigation was tasked with investigating former president Donald Trump's role in the January 6 United States Capitol attack, and Trump's mishandling of government records, including classified documents.
 - On 30 March 2022, the FBI opened a criminal investigation.
 - On 26 April 2022, a federal grand jury opened an investigation.
+- On 18 November 2022, Attorney General Garland appointed Jack Smith as Special Counsel to continue two investigations that had been initiated by the Department of Justice.
 # Mishandling Classified Documents
 - [Wiki](https://en.wikipedia.org/wiki/Federal_prosecution_of_Donald_Trump_(classified_documents_case))
 - [link](https://apnews.com/article/trump-documents-investigation-timeline-087f0c9a8368bb983a16b67dd31dcd4c) - timeline
@@ -233,8 +234,6 @@
 	  `Mr. Smith’s office is still drawing up its plan for how to end the cases, and it is possible that unforeseen circumstances — such as judicial rulings or decisions by other government officials — could alter his intended timeline. But Mr. Smith is trying to finish his work and leave before Mr. Trump returns to power, the people familiar with his plans said.`
 	  
 	  `The election’s outcome spelled the end of the federal cases against Mr. Trump, since Justice Department policy has long held that a sitting president cannot be prosecuted for crimes. A Supreme Court ruling this summer significantly expanded the scope of official presidential conduct that cannot be prosecuted even after leaving office.` - [Jack Smith Plans to Step Down as Special Counsel Before Trump Takes Office, The New York Times, 2024](https://www.nytimes.com/2024/11/13/us/politics/jack-smith-special-counsel.html)
-- On
-	- 
 # Smith Releases the Report
 - On 7 January 2025, the report was finalised and handed to Attorney General Garland for final review.
 - On 11 January 2025, Jack Smith resigned from the U.S. Department of Justice.
@@ -244,32 +243,38 @@
 	  
 	  `CBS News, the BBC's US media partner, reported in November that Smith would resign from the Justice Department after completing his work.`
 	  
-	  `Mr Smith's departure comes amid a dispute over the release of his report into the findings of Trump's classified documents case.` - [Trump prosecutor Jack Smith resigns from Justice Department, BBC News, 2025](https://www.bbc.co.uk/news/articles/ckgy0360nd6o)
-	  
-# The Report
+	  `Mr Smith's departure comes amid a dispute over the release of his report into the findings of Trump's classified documents case.` - [Trump prosecutor Jack Smith resigns from Justice Department, BBC News, 2025](https://www.bbc.co.uk/news/articles/ckgy0360nd6o)  
+## The Report
 - On 13 January 2025, Smith releases the report to the public. The report is divided into two volumes, Volume One: The Election Case. Volume Two could not be released while cases on Waltine Nauta and Carlos De Oliveira for the documents case were still pending.
 	- `Accompanying this letter, I am providing you "a confidential report explaining the prosecution or declination decisions reached by the Special Counsel." 28 C.F.R. § 600.8. The Report consists of two volumes: Volume One addresses the Election Case, and Volume Two addresses the Classified Documents Case. I understand that you are considering whether all or part of my Report can be made public, consistent with applicable legal restrictions. See 28 C.F.R. § 600.9(c). Both volumes minimize the identification of witnesses and co-conspirators, consistent with accepted Department practice, and we have provided a redacted version of Volume Two that identifies certain information that remains under seal or is restricted from public disclosure by Federal Rule of Criminal Procedure 6(e). Because Volume Two discusses the conduct of Mr. Trump's alleged co-conspirators in the Classified Documents Case, Waltine Nauta and Carlos De Oliveira, consistent with Department policy, Volume Two should not be publicly released while their case remains pending.` - [Report on Efforts to Interfere With the Lawful Transfer of Power Following the 2020 Presidential Election or the Certification of the Electoral College Vote Held on January 6, 2021 (Volume One: The Election Case), U.S. Department of Justice, 2025](https://static01.nyt.com/newsgraphics/documenttools/76c2c1e8fe2e5ae7/d2d77a9c-full.pdf)
-## Volume One: The Election Case
-### The Results of the Investigation
+### Volume One: The Election Case
+#### The Results of the Investigation
+- 
+	- `In 2020, then-President Donald J. Trump ran for reelection against Joseph R. Biden, Jr. Mr. Trump lost. As alleged in the original and superseding indictments, substantial evidence
+demonstrates that Mr. Trump then engaged in an unprecedented criminal effort to overturn the
+legitimate results ofthe election in order to retain power. ³ Although he did so primarily in his
+private capacity as a candidate, and with the assistance of multiple private co-conspirators, Mr.
+Trump also attempted to use the power and authority of the United States Government in
+furtherance of his scheme.` - [Report on Efforts to Interfere With the Lawful Transfer of Power Following the 2020 Presidential Election or the Certification of the Electoral College Vote Held on January 6, 2021 (Volume One: The Election Case), U.S. Department of Justice, 2025](https://static01.nyt.com/newsgraphics/documenttools/76c2c1e8fe2e5ae7/d2d77a9c-full.pdf)
+	- ` ` - [Report on Efforts to Interfere With the Lawful Transfer of Power Following the 2020 Presidential Election or the Certification of the Electoral College Vote Held on January 6, 2021 (Volume One: The Election Case), U.S. Department of Justice, 2025](https://static01.nyt.com/newsgraphics/documenttools/76c2c1e8fe2e5ae7/d2d77a9c-full.pdf)
+	- ` ` - [Report on Efforts to Interfere With the Lawful Transfer of Power Following the 2020 Presidential Election or the Certification of the Electoral College Vote Held on January 6, 2021 (Volume One: The Election Case), U.S. Department of Justice, 2025](https://static01.nyt.com/newsgraphics/documenttools/76c2c1e8fe2e5ae7/d2d77a9c-full.pdf)
+#### The Law
 - 
 	- ` ` - [Report on Efforts to Interfere With the Lawful Transfer of Power Following the 2020 Presidential Election or the Certification of the Electoral College Vote Held on January 6, 2021 (Volume One: The Election Case), U.S. Department of Justice, 2025](https://static01.nyt.com/newsgraphics/documenttools/76c2c1e8fe2e5ae7/d2d77a9c-full.pdf)
-### The Law
+#### The Principles of Federal Prosecution
 - 
 	- ` ` - [Report on Efforts to Interfere With the Lawful Transfer of Power Following the 2020 Presidential Election or the Certification of the Electoral College Vote Held on January 6, 2021 (Volume One: The Election Case), U.S. Department of Justice, 2025](https://static01.nyt.com/newsgraphics/documenttools/76c2c1e8fe2e5ae7/d2d77a9c-full.pdf)
-### The Principles of Federal Prosecution
+#### Investigative Procedure and Policy
 - 
 	- ` ` - [Report on Efforts to Interfere With the Lawful Transfer of Power Following the 2020 Presidential Election or the Certification of the Electoral College Vote Held on January 6, 2021 (Volume One: The Election Case), U.S. Department of Justice, 2025](https://static01.nyt.com/newsgraphics/documenttools/76c2c1e8fe2e5ae7/d2d77a9c-full.pdf)
-### Investigative Procedure and Policy
+#### Investigative Challenges and Litigation Issues
 - 
 	- ` ` - [Report on Efforts to Interfere With the Lawful Transfer of Power Following the 2020 Presidential Election or the Certification of the Electoral College Vote Held on January 6, 2021 (Volume One: The Election Case), U.S. Department of Justice, 2025](https://static01.nyt.com/newsgraphics/documenttools/76c2c1e8fe2e5ae7/d2d77a9c-full.pdf)
-### Investigative Challenges and Litigation Issues
+#### Conclusion
 - 
 	- ` ` - [Report on Efforts to Interfere With the Lawful Transfer of Power Following the 2020 Presidential Election or the Certification of the Electoral College Vote Held on January 6, 2021 (Volume One: The Election Case), U.S. Department of Justice, 2025](https://static01.nyt.com/newsgraphics/documenttools/76c2c1e8fe2e5ae7/d2d77a9c-full.pdf)
-### Conclusion
-- 
-	- ` ` - [Report on Efforts to Interfere With the Lawful Transfer of Power Following the 2020 Presidential Election or the Certification of the Electoral College Vote Held on January 6, 2021 (Volume One: The Election Case), U.S. Department of Justice, 2025](https://static01.nyt.com/newsgraphics/documenttools/76c2c1e8fe2e5ae7/d2d77a9c-full.pdf)
-## Volume Two: The Documents Case
+### Volume Two: The Documents Case
 - Pending Release
-### Conclusion
+#### Conclusion
 - 
 	- ` ` - [Report on (Volume Two: The Documents Case), U.S. Department of Justice, 2025]()
