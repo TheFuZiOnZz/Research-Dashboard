@@ -1,0 +1,2 @@
+- Seltzer Iowa Poll Lawsuit
+- Philadelphia Truth Social Post on the night
