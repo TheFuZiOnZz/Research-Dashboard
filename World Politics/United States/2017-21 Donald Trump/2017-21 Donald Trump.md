@@ -21,7 +21,7 @@ Donald Trump - 20 January 2017 - 20 January 2021
 ## [2017-20 Trump's Attempts to remove DACA](2017-20%20Trump's%20Attempts%20to%20remove%20DACA)
 # Environmental Policy
 ## [Trump's Climate Change Denial](Trump's%20Climate%20Change%20Denial)
-## [2017 Trump Pulls the U.S. out of the Paris Climate Accord](2017%20Trump%20Pulls%20the%20U.S.%20out%20of%20the%20Paris%20Climate%20Accord)
+## [2017 1st U.S. Departure of the Paris Climate Accord](2017%201st%20U.S.%20Departure%20of%20the%20Paris%20Climate%20Accord.md)
 ## [Green New Deal](../../../Political%20Positions/Economic%20Policy/Green%20New%20Deal)
 ## [2017 Trump And The Removal Of EPA Regulations](2017%20Trump%20And%20The%20Removal%20Of%20EPA%20Regulations)
 ## [Trump And Coal](Trump%20And%20Coal)

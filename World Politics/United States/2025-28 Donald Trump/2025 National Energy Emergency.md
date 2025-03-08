@@ -1,0 +1,2 @@
+- On 20 January 2025, Trump signed Executive Order 14156 `Declaring a National Energy Emergency`.
+	- ` ` - [Declaring a National Energy Emergency, The White House, 2025](https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-energy-emergency/)

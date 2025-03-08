@@ -1,5 +1,6 @@
 Joe Biden - 20 January 2021 - 20 January 2025 
 ## [Wiki](https://en.wikipedia.org/wiki/Joe_Biden)
+## [Fact Sheet: The Biden-Harris Administration Record](https://bidenwhitehouse.archives.gov/wp-content/uploads/2025/01/The-Biden-Harris-Administration-Record.pdf)
 # Social Policy
 
 ## [2021 Overturning the Trans Military Ban](2021%20Overturning%20the%20Trans%20Military%20Ban)

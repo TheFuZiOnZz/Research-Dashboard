@@ -1,0 +1,2 @@
+- On 14 February 2025, Trump signed Executive Order 14213 `Establishing the National Energy Dominance Council`.
+	- ` ` - [Establishing the National Energy Dominance Council, The White House, 2025](https://www.whitehouse.gov/presidential-actions/2025/02/establishing-the-national-energy-dominance-council/)
