@@ -1,0 +1,2 @@
+- On 28 January 2025, Trump fired the Chair of the National Labor Relations Board.
+	- ` `
