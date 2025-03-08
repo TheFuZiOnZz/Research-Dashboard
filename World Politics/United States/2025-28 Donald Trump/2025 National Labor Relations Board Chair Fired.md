@@ -1,2 +1,3 @@
 - On 28 January 2025, Trump fired the Chair of the National Labor Relations Board.
-	- ` `
+	- ` ` - [Trump fires senior labor board official in ‘unprecedented and illegal’ move | Trump administration, The Guardian, 2025](https://www.theguardian.com/us-news/2025/jan/28/gwynne-wilcox-trump-labor-board)
+- 
