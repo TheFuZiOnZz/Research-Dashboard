@@ -22,7 +22,7 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [[2025 Consumer Financial Protection Bureau Director Fired]]
 ## [[2025 Saudi Golf League and PGA Dispute Negotiations]]
 ## [[2025 FARA Reduction of Criminal Enforcement]]
-## [[2025]]
+
 ## [2025 Eric Adams Corruption Case Quid Pro Quo](2025%20Eric%20Adams%20Corruption%20Case%20Dismissal)
 ## [2025 Federal Funding Freeze](2025%20Federal%20Funding%20Freeze)
 
