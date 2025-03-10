@@ -31,6 +31,7 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [2025 Eric Adams Corruption Case Quid Pro Quo](2025%20NY%20Mayor%20Eric%20Adams%20Corruption%20Case%20Dismissal)
 ## [2025 State Department Procurement of Tesla Electric Vehicles](2025%20State%20Department%20Procurement%20of%20Tesla%20Electric%20Vehicles)
 ## [2025 Food and Drug Administration Firings](2025%20Food%20and%20Drug%20Administration%20Firings)
+## [[2025 Unitary Executive Theory Executive Order]]
 ## [2025 Internal Revenue Service Firings](2025%20Internal%20Revenue%20Service%20Firings)
 ## [2025 Regular CDC Immunization Meetings Canceled](2025%20Regular%20CDC%20Immunization%20Meetings%20Canceled)
 ## [2025 Merchandise Sold By Cabinet Members](2025%20Merchandise%20Sold%20By%20Cabinet%20Members)
