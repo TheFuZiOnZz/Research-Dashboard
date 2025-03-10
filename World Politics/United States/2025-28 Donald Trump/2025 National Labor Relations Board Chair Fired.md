@@ -21,7 +21,7 @@
 	  
 	  `The litigation has been a thorn in Tesla’s side. Last year, a judge ruled against the company’s move to dismiss the lawsuit despite the company’s argument that “Black workers can and do thrive at Tesla.”` - [Elon Musk’s Business Empire Scores Benefits Under Trump Shake-Up, The New York Times, 2025](https://www.nytimes.com/2025/02/11/us/politics/elon-musk-companies-conflicts.html/)
 # Main Info
-- On 25 January 2025, Trump fired the Chair of the National Labor Relations Board, Gwynne Wilcox.
+- On 28 January 2025, Trump fired the Chair of the National Labor Relations Board, Gwynne Wilcox.
 	- `Donald Trump has fired a senior official at the top US labor watchdog, triggering a chorus of criticism from unions and in effect paralyzing the body until a replacement is confirmed.`
 	  
 	  `Gwynne Wilcox, a member and former chair of the National Labor Relations Board (NLRB), described her dismissal as “unprecedented and illegal” and pledged to challenge the move.`
