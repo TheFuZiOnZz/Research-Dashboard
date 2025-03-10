@@ -5,6 +5,7 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [2025 Canada, Mexico and China Trade Tariffs](2025%20Canada,%20Mexico%20and%20China%20Trade%20Tariffs)
 
 # Immigration Policy
+## [2025 Citizenship Gold Cards](2025%20Citizenship%20Gold%20Cards)
 
 # Environmental Policy
 ## [2025 Energy Plan for Oil and Gas](2025%20Energy%20Plan%20for%20Oil%20and%20Gas)
@@ -32,8 +33,8 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [2025 Food and Drug Administration Firings](2025%20Food%20and%20Drug%20Administration%20Firings)
 ## [2025 Internal Revenue Service Firings](2025%20Internal%20Revenue%20Service%20Firings)
 ## [2025 Regular CDC Immunization Meetings Canceled](2025%20Regular%20CDC%20Immunization%20Meetings%20Canceled)
-## [[2025 Merchandise Sold By Cabinet Members]]
-## [[2025 Musk Cancels Verizon FAA Contract for Starlink Substitute]]
+## [2025 Merchandise Sold By Cabinet Members](2025%20Merchandise%20Sold%20By%20Cabinet%20Members)
+## [2025 Musk Substitutes Verizon FAA Contract for Starlink](2025%20Musk%20Substitutes%20Verizon%20FAA%20Contract%20for%20Starlink)
 ## [2025 Perkins Coie Executive Order](2025%20Perkins%20Coie%20Executive%20Order)
 
 
