@@ -17,6 +17,7 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [2025 Establishment of the Department of Government Efficiency](2025%20Establishment%20of%20the%20Department%20of%20Government%20Efficiency)
 ## [2025 17 Inspector Generals Fired](2025%2017%20Inspector%20Generals%20Fired)
 ## [[2025 National Labor Relations Board Chair Fired]]
+## [[2025 Truth Social Stock Distribution to Cabinet Members]]
 ## [2025 Eric Adams Corruption Case Quid Pro Quo](2025%20Eric%20Adams%20Corruption%20Case%20Dismissal)
 ## [2025 Federal Funding Freeze](2025%20Federal%20Funding%20Freeze)
 
