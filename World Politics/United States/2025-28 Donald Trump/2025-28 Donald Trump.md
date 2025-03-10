@@ -15,6 +15,7 @@ Donald Trump - 20 January 2025 - 20 January 2028
 # Controversy’s
 
 ## [2025 Establishment of the Department of Government Efficiency](2025%20Establishment%20of%20the%20Department%20of%20Government%20Efficiency)
+## [2025 Agency for International Development Funding Freeze](2025%20Agency%20for%20International%20Development%20Funding%20Freeze)
 ## [2025 17 Inspector Generals Fired](2025%2017%20Inspector%20Generals%20Fired)
 ## [2025 National Labor Relations Board Chair Fired](2025%20National%20Labor%20Relations%20Board%20Chair%20Fired)
 ## [2025 Truth Social Stock Distribution to Cabinet Members](2025%20Truth%20Social%20Stock%20Distribution%20to%20Cabinet%20Members)
@@ -23,11 +24,10 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [[2025 Saudi Golf League and PGA Dispute Negotiations]]
 ## [[2025 FARA Reduction of Criminal Enforcement]]
 
-## [2025 Eric Adams Corruption Case Quid Pro Quo](2025%20Eric%20Adams%20Corruption%20Case%20Dismissal)
+## [2025 Eric Adams Corruption Case Quid Pro Quo](2025%20NY%20Mayor%20Eric%20Adams%20Corruption%20Case%20Dismissal.md)
 ## [[2025 State Department Procurement of Tesla Electric Vehicles]]
 ## [[2025 Food and Drug Administration Firings]]
 ## [[2025 Internal Revenue Service Firings]]
-## [2025 Federal Funding Freeze](2025%20Federal%20Funding%20Freeze)
 
 # Pre-Presidency Controversy’s
 ## [2022-25 Smith’s Special Counsel Investigation](2022-25%20Smith’s%20Special%20Counsel%20Investigation)

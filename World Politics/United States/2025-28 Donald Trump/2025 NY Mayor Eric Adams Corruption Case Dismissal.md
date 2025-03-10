@@ -1,0 +1,17 @@
+- On February 10, maybe aside from the meme coin, the most stunning act of corruption: the Eric Adams quid pro quo, in which Eric Adams, indicted for corruption, is let off the hook. His charges are dismissed in exchange for the mayor's pledge of political loyalty to Donald Trump. They literally went on TV and announced the deal that we're getting rid of the charges against Eric Adams, as long as the mayor pledges political loyalty to the President. That was so corrupt that six or seven DOJ officials resigned, because they refused to withdraw those charges, but the deal went through because the seventh, or the eighth, or the ninth official finally filed the withdrawal.
+- And now in America, it is 100% clear that if you want to get away with corruption, if you want to steal from your constituents and you're an elected official in this country, all you have to do is just sign up for political loyalty with Donald Trump, and he will instruct the Department of Justice to let you get away with it
+- 
+- January 31st, 2025 meeting in which Mr. Bove tells Ms. Sassoon (along with Adams' counsel) that a _quid-pro-quo_ would be taking place, with Adams' case would be dropped in exchange for assisting with Trump's immigration agenda.
+- February 10th, 2025 [Memo](https://www.documentcloud.org/documents/25517976-doj-eric-adams-memo/) instructing Sassoon (SDNY) to drop the Adams charges by Emil Bove, the acting deputy AG
+- February 12th, 2025 [Response](https://www.nytimes.com/interactive/2025/02/13/us/doc-annotation-letter-to-bondi.html) by Danielle R. Sassoon, United States Attorney of the SDNY
+- February 13th, 2025 [Response](https://static01.nyt.com/newsgraphics/documenttools/7c71f04757006735/05b1f604-full.pdf) from Emil Bove
+    - Information about grand juries - [https://www.flmd.uscourts.gov/sites/flmd/files/documents/handbook-for-federal-grand-jurors.pdf](https://www.flmd.uscourts.gov/sites/flmd/files/documents/handbook-for-federal-grand-jurors.pdf)
+    - Emil's horrendous weaponization of Robert H Jackson's [speech](https://www.roberthjackson.org/speech-and-writing/the-federal-prosecutor/)
+- February 13th, 2025 Trump [confirms](https://x.com/Acyn/status/1890170548766085370) Sassoon's termination
+- February 13th, 2025 More members of the Department of Justice [resign](https://x.com/kylegriffin1/status/1890209392735228006?s=46&t=SA_UAN_FDX4e6RlJ7yQl8Q)
+- ["Credible rumor"](https://bsky.app/profile/harrylitman.bsky.social/post/3li5lkemkfs24) that the DoJ is threatening to fire all public integrity line attorneys if one of them won't sign the motion to dismiss.
+- SDNY prosecutor Hagan Scotten [resigns](https://x.com/EricColumbus/status/1890431363888648385)
+- As of 4 PM, it appears Ed Sullivan, a prosecutor, [agreed](https://x.com/lrozen/status/1890505316548198474) to file a motion to dismiss the criminal corruption charges.
+- [https://x.com/kylegriffin1/status/1890521419764650319](https://x.com/kylegriffin1/status/1890521419764650319)
+- Trump [talks](https://x.com/Acyn/status/1890508605373518261) about how every DoJ prosecutor (lol) is changed between administrations
+- [DoJ](https://x.com/kyledcheney/status/1890543877485994466) officially moves to drop the Eric Adams case
