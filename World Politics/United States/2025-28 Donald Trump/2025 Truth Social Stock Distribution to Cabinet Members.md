@@ -10,3 +10,4 @@
 	  `Trump Media called the awards in the filings “consideration for services provided” in 2024.`
 	  
 	  `Based on the company’s closing share price of $31.86 on Jan. 31, the stock gifts were worth about $826,000 apiece. However, the board members could only sell a portion of the awards now — with the majority set to become available over the course of the next two years.` - [Trump Media awards board members thousands of shares, Politico, 2025](https://www.politico.com/news/2025/01/31/trump-media-patel-mcmahon-shares-00201841)
+- 
