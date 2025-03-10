@@ -9,3 +9,7 @@
 - For the freezing of all federal funds, still [not following](https://storage.courtlistener.com/recap/gov.uscourts.dcd.276842/gov.uscourts.dcd.276842.51.0.pdf) court orders
 - Needs to be done [by tomorrow](https://x.com/JordanOnRecord/status/1894449432382390669) showing they've followed a TRO
 - Judge Ali motion to [enforce his restraining order](https://x.com/kyledcheney/status/1894449414485262527)
+- [Deadline](https://x.com/KlasfeldReports/status/1894794328515416075?t=P4j0CMKRLysNLY3c5U-dOA&s=19) was midnight on the 26th, but Roberts came through and [blocked it](https://www.supremecourt.gov/orders/courtorders/022625zr_8758.pdf)
+	- [Government response](https://www.courthousenews.com/wp-content/uploads/2025/02/usds-aids-emergency-appeal.pdf) to the stay (Supreme Court), [defendants response](https://www.supremecourt.gov/DocketPDF/24/24A831/350905/20250228115232365_USAID--SCOTUS%20Opp.pdf) to the stay
+- [Supreme Court](https://www.nytimes.com/live/2025/03/05/us/trump-news#foreign-aid-supreme-court-trump) denies the government's request for a stay against the TRO for the USAID funding freeze
+	- Amy Coney Barrett votes alongside Roberts and the liberals in the Supreme Court against the government's request for a stay in their case concerning the USAID funds. [Causes MAGA Influencers to turn on Barrett's conservative legitimacy](https://publish.obsidian.md/destiny/Daily+Random+Notes/2025-03-05+-+MAGA+Messaging#MAGA+Messaging).

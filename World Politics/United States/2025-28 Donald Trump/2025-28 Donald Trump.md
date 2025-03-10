@@ -11,7 +11,7 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [2025 2nd U.S. Departure of the Paris Climate Accord](2025%202nd%20U.S.%20Departure%20of%20the%20Paris%20Climate%20Accord)
 ## [2025 National Energy Dominance Council](2025%20National%20Energy%20Dominance%20Council)
 # Foreign Policy
-
+## [[2025 Ukraine Failing Peace Plans]]
 # Controversy’s
 
 ## [2025 Establishment of the Department of Government Efficiency](2025%20Establishment%20of%20the%20Department%20of%20Government%20Efficiency)
@@ -28,6 +28,7 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [[2025 State Department Procurement of Tesla Electric Vehicles]]
 ## [[2025 Food and Drug Administration Firings]]
 ## [[2025 Internal Revenue Service Firings]]
+## [[2025 Perkins Coie Executive Order]]
 
 # Pre-Presidency Controversy’s
 ## [2022-25 Smith’s Special Counsel Investigation](2022-25%20Smith’s%20Special%20Counsel%20Investigation)
