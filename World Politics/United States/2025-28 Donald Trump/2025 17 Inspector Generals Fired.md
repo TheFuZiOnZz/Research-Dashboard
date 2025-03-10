@@ -1,5 +1,5 @@
 # Background
-- On 13 February 2025, The New York Times revealed that Phyllis Fong, the fired inspector for the Department of Agriculture, was conducting an investigation into Elon Musk’s brain implant startup, Neuralink.
+- On 13 February 2025, The New York Times reported that Phyllis Fong, the fired inspector for the Department of Agriculture, was conducting an investigation into Elon Musk’s brain implant startup, Neuralink.
 	- `In his first week, Mr. Trump fired at least 17 inspectors general, who are charged with investigating waste and corruption within their own agencies.`
 	  
 	  `The mass firing — a move that may have violated federal law — may benefit Mr. Musk.`

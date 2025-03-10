@@ -1,5 +1,5 @@
 # Background
-- On 13 February 2025, The New York Times revealed that 
+- On 13 February 2025, The New York Times reported that the National Labor Relations Board was suing Musk's X/Twitter for its large job cuts 
 	- `On its own, the National Labor Relations Board, an independent watchdog agency for workers’ rights, has 24 investigations into Mr. Musk’s companies, according to the review by The Times.` - [Elon Musk’s Business Empire Scores Benefits Under Trump Shake-Up, The New York Times, 2025](https://www.nytimes.com/2025/02/11/us/politics/elon-musk-companies-conflicts.html/)
 	- `At two federal watchdog agencies for workers, the actions by Mr. Trump have a clear effect on Mr. Musk’s business empire, as well as countless other companies that have matters before them.`
 	  
@@ -20,4 +20,5 @@
 	  `In 2023, the E.E.O.C. separately sued Tesla, alleging widespread and “ongoing racial harassment of its Black employees” and retaliation.`
 	  
 	  `The litigation has been a thorn in Tesla’s side. Last year, a judge ruled against the company’s move to dismiss the lawsuit despite the company’s argument that “Black workers can and do thrive at Tesla.”` - [Elon Musk’s Business Empire Scores Benefits Under Trump Shake-Up, The New York Times, 2025](https://www.nytimes.com/2025/02/11/us/politics/elon-musk-companies-conflicts.html/)
-# 
+# Main Info
+ ``
