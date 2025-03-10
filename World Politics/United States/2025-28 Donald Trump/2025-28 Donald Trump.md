@@ -1,5 +1,6 @@
 Donald Trump - 20 January 2025 - 20 January 2028
 # Social Policy
+##
 
 # Economic Policy
 ## [2025 Canada, Mexico and China Trade Tariffs](2025%20Canada,%20Mexico%20and%20China%20Trade%20Tariffs)
@@ -12,10 +13,12 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [2025 National Energy Emergency](2025%20National%20Energy%20Emergency)
 ## [2025 2nd U.S. Departure of the Paris Climate Accord](2025%202nd%20U.S.%20Departure%20of%20the%20Paris%20Climate%20Accord)
 ## [2025 National Energy Dominance Council](2025%20National%20Energy%20Dominance%20Council)
+
 # Foreign Policy
 ## [2025 Failing Peace Plans For Russia-Ukraine War](2025%20Failing%20Peace%20Plans%20For%20Russia-Ukraine%20War)
 ## [2025 Israel Negotiation Troubles](2025%20Israel%20Negotiation%20Troubles)
 ## [2025 Canada Negotiation Troubles](2025%20Canada%20Negotiation%20Troubles)
+
 # Controversy’s
 ## [2025 Gulf of Mexico Renaming](2025%20Gulf%20of%20Mexico%20Renaming)
 ## [2025 Establishment of the Department of Government Efficiency](2025%20Establishment%20of%20the%20Department%20of%20Government%20Efficiency)
@@ -31,7 +34,7 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [2025 Eric Adams Corruption Case Quid Pro Quo](2025%20NY%20Mayor%20Eric%20Adams%20Corruption%20Case%20Dismissal)
 ## [2025 State Department Procurement of Tesla Electric Vehicles](2025%20State%20Department%20Procurement%20of%20Tesla%20Electric%20Vehicles)
 ## [2025 Food and Drug Administration Firings](2025%20Food%20and%20Drug%20Administration%20Firings)
-## [[2025 Unitary Executive Theory Executive Order]]
+## [2025 Unitary Executive Theory Executive Order](2025%20Unitary%20Executive%20Theory%20Executive%20Order)
 ## [2025 Internal Revenue Service Firings](2025%20Internal%20Revenue%20Service%20Firings)
 ## [2025 Regular CDC Immunization Meetings Canceled](2025%20Regular%20CDC%20Immunization%20Meetings%20Canceled)
 ## [2025 Merchandise Sold By Cabinet Members](2025%20Merchandise%20Sold%20By%20Cabinet%20Members)
@@ -44,4 +47,5 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [2021-24 House Ethics Report Into Gaetz](2021-24%20House%20Ethics%20Report%20Into%20Gaetz)
 ## [2024 Election Fraud Conspiracy](2024%20Election%20Fraud%20Conspiracy)
 ## [2025 $TRUMP and $MELANIA Crypto Meme Coins](2025%20$TRUMP%20and%20$MELANIA%20Crypto%20Meme%20Coins)
+
 # Post-Presidency Controversy’s
