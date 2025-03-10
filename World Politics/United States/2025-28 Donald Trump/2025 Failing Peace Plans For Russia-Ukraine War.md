@@ -11,3 +11,6 @@
 - [The Ukrainians](https://x.com/kaitlancollins/status/1895557073003561421) were kicked out of the White House after the meeting
 - [Trump speaking to reporters](https://x.com/nancycordes/status/1895601344087801929) after
 - [Trump](https://x.com/JenniferJJacobs/status/1895598009699934673) crying that deal wont' be reached now because of Zelenskyy being "difficult"
+# Russia x US troubles 
+
+- [Trump truth lol](https://truthsocial.com/@realDonaldTrump/posts/114121576367163341) mad at Russia bombing Ukraine

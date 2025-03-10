@@ -1,0 +1,1 @@
+- [NYTimes](https://www.nytimes.com/2025/03/07/world/canada/trump-trudeau-canada-51st-state.html?smid=nytcore-android-share) story about Trump and Trudeau disagreeing about the Canadian border (lol)

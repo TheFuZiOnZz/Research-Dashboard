@@ -1,0 +1,1 @@
+- Trump Signs an [executive order](https://www.whitehouse.gov/presidential-actions/2025/03/addressing-risks-from-perkins-coie-llp/) targeting Perkins Coie LLP
