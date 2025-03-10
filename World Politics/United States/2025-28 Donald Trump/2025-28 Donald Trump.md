@@ -2,7 +2,7 @@ Donald Trump - 20 January 2025 - 20 January 2028
 # Social Policy
 
 # Economic Policy
-## [2025 Canada, Mexico and China Trade Tariffs](2025%20Canada,%20Mexico%20and%20China%20Trade%20Tariffs.md)
+## [2025 Canada, Mexico and China Trade Tariffs](2025%20Canada,%20Mexico%20and%20China%20Trade%20Tariffs)
 # Immigration Policy
 
 # Environmental Policy
@@ -11,9 +11,9 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [2025 2nd U.S. Departure of the Paris Climate Accord](2025%202nd%20U.S.%20Departure%20of%20the%20Paris%20Climate%20Accord)
 ## [2025 National Energy Dominance Council](2025%20National%20Energy%20Dominance%20Council)
 # Foreign Policy
-## [2025 Failing Peace Plans For Russia-Ukraine War](2025%20Failing%20Peace%20Plans%20For%20Russia-Ukraine%20War.md)
-## [2025 Israel Negotiation Troubles](2025%20Israel%20Negotiation%20Troubles.md)
-## [2025 Canada Negotiation Troubles](2025%20Canada%20Negotiation%20Troubles.md)
+## [2025 Failing Peace Plans For Russia-Ukraine War](2025%20Failing%20Peace%20Plans%20For%20Russia-Ukraine%20War)
+## [2025 Israel Negotiation Troubles](2025%20Israel%20Negotiation%20Troubles)
+## [2025 Canada Negotiation Troubles](2025%20Canada%20Negotiation%20Troubles)
 # Controversy’s
 
 ## [2025 Establishment of the Department of Government Efficiency](2025%20Establishment%20of%20the%20Department%20of%20Government%20Efficiency)
@@ -21,16 +21,16 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [2025 17 Inspector Generals Fired](2025%2017%20Inspector%20Generals%20Fired)
 ## [2025 National Labor Relations Board Chair Fired](2025%20National%20Labor%20Relations%20Board%20Chair%20Fired)
 ## [2025 Truth Social Stock Distribution to Cabinet Members](2025%20Truth%20Social%20Stock%20Distribution%20to%20Cabinet%20Members)
-## [2025 Weaponization of the DoJ](2025%20Weaponization%20of%20the%20DoJ.md)
-## [2025 Consumer Financial Protection Bureau Director Fired](2025%20Consumer%20Financial%20Protection%20Bureau%20Director%20Fired.md)
-## [2025 Saudi Golf League and PGA Dispute Negotiations](2025%20Saudi%20Golf%20League%20and%20PGA%20Dispute%20Negotiations.md)
-## [2025 FARA Reduction of Criminal Enforcement](2025%20FARA%20Reduction%20of%20Criminal%20Enforcement.md)
+## [2025 Weaponization of the DoJ](2025%20Weaponization%20of%20the%20DoJ)
+## [2025 Consumer Financial Protection Bureau Director Fired](2025%20Consumer%20Financial%20Protection%20Bureau%20Director%20Fired)
+## [2025 Saudi Golf League and PGA Dispute Negotiations](2025%20Saudi%20Golf%20League%20and%20PGA%20Dispute%20Negotiations)
+## [2025 FARA Reduction of Criminal Enforcement](2025%20FARA%20Reduction%20of%20Criminal%20Enforcement)
 
-## [2025 Eric Adams Corruption Case Quid Pro Quo](2025%20NY%20Mayor%20Eric%20Adams%20Corruption%20Case%20Dismissal.md)
-## [2025 State Department Procurement of Tesla Electric Vehicles](2025%20State%20Department%20Procurement%20of%20Tesla%20Electric%20Vehicles.md)
-## [2025 Food and Drug Administration Firings](2025%20Food%20and%20Drug%20Administration%20Firings.md)
-## [2025 Internal Revenue Service Firings](2025%20Internal%20Revenue%20Service%20Firings.md)
-## [2025 Perkins Coie Executive Order](2025%20Perkins%20Coie%20Executive%20Order.md)
+## [2025 Eric Adams Corruption Case Quid Pro Quo](2025%20NY%20Mayor%20Eric%20Adams%20Corruption%20Case%20Dismissal)
+## [2025 State Department Procurement of Tesla Electric Vehicles](2025%20State%20Department%20Procurement%20of%20Tesla%20Electric%20Vehicles)
+## [2025 Food and Drug Administration Firings](2025%20Food%20and%20Drug%20Administration%20Firings)
+## [2025 Internal Revenue Service Firings](2025%20Internal%20Revenue%20Service%20Firings)
+## [2025 Perkins Coie Executive Order](2025%20Perkins%20Coie%20Executive%20Order)
 
 
 # Pre-Presidency Controversy’s
