@@ -16,7 +16,7 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [2025 Israel Negotiation Troubles](2025%20Israel%20Negotiation%20Troubles)
 ## [2025 Canada Negotiation Troubles](2025%20Canada%20Negotiation%20Troubles)
 # Controversy’s
-
+## [2025 Gulf of Mexico Renaming](2025%20Gulf%20of%20Mexico%20Renaming)
 ## [2025 Establishment of the Department of Government Efficiency](2025%20Establishment%20of%20the%20Department%20of%20Government%20Efficiency)
 ## [2025 Agency for International Development Funding Freeze](2025%20Agency%20for%20International%20Development%20Funding%20Freeze)
 ## [2025 17 Inspector Generals Fired](2025%2017%20Inspector%20Generals%20Fired)
@@ -33,7 +33,7 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [2025 Internal Revenue Service Firings](2025%20Internal%20Revenue%20Service%20Firings)
 ## [2025 Perkins Coie Executive Order](2025%20Perkins%20Coie%20Executive%20Order)
 
-## [2025 Gulf of Mexico Renaming](2025%20Gulf%20of%20Mexico%20Renaming)
+
 # Pre-Presidency Controversy’s
 ## [2022-25 Smith’s Special Counsel Investigation](2022-25%20Smith’s%20Special%20Counsel%20Investigation)
 ## [2021-24 House Ethics Report Into Gaetz](2021-24%20House%20Ethics%20Report%20Into%20Gaetz)
