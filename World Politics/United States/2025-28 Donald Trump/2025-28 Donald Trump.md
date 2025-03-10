@@ -35,6 +35,7 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [2025 Regular CDC Immunization Meetings Canceled](2025%20Regular%20CDC%20Immunization%20Meetings%20Canceled)
 ## [2025 Merchandise Sold By Cabinet Members](2025%20Merchandise%20Sold%20By%20Cabinet%20Members)
 ## [2025 Musk Substitutes Verizon FAA Contract for Starlink](2025%20Musk%20Substitutes%20Verizon%20FAA%20Contract%20for%20Starlink)
+## [[2025 SEC Closing Crypto Legal Cases]]
 ## [2025 Perkins Coie Executive Order](2025%20Perkins%20Coie%20Executive%20Order)
 
 
