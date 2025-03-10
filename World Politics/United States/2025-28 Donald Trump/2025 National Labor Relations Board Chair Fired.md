@@ -1,5 +1,5 @@
 # Background
-- On 13 February 2025, The New York Times reported that the National Labor Relations Board was suing Musk's X/Twitter for its large job cuts 
+- On 13 February 2025, The New York Times reported that the National Labor Relations Board was suing Musk's X/Twitter for its large job cuts and Tesla for racial harassment. 
 	- `On its own, the National Labor Relations Board, an independent watchdog agency for workers’ rights, has 24 investigations into Mr. Musk’s companies, according to the review by The Times.` - [Elon Musk’s Business Empire Scores Benefits Under Trump Shake-Up, The New York Times, 2025](https://www.nytimes.com/2025/02/11/us/politics/elon-musk-companies-conflicts.html/)
 	- `At two federal watchdog agencies for workers, the actions by Mr. Trump have a clear effect on Mr. Musk’s business empire, as well as countless other companies that have matters before them.`
 	  
@@ -21,11 +21,15 @@
 	  
 	  `The litigation has been a thorn in Tesla’s side. Last year, a judge ruled against the company’s move to dismiss the lawsuit despite the company’s argument that “Black workers can and do thrive at Tesla.”` - [Elon Musk’s Business Empire Scores Benefits Under Trump Shake-Up, The New York Times, 2025](https://www.nytimes.com/2025/02/11/us/politics/elon-musk-companies-conflicts.html/)
 # Main Info
-- On 25 January 2025
+- On 25 January 2025, Trump fired the Chair of the National Labor Relations Board.
 	- `Donald Trump has fired a senior official at the top US labor watchdog, triggering a chorus of criticism from unions and in effect paralyzing the body until a replacement is confirmed.`
 	  
 	  `Gwynne Wilcox, a member and former chair of the National Labor Relations Board (NLRB), described her dismissal as “unprecedented and illegal” and pledged to challenge the move.`
 	  
 	  `Her removal leaves the board with only two members, and leaves it without a quorum of three members required to issue decisions, per a 2010 supreme court ruling.`
 	  
-	  `Wilcox was confirmed by the Senate, and her term was due to continue until August 2028. She had been appointed chair of the NLRB by Biden last month, before Trump appointed Marvin Kaplan, a Republican-appointed member, as chair last week.` - 
+	  `Wilcox was confirmed by the Senate, and her term was due to continue until August 2028. She had been appointed chair of the NLRB by Biden last month, before Trump appointed Marvin Kaplan, a Republican-appointed member, as chair last week.` - [Trump fires senior labor board official in ‘unprecedented and illegal’ move, The Guardian, 2025](https://www.theguardian.com/us-news/2025/jan/28/gwynne-wilcox-trump-labor-board)
+	- `It’s been the greatest honor and privilege to be General Counsel of the National Labor Relations Board and to work alongside such talented and dedicated federal employees. We have accomplished so much through our robust education, protection, and enforcement efforts, including empowering workers to collectively seek improved wages, benefits and working conditions from their employers. There’s no putting that genie back in the bottle. So, if the Agency does not fully effectuate its Congressional mandate in the future as we did during my tenure, I expect that workers with assistance from their advocates will take matters into their own hands in order to get well-deserved dignity and respect in the workplace, as well as a fair share of the significant value they add to their employer’s operations.` - [Statement from Departing NLRB General Counsel Jennifer Abruzzo, National Labor Relations Board, 2025](https://www.nlrb.gov/news-outreach/news-story/statement-from-departing-nlrb-general-counsel-jennifer-abruzzo)
+
+# Lawsuit(s)
+- On 
