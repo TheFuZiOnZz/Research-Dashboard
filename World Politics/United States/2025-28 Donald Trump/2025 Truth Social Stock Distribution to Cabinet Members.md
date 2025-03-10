@@ -1,4 +1,4 @@
-- On 30 January 2025, Trump Media & Technology Group, the holding company for Truth Social, distributed $826,000 of stock to Kash Patel, the FBI Director, and 
+- On 30 January 2025, Trump Media & Technology Group, the holding company for Truth Social, distributed $826,000 of stock to Kash Patel, the FBI Director, and Linda McMahon, Education Secretary.
 	- `President Donald Trump’s social media startup awarded more than $800,000 worth of stock to each of its board members, including two nominees for his new administration, according to regulatory filings dated Jan. 30.`
 	  
 	  `Trump Media & Technology Group awarded the directors 25,946 shares each, according to filings with the Securities and Exchange Commission. The company, which operates Truth Social, is majority-owned by Trump.`
