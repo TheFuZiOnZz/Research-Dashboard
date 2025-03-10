@@ -1,1 +1,1 @@
-- 
+- On February 1, Trump fires the director of the CFPB and announces plans to shut down – to shutter – the Consumer Financial Protection Board.
