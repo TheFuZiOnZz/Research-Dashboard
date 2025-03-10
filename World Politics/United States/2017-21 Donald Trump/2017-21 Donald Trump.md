@@ -21,7 +21,7 @@ Donald Trump - 20 January 2017 - 20 January 2021
 ## [2017-20 Trump's Attempts to remove DACA](2017-20%20Trump's%20Attempts%20to%20remove%20DACA)
 # Environmental Policy
 ## [Trump's Climate Change Denial](Trump's%20Climate%20Change%20Denial)
-## [2017 1st U.S. Departure of the Paris Climate Accord](2017%201st%20U.S.%20Departure%20of%20the%20Paris%20Climate%20Accord.md)
+## [2017 1st U.S. Departure of the Paris Climate Accord](2017%201st%20U.S.%20Departure%20of%20the%20Paris%20Climate%20Accord)
 ## [Green New Deal](../../../Political%20Positions/Economic%20Policy/Green%20New%20Deal)
 ## [2017 Trump And The Removal Of EPA Regulations](2017%20Trump%20And%20The%20Removal%20Of%20EPA%20Regulations)
 ## [Trump And Coal](Trump%20And%20Coal)
@@ -66,7 +66,7 @@ Donald Trump - 20 January 2017 - 20 January 2021
 ## [2019-23 E. Jean Carroll v. Donald J. Trump](2019-23%20E.%20Jean%20Carroll%20v.%20Donald%20J.%20Trump)
 ## [2020- Georgia Election Racketeering Prosecution](2020-%20Georgia%20Election%20Racketeering%20Prosecution)
 ## [2022- Michigan Prosecution of Fake Electors](2022-%20Michigan%20Prosecution%20of%20Fake%20Electors)
-## [2022-25 Smith’s Special Counsel Investigation](2022-25%20Smith’s%20Special%20Counsel%20Investigation.md)
+## [2022-25 Smith’s Special Counsel Investigation](2022-25%20Smith’s%20Special%20Counsel%20Investigation)
 ## [2023- Nevada Prosecution of Fake Electors](2023-%20Nevada%20Prosecution%20of%20Fake%20Electors)
 ## [2023-24 Trump v. United States, Absolute Immunity SCOTUS Case](2023-24%20Trump%20v.%20United%20States,%20Absolute%20Immunity%20SCOTUS%20Case)
 ## [2023-24 Trump v. Anderson, 14th Amendment, Section 3 Disqualification Case](2023-24%20Trump%20v.%20Anderson,%2014th%20Amendment,%20Section%203%20Disqualification%20Case)

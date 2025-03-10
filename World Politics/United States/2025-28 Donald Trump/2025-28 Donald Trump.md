@@ -3,6 +3,7 @@ Donald Trump - 20 January 2025 - 20 January 2028
 
 # Economic Policy
 ## [2025 Canada, Mexico and China Trade Tariffs](2025%20Canada,%20Mexico%20and%20China%20Trade%20Tariffs)
+
 # Immigration Policy
 
 # Environmental Policy
@@ -32,7 +33,7 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [2025 Internal Revenue Service Firings](2025%20Internal%20Revenue%20Service%20Firings)
 ## [2025 Perkins Coie Executive Order](2025%20Perkins%20Coie%20Executive%20Order)
 
-
+## [2025 Gulf of Mexico Renaming](2025%20Gulf%20of%20Mexico%20Renaming)
 # Pre-Presidency Controversy’s
 ## [2022-25 Smith’s Special Counsel Investigation](2022-25%20Smith’s%20Special%20Counsel%20Investigation)
 ## [2021-24 House Ethics Report Into Gaetz](2021-24%20House%20Ethics%20Report%20Into%20Gaetz)
