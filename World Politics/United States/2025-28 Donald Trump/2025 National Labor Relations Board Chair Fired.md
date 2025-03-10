@@ -21,4 +21,11 @@
 	  
 	  `The litigation has been a thorn in Tesla’s side. Last year, a judge ruled against the company’s move to dismiss the lawsuit despite the company’s argument that “Black workers can and do thrive at Tesla.”` - [Elon Musk’s Business Empire Scores Benefits Under Trump Shake-Up, The New York Times, 2025](https://www.nytimes.com/2025/02/11/us/politics/elon-musk-companies-conflicts.html/)
 # Main Info
- ``
+- On 25 January 2025
+	- `Donald Trump has fired a senior official at the top US labor watchdog, triggering a chorus of criticism from unions and in effect paralyzing the body until a replacement is confirmed.`
+	  
+	  `Gwynne Wilcox, a member and former chair of the National Labor Relations Board (NLRB), described her dismissal as “unprecedented and illegal” and pledged to challenge the move.`
+	  
+	  `Her removal leaves the board with only two members, and leaves it without a quorum of three members required to issue decisions, per a 2010 supreme court ruling.`
+	  
+	  `Wilcox was confirmed by the Senate, and her term was due to continue until August 2028. She had been appointed chair of the NLRB by Biden last month, before Trump appointed Marvin Kaplan, a Republican-appointed member, as chair last week.` - 
