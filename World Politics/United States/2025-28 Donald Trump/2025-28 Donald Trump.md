@@ -31,6 +31,7 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [2025 State Department Procurement of Tesla Electric Vehicles](2025%20State%20Department%20Procurement%20of%20Tesla%20Electric%20Vehicles)
 ## [2025 Food and Drug Administration Firings](2025%20Food%20and%20Drug%20Administration%20Firings)
 ## [2025 Internal Revenue Service Firings](2025%20Internal%20Revenue%20Service%20Firings)
+## [[2025 Regular CDC Immunization Meetings Canceled]]
 ## [2025 Perkins Coie Executive Order](2025%20Perkins%20Coie%20Executive%20Order)
 
 
