@@ -1,4 +1,4 @@
-[Home](../index) > [World Politics](../World%20Politics)
+[Home](../../index) > [World Politics](../World%20Politics)
 # Pre-Independence
 
 # Post-Independence
