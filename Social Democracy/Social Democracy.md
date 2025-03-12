@@ -1,3 +1,4 @@
+[Home](../index)
 # What is Social Democracy?
 ## Define
 - Social Democracy is when the government does stuff, more specifically that the government helps create a basic standard of living through well researched growth plans and tax policy focusing on primarily Wealth Inequality and Income Mobility to create a prosperous model for all.

@@ -1,3 +1,4 @@
+[Home](../index)
 # Alpha/Beta
 ## What is an Alpha Male?
 - (Personal note: It feels as though there is no consistent definition of what an “alpha male” or “high value male” actually is. It’s essential to nail this down, because an “alpha male” is going to be playing the “alpha” side of the “Alpha Fucks, Beta Bucks” dual-mating strategy that Rollo claims women employ. It’s also reasonable to assume that men are going to want to strive to become an “alpha male” and avoid being a “beta male” in the Red Pill space.)
