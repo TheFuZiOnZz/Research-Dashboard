@@ -1,3 +1,4 @@
+[Home](../index) > [World Politics](../World%20Politics)
 # 1517-1917 Ottoman Period
 ## [1860 Syrian Civil War](1517-1917%20Ottoman%20Period/1860%20Syrian%20Civil%20War)
 ## [1862 Rome and Jerusalem - The Last National Question](1862%20Rome%20and%20Jerusalem%20-%20The%20Last%20National%20Question)

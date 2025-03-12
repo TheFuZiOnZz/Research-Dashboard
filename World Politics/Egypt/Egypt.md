@@ -1,3 +1,4 @@
+[Home](../index) > [World Politics](../World%20Politics)
 # 1517-1922 Ottoman Period
 - [link](https://en.wikipedia.org/wiki/Khedivate_of_Egypt)
 - [link](https://en.wikipedia.org/wiki/Sultanate_of_Egypt)

@@ -1,4 +1,4 @@
-[Home](../index) > [[World Politics]]
+[Home](../index) > [World Politics](../World%20Politics)
 # [1935-45 Conservative](1935-45%20Conservative)
 # [1945-51 Labour](1945-51%20Labour)
 # [1951-64 Conservative](1951-64%20Conservative)

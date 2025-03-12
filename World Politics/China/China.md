@@ -1,3 +1,4 @@
+[Home](../index) > [World Politics](../World%20Politics)
 # 1949-76 Mao Zedong Era
 ## [1949-53 Land Reform Movement](1949-76%20Mao%20Zedong%20Era/1949-53%20Land%20Reform%20Movement)
 ## [1949-79 Laogai Labor Camps](1949-76%20Mao%20Zedong%20Era/1949-79%20Laogai%20Labor%20Camps)
