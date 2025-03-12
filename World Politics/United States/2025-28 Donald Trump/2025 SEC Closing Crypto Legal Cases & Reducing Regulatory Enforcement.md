@@ -13,6 +13,8 @@
 	  `Created last month, the SEC task force is led by Republican Commissioner Hester Peirce, a strong cryptocurrency supporter.`
 	  
 	  `The SEC sued Binance and founder Changpeng Zhao in June 2023, accusing the exchange of artificially inflating trading volumes, diverting customer funds and misleading investors about its surveillance controls.` - [US SEC case against crypto exchange Binance put on hold, Reuters, 2025](https://www.reuters.com/legal/us-sec-case-against-crypto-exchange-binance-put-hold-2025-02-13/)
+- On 27 February 2025, the SEC requested to dismiss ongoing litigation against Coinbase.
+	- ` ` - [Fetching Title#cbdh](https://www.sec.gov/newsroom/press-releases/2025-47)
 # Reducing Regulatory Enforcement
 - On 
 	- ` ` - [US SEC to move away from requiring crypto firms to register as trading systems, chief says, Reuters, 2025](https://www.reuters.com/technology/us-sec-move-away-requiring-crypto-firms-register-trading-systems-chief-says-2025-03-10/)
