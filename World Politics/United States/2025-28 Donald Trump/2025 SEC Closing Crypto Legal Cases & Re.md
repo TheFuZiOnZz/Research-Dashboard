@@ -1,4 +1,5 @@
-- On 13 February 2025, the SEC requested a 
+- On 12 February 2025, the SEC requested a pause to ongoing litigation against Justin Sun, a crypto investor 
+- On 13 February 2025, the SEC requested a pause to ongoing litigation against Binance
 	- ` ` - [The SEC Is Abandoning Its Biggest Crypto Lawsuits, WIRED, 2025](https://www.wired.com/story/sec-is-giving-up-biggest-crypto-lawsuits/)
 - On 
 	- ` ` - [US SEC to move away from requiring crypto firms to register as trading systems, chief says, Reuters, 2025](https://www.reuters.com/technology/us-sec-move-away-requiring-crypto-firms-register-trading-systems-chief-says-2025-03-10/)
