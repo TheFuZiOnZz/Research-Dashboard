@@ -1,5 +1,5 @@
 # Dropped Legal Cases
-- On 12 February 2025, the SEC requested a pause to ongoing litigation against Justin Sun, a crypto investor who had a 75 million dollars in the [TRUMP and MELANIA Crypto Meme Coins](2025%20$TRUMP%20and%20$MELANIA%20Crypto%20Meme%20Coins)
+- On 12 February 2025, the SEC requested a pause to ongoing litigation against Justin Sun, a crypto investor who had a 75 million dollars in the [TRUMP and MELANIA Crypto Meme Coins](2025%20$TRUMP%20and%20$MELANIA%20Crypto%20Meme%20Coins).
 	- `Justin Sun and the U.S. Securities and Exchange Commission are exploring a resolution to the regulator’s civil fraud case against the Chinese cryptocurrency entrepreneur, according to a Wednesday court filing.`
 	  
 	  `The SEC sued Sun and his companies Tron Foundation, BitTorrent Foundation and Rainberry in March 2023, accusing them of scheming to distribute billions of dollars of crypto assets.`
