@@ -1,4 +1,4 @@
-[Home](../index) > [World Politics](../World%20Politics)
+[World Politics](../World%20Politics)
 # 1910-1945 Joseon
 
 # 1945-48 Dual Civil Administrations

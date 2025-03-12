@@ -1,3 +1,4 @@
+[World Politics](../World%20Politics)
 # 1832-1917 Russian Empire Period
 ## 1613-1917 Romanov Family Era
 ### [1905-07 Russian Revolution Attempt](1832-1917%20Russian%20Empire%20Period/1905-07%20Russian%20Revolution%20Attempt)

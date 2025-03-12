@@ -1,3 +1,4 @@
+[World Politics](../World%20Politics)
 ## [1978-1991 Somali Rebellion](1978-1991%20Somali%20Rebellion)
 ## [1992-95 UN Intervention In Somalia](1992-95%20UN%20Intervention%20In%20Somalia)
 ## [2000- Piracy off the coast](2000-%20Piracy%20off%20the%20coast)

@@ -1,4 +1,4 @@
-[Home](../../index) > [World Politics](../World%20Politics)
+[World Politics](../World%20Politics)
 # [[1948 Czechoslovak Coup d'état]]
 # [1968 Prague Spring](1968%20Prague%20Spring)  
 # [1968 Warsaw Pact Invasion of Czechoslovakia](1968%20Warsaw%20Pact%20Invasion%20of%20Czechoslovakia)  

@@ -1,4 +1,4 @@
-[Home](../index) > [World Politics](../World%20Politics)
+[World Politics](../World%20Politics)
 # [1986-87 Toyota War](../Chad/1986-87%20Toyota%20War)  
 # [2011 First Libyan Civil War](2011%20First%20Libyan%20Civil%20War)  
 # [2011 NATO Intervention in Libya](2011%20NATO%20Intervention%20in%20Libya)  

@@ -1,3 +1,4 @@
+[World Politics](../World%20Politics)
 # 1948- Internal Conflict
 - [link](https://en.wikipedia.org/wiki/Internal_conflict_in_Myanmar)
 - Major ethnic conflicts in Kachin, Kayah, Kayin, Rakhine, and Shan State
@@ -13,4 +14,4 @@
 - 2021 Kalay clashes
 - Karen–Mon conflict
 
-[2016-17 Rohingya Genocide](2016-17%20Rohingya%20Genocide)  
+## [2016-17 Rohingya Genocide](2016-17%20Rohingya%20Genocide)  

@@ -1,4 +1,4 @@
-[Home](../../index) > [World Politics](../World%20Politics)
+[World Politics](../World%20Politics)
 # 1830-1962 French Algeria
 ## [1954-62 Algerian War](1954-62%20Algerian%20War)
 

@@ -1,3 +1,4 @@
+[World Politics](../World%20Politics)
 # 1517-1918 Ottoman Period
 ## [1914-18 Middle Eastern Theatre of World War 1](../Israel-Palestine/1517-1917%20Ottoman%20Period/1914-18%20Middle%20Eastern%20Theatre%20of%20World%20War%201)
 ## [1919-20 Paris Peace Conference](../Israel-Palestine/1917-48%20Mandatory%20Palestine%20Period/1919-20%20Paris%20Peace%20Conference)

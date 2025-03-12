@@ -1,4 +1,4 @@
-[Home](../../index) > [World Politics](../World%20Politics)
+[World Politics](../World%20Politics)
 # 1517-1920 Ottoman Empire
 - [link](https://en.wikipedia.org/wiki/Kingdom_of_Iraq)
 
