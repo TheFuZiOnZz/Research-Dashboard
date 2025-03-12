@@ -1,13 +1,13 @@
-[Home](../index) > [World Politics](../World%20Politics)
+[Home](../../index) > [World Politics](../World%20Politics)
 # 1959-2006 Fidel Castro’s Era
 [link](https://en.wikipedia.org/wiki/Cuba_under_Fidel_Castro)
 [link](https://www.youtube.com/watch?v=bq4h0XEin14)
 
-[1960 U.S Exports Embargo on Cuba](1959-2006%20Fidel%20Castro’s%20Era/1960%20U.S%20Exports%20Embargo%20on%20Cuba)  
-[1961 Cuba’s Socialist Republic Declaration](1959-2006%20Fidel%20Castro’s%20Era/1961%20Cuba’s%20Socialist%20Republic%20Declaration)  
-[1961 Bay Of Pigs](1959-2006%20Fidel%20Castro’s%20Era/1961%20Bay%20Of%20Pigs)  
-[1962 Cuban Missile Crisis](1959-2006%20Fidel%20Castro’s%20Era/1962%20Cuban%20Missile%20Crisis)  
-[1991-2000 Cuban Special Period](1959-2006%20Fidel%20Castro’s%20Era/1991-2000%20Cuban%20Special%20Period)  
+## [1960 U.S Exports Embargo on Cuba](1959-2006%20Fidel%20Castro’s%20Era/1960%20U.S%20Exports%20Embargo%20on%20Cuba)  
+## [1961 Cuba’s Socialist Republic Declaration](1959-2006%20Fidel%20Castro’s%20Era/1961%20Cuba’s%20Socialist%20Republic%20Declaration)  
+## [1961 Bay Of Pigs](1959-2006%20Fidel%20Castro’s%20Era/1961%20Bay%20Of%20Pigs)  
+## [1962 Cuban Missile Crisis](1959-2006%20Fidel%20Castro’s%20Era/1962%20Cuban%20Missile%20Crisis)  
+## [1991-2000 Cuban Special Period](1959-2006%20Fidel%20Castro’s%20Era/1991-2000%20Cuban%20Special%20Period)  
 ## notes
 - Fidel Castro had established concentration camps for gays because he **considered homosexuality as counterrevolutionary and called it bourgeois decadence**. ([Daily Beast](https://www.thedailybeast.com/fidel-castros-horrific-record-on-gay-rights))
 - **1.2m Cubans left to the United States between 1959 and 1993**. ([U.S. Census Bureau](https://arquivo.pt/wayback/20090709154810/http://www.census.gov/Press-Release/www/releases/archives/facts_for_features_special_editions/000797.html))
@@ -18,9 +18,9 @@
 - Prisoners are **forced to work 12-hour days and are punished if they do not meet production quotas**. ([Human Rights Watch](https://www.hrw.org/world-report/2020/country-chapters/cuba))
   
 # 2006-21 Raul Castro’s Era
-[2015-17 Cuban Thaw](2006-21%20Raul%20Castro’s%20Era/2015-17%20Cuban%20Thaw)  
+## [2015-17 Cuban Thaw](2006-21%20Raul%20Castro’s%20Era/2015-17%20Cuban%20Thaw)  
 # 2021- Miguel Díaz-Canel’s Era
-[2021 Cuban Protests](2021-%20Miguel%20Díaz-Canel’s%20Era/2021%20Cuban%20Protests)  
+## [2021 Cuban Protests](2021-%20Miguel%20Díaz-Canel’s%20Era/2021%20Cuban%20Protests)  
   
 # Other
 ## Cuban Economy
