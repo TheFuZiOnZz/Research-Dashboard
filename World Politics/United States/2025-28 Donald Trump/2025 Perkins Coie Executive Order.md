@@ -1,2 +1,4 @@
 - On 6 March 2025, Trump Signs an executive order targeting Perkins Coie LLP.
 	- ` ` - [Addressing Risks from Perkins Coie LLP, The White House, 2025](https://www.whitehouse.gov/presidential-actions/2025/03/addressing-risks-from-perkins-coie-llp/)
+- On 
+	- ` ` - https://www.democracydocket.com/news-alerts/trump-perkins-coie-executive-order-judge-blocked/
