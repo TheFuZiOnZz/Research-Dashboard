@@ -29,7 +29,6 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [2025 Consumer Financial Protection Bureau Director Fired](2025%20Consumer%20Financial%20Protection%20Bureau%20Director%20Fired)
 ## [2025 Saudi Golf League and PGA Dispute Negotiations](2025%20Saudi%20Golf%20League%20and%20PGA%20Dispute%20Negotiations)
 ## [2025 FARA Reduction of Criminal Enforcement](2025%20FARA%20Reduction%20of%20Criminal%20Enforcement)
-
 ## [2025 Eric Adams Corruption Case Quid Pro Quo](2025%20NY%20Mayor%20Eric%20Adams%20Corruption%20Case%20Dismissal)
 ## [2025 State Department Procurement of Tesla Electric Vehicles](2025%20State%20Department%20Procurement%20of%20Tesla%20Electric%20Vehicles)
 ## [2025 Food and Drug Administration Firings](2025%20Food%20and%20Drug%20Administration%20Firings)
