@@ -1,5 +1,5 @@
 # Background
-- Perkins Coie are a law firm that was famously involved in 
+- Perkins Coie are a law firm that has represented Democrats in various legal cases including all the [2020 Election Fraud Conspiracy, 2nd Impeachment](../2017-21%20Donald%20Trump/2020%20Election%20Fraud%20Conspiracy,%202nd%20Impeachment.md)
 # Main Point
 - On 6 March 2025, Trump Signs an executive order targeting Perkins Coie LLP.
 	- ` ` - [Addressing Risks from Perkins Coie LLP, The White House, 2025](https://www.whitehouse.gov/presidential-actions/2025/03/addressing-risks-from-perkins-coie-llp/)
