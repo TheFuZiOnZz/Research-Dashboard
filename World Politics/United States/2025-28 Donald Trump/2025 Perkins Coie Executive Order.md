@@ -1,7 +1,7 @@
 # Background
 - Perkins Coie are a law firm that, in relation to the [Mueller’s Special Counsel Investigation](../2017-21%20Donald%20Trump/2016-19%20Mueller’s%20Special%20Counsel%20Investigation), were retaining Fusion GPS' services that entailed Christopher Steele to make the Steele Dossier for the Hillary Clinton Presidential Campaign, as well as representing Democrats in various legal cases including all the [2020 Election Fraud](../2017-21%20Donald%20Trump/2020%20Election%20Fraud%20Conspiracy,%202nd%20Impeachment) cases against Trump. Michael Sussmann, a former lawyer who worked for Perkins Coie was indited in the course of the [Durham’s Special Counsel Investigation](../2017-21%20Donald%20Trump/2019-23%20Durham’s%20Special%20Counsel%20Investigation) for making false statements to the FBI in 2016, but was acquitted by a jury of those charges.
 # Main Point
-- On 6 March 2025, Trump Signs an executive order targeting Perkins Coie LLP.
+- On 6 March 2025, Trump Signs an executive order targeting Perkins Coie LLP and their security clearances, 
 	- `The dishonest and dangerous activity of the law firm Perkins Coie LLP (“Perkins Coie”) has affected this country for decades. Notably, in 2016 while representing failed Presidential candidate Hillary Clinton, Perkins Coie hired Fusion GPS, which then manufactured a false “dossier” designed to steal an election. This egregious activity is part of a pattern. Perkins Coie has worked with activist donors including George Soros to judicially overturn popular, necessary, and democratically enacted election laws, including those requiring voter identification. In one such case, a court was forced to sanction Perkins Coie attorneys for an unethical lack of candor before the court.`
 	  
 	  `In addition to undermining democratic elections, the integrity of our courts, and honest law enforcement, Perkins Coie racially discriminates against its own attorneys and staff, and against applicants. Perkins Coie publicly announced percentage quotas in 2019 for hiring and promotion on the basis of race and other categories prohibited by civil rights laws. It proudly excluded applicants on the basis of race for its fellowships, and it maintained these discriminatory practices until applicants harmed by them finally sued to enforce change.`
@@ -22,7 +22,7 @@
 	  `Preliminarily, then permanently, enjoin implementation of the Order.`
 	  
 	  `Grant such other relief as the Court deems just and proper.` - [Perkins Coie LLP V. U.S. Department of Justice (Civil Complaint), United States District Court for the District of Columbia, 2025](https://storage.courtlistener.com/recap/gov.uscourts.dcd.278290/gov.uscourts.dcd.278290.1.0_3.pdf)
-- On 12 March 2025, Judge Beryl Howell granted Perkins Coie a Temporary Restraining Order, in which stopped the execution of 
+- On 12 March 2025, Judge Beryl Howell granted Perkins Coie a Temporary Restraining Order, in which stopped the execution of parts 1, 3, and 5 of the executive order.
 	- `Upon consideration of plaintiff Perkins Coie LLP’s Motion for a Temporary Restraining Order (“TRO”), ECF No. 2; the memoranda, declarations, and exhibits submitted in support; and the arguments in support and in opposition presented at the expedited TRO hearing held on March 12, 2025, for the reasons explained orally at the hearing, it is hereby:`
 	  
 	  `ORDERED that plaintiff’s Motion for a Temporary Restraining Order, ECF No. 2, is GRANTED; it is further`
