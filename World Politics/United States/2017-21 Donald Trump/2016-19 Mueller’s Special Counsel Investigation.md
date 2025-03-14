@@ -802,7 +802,8 @@
       
       `The inspector general found no evidence that the Crossfire Hurricane team asked for more information about Page’s relationship with the CIA before asking a court for a surveillance warrant to monitor him.` - [In opening an investigation of the Trump campaign, the FBI felt it had reached a ‘tipping point,’ IG finds, The Washington Post, 2019](https://www.washingtonpost.com/national-security/in-opening-an-investigation-of-the-trump-campaign-the-fbi-felt-it-had-reached-a-tipping-point-ig-found/2019/12/09/49f0da38-1ab6-11ea-b4c1-fd0d91b60d9e_story.html)
 ## Use of Confidential Human Sources in Crossfire Hurricane
-- ` ` - [Review of Four FISA Applications and Other Aspects of the FBI’s Crossfire Hurricane Investigation](https://www.justice.gov/storage/120919-examination.pdf)
+- On
+	- ` ` - [Review of Four FISA Applications and Other Aspects of the FBI’s Crossfire Hurricane Investigation, Office of the Inspector General, 2019](https://www.justice.gov/storage/120919-examination.pdf) 
 # Senate Intelligence Committee Report
 - [Wiki](https://en.wikipedia.org/wiki/Senate_Intelligence_Committee_report_on_Russian_interference_in_the_2016_United_States_presidential_election)
 - The Senate Intelligence Committee report on Russian interference in the United States presidential election, officially titled Report of the Select Committee on Intelligence United States Senate on Russian Active Measures Campaigns and Interference in the 2016 U.S. Election, is the official report in five volumes documenting the findings and conclusions of the United States Senate Intelligence Committee concerning the Russian attack efforts against election infrastructure, Russia's use of social media to affect the election, the U.S. government's response to Russian activities, review of the Intelligence Community Assessment, and counterintelligence threats and vulnerabilities.
