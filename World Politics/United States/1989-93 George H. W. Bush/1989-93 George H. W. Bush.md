@@ -1,4 +1,5 @@
-- [Wiki](https://en.wikipedia.org/wiki/George_H._W._Bush)
+[United States](../United%20States)
+
 # Social Policy
 
 # Economic Policy

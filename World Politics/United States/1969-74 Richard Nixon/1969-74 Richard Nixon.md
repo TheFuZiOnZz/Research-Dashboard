@@ -1,4 +1,5 @@
-- [Wiki](https://en.wikipedia.org/wiki/Richard_Nixon)
+[United States](../United%20States)
+
 # Social Policy
 
 # Economic Policy

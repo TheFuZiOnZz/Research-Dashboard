@@ -1,4 +1,5 @@
-- [Wiki](https://en.wikipedia.org/wiki/Dwight_D._Eisenhower)
+[United States](../United%20States)
+
 # Social Policy
 
 # Economic Policy

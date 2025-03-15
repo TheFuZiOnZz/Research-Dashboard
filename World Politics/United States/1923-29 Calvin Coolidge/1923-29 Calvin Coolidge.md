@@ -1,4 +1,5 @@
-- [Wiki](https://en.wikipedia.org/wiki/Calvin_Coolidge)
+[United States](../United%20States)
+
 # Social Policy
 
 # Economic Policy

@@ -1,4 +1,4 @@
-- [Wiki](https://en.wikipedia.org/wiki/Barack_Obama)
+[United States](../United%20States)
 # Social Policy
 
 # Economic Policy

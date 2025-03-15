@@ -1,4 +1,5 @@
-- [Wiki](https://en.wikipedia.org/wiki/Gerald_Ford)
+[United States](../United%20States)
+
 # Social Policy
 
 # Economic Policy
