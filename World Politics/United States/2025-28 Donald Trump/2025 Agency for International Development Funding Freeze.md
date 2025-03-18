@@ -1,6 +1,8 @@
 - Trump signed an [Executive Order on January 20th, 2025](https://www.whitehouse.gov/presidential-actions/2025/01/reevaluating-and-realigning-united-states-foreign-aid/) ordering a 90-day freeze to be put into effect on all foreign development assistance programs for evaluation to ensure that they are aligned with Trump's foreign policy. The EO cites the [apportionment authority](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/a11_current_year/s120.pdf) of the OMB in order to carry out this funding freeze. It's unclear (to me) if this is a legitimate and legal use of the apportionment authority. (According to a _Just Security_ [article](https://www.justsecurity.org/107267/can-president-dissolve-usaid-by-executive-order/), it's probably not legal)
 - [Another Order](https://s3.documentcloud.org/documents/25535268/aliorder.pdf) against Trump's executive order, enjoining them from restricting funding to USAID.
 - [Fox and Friends](https://www.youtube.com/watch?v=wy6gmUL-_9I) with Mayor Adams and Tom Homan, the newly chosen border czar, with Adams now talking excitedly about cooperating with ICE
+
+# Lawsuit
 - Plaintiffs put in a [second emergency motion](https://x.com/JordanOnRecord/status/1894161254119272466) to compel the government to unfreeze USAID Funding
     - [History](https://www.justsecurity.org/107087/tracker-litigation-legal-challenges-trump-administration/)
         - **Update 1:** On Feb. 11, Plaintiffs [moved](https://storage.courtlistener.com/recap/gov.uscourts.dcd.277336/gov.uscourts.dcd.277336.4.0_1.pdf) for a TRO enjoining implementation of the Executive Order and State Department Memorandum.
@@ -13,3 +15,4 @@
 	- [Government response](https://www.courthousenews.com/wp-content/uploads/2025/02/usds-aids-emergency-appeal.pdf) to the stay (Supreme Court), [defendants response](https://www.supremecourt.gov/DocketPDF/24/24A831/350905/20250228115232365_USAID--SCOTUS%20Opp.pdf) to the stay
 - [Supreme Court](https://www.nytimes.com/live/2025/03/05/us/trump-news#foreign-aid-supreme-court-trump) denies the government's request for a stay against the TRO for the USAID funding freeze
 	- Amy Coney Barrett votes alongside Roberts and the liberals in the Supreme Court against the government's request for a stay in their case concerning the USAID funds. [Causes MAGA Influencers to turn on Barrett's conservative legitimacy](https://publish.obsidian.md/destiny/Daily+Random+Notes/2025-03-05+-+MAGA+Messaging#MAGA+Messaging).
+- On 18 March 2025, 
