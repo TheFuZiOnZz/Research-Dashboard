@@ -1,2 +1,6 @@
 - [Detention of Mahmoud Khalil - Wikipedia](https://en.wikipedia.org/wiki/Detention_of_Mahmoud_Khalil)
-- On 8 March 2025, 
+- On 8 March 2025, Mahmoud Khalil, a student activist and negotiator in the 2024 Columbia University pro-Palestinian campus occupations, was taken from his apartment building by U.S. Immigration and Customs Enforcement (ICE) agents. The federal immigration agents were acting on orders from the State Department to revoke Khalil's student visa. When the agents were informed that Khalil, of Palestinian descent, Syrian nationality, and Algerian citizenship, is a lawful permanent resident of the United States in possession of a green card, they said this status would be revoked instead.
+	- ` ` - [ICE Arrests Columbia Student Who Helped Lead Pro-Palestinian Protests, The Wall Street Journal, 2025](https://www.wsj.com/us-news/dhs-detains-columbia-student-who-helped-lead-pro-palestinian-protests-fbbd8196?mod=Searchresults_pos1)
+	- ` ` - [ICE arrests Palestinian activist Mahmoud Khalil, Associated Press, 2025](https://apnews.com/article/columbia-university-mahmoud-khalil-ice-15014bcbb921f21a9f704d5acdcae7a8) 
+	- 
+- On 10 March 2025, District Judge Jesse Furman ordered that the Trump administration not deport Khalil pending judicial review of the arrest.
