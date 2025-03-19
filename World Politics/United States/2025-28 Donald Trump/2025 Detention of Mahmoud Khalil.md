@@ -2,6 +2,7 @@
 # Background
 - 
 - On 29 January 2025, Trump signed executive order 14188
+	- ` ` - [Additional Measures to Combat Anti-Semitism, The White House, 2025](https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism/)
 # Main Point
 - On 8 March 2025, Mahmoud Khalil, a student activist and negotiator in the 2024 Columbia University pro-Palestinian campus occupations, was taken from his apartment building by U.S. Immigration and Customs Enforcement (ICE) agents. The federal immigration agents were acting on orders from the State Department to revoke Khalil's student visa. When the agents were informed that Khalil, of Palestinian descent, Syrian nationality, and Algerian citizenship, is a lawful permanent resident of the United States in possession of a green card, they said this status would be revoked instead.
 	- `A Columbia University student who helped lead last year’s pro-Palestinian demonstrations has been arrested by federal immigration authorities.`
