@@ -1,3 +1,3 @@
 - On
-- On 24 March 2025, Jeffrey Goldberg, a writer for The Atlantic wrote in an op-ed that he was 
+- On 24 March 2025, Jeffrey Goldberg, a writer for The Atlantic wrote in an op-ed that he was added to a Trump Administration Signal group chat in which discussed, before they happened, future strikes in Yemen. 
 	- ` ` - [The Trump Administration Accidentally Texted Me Its War Plans - The Atlantic](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/)
