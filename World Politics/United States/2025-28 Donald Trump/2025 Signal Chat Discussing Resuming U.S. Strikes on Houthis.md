@@ -3,3 +3,4 @@
 	- ` ` - [The Trump Administration Accidentally Texted Me Its War Plans - The Atlantic](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/)
 - 
 	- https://fxtwitter.com/PressSec/status/1904512527699968437
+- https://www.theatlantic.com/politics/archive/2025/03/signal-group-chat-attack-plans-hegseth-goldberg/682176/ 
