@@ -8,7 +8,7 @@ Donald Trump - 20 January 2025 - 20 January 2028
 
 # Immigration Policy
 ## [2025 Citizenship Gold Cards](2025%20Citizenship%20Gold%20Cards)
-## [[2025 Alien Enemies Act Deportations]]
+## [2025 Alien Enemies Act Deportations](2025%20Alien%20Enemies%20Act%20Deportations)
 
 # Environmental Policy
 ## [2025 Energy Plan for Oil and Gas](2025%20Energy%20Plan%20for%20Oil%20and%20Gas)
@@ -20,7 +20,7 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [2025 Failing Peace Plans For Russia-Ukraine War](2025%20Failing%20Peace%20Plans%20For%20Russia-Ukraine%20War)
 ## [2025 Israel Negotiation Troubles](2025%20Israel%20Negotiation%20Troubles)
 ## [2025 Canada Negotiation Troubles](2025%20Canada%20Negotiation%20Troubles)
-## [[2025 Signal Chat Discussing Resuming U.S. Strikes on Houthis]]
+## [2025 Signal Chat Discussing Resuming U.S. Strikes on Houthis](2025%20Signal%20Chat%20Discussing%20Resuming%20U.S.%20Strikes%20on%20Houthis)
 
 # Controversy’s
 ## [2025 Gulf of Mexico Renaming](2025%20Gulf%20of%20Mexico%20Renaming)

@@ -15,6 +15,8 @@
 	  `Thanks to the strong and decisive leadership of President Trump, and everyone in the group, the Houthi strikes were successful and effective. Terrorists were killed and that’s what matters most to President Trump.` - [@PressSec Tweet, Twitter, 2025](https://x.com/PressSec/status/1904512527699968437)
 - On 25 March 2025, DNI Director Tulsi Gabbard, FBI Director Kash Patel and CIA Director John Ratcliffe testify on global threats in a Senate Intelligence Committee hearing, in which the Signal messages were discussed.
 	- ` ` - 
+	- [Senate Intelligence Committee hearing on worldwide threats | full video, CBS News, 2025](https://www.youtube.com/watch?v=byRCtMpYHjQ)
+	- [LIVE: House Intelligence Committee hearing on global security threats, Associated Press, 2025](https://www.youtube.com/watch?v=T16a2FJX75s)
 - On 25 March 2025, 
 	- ` ` - [Mike Waltz claims ‘full responsibility’ for Signal chat group leaked to journalist, The Guardian, 2025](https://www.theguardian.com/us-news/2025/mar/25/mike-waltz-yemen-plans-breach-signal-group)
 - On 26 March 2025, 
