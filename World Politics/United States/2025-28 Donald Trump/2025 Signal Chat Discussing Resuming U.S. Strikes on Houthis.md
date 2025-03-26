@@ -1,6 +1,17 @@
 - On
 - On 24 March 2025, Jeffrey Goldberg, a writer for The Atlantic wrote in an op-ed that he was added to a Trump Administration Signal group chat in which discussed, before they happened, future strikes in Yemen. 
 	- ` ` - [The Trump Administration Accidentally Texted Me Its War Plans, The Atlantic, 2025](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/)
-- On 25 March 2025, 
-	- 
-- [Here Are the Attack Plans That Trump’s Advisers Shared on Signal, The Atlantic, 2025](https://www.theatlantic.com/politics/archive/2025/03/signal-group-chat-attack-plans-hegseth-goldberg/682176/) 
+- On 25 March 2025, White House Press Secretary Karoline Leavitt tweeted that Goldberg lied in relation to 
+	- `Jeffrey Goldberg is well-known for his sensationalist spin. Here are the facts about his latest story:`
+	  
+	  `1. No “war plans” were discussed.`
+	  
+	  `2. No classified material was sent to the thread.`
+	  
+	  `3. The White House Counsel’s Office has provided guidance on a number of different platforms for President Trump’s top officials to communicate as safely and efficiently as possible.`
+	  
+	  `As the National Security Council stated, the White House is looking into how Goldberg’s number was inadvertently added to the thread.`
+	  
+	  `Thanks to the strong and decisive leadership of President Trump, and everyone in the group, the Houthi strikes were successful and effective. Terrorists were killed and that’s what matters most to President Trump.` - [@PressSec Tweet, Twitter, 2025](https://x.com/PressSec/status/1904512527699968437)
+- On 26 March 2025, 
+	- [Here Are the Attack Plans That Trump’s Advisers Shared on Signal, The Atlantic, 2025](https://www.theatlantic.com/politics/archive/2025/03/signal-group-chat-attack-plans-hegseth-goldberg/682176/) 
