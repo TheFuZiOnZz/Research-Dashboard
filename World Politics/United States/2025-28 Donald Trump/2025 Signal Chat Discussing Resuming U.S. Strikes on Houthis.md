@@ -13,5 +13,9 @@
 	  `As the National Security Council stated, the White House is looking into how Goldberg’s number was inadvertently added to the thread.`
 	  
 	  `Thanks to the strong and decisive leadership of President Trump, and everyone in the group, the Houthi strikes were successful and effective. Terrorists were killed and that’s what matters most to President Trump.` - [@PressSec Tweet, Twitter, 2025](https://x.com/PressSec/status/1904512527699968437)
+- On 25 March 2025, DNI Director Tulsi Gabbard, FBI Director Kash Patel and CIA Director John Ratcliffe testify on global threats in a Senate Intelligence Committee hearing, in which 
+	- ` ` - 
+- On 25 March 2025, 
+	- ` ` - [Mike Waltz claims ‘full responsibility’ for Signal chat group leaked to journalist, The Guardian, 2025](https://www.theguardian.com/us-news/2025/mar/25/mike-waltz-yemen-plans-breach-signal-group)
 - On 26 March 2025, 
 	- [Here Are the Attack Plans That Trump’s Advisers Shared on Signal, The Atlantic, 2025](https://www.theatlantic.com/politics/archive/2025/03/signal-group-chat-attack-plans-hegseth-goldberg/682176/) 
