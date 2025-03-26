@@ -8,6 +8,7 @@ Donald Trump - 20 January 2025 - 20 January 2028
 
 # Immigration Policy
 ## [2025 Citizenship Gold Cards](2025%20Citizenship%20Gold%20Cards)
+## [[2025]]
 
 # Environmental Policy
 ## [2025 Energy Plan for Oil and Gas](2025%20Energy%20Plan%20for%20Oil%20and%20Gas)
