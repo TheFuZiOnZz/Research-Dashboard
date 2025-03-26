@@ -1,4 +1,7 @@
-- On
+# Background
+- On 15 March 2025, 
+	- ` ` - [US launches wave of air strikes on Yemen's Houthis - BBC News](https://www.bbc.co.uk/news/articles/c05mvr3j3yro)
+# Main Point
 - On 24 March 2025, Jeffrey Goldberg, a writer for The Atlantic wrote in an op-ed that he was added to a Trump Administration Signal group chat in which discussed, before they happened, future strikes in Yemen. 
 	- ` ` - [The Trump Administration Accidentally Texted Me Its War Plans, The Atlantic, 2025](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/)
 - On 25 March 2025, White House Press Secretary Karoline Leavitt tweeted that Goldberg lied in relation to 
