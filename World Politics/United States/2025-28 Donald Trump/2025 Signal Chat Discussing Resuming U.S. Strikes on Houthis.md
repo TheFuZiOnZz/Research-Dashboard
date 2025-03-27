@@ -26,6 +26,7 @@
 	  `To all Houthi terrorists, YOUR TIME IS UP, AND YOUR ATTACKS MUST STOP, STARTING TODAY. IF THEY DON’T, HELL WILL RAIN DOWN UPON YOU LIKE NOTHING YOU HAVE EVER SEEN BEFORE!`
 	  
 	  `To Iran: Support for the Houthi terrorists must end IMMEDIATELY! Do NOT threaten the American People, their President, who has received one of the largest mandates in Presidential History, or Worldwide shipping lanes. If you do, BEWARE, because America will hold you fully accountable and, we won’t be nice about it!` - [@realDonaldTrump Post, Truth Social, 2025](https://truthsocial.com/@realDonaldTrump/posts/114167864888304754)
+
 # Main Point
 - On 24 March 2025, Jeffrey Goldberg, the editor in chief of The Atlantic, wrote in an op-ed that he was added to a Trump Administration Signal group chat in which discussed, before they happened, future strikes in Yemen which alluded to a possible violation of the Espionage Act.
 	- `The world found out shortly before 2 p.m. eastern time on March 15 that the United States was bombing Houthi targets across Yemen.`
