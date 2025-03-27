@@ -27,7 +27,7 @@
 	  
 	  `To Iran: Support for the Houthi terrorists must end IMMEDIATELY! Do NOT threaten the American People, their President, who has received one of the largest mandates in Presidential History, or Worldwide shipping lanes. If you do, BEWARE, because America will hold you fully accountable and, we won’t be nice about it!` - [@realDonaldTrump Post, Truth Social, 2025](https://truthsocial.com/@realDonaldTrump/posts/114167864888304754)
 # Main Point
-- On 24 March 2025, Jeffrey Goldberg, the editor in chief of The Atlantic, wrote in an op-ed that he was added to a Trump Administration Signal group chat in which discussed, before they happened, future strikes in Yemen. 
+- On 24 March 2025, Jeffrey Goldberg, the editor in chief of The Atlantic, wrote in an op-ed that he was added to a Trump Administration Signal group chat in which discussed, before they happened, future strikes in Yemen which alluded to a possible violation of the Espionage Act.
 	- `The world found out shortly before 2 p.m. eastern time on March 15 that the United States was bombing Houthi targets across Yemen.`
 	  
 	  `I, however, knew two hours before the first bombs exploded that the attack might be coming. The reason I knew this is that Pete Hegseth, the secretary of defense, had texted me the war plan at 11:44 a.m. The plan included precise information about weapons packages, targets, and timing.` - [The Trump Administration Accidentally Texted Me Its War Plans, The Atlantic, 2025](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/)
@@ -92,7 +92,7 @@
 	- `National security advisor Michael Waltz assumed "full responsibility" for a leaked Signal group chat of senior Trump officials that discussed plans for a forthcoming strike on the Houthis in Yemen.`
 	  
 	  `"I take full responsibility. I built the group," Waltz said on "The Ingraham Angle" Tuesday. "It's embarrassing. We're going to get to the bottom of it."` - [NSA Mike Waltz takes responsibility for Signal chat leak, Fox News, 2025](https://www.foxnews.com/media/national-security-advisor-mike-waltz-takes-responsibility-embarrassing-signal-chat-leak?intcmp=tw_fnc)
-- On 26 March 2025, Goldberg released the full texts of the group chat, in which shows the proposed and then executed attack plan
+- On 26 March 2025, Goldberg released the full texts of the group chat, in which shows the proposed and then executed attack plan which is proof of a possible violation of the Espionage Act.
 	- `The statements by Hegseth, Gabbard, Ratcliffe, and Trump—combined with the assertions made by numerous administration officials that we are lying about the content of the Signal texts—have led us to believe that people should see the texts in order to reach their own conclusions. There is a clear public interest in disclosing the sort of information that Trump advisers included in nonsecure communications channels, especially because senior administration figures are attempting to downplay the significance of the messages that were shared.`
 	  
 	  `Experts have repeatedly told us that use of a Signal chat for such sensitive discussions poses a threat to national security. As a case in point, Goldberg received information on the attacks two hours before the scheduled start of the bombing of Houthi positions. If this information—particularly the exact times American aircraft were taking off for Yemen—had fallen into the wrong hands in that crucial two-hour period, American pilots and other American personnel could have been exposed to even greater danger than they ordinarily would face. The Trump administration is arguing that the military information contained in these texts was not classified—as it typically would be—although the president has not explained how he reached this conclusion.`
@@ -123,13 +123,10 @@
 	  `- “MORE TO FOLLOW (per timeline)”`
 	  `- “We are currently clean on OPSEC”—that is, operational security.`
 	  `- “Godspeed to our Warriors.”` - [Here Are the Attack Plans That Trump’s Advisers Shared on Signal, The Atlantic, 2025](https://www.theatlantic.com/politics/archive/2025/03/signal-group-chat-attack-plans-hegseth-goldberg/682176/)
-	- ` ` - [Here Are the Attack Plans That Trump’s Advisers Shared on Signal, The Atlantic, 2025](https://www.theatlantic.com/politics/archive/2025/03/signal-group-chat-attack-plans-hegseth-goldberg/682176/)
-	- ` ` - [Here Are the Attack Plans That Trump’s Advisers Shared on Signal, The Atlantic, 2025](https://www.theatlantic.com/politics/archive/2025/03/signal-group-chat-attack-plans-hegseth-goldberg/682176/)
-	- ` ` - [Here Are the Attack Plans That Trump’s Advisers Shared on Signal, The Atlantic, 2025](https://www.theatlantic.com/politics/archive/2025/03/signal-group-chat-attack-plans-hegseth-goldberg/682176/)
 - On 26 March 2025, 
 	- ` ` - 
 	- [LIVE: House Intelligence Committee hearing on global security threats, Associated Press, 2025](https://www.youtube.com/watch?v=T16a2FJX75s)
-- On 26 March 2025, 
+- On 26 March 2025, Hegseth tweeted that Goldberg still lied because the group chat didn't contain `war plans`, while not addressing the underlying controversy.
 	- `So, let’s me get this straight. The Atlantic released the so-called “war plans” and those “plans” include: No names. No targets. No locations. No units. No routes. No sources. No methods. And no classified information.`
 	  
 	  `Those are some really shitty war plans.`
