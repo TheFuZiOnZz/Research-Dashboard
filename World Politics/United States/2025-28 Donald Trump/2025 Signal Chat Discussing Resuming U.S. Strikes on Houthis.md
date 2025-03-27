@@ -48,6 +48,23 @@
 	  `All of these lawyers said that a U.S. official should not establish a Signal thread in the first place. Information about an active operation would presumably fit the law’s definition of “national defense” information. The Signal app is not approved by the government for sharing classified information. The government has its own systems for that purpose. If officials want to discuss military activity, they should go into a specially designed space known as a sensitive compartmented information facility, or SCIF—most Cabinet-level national-security officials have one installed in their home—or communicate only on approved government equipment, the lawyers said. Normally, cellphones are not permitted inside a SCIF, which suggests that as these officials were sharing information about an active military operation, they could have been moving around in public. Had they lost their phones, or had they been stolen, the potential risk to national security would have been severe.`
 	  
 	  `Hegseth, Ratcliffe, and other Cabinet-level officials presumably would have the authority to declassify information, and several of the national-security lawyers noted that the hypothetical officials on the Signal chain might claim that they had declassified the information they shared. But this argument rings hollow, they cautioned, because Signal is not an authorized venue for sharing information of such a sensitive nature, regardless of whether it has been stamped “top secret” or not.` - [The Trump Administration Accidentally Texted Me Its War Plans, The Atlantic, 2025](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/)
+		- `Sec. 1.4.  Classification Categories.  Information shall not be considered for classification unless its unauthorized disclosure could reasonably be expected to cause identifiable or describable damage to the national security in accordance with section 1.2 of this order, and it pertains to one or more of the following:`
+		  
+		  `(a)  military plans, weapons systems, or operations;`
+		  
+		  `(b)  foreign government information;`
+		  
+		  `(c)  intelligence activities (including covert action), intelligence sources or methods, or cryptology;`
+		  
+		  `(d)  foreign relations or foreign activities of the United States, including confidential sources;`
+		  
+		  `(e)  scientific, technological, or economic matters relating to the national security;`
+		  
+		  `(f)  United States Government programs for safeguarding nuclear materials or facilities;`
+		  
+		  `(g)  vulnerabilities or capabilities of systems, installations, infrastructures, projects, plans, or protection services relating to the national security; or`
+		  
+		  `(h)  the development, production, or use of weapons of mass destruction.` - [Executive Order 13526- Classified National Security Information, whitehouse.gov, 2009](https://obamawhitehouse.archives.gov/the-press-office/executive-order-classified-national-security-information)
 	- `Waltz and the other Cabinet-level officials were already potentially violating government policy and the law simply by texting one another about the operation. But when Waltz added a journalist—presumably by mistake—to his principals committee, he created new security and legal issues. Now the group was transmitting information to someone not authorized to receive it. That is the classic definition of a leak, even if it was unintentional, and even if the recipient of the leak did not actually believe it was a leak until Yemen came under American attack.`
 	  
 	  `All along, members of the Signal group were aware of the need for secrecy and operations security. In his text detailing aspects of the forthcoming attack on Houthi targets, Hegseth wrote to the group—which, at the time, included me—“We are currently clean on OPSEC.”` - [The Trump Administration Accidentally Texted Me Its War Plans, The Atlantic, 2025](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/)
@@ -88,7 +105,7 @@
 	  `"It was one of Michael’s people on the phone. A staffer had his number on there," Trump told NBC in a phone interview when asked how Jeffrey Goldberg, the Atlantic's editor-in-chief, was added to the high-profile chat.`
 	  
 	  `The president added that Goldberg's inclusion in the group chat had "no impact at all" on the strike in Yemen.` - [Trump reveals staffer with Mike Waltz's office was behind Signal text chain leak, Fox News, 2025](https://www.foxnews.com/politics/trump-reveals-who-behind-signal-text-chain-leak)
-- On 25 March 2025, Michael Waltz told Fox News host Laura Ingraham that he took responsibility for adding Goldberg to the group chat.
+- On 25 March 2025, Michael Waltz told Fox News host Laura Ingraham, that he took responsibility for adding Goldberg to the group chat.
 	- `National security advisor Michael Waltz assumed "full responsibility" for a leaked Signal group chat of senior Trump officials that discussed plans for a forthcoming strike on the Houthis in Yemen.`
 	  
 	  `"I take full responsibility. I built the group," Waltz said on "The Ingraham Angle" Tuesday. "It's embarrassing. We're going to get to the bottom of it."` - [NSA Mike Waltz takes responsibility for Signal chat leak, Fox News, 2025](https://www.foxnews.com/media/national-security-advisor-mike-waltz-takes-responsibility-embarrassing-signal-chat-leak?intcmp=tw_fnc)
