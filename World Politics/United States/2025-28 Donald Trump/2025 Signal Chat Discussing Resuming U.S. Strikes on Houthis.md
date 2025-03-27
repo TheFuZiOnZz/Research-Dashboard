@@ -64,8 +64,8 @@
 	  
 	  `The latest: Goldberg later responded to Hegseth on MSNBC, alleging that the texts he withheld included "precise details" of the attack on the Houthis — including the specific time, specific targets and sequencing of the operation.`
 	  
-	  `"He can say that it wasn't a war plan, but it was a minute-by-minute accounting of what was about to happen, organized by CENTCOM ... and [shared] with a bunch of civilian leaders," Goldberg said.` - [Hegseth slams The Atlantic: "Nobody was texting war plans", Axios,](https://www.axios.com/2025/03/24/hegseth-trump-atlantic-yemen-houthis-text-war-plan)
-- On 25 March 2025, White House Press Secretary Karoline Leavitt tweeted that Goldberg lied in relation to 
+	  `"He can say that it wasn't a war plan, but it was a minute-by-minute accounting of what was about to happen, organized by CENTCOM ... and [shared] with a bunch of civilian leaders," Goldberg said.` - [Hegseth slams The Atlantic: "Nobody was texting war plans", Axios, 2025](https://www.axios.com/2025/03/24/hegseth-trump-atlantic-yemen-houthis-text-war-plan)
+- On 25 March 2025, White House Press Secretary Karoline Leavitt tweeted that Goldberg lied in relation to war plans being discussed in the group chat.
 	- `Jeffrey Goldberg is well-known for his sensationalist spin. Here are the facts about his latest story:`
 	  
 	  `1. No “war plans” were discussed.`
