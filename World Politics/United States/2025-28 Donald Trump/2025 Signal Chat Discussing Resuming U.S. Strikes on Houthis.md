@@ -28,6 +28,17 @@
 	  `To Iran: Support for the Houthi terrorists must end IMMEDIATELY! Do NOT threaten the American People, their President, who has received one of the largest mandates in Presidential History, or Worldwide shipping lanes. If you do, BEWARE, because America will hold you fully accountable and, we won’t be nice about it!` - [@realDonaldTrump Post, Truth Social, 2025](https://truthsocial.com/@realDonaldTrump/posts/114167864888304754)
 # Main Point
 - On 24 March 2025, Jeffrey Goldberg, a writer for The Atlantic wrote in an op-ed that he was added to a Trump Administration Signal group chat in which discussed, before they happened, future strikes in Yemen. 
+	- `The world found out shortly before 2 p.m. eastern time on March 15 that the United States was bombing Houthi targets across Yemen.`
+	  
+	  `I, however, knew two hours before the first bombs exploded that the attack might be coming. The reason I knew this is that Pete Hegseth, the secretary of defense, had texted me the war plan at 11:44 a.m. The plan included precise information about weapons packages, targets, and timing.` - [The Trump Administration Accidentally Texted Me Its War Plans, The Atlantic, 2025](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/)
+	- `On Tuesday, March 11, I received a connection request on Signal from a user identified as Michael Waltz. Signal is an open-source encrypted messaging service popular with journalists and others who seek more privacy than other text-messaging services are capable of delivering. I assumed that the Michael Waltz in question was President Donald Trump’s national security adviser. I did not assume, however, that the request was from the actual Michael Waltz. I have met him in the past, and though I didn’t find it particularly strange that he might be reaching out to me, I did think it somewhat unusual, given the Trump administration’s contentious relationship with journalists—and Trump’s periodic fixation on me specifically. It immediately crossed my mind that someone could be masquerading as Waltz in order to somehow entrap me. It is not at all uncommon these days for nefarious actors to try to induce journalists to share information that could be used against them.`
+	  
+	  `I accepted the connection request, hoping that this was the actual national security adviser, and that he wanted to chat about Ukraine, or Iran, or some other important matter.`
+	  
+	  `Two days later—Thursday—at 4:28 p.m., I received a notice that I was to be included in a Signal chat group. It was called the “Houthi PC small group.”` - [The Trump Administration Accidentally Texted Me Its War Plans, The Atlantic, 2025](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/)
+	- ` ` - [The Trump Administration Accidentally Texted Me Its War Plans, The Atlantic, 2025](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/)
+	- ` ` - [The Trump Administration Accidentally Texted Me Its War Plans, The Atlantic, 2025](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/)
+	- ` ` - [The Trump Administration Accidentally Texted Me Its War Plans, The Atlantic, 2025](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/)
 	- ` ` - [The Trump Administration Accidentally Texted Me Its War Plans, The Atlantic, 2025](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/)
 - On 25 March 2025, White House Press Secretary Karoline Leavitt tweeted that Goldberg lied in relation to 
 	- `Jeffrey Goldberg is well-known for his sensationalist spin. Here are the facts about his latest story:`
@@ -46,7 +57,7 @@
 	- [Senate Intelligence Committee hearing on worldwide threats, CBS News, 2025](https://www.youtube.com/watch?v=byRCtMpYHjQ)
 - On 25 March 2025, 
 	- ` ` - [Mike Waltz claims ‘full responsibility’ for Signal chat group leaked to journalist, The Guardian, 2025](https://www.theguardian.com/us-news/2025/mar/25/mike-waltz-yemen-plans-breach-signal-group)
-- On 26 March 2025, 
+- On 26 March 2025, Goldberg released the full texts of the group chat, in which 
 	- [Here Are the Attack Plans That Trump’s Advisers Shared on Signal, The Atlantic, 2025](https://www.theatlantic.com/politics/archive/2025/03/signal-group-chat-attack-plans-hegseth-goldberg/682176/) 
 - On 26 March 2025, 
 	- ` ` - 
