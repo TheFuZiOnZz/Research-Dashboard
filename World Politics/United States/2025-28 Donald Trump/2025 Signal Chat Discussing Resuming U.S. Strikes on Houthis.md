@@ -55,14 +55,22 @@
 - On 25 March 2025, DNI Director Tulsi Gabbard, FBI Director Kash Patel and CIA Director John Ratcliffe testify on global threats in a Senate Intelligence Committee hearing, in which the Signal messages were discussed.
 	- ` ` - 
 	- [Senate Intelligence Committee hearing on worldwide threats, CBS News, 2025](https://www.youtube.com/watch?v=byRCtMpYHjQ)
-- On 25 March 2025, 
-	- ` ` - [Mike Waltz claims ‘full responsibility’ for Signal chat group leaked to journalist, The Guardian, 2025](https://www.theguardian.com/us-news/2025/mar/25/mike-waltz-yemen-plans-breach-signal-group)
+- On 25 March 2025, Trump blamed a Michael Waltz staffer for adding Goldberg to the group chat and said it had no effect on the strikes execution.
+	- `President Donald Trump revealed that a staffer with national security advisor Mike Waltz's office included the editor-in-chief of the Atlantic in a Signal group chat with senior Trump officials who were discussing plans for an upcoming strike on Houthi rebels in Yemen.`
+	  
+	  `"It was one of Michael’s people on the phone. A staffer had his number on there," Trump told NBC in a phone interview when asked how Jeffrey Goldberg, the Atlantic's editor-in-chief, was added to the high-profile chat.`
+	  
+	  `The president added that Goldberg's inclusion in the group chat had "no impact at all" on the strike in Yemen.` - [Trump reveals staffer with Mike Waltz's office was behind Signal text chain leak, Fox News, 2025](https://www.foxnews.com/politics/trump-reveals-who-behind-signal-text-chain-leak)
+- On 25 March 2025, Michael Waltz told Fox News host Laura Ingraham that he took responsibility for adding Goldberg to the group chat.
+	- `National security advisor Michael Waltz assumed "full responsibility" for a leaked Signal group chat of senior Trump officials that discussed plans for a forthcoming strike on the Houthis in Yemen.`
+	  
+	  `"I take full responsibility. I built the group," Waltz said on "The Ingraham Angle" Tuesday. "It's embarrassing. We're going to get to the bottom of it."` - [NSA Mike Waltz takes responsibility for Signal chat leak, Fox News, 2025](https://www.foxnews.com/media/national-security-advisor-mike-waltz-takes-responsibility-embarrassing-signal-chat-leak?intcmp=tw_fnc)
 - On 26 March 2025, Goldberg released the full texts of the group chat, in which 
 	- [Here Are the Attack Plans That Trump’s Advisers Shared on Signal, The Atlantic, 2025](https://www.theatlantic.com/politics/archive/2025/03/signal-group-chat-attack-plans-hegseth-goldberg/682176/) 
 - On 26 March 2025, 
 	- ` ` - 
 	- [LIVE: House Intelligence Committee hearing on global security threats, Associated Press, 2025](https://www.youtube.com/watch?v=T16a2FJX75s)
-- On
+- On 26 March 2025, 
 	- `So, let’s me get this straight. The Atlantic released the so-called “war plans” and those “plans” include: No names. No targets. No locations. No units. No routes. No sources. No methods. And no classified information.`
 	  
 	  `Those are some really shitty war plans.`
