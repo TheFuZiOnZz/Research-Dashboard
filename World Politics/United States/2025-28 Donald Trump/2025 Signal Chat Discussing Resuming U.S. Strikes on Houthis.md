@@ -93,7 +93,11 @@
 	  
 	  `"I take full responsibility. I built the group," Waltz said on "The Ingraham Angle" Tuesday. "It's embarrassing. We're going to get to the bottom of it."` - [NSA Mike Waltz takes responsibility for Signal chat leak, Fox News, 2025](https://www.foxnews.com/media/national-security-advisor-mike-waltz-takes-responsibility-embarrassing-signal-chat-leak?intcmp=tw_fnc)
 - On 26 March 2025, Goldberg released the full texts of the group chat, in which 
-	- ` ` - [Here Are the Attack Plans That Trump’s Advisers Shared on Signal, The Atlantic, 2025](https://www.theatlantic.com/politics/archive/2025/03/signal-group-chat-attack-plans-hegseth-goldberg/682176/) 
+	- ` ` - [Here Are the Attack Plans That Trump’s Advisers Shared on Signal, The Atlantic, 2025](https://www.theatlantic.com/politics/archive/2025/03/signal-group-chat-attack-plans-hegseth-goldberg/682176/)
+	- ` ` - [Here Are the Attack Plans That Trump’s Advisers Shared on Signal, The Atlantic, 2025](https://www.theatlantic.com/politics/archive/2025/03/signal-group-chat-attack-plans-hegseth-goldberg/682176/)
+	- ` ` - [Here Are the Attack Plans That Trump’s Advisers Shared on Signal, The Atlantic, 2025](https://www.theatlantic.com/politics/archive/2025/03/signal-group-chat-attack-plans-hegseth-goldberg/682176/)
+	- ` ` - [Here Are the Attack Plans That Trump’s Advisers Shared on Signal, The Atlantic, 2025](https://www.theatlantic.com/politics/archive/2025/03/signal-group-chat-attack-plans-hegseth-goldberg/682176/)
+	- ` ` - [Here Are the Attack Plans That Trump’s Advisers Shared on Signal, The Atlantic, 2025](https://www.theatlantic.com/politics/archive/2025/03/signal-group-chat-attack-plans-hegseth-goldberg/682176/)
 - On 26 March 2025, 
 	- ` ` - 
 	- [LIVE: House Intelligence Committee hearing on global security threats, Associated Press, 2025](https://www.youtube.com/watch?v=T16a2FJX75s)
