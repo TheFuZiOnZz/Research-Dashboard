@@ -51,6 +51,20 @@
 	- `Waltz and the other Cabinet-level officials were already potentially violating government policy and the law simply by texting one another about the operation. But when Waltz added a journalist—presumably by mistake—to his principals committee, he created new security and legal issues. Now the group was transmitting information to someone not authorized to receive it. That is the classic definition of a leak, even if it was unintentional, and even if the recipient of the leak did not actually believe it was a leak until Yemen came under American attack.`
 	  
 	  `All along, members of the Signal group were aware of the need for secrecy and operations security. In his text detailing aspects of the forthcoming attack on Houthi targets, Hegseth wrote to the group—which, at the time, included me—“We are currently clean on OPSEC.”` - [The Trump Administration Accidentally Texted Me Its War Plans, The Atlantic, 2025](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/)
+- On 24 March 2025, Pete Hegseth claimed that no war plans were discussed in the group chat and proceeded to disparage Goldberg, in which Goldberg later replied to Hegseth's comments saying that was a lie.
+	- `What they're saying: Hegseth, who briefly spoke to reporters after landing in Hawaii Monday, lashed out at Goldberg for The Atlantic's history of publishing negative stories about President Trump.`
+	  
+	  `"You're talking about a deceitful and highly discredited so-called 'journalist' who's made a profession of peddling hoaxes time and time again," Hegseth said, attacking Goldberg's reporting on the Russia investigation and allegations that Trump called fallen veterans "suckers and losers."`
+	  
+	  `egseth went on to defend Trump's March 15 airstrikes against the Houthis, an Iranian-backed militia group that has disrupted billions of dollars by blockading commercial shipping lanes in the Red Sea.`
+	  
+	  `Asked why details of the operation were shared on Signal, an encrypted messaging app available to the public, Hegseth denied that part of Goldberg's reporting.`
+	  
+	  `"I've heard how it was characterized. Nobody was texting war plans. And that's all I have to say about that," the former Fox News host said.`
+	  
+	  `The latest: Goldberg later responded to Hegseth on MSNBC, alleging that the texts he withheld included "precise details" of the attack on the Houthis — including the specific time, specific targets and sequencing of the operation.`
+	  
+	  `"He can say that it wasn't a war plan, but it was a minute-by-minute accounting of what was about to happen, organized by CENTCOM ... and [shared] with a bunch of civilian leaders," Goldberg said.` - [Hegseth slams The Atlantic: "Nobody was texting war plans", Axios,](https://www.axios.com/2025/03/24/hegseth-trump-atlantic-yemen-houthis-text-war-plan)
 - On 25 March 2025, White House Press Secretary Karoline Leavitt tweeted that Goldberg lied in relation to 
 	- `Jeffrey Goldberg is well-known for his sensationalist spin. Here are the facts about his latest story:`
 	  
