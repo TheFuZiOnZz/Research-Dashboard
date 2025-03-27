@@ -79,6 +79,7 @@
 	  `Thanks to the strong and decisive leadership of President Trump, and everyone in the group, the Houthi strikes were successful and effective. Terrorists were killed and that’s what matters most to President Trump.` - [@PressSec Tweet, Twitter, 2025](https://x.com/PressSec/status/1904512527699968437)
 - On 25 March 2025, DNI Director Tulsi Gabbard, FBI Director Kash Patel and CIA Director John Ratcliffe testify on global threats in a Senate Intelligence Committee hearing, in which the Signal messages were discussed.
 	- ` ` - 
+	- `There was no classified material that was shared in that Signal group,` said DNI Tulsi Gabbard.
 	- [Senate Intelligence Committee hearing on worldwide threats, CBS News, 2025](https://www.youtube.com/watch?v=byRCtMpYHjQ)
 - On 25 March 2025, Trump blamed a Michael Waltz staffer for adding Goldberg to the group chat and said it had no effect on the strikes execution.
 	- `President Donald Trump revealed that a staffer with national security advisor Mike Waltz's office included the editor-in-chief of the Atlantic in a Signal group chat with senior Trump officials who were discussing plans for an upcoming strike on Houthi rebels in Yemen.`
