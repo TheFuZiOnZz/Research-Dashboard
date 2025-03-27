@@ -27,7 +27,7 @@
 	  
 	  `To Iran: Support for the Houthi terrorists must end IMMEDIATELY! Do NOT threaten the American People, their President, who has received one of the largest mandates in Presidential History, or Worldwide shipping lanes. If you do, BEWARE, because America will hold you fully accountable and, we won’t be nice about it!` - [@realDonaldTrump Post, Truth Social, 2025](https://truthsocial.com/@realDonaldTrump/posts/114167864888304754)
 # Main Point
-- On 24 March 2025, Jeffrey Goldberg, a writer for The Atlantic wrote in an op-ed that he was added to a Trump Administration Signal group chat in which discussed, before they happened, future strikes in Yemen. 
+- On 24 March 2025, Jeffrey Goldberg, the editor in chief of The Atlantic, wrote in an op-ed that he was added to a Trump Administration Signal group chat in which discussed, before they happened, future strikes in Yemen. 
 	- `The world found out shortly before 2 p.m. eastern time on March 15 that the United States was bombing Houthi targets across Yemen.`
 	  
 	  `I, however, knew two hours before the first bombs exploded that the attack might be coming. The reason I knew this is that Pete Hegseth, the secretary of defense, had texted me the war plan at 11:44 a.m. The plan included precise information about weapons packages, targets, and timing.` - [The Trump Administration Accidentally Texted Me Its War Plans, The Atlantic, 2025](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/)
