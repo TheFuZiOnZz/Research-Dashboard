@@ -62,3 +62,13 @@
 - On 26 March 2025, 
 	- ` ` - 
 	- [LIVE: House Intelligence Committee hearing on global security threats, Associated Press, 2025](https://www.youtube.com/watch?v=T16a2FJX75s)
+- On
+	- `So, let’s me get this straight. The Atlantic released the so-called “war plans” and those “plans” include: No names. No targets. No locations. No units. No routes. No sources. No methods. And no classified information.`
+	  
+	  `Those are some really shitty war plans.`
+	  
+	  `This only proves one thing: Jeff Goldberg has never seen a war plan or an “attack plan” (as he now calls it). Not even close.`
+	  
+	  `As I type this, my team and I are traveling the INDOPACOM region, meeting w/ Commanders (the guys who make REAL “war plans”) and talking to troops.`
+	  
+	  `We will continue to do our job, while the media does what it does best: peddle hoaxes.` - [@PeteHegseth Tweet, Twitter, 2025](https://x.com/PeteHegseth/status/1904918673250468002)
