@@ -65,7 +65,7 @@
 	  `The latest: Goldberg later responded to Hegseth on MSNBC, alleging that the texts he withheld included "precise details" of the attack on the Houthis — including the specific time, specific targets and sequencing of the operation.`
 	  
 	  `"He can say that it wasn't a war plan, but it was a minute-by-minute accounting of what was about to happen, organized by CENTCOM ... and [shared] with a bunch of civilian leaders," Goldberg said.` - [Hegseth slams The Atlantic: "Nobody was texting war plans", Axios, 2025](https://www.axios.com/2025/03/24/hegseth-trump-atlantic-yemen-houthis-text-war-plan)
-- On 25 March 2025, White House Press Secretary Karoline Leavitt tweeted that Goldberg lied in relation to war plans being discussed in the group chat.
+- On 25 March 2025, White House Press Secretary Karoline Leavitt tweeted that Goldberg lied in relation to attack plans being discussed in the group chat.
 	- `Jeffrey Goldberg is well-known for his sensationalist spin. Here are the facts about his latest story:`
 	  
 	  `1. No “war plans” were discussed.`
@@ -92,7 +92,7 @@
 	- `National security advisor Michael Waltz assumed "full responsibility" for a leaked Signal group chat of senior Trump officials that discussed plans for a forthcoming strike on the Houthis in Yemen.`
 	  
 	  `"I take full responsibility. I built the group," Waltz said on "The Ingraham Angle" Tuesday. "It's embarrassing. We're going to get to the bottom of it."` - [NSA Mike Waltz takes responsibility for Signal chat leak, Fox News, 2025](https://www.foxnews.com/media/national-security-advisor-mike-waltz-takes-responsibility-embarrassing-signal-chat-leak?intcmp=tw_fnc)
-- On 26 March 2025, Goldberg released the full texts of the group chat, in which 
+- On 26 March 2025, Goldberg released the full texts of the group chat, in which shows the proposed and then executed attack plan
 	- `The statements by Hegseth, Gabbard, Ratcliffe, and Trump—combined with the assertions made by numerous administration officials that we are lying about the content of the Signal texts—have led us to believe that people should see the texts in order to reach their own conclusions. There is a clear public interest in disclosing the sort of information that Trump advisers included in nonsecure communications channels, especially because senior administration figures are attempting to downplay the significance of the messages that were shared.`
 	  
 	  `Experts have repeatedly told us that use of a Signal chat for such sensitive discussions poses a threat to national security. As a case in point, Goldberg received information on the attacks two hours before the scheduled start of the bombing of Houthi positions. If this information—particularly the exact times American aircraft were taking off for Yemen—had fallen into the wrong hands in that crucial two-hour period, American pilots and other American personnel could have been exposed to even greater danger than they ordinarily would face. The Trump administration is arguing that the military information contained in these texts was not classified—as it typically would be—although the president has not explained how he reached this conclusion.`
@@ -111,8 +111,18 @@
 	  `The text beneath this began, “TIME NOW (1144et): Weather is FAVORABLE. Just CONFIRMED w/CENTCOM we are a GO for mission launch.” Centcom, or Central Command, is the military’s combatant command for the Middle East. The Hegseth text continues:`
 	  
 	  `“1215et: F-18s LAUNCH (1st strike package)”`
+	  `“1345: ‘Trigger Based’ F-18 1st Strike Window Starts (Target Terrorist is @ his Known Location so SHOULD BE ON TIME – also, Strike Drones Launch (MQ-9s)”`
 	  
-	  `“1345: ‘Trigger Based’ F-18 1st Strike Window Starts (Target Terrorist is @ his Known Location so SHOULD BE ON TIME – also, Strike Drones Launch (MQ-9s)”` - [Here Are the Attack Plans That Trump’s Advisers Shared on Signal, The Atlantic, 2025](https://www.theatlantic.com/politics/archive/2025/03/signal-group-chat-attack-plans-hegseth-goldberg/682176/)
+	  `Let us pause here for a moment to underscore a point. This Signal message shows that the U.S. secretary of defense texted a group that included a phone number unknown to him—Goldberg’s cellphone—at 11:44 a.m. This was 31 minutes before the first U.S. warplanes launched, and two hours and one minute before the beginning of a period in which a primary target, the Houthi “Target Terrorist,” was expected to be killed by these American aircraft. If this text had been received by someone hostile to American interests—or someone merely indiscreet, and with access to social media—the Houthis would have had time to prepare for what was meant to be a surprise attack on their strongholds. The consequences for American pilots could have been catastrophic.`
+	  
+	  `The Hegseth text then continued:`
+	  
+	  `- “1410: More F-18s LAUNCH (2nd strike package)”`
+	  `- “1415: Strike Drones on Target (THIS IS WHEN THE FIRST BOMBS WILL DEFINITELY DROP, pending earlier ‘Trigger Based’ targets)”`
+	  `- “1536 F-18 2nd Strike Starts – also, first sea-based Tomahawks launched.”`
+	  `- “MORE TO FOLLOW (per timeline)”`
+	  `- “We are currently clean on OPSEC”—that is, operational security.`
+	  `- “Godspeed to our Warriors.”` - [Here Are the Attack Plans That Trump’s Advisers Shared on Signal, The Atlantic, 2025](https://www.theatlantic.com/politics/archive/2025/03/signal-group-chat-attack-plans-hegseth-goldberg/682176/)
 	- ` ` - [Here Are the Attack Plans That Trump’s Advisers Shared on Signal, The Atlantic, 2025](https://www.theatlantic.com/politics/archive/2025/03/signal-group-chat-attack-plans-hegseth-goldberg/682176/)
 	- ` ` - [Here Are the Attack Plans That Trump’s Advisers Shared on Signal, The Atlantic, 2025](https://www.theatlantic.com/politics/archive/2025/03/signal-group-chat-attack-plans-hegseth-goldberg/682176/)
 	- ` ` - [Here Are the Attack Plans That Trump’s Advisers Shared on Signal, The Atlantic, 2025](https://www.theatlantic.com/politics/archive/2025/03/signal-group-chat-attack-plans-hegseth-goldberg/682176/)
