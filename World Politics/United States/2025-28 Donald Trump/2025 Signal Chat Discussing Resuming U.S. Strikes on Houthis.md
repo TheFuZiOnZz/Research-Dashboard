@@ -156,3 +156,7 @@
 	  
 	  `We will continue to do our job, while the media does what it does best: peddle hoaxes.` - [@PeteHegseth Tweet, Twitter, 2025](https://x.com/PeteHegseth/status/1904918673250468002)
 # Lawsuit
+- On 25 March 2025, 
+	- ` ` - [American Oversight V. Hegseth (Complaint for Declaratory and Injunctive Relief), United States District Court for the District of Columbia, 2025](https://storage.courtlistener.com/recap/gov.uscourts.dcd.278806/gov.uscourts.dcd.278806.1.0_1.pdf)
+- On 27 March 2025, 
+	- ` ` - [American Oversight V. Hegseth (DEFENDANTS’ MEMORANDUM IN OPPOSITION TO PLAINTIFF’S MOTION FOR TEMPORARY RESTRAINING ORDER ), United States District Court for the District of Columbia, 2025](https://storage.courtlistener.com/recap/gov.uscourts.dcd.278806/gov.uscourts.dcd.278806.8.0.pdf)
