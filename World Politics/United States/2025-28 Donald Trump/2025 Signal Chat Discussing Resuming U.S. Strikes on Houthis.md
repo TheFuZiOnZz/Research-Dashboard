@@ -156,9 +156,9 @@
 	  
 	  `We will continue to do our job, while the media does what it does best: peddle hoaxes.` - [@PeteHegseth Tweet, Twitter, 2025](https://x.com/PeteHegseth/status/1904918673250468002)
 # Lawsuit
-- On 25 March 2025, 
+- On 25 March 2025, American Oversight, non-profit promoting transparency in government filed a criminal complaint against the members of the group chat for violations of the Federal Records Act and Administrative Procedure Act.
 	- ` ` - [American Oversight V. Hegseth (Complaint for Declaratory and Injunctive Relief), United States District Court for the District of Columbia, 2025](https://storage.courtlistener.com/recap/gov.uscourts.dcd.278806/gov.uscourts.dcd.278806.1.0_1.pdf)
-- On 28 March 2025, 
+- On 28 March 2025, Chief Judge James E. Boasberg granted a Temporary Restraining Order to American Oversight requiring that the members of the group chat have to preserve the messages sent.
 	- `The Court entered the following Minute Order after yesterday’s hearing on Plaintiff’s Motion for a Temporary Restraining Order:`
 	  
 	  `As agreed by the parties in today’s TRO hearing, the Court ORDERS that: 1) Defendants shall promptly make best efforts to preserve all Signal communications from March 11-15, 2025; 2) By March 31, 2025, Defendants shall file a Status Report with declarations setting forth the steps that they have taken to implement such preservation; and 3) This Order shall expire on April 10, 2025, in the event that Defendants' measures are satisfactory to the Court.`
