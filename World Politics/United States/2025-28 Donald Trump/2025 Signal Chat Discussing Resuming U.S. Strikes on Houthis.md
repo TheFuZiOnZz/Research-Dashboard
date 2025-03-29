@@ -155,9 +155,18 @@
 	  `As I type this, my team and I are traveling the INDOPACOM region, meeting w/ Commanders (the guys who make REAL “war plans”) and talking to troops.`
 	  
 	  `We will continue to do our job, while the media does what it does best: peddle hoaxes.` - [@PeteHegseth Tweet, Twitter, 2025](https://x.com/PeteHegseth/status/1904918673250468002)
+
 # Lawsuit
 - On 25 March 2025, American Oversight, non-profit promoting transparency in government filed a criminal complaint against the members of the group chat for violations of the Federal Records Act and Administrative Procedure Act.
-	- ` ` - [American Oversight V. Hegseth (Complaint for Declaratory and Injunctive Relief), United States District Court for the District of Columbia, 2025](https://storage.courtlistener.com/recap/gov.uscourts.dcd.278806/gov.uscourts.dcd.278806.1.0_1.pdf)
+	- `Messages in the Signal chat, like all other “recorded information . . . made or received by a Federal agency under Federal law or in connection with the transaction of public business,” are federal records under the FRA, 44 U.S.C. § 3301(a)(1)(A), and must be preserved and safeguarded against removal or loss, see id. § 2904(c)(1) and § 3105. Federal records may only be alienated or destroyed through the careful process set forth in the FRA. See 44 U.S.C. §§ 3301–3314 (setting forth the steps for lawfully disposing of records).`
+	  
+	  `Defendants, in their capacities as agency heads for their respective agencies, know or reasonably should know that the communications in the Signal chat constitute “records” under the FRA.`
+	  
+	  `Defendants, as members of the Signal chat, know or reasonably should know that one or more messages in the Signal chat were or remain subject to automatic deletion in violation of the FRA and implementing rules and regulations of Defendants’ respective agencies.`
+	  
+	  `Defendants have failed and continue to fail to implement measures to prevent the automatic deletion of messages in the Signal chat, which violates their obligations under the FRA.`
+	  
+	  `By permitting and engaging in the use of Signal to communicate regarding agency business, Defendants have failed to establish a records management program providing “effective control over the creation and over the maintenance and use of records,” id. § 3102(1), and to “establish safeguards against the removal or loss of records,” id. § 3105.` - [American Oversight V. Hegseth (Complaint for Declaratory and Injunctive Relief), United States District Court for the District of Columbia, 2025](https://storage.courtlistener.com/recap/gov.uscourts.dcd.278806/gov.uscourts.dcd.278806.1.0_1.pdf)
 - On 28 March 2025, Chief Judge James E. Boasberg granted a Temporary Restraining Order to American Oversight requiring that the members of the group chat have to preserve the messages sent.
 	- `The Court entered the following Minute Order after yesterday’s hearing on Plaintiff’s Motion for a Temporary Restraining Order:`
 	  
