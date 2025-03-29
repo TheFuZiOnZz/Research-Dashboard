@@ -155,3 +155,4 @@
 	  `As I type this, my team and I are traveling the INDOPACOM region, meeting w/ Commanders (the guys who make REAL “war plans”) and talking to troops.`
 	  
 	  `We will continue to do our job, while the media does what it does best: peddle hoaxes.` - [@PeteHegseth Tweet, Twitter, 2025](https://x.com/PeteHegseth/status/1904918673250468002)
+# Lawsuit
