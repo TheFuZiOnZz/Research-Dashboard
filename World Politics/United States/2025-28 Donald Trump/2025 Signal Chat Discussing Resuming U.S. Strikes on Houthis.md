@@ -158,5 +158,9 @@
 # Lawsuit
 - On 25 March 2025, 
 	- ` ` - [American Oversight V. Hegseth (Complaint for Declaratory and Injunctive Relief), United States District Court for the District of Columbia, 2025](https://storage.courtlistener.com/recap/gov.uscourts.dcd.278806/gov.uscourts.dcd.278806.1.0_1.pdf)
-- On 27 March 2025, 
-	- ` ` - [American Oversight V. Hegseth (DEFENDANTS’ MEMORANDUM IN OPPOSITION TO PLAINTIFF’S MOTION FOR TEMPORARY RESTRAINING ORDER ), United States District Court for the District of Columbia, 2025](https://storage.courtlistener.com/recap/gov.uscourts.dcd.278806/gov.uscourts.dcd.278806.8.0.pdf)
+- On 28 March 2025, 
+	- `The Court entered the following Minute Order after yesterday’s hearing on Plaintiff’s Motion for a Temporary Restraining Order:`
+	  
+	  `As agreed by the parties in today’s TRO hearing, the Court ORDERS that: 1) Defendants shall promptly make best efforts to preserve all Signal communications from March 11-15, 2025; 2) By March 31, 2025, Defendants shall file a Status Report with declarations setting forth the steps that they have taken to implement such preservation; and 3) This Order shall expire on April 10, 2025, in the event that Defendants' measures are satisfactory to the Court.`
+	  
+	  `Defendants submit this notice to inform the Court of their understanding that the Court’s order to “preserve all Signal communications from March 11-15, 2025” refers specifically to the group chat on which Plaintiff has centered its lawsuit.` - [American Oversight V. Hegseth (Judge's Notice for Temporary Restraining Order), United States District Court for the District of Columbia, 2025](https://storage.courtlistener.com/recap/gov.uscourts.dcd.278806/gov.uscourts.dcd.278806.8.0.pdf)
