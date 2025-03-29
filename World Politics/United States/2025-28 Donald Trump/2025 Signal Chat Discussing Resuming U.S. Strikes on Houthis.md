@@ -167,6 +167,15 @@
 	  `Defendants have failed and continue to fail to implement measures to prevent the automatic deletion of messages in the Signal chat, which violates their obligations under the FRA.`
 	  
 	  `By permitting and engaging in the use of Signal to communicate regarding agency business, Defendants have failed to establish a records management program providing “effective control over the creation and over the maintenance and use of records,” id. § 3102(1), and to “establish safeguards against the removal or loss of records,” id. § 3105.` - [American Oversight V. Hegseth (Complaint for Declaratory and Injunctive Relief), United States District Court for the District of Columbia, 2025](https://storage.courtlistener.com/recap/gov.uscourts.dcd.278806/gov.uscourts.dcd.278806.1.0_1.pdf)
+	- `Defendants NARA and Rubio, in his capacity as Acting Archivist, have an independent nondiscretionary duty under the FRA to initiate a recovery action or action for other redress through the Attorney General when the agency head fails to do so.`
+	  
+	  `Defendants NARA and Rubio have been made aware of the unlawfully alienated agency records because Rubio participated in the Signal chat.`
+	  
+	  `Defendant Rubio, as Acting Archivist, knows or reasonably should know that each Defendant has failed to take appropriate action to preserve and recover records from the Signal chat.`
+	  
+	  `However, Defendant Rubio has also failed to act consistent with his independent obligation as Acting Archivist to initiate an action for recovery or other redress. Accordingly, Defendants NARA and Rubio are in default of their nondiscretionary obligations under the FRA.`
+	  
+	  `This failure to act is a final agency action for which there is no other adequate remedy in a court of law. Moreover, it is an agency action unlawfully withheld or unreasonably delayed, and is also arbitrary, capricious, an abuse of discretion, and otherwise not in accordance with law. 5 U.S.C. § 706. ` - [American Oversight V. Hegseth (Complaint for Declaratory and Injunctive Relief), United States District Court for the District of Columbia, 2025](https://storage.courtlistener.com/recap/gov.uscourts.dcd.278806/gov.uscourts.dcd.278806.1.0_1.pdf)
 - On 28 March 2025, Chief Judge James E. Boasberg granted a Temporary Restraining Order to American Oversight requiring that the members of the group chat have to preserve the messages sent.
 	- `The Court entered the following Minute Order after yesterday’s hearing on Plaintiff’s Motion for a Temporary Restraining Order:`
 	  
