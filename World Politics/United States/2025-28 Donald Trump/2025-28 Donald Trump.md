@@ -4,7 +4,7 @@ Donald Trump - 20 January 2025 - 20 January 2028
 # Social Policy
 
 # Economic Policy
-## [2025 Canada, Mexico and China Trade Tariffs](2025%20Canada,%20Mexico%20and%20China%20Trade%20Tariffs)
+## [2025 Trade Tariffs](2025%20Trade%20Tariffs)
 
 # Immigration Policy
 ## [2025 Citizenship Gold Cards](2025%20Citizenship%20Gold%20Cards)
