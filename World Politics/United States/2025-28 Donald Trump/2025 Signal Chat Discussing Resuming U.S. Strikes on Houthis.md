@@ -155,7 +155,8 @@
 	  `As I type this, my team and I are traveling the INDOPACOM region, meeting w/ Commanders (the guys who make REAL “war plans”) and talking to troops.`
 	  
 	  `We will continue to do our job, while the media does what it does best: peddle hoaxes.` - [@PeteHegseth Tweet, Twitter, 2025](https://x.com/PeteHegseth/status/1904918673250468002)
-
+- https://www.bbc.co.uk/news/articles/cz01lepk3y8o.amp
+- 
 # Lawsuit
 - On 25 March 2025, American Oversight, non-profit promoting transparency in government filed a criminal complaint against the members of the group chat for violations of the Federal Records Act and Administrative Procedure Act.
 	- `Messages in the Signal chat, like all other “recorded information . . . made or received by a Federal agency under Federal law or in connection with the transaction of public business,” are federal records under the FRA, 44 U.S.C. § 3301(a)(1)(A), and must be preserved and safeguarded against removal or loss, see id. § 2904(c)(1) and § 3105. Federal records may only be alienated or destroyed through the careful process set forth in the FRA. See 44 U.S.C. §§ 3301–3314 (setting forth the steps for lawfully disposing of records).`
