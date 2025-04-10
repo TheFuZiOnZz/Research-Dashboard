@@ -155,7 +155,7 @@
 	  `As I type this, my team and I are traveling the INDOPACOM region, meeting w/ Commanders (the guys who make REAL “war plans”) and talking to troops.`
 	  
 	  `We will continue to do our job, while the media does what it does best: peddle hoaxes.` - [@PeteHegseth Tweet, Twitter, 2025](https://x.com/PeteHegseth/status/1904918673250468002)
-- On 7 April 2025,  CBS News and The Guardian were told that in a internal White House investigation, it was found that Waltz had added Goldberg due to Goldberg's phone number being added as a alternative contact for national security spokesman Brian Hughes. 
+- On 7 April 2025, CBS News and The Guardian were told that in a internal White House investigation, it was found that Waltz had added Goldberg due to Goldberg's phone number being added as a alternative contact for national security spokesman Brian Hughes. 
 	- `A series of mishaps were responsible for a Washington journalist being added to a high-level group chat among top US national security officials last month, according to media reports citing an internal White House investigation.`
 	  
 	  `Sources told the BBC's US partner CBS News and the Guardian that US National Security Adviser Mike Waltz had been trying to add a top spokesman to the Signal chat when he inadvertently added Atlantic editor Jeffrey Goldberg instead.`
