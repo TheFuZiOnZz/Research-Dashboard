@@ -4,5 +4,5 @@
 	- ` ` - 
 - On
 	- ` ` - 
-- On
-	- ` ` - 
+- On 17 April 2025, 
+	- ` ` - [courthousenews.com/wp-content/uploads/2025/04/boasberg-probable-cause-contempt-venezuelan-deporations-opinion.pdf](https://www.courthousenews.com/wp-content/uploads/2025/04/boasberg-probable-cause-contempt-venezuelan-deporations-opinion.pdf)
