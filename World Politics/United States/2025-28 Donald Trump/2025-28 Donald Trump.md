@@ -10,6 +10,7 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [2025 Citizenship Gold Cards](2025%20Citizenship%20Gold%20Cards)
 ## [2025 Alien Enemies Act Deportations](2025%20Alien%20Enemies%20Act%20Deportations)
 
+
 # Environmental Policy
 ## [2025 Energy Plan for Oil and Gas](2025%20Energy%20Plan%20for%20Oil%20and%20Gas)
 ## [2025 National Energy Emergency](2025%20National%20Energy%20Emergency)
