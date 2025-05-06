@@ -8,5 +8,6 @@
 - On
 	- ` ` - 
 # Lawsuit
+[Docket](https://www.courtlistener.com/docket/69742076/jgg-v-trump/)
 - On 17 April 2025, 
 	- ` ` - [courthousenews.com/wp-content/uploads/2025/04/boasberg-probable-cause-contempt-venezuelan-deporations-opinion.pdf](https://www.courthousenews.com/wp-content/uploads/2025/04/boasberg-probable-cause-contempt-venezuelan-deporations-opinion.pdf)

@@ -11,4 +11,5 @@
 
 # Lawsuits
 [Docket](https://www.courtlistener.com/docket/69777799/abrego-garcia-v-noem/)
+[SCOTUS Docket](https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/24a949.html)
 - On 10 April 2025,the Supreme Court of the United States ruled, without dissent, that Abrego Garcia's removal to El Salvador was illegal. The Court rejected the administration's defense, which claimed it lacked the legal authority to exercise jurisdiction over El Salvador and secure his return.
