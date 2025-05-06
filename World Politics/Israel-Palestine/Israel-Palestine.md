@@ -47,6 +47,7 @@
 ## [1936-37 Peel Commission](1917-48%20Mandatory%20Palestine%20Period/1936-37%20Peel%20Commission)
 ## [1938 Woodhead Commission](1917-48%20Mandatory%20Palestine%20Period/1938%20Woodhead%20Commission)
 ## [1939 British White Paper](1917-48%20Mandatory%20Palestine%20Period/1939%20British%20White%20Paper)
+## [1939 UK Committee Report on the McMahon-Hussein Correspondence](1517-1917%20Ottoman%20Period/1939%20UK%20Committee%20Report%20on%20the%20McMahon-Hussein%20Correspondence)
 ## [1941-45 Holocaust](1917-48%20Mandatory%20Palestine%20Period/1941-45%20Holocaust)
 ## [1942 Biltmore Conference](1917-48%20Mandatory%20Palestine%20Period/1942%20Biltmore%20Conference)
 ## [1944 Alexandria Protocol](1917-48%20Mandatory%20Palestine%20Period/1944%20Alexandria%20Protocol)
