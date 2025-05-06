@@ -6,6 +6,7 @@
 ## [1950-53 Campaign to Suppress Counter-Revolutionaries](1949-76%20Mao%20Zedong%20Era/1950-53%20Campaign%20to%20Suppress%20Counter-Revolutionaries)
 ## [1956-66 Sino-Soviet Split](1949-76%20Mao%20Zedong%20Era/1956-66%20Sino-Soviet%20Split)
 ## [1959–61 Great Chinese Famine](1949-76%20Mao%20Zedong%20Era/1959–61%20Great%20Chinese%20Famine)
+## [[1962 Sino-Indian War]]
 ## [1966-76 Mao's Cultural Revolution](1949-76%20Mao%20Zedong%20Era/1966-76%20Mao's%20Cultural%20Revolution)
 ### Mao’s Other Wrongdoings
 - Mao had **sex with children** as he believed it would prolong his life. ([Washington City Paper](https://washingtoncitypaper.com/article/205384/was-chairman-mao-a-pedophile-and-how-would-tom-clancy/))

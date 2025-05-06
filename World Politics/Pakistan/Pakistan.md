@@ -7,4 +7,5 @@
 ## [1947-48 First Indo-Pakistani War](1947-48%20First%20Indo-Pakistani%20War.md)
 ## [[1965 Second Indo-Pakistani War]]
 
-## [2004- Insurgency In Khyber Pakhtunkhwa](2004-%20Insurgency%20In%20Khyber%20Pakhtunkhwa)  
+## [2004- Insurgency In Khyber Pakhtunkhwa](2004-%20Insurgency%20In%20Khyber%20Pakhtunkhwa)
+## [[2025 Pahalgam Attack]]
