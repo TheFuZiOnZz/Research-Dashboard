@@ -10,4 +10,4 @@
 - 
 
 # Lawsuits
-- On 10 April 2025,
+- On 10 April 2025,the Supreme Court of the United States ruled, without dissent, that Abrego Garcia's removal to El Salvador was illegal. The Court rejected the administration's defense, which claimed it lacked the legal authority to exercise jurisdiction over El Salvador and secure his return.
