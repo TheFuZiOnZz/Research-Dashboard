@@ -32,3 +32,5 @@
 	  `ORDERED that defendants are ENJOINED from using the statements laid out in Section 1 of Executive Order 14230 in any interactions with plaintiff or plaintiff’s clients, or employee of plaintiff or plaintiff’s clients; it is further`
 	  
 	  `ORDERED that defendants are DIRECTED to suspend and rescind all guidance or other direction provided to their officers, staff, employees, or contractors to communicate, effectuate, implement, or enforce Sections 1, 3, and 5 of Executive Order 14230` - [Perkins Coie LLP V. U.S. Department of Justice (Motion Granting a Temporary Restraining Order), United States District Court for the District of Columbia, 2025](https://storage.courtlistener.com/recap/gov.uscourts.dcd.278290/gov.uscourts.dcd.278290.21.0_4.pdf)
+- On 5 May 2025, Judge Beryl Howell issued a Memorandum Opinion nullifying the Executive Order
+	- ` ` - [storage.courtlistener.com/recap/gov.uscourts.dcd.278290/gov.uscourts.dcd.278290.185.0\_1.pdf](https://storage.courtlistener.com/recap/gov.uscourts.dcd.278290/gov.uscourts.dcd.278290.185.0_1.pdf)
