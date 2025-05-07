@@ -8,9 +8,7 @@
 ## [1959–61 Great Chinese Famine](1949-76%20Mao%20Zedong%20Era/1959–61%20Great%20Chinese%20Famine)
 ## [[1962 Sino-Indian War]]
 ## [1966-76 Mao's Cultural Revolution](1949-76%20Mao%20Zedong%20Era/1966-76%20Mao's%20Cultural%20Revolution)
-### Mao’s Other Wrongdoings
-- Mao had **sex with children** as he believed it would prolong his life. ([Washington City Paper](https://washingtoncitypaper.com/article/205384/was-chairman-mao-a-pedophile-and-how-would-tom-clancy/))
-- Mao had **criminalised homosexuality and considered it a mental illness**. ([The Culture Trip](https://theculturetrip.com/asia/china/articles/a-history-of-homosexuality-in-china/))
+
 # 1976-89 Deng Xiaoping Era
 ## [1989 Tiananmen Square](1976-89%20Deng%20Xiaoping%20Era/1989%20Tiananmen%20Square)
 # 1989-2002 Jiang Zemin Era

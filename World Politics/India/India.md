@@ -8,6 +8,4 @@
 ## [[1962 Sino-Indian War]]
 ## [[1965 Second Indo-Pakistani War]]
 ## [[1971 Third Indo-Pakistani War]]
-## [[]]
 ## [2025 Pahalgam Attack](2025%20Pahalgam%20Attack)
-## [[]]
