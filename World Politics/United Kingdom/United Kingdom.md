@@ -7,5 +7,5 @@
 # [1974-79 Labour](1974-79%20Labour)
 # [1979-97 Conservative](1979-97%20Conservative)
 # [1997-2010 Labour](1997-2010%20Labour)
-# [2010-24 Conservative](2010-24%20Conservative)
+# [2010-24 Conservative](2010-24%20Conservative/2010-24%20Conservative)
 # [2024- Labour](2024-%20Labour)
