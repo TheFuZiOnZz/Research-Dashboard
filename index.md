@@ -8,4 +8,3 @@
 ## [Philosophical Positions](Philosophical%20Positions/Philosophical%20Positions)
 # Culture
 ## [Red Pill](Red%20Pill/Red%20Pill)
-

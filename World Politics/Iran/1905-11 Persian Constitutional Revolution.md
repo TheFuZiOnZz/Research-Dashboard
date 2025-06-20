@@ -1,0 +1,3 @@
+[Persian Constitutional Revolution - Wikipedia](https://en.wikipedia.org/wiki/Persian_Constitutional_Revolution)
+
+- The Persian Constitutional Revolution, also known as the Constitutional Revolution of Iran, took place between 1905 and 1911 during the Qajar era. The revolution led to the establishment of a parliament in Iran (Persia),and has been called an "epoch-making episode in the modern history of Persia".
