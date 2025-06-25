@@ -157,6 +157,7 @@
 ## [2018- ICC Investigation in Palestine](2018-%20ICC%20Investigation%20in%20Palestine)
 ## [2018-19 Great March of Return Protest](1948-%20Israeli-Palestinian%20Period/2018-19%20Great%20March%20of%20Return%20Protest)
 ## [2018-19 Operation Northern Shield](2018-19%20Operation%20Northern%20Shield)
+## [[2019 Warsaw Conference]]
 ## [2019 Gaza Economic Protests](1948-%20Israeli-Palestinian%20Period/2019%20Gaza%20Economic%20Protests)
 ## [2019-20 Trump Peace Plan](1948-%20Israeli-Palestinian%20Period/2019-20%20Trump%20Peace%20Plan)
 ## [2020 Abraham Accords](1948-%20Israeli-Palestinian%20Period/2020%20Abraham%20Accords)
