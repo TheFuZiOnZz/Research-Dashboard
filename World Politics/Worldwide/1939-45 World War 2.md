@@ -40,6 +40,7 @@
 ## [1942 Wannsee Conference](1942%20Wannsee%20Conference)
 ## [1942-43 Battle of Stalingrad](1942-43%20Battle%20of%20Stalingrad)
 ## [1942 Battle of Midway](1942%20Battle%20of%20Midway)
+## [1942-43 German Occupation of Tunisia](1942-43%20German%20Occupation%20of%20Tunisia)
 ## [1943 Operation Mincemeat](1943%20Operation%20Mincemeat)
 ## [1943 Warsaw Ghetto Uprising](1943%20Warsaw%20Ghetto%20Uprising)
 ## [1943 Dambusters Raid, Operation Chastise](1943%20Dambusters%20Raid,%20Operation%20Chastise)
