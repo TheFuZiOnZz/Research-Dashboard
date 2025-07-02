@@ -12,8 +12,8 @@
 - [link](https://en.wikipedia.org/wiki/Kingdom_of_Iraq)
 # 1958 Arab Federation
 - [Arab Federation - Wikipedia](https://en.wikipedia.org/wiki/Arab_Federation)
-## [[1958 Establishment of the Arab Federation]]
-## [[1958 Iraqi Military Coup]]
+## [1958 Establishment of the Arab Federation](../Jordan/1958%20Establishment%20of%20the%20Arab%20Federation)
+## [1958 Iraqi Military Coup](1958%20Iraqi%20Military%20Coup)
 # 1958-68 Iraqi Republic
 - [link](https://en.wikipedia.org/wiki/Iraqi_Republic_(1958%E2%80%931968))
 # 1968-2003 Ba'athist Iraqi Republic
