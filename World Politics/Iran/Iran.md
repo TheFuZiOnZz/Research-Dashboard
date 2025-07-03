@@ -1,4 +1,4 @@
-[World Politics](../World%20Politics)
+#[World Politics](../World%20Politics)
 # 1785-1925 Sublime State of Persia
 - [link](https://en.wikipedia.org/wiki/Qajar_dynasty)
 ## [1905-11 Persian Constitutional Revolution](1905-11%20Persian%20Constitutional%20Revolution)
