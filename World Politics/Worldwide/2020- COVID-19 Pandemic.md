@@ -10,6 +10,9 @@
 - A 2021 paper found that `52% (32/61) of home-isolated young adults, aged 16–30 years, had symptoms at 6 months, including loss of taste and/or smell (28%, 17/61), fatigue (21%, 13/61), dyspnea (13%, 8/61), impaired concentration (13%, 8/61) and memory problems (11%, 7/61). Our findings that young, home-isolated adults with mild COVID-19 are at risk of long-lasting dyspnea and cognitive symptoms highlight the importance of infection control measures, such as vaccination.` [link](https://www.nature.com/articles/s41591-021-01433-3.pdf)
 - A 2021 paper found that `Respondents were considered recovered if they identified themselves as no longer experiencing symptoms at the time of survey completion. 257 respondents (6.8%) recovered after day 28 of illness, and 3505 (93.2%) were still experiencing symptoms at the time of survey completion.` [link](https://www.thelancet.com/pdfs/journals/eclinm/PIIS2589-5370(21)00299-6.pdf)
 - A 2021 paper found that `The 5 most common manifestations were fatigue (58%, 95% CI 42–73), headache (44%, 95% CI 13–78), attention disorder (27% 95% CI 19–36), hair loss (25%, 95% CI 17–34), dyspnea (24%, 95% CI 14–36)` [link](https://www.nature.com/articles/s41598-021-95565-8.pdf)
+# Origins
+[Practically-A-Book Review: Rootclaim $100,000 Lab Leak Debate](https://www.astralcodexten.com/p/practically-a-book-review-rootclaim)
+- 
 # Proposed Treatments
 ## Hydroxychloroquine
 - Mention FDA Emergency Use Authorization clearance and then removal
