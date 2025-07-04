@@ -3,6 +3,7 @@
 # 1820-1971 Trucial States
 - [Trucial States - Wikipedia](https://en.wikipedia.org/wiki/Trucial_States)
 
-## [[1820]]
+## [[1820 General Maritime Treaty]]
+## 
 # 1971- United Arab Emirates
 ## 
