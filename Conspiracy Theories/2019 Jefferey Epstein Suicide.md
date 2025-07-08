@@ -2,3 +2,6 @@
 - [Death of Jeffrey Epstein - Wikipedia](https://en.wikipedia.org/wiki/Death_of_Jeffrey_Epstein)
 - [Epstein didn't kill himself - Wikipedia](https://en.wikipedia.org/wiki/Epstein_didn%27t_kill_himself)                         
 - [Jeffrey Epstein - RationalWiki](https://rationalwiki.org/wiki/Jeffrey_Epstein)
+- [OIG Report](https://oig.justice.gov/sites/default/files/reports/23-085.pdf)
+- [Cell Footage](https://www.justice.gov/video-files/video2.mp4)
+- 
