@@ -4,4 +4,5 @@
 - [Jeffrey Epstein - RationalWiki](https://rationalwiki.org/wiki/Jeffrey_Epstein)
 - [OIG Report](https://oig.justice.gov/sites/default/files/reports/23-085.pdf)
 - [Cell Footage](https://www.justice.gov/video-files/video2.mp4)
-- 
+- [Cell Footage](https://www.justice.gov/video-files/video1.mp4)
+- [x.com/adamscochran/status/1942113153245942233](https://x.com/adamscochran/status/1942113153245942233)
