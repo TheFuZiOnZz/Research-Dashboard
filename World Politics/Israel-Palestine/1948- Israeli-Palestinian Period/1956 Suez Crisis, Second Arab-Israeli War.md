@@ -1,4 +1,3 @@
-## 1956 Suez Crisis, Second Arab-Israeli War
 - [Wiki](https://en.wikipedia.org/wiki/Suez_Crisis)
 - Lead-up
     - Suez Canal Company formed in 1858 by French Ferdinand de Lesseps to build the Suez Canal from 1859 to 1869, opening on 1869 to allow trade.
