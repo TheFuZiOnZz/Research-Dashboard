@@ -11,7 +11,7 @@
 - Different countries had different positions on what to do
     - Eden from Great Britain wanted war, though opposition parties cautioned that doing so without UN approval would not be supported.
     - Guy Mollet from France and the rest of the nation was eager for military action.
-    - Eiseinhower from DC did not really care.
+    - Eisenhower from DC did not really care.
     - Canada didn't care.
     - Australia kind of cared.
     - New Zealand cared.
