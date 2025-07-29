@@ -25,6 +25,7 @@
 ## [1939 Invasion of Finland, Winter War](../Russia/1917-91%20Soviet%20Period/1939%20Invasion%20of%20Finland,%20Winter%20War)
 ## [1940 Battle of France](1940%20Battle%20of%20France)
 ## [1940 Katyn Massacre](../Russia/1917-91%20Soviet%20Period/1940%20Katyn%20Massacre)
+## [[1940 Operation Willi]]
 ## [1940-44 Soviet, Then Nazi, Then Soviet Occupation of the Baltic States](../Russia/1917-91%20Soviet%20Period/1940-44%20Soviet,%20Then%20Nazi,%20Then%20Soviet%20Occupation%20of%20the%20Baltic%20States)
 ## [1940-41 Occupation of Bessarabia, Northern Bukovina and the Hertsa Region, now Moldova](../Russia/1917-91%20Soviet%20Period/1940-41%20Occupation%20of%20Bessarabia,%20Northern%20Bukovina%20and%20the%20Hertsa%20Region,%20now%20Moldova)
 ## [1940 Battle of Britain, The Blitz](1940%20Battle%20of%20Britain,%20The%20Blitz)
