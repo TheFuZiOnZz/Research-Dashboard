@@ -1,4 +1,4 @@
-   # Welcome to TheFuZiOnZz' Research Dashboard
+# Welcome to TheFuZiOnZz' Research Dashboard
 # Politics
 ## [Political Positions](Political%20Positions/Political%20Positions)
 ## [World Politics](World%20Politics/World%20Politics)
