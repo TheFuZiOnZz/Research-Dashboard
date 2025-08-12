@@ -43,11 +43,6 @@
 	- ` ` - [Perkins Coie LLP V. U.S. Department of Justice (Memorandum Opinion), United States District Court for the District of Columbia, 2025](https://storage.courtlistener.com/recap/gov.uscourts.dcd.278290/gov.uscourts.dcd.278290.185.0_1.pdf)
 	- [Lawyers Beat Trump In Court! (For Now...) - LegalEagle - YouTube](https://www.youtube.com/watch?v=DV76sIhZrdM)
 
-# Executive Order
-## Background
-- 
-## Main Point
-## Lawsuit
 # Elias Law Group Executive Order
 ## Background
 - [Preventing Abuses of the Legal System and the Federal Court – The White House](https://www.whitehouse.gov/presidential-actions/2025/03/preventing-abuses-of-the-legal-system-and-the-federal-court/)
@@ -58,18 +53,14 @@
 - [Addressing Risks from Jenner & Block – The White House](https://www.whitehouse.gov/presidential-actions/2025/03/addressing-risks-from-jenner-block/)
 ## Main Point
 ## Lawsuit
-# Executive Order
+# Wilmerhale Executive Order
 ## Background
-- 
+- [Addressing Risks From WilmerHale – The White House](https://www.whitehouse.gov/presidential-actions/2025/03/addressing-risks-from-wilmerhale/)
 ## Main Point
 ## Lawsuit
-# Executive Order
+# Susman Godfrey Executive Order
 ## Background
-- 
+- [Addressing Risks from Susman Godfrey – The White House](https://www.whitehouse.gov/presidential-actions/2025/04/addressing-risks-from-susman-godfrey/)
 ## Main Point
 ## Lawsuit
-# Executive Order
-## Background
-- 
-## Main Point
-## Lawsuit
+# 

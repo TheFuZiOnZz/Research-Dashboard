@@ -9,7 +9,7 @@ Donald Trump - 20 January 2025 - 20 January 2028
 # Immigration Policy
 ## [2025 Citizenship Gold Cards](2025%20Citizenship%20Gold%20Cards)
 ## [2025 Alien Enemies Act Deportations](2025%20Alien%20Enemies%20Act%20Deportations)
-## [[2025 Kilmar Abrego Garcia Deportation to El Salvador]]
+## [2025 Kilmar Abrego Garcia Deportation to El Salvador](2025%20Kilmar%20Abrego%20Garcia%20Deportation%20to%20El%20Salvador)
 
 # Environmental Policy
 ## [2025 Energy Plan for Oil and Gas](2025%20Energy%20Plan%20for%20Oil%20and%20Gas)
@@ -21,7 +21,7 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [2025 Failing Peace Plans For Russia-Ukraine War](2025%20Failing%20Peace%20Plans%20For%20Russia-Ukraine%20War)
 ## [2025 Israel Negotiation Troubles](2025%20Israel%20Negotiation%20Troubles)
 ## [2025 Canada Negotiation Troubles](2025%20Canada%20Negotiation%20Troubles)
-## [2025 SignalGate](2025%20SignalGate.md)
+## [2025 SignalGate](2025%20SignalGate)
 
 # Controversy’s
 ## [2025 Gulf of Mexico Renaming](2025%20Gulf%20of%20Mexico%20Renaming)
@@ -44,7 +44,7 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [2025 Merchandise Sold By Cabinet Members](2025%20Merchandise%20Sold%20By%20Cabinet%20Members)
 ## [2025 Musk Substitutes Verizon FAA Contract for Starlink](2025%20Musk%20Substitutes%20Verizon%20FAA%20Contract%20for%20Starlink)
 ## [2025 SEC Closing Crypto Legal Cases & Reducing Regulatory Enforcement](2025%20SEC%20Closing%20Crypto%20Legal%20Cases%20&%20Reducing%20Regulatory%20Enforcement)
-## [2025 Executive Orders Targeting Non-Preferential Law Firms](2025%20Executive%20Orders%20Targeting%20Non-Preferential%20Law%20Firms.md)
+## [2025 Executive Orders Targeting Non-Preferential Law Firms](2025%20Executive%20Orders%20Targeting%20Non-Preferential%20Law%20Firms)
 ## [2025 Detention of Mahmoud Khalil](2025%20Detention%20of%20Mahmoud%20Khalil)
 
 # Pre-Presidency Controversy’s
