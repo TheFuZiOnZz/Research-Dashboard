@@ -1,0 +1,11 @@
+views:
+  - type: cards
+    name: Table
+  - type: table
+    name: View
+    order:
+      - file.name
+      - file.size
+    sort:
+      - property: file.size
+        direction: DESC
