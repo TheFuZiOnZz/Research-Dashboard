@@ -1,4 +1,4 @@
-## Epistemic Realism vs Anti-Realism
+
 Anti-Realism in any regard Is an epistemic claim, this includes and is not limited to ontology, Morality, Science, and Maths topic belief on realism. Anti-realism is defined as there is no reason for belief in ‘x’ and ‘x’ meaning the specific topic of realism we want to talk about. Specifically epistemic realism refers to epistemic reasons for belief. Realism and epistemic conversations are usually entailed with negative arguments, This meaning that you argue from one position and show some internal inconsistencies making the alternative the only option.
 Argument for Epistemic Realism:
 - P1: If the epistemic anti-realist is right, then there are no epistemic reasons for belief,
