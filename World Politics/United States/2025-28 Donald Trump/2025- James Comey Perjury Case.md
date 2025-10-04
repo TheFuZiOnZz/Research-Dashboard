@@ -1,5 +1,5 @@
 # Background
-- On 3 May 2017, Chairman of the Senate Judiciary Committee, Charles E. Grassley, Republican of Iowa, asked then FBI Director James Comey during a FBI Oversight hearing, whether he himself or  had ever authorized someone else at the F.B.I. to be an anonymous source in news reports about the Trump investigation or the Clinton investigation. Comey responded, No.
+- On 3 May 2017, Chairman of the Senate Judiciary Committee, Charles E. Grassley, Republican of Iowa, asked then FBI Director James Comey during a FBI Oversight hearing, whether he himself or someone else had ever been authorized at the F.B.I. to be an anonymous source in news reports about the Trump the Clinton investigations. Comey responded to both, never and no.
 	- Grassley: `DIRECTOR COMEY HAVE YOU EVER BEEN AN ANONYMOUS SOURCE ABOUT NEWS RELATING TO THE TRUMP INVESTIGATION OR THE CLINTON INVESTIGATION?`
 	  
 	  Comey: `NEVER.`
@@ -7,7 +7,8 @@
 	  Grassley: `QUESTION 2 ON RELATIVELY RELATED, HAVE YOU EVER AUTHORIZED SOMEONE ELSE AT THE FBI TO BE AN ANONYMOUS SOURCE IN NEWS REPORTS ABOUT THE TRUMP INVESTIGATION OR CLINTON INVESTIGATION?`
 	  
 	  Comey: `NO.` - [Comey Perjury Statement Clip, C-SPAN, 2017](https://www.c-span.org/clip/senate-committee/user-clip-comey-perjury-statement/5174508) [FBI Oversight, C-SPAN, 2017](https://www.c-span.org/program/senate-committee/fbi-oversight/477132)
-- On 30 September 2020, 
+- 
+- On 30 September 2020, Senator Ted Cruz asked Comey about the 3 May 2017 question being in 
 # Main Info
 - On
 	- 
