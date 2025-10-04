@@ -46,6 +46,8 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [2025 SEC Closing Crypto Legal Cases & Reducing Regulatory Enforcement](2025%20SEC%20Closing%20Crypto%20Legal%20Cases%20&%20Reducing%20Regulatory%20Enforcement)
 ## [2025 Executive Orders Targeting Non-Preferential Law Firms](2025%20Executive%20Orders%20Targeting%20Non-Preferential%20Law%20Firms)
 ## [2025 Detention of Mahmoud Khalil](2025%20Detention%20of%20Mahmoud%20Khalil)
+## [[2025 Charlie Kirk Assassination]]
+## [[2025 James Comey Perjury Case]]
 
 # Pre-Presidency Controversy’s
 ## [2022-25 Smith’s Special Counsel Investigation](2022-25%20Smith’s%20Special%20Counsel%20Investigation)
