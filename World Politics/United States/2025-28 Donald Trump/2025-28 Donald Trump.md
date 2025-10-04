@@ -24,6 +24,7 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [2025 Israel Negotiation Troubles](2025%20Israel%20Negotiation%20Troubles)
 ## [2025 Canada Negotiation Troubles](2025%20Canada%20Negotiation%20Troubles)
 ## [2025 SignalGate](2025%20SignalGate)
+## [[2025 USAID Defunding]]
 ## [[2025 United States Strikes On Venezuelan Boats]]
 
 
