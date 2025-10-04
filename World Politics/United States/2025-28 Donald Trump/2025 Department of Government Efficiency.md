@@ -1,3 +1,5 @@
+- # Background
+- On
 - It is a repurposing of the United States Digital Service
     - Quoting from the [Obama White House Archives](https://obamawhitehouse.archives.gov/the-press-office/2014/08/11/fact-sheet-improving-and-simplifying-digital-services), USDS's service had "one core mission: to improve and simplify the digital experience that people and businesses have with their government."
         - A Biden Administration [example press sheet](https://www.usds.gov/assets/files/USDS-Overview.pdf) for the types of things USDS would take credit for.
@@ -7,9 +9,13 @@
     - In Section 4., subsection (b), DOGE is limited to working within the maximum extent consistent with law, and is only given full and prompt access to all unclassified agency records.
 - DOGE is supposed to terminate on July 4th, 2026.
 - The head administrator of DOGE is Elon Musk.
-
-The primary purpose of the USDS under Obama seems to have been to streamline the technological side of things in government departments. It was not created to further any sort of executive or legislative agenda, and was not marketed as such. DOGE, on the other hand, in writing, appears to strive for the same goal, although Elon's behavior on X seems to make it sound as though the job is actually auditing other departments for "waste and fraud," where "waste" can also just mean "things Trump doesn't like."
-
+- The primary purpose of the USDS under Obama seems to have been to streamline the technological side of things in government departments. It was not created to further any sort of executive or legislative agenda, and was not marketed as such. DOGE, on the other hand, in writing, appears to strive for the same goal, although Elon's behavior on X seems to make it sound as though the job is actually auditing other departments for "waste and fraud," where "waste" can also just mean "things Trump doesn't like."
+# Main Info
+- On
+	- 
+# Lawsuit(s)
+- On
+	- 
 - Around January 31st, Jason Gray (the Acting Administrator of USAID) allowed DOGE engineers access to the entire digital network.
     - According to a [ProPublica article](https://www.propublica.org/article/usaid-trump-musk-destruction-may-have-broken-law) citing John Davisson, director of litigation at Electronic Privacy Information Center, it's possible this was a violation of the Privacy Act of 1974.
     - The same article claims there could be violations of the Administrative Procedures Act and the Impoundment Control Act.
