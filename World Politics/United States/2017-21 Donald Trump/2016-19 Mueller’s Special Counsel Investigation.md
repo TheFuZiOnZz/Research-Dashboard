@@ -703,8 +703,6 @@
 	- `I HEREBY DESIGNATE, direct, and empower the Acting Pardon Attorney, as my representative, to sign each grant of clemency to the persons named herein. The Acting Pardon Attorney shall declare that her action is the act of the President, being performed at my direction.`
 	  
 	  `IN TESTIMONY WHEREOF, I have hereunto signed my name and caused the seal of the Department of Justice to be affixed.` - [Executive Grant of Clemency for Steve Bannon, U.S. Department of Justice, 2021](https://www.justice.gov/file/1358426/download)
-# Inspector General Report on Allegations Relating to Former FBI Deputy Director Andrew McCabe
-- On 
 # Inspector General Report on the Crossfire Hurricane Investigation
 - On 28 March 2018, U.S. Department of Justice Inspector General Michael Horowitz announced that his office would initiate a review of the Crossfire Hurricane investigation.
     - `Department of Justice (DoJ) Inspector General Michael E. Horowitz announced today that, in response to requests from the Attorney General and Members of Congress, the U.S. Office of the Inspector General (OIG) will initiate a review that will examine the Justice Department’s and the Federal Bureau of Investigation’s (FBI) compliance with legal requirements, and with applicable DoJ and FBI policies and procedures, in applications filed with the U.S. Foreign Intelligence Surveillance Court (FISC) relating to a certain U.S. person. As part of this examination, the OIG also will review information that was known to the DoJ and the FBI at the time the applications were filed from or about an alleged FBI confidential source. Additionally, the OIG will review the DoJ’s and FBI’s relationship and communications with the alleged source as they relate to the FISC applications.`
@@ -807,6 +805,9 @@
 ## Use of Confidential Human Sources in Crossfire Hurricane
 - On
 	- ` ` - [Review of Four FISA Applications and Other Aspects of the FBI’s Crossfire Hurricane Investigation, U.S. Office of the Inspector General, 2019](https://www.justice.gov/storage/120919-examination.pdf) 
+# McCabe Leaking to the Press Allegations
+## Inspector General Report on Allegations Relating to Former FBI Deputy Director Andrew McCabe
+- On 13 April 2018, 
 # Senate Intelligence Committee Report
 - [Wiki](https://en.wikipedia.org/wiki/Senate_Intelligence_Committee_report_on_Russian_interference_in_the_2016_United_States_presidential_election)
 - The Senate Intelligence Committee report on Russian interference in the United States presidential election, officially titled Report of the Select Committee on Intelligence United States Senate on Russian Active Measures Campaigns and Interference in the 2016 U.S. Election, is the official report in five volumes documenting the findings and conclusions of the United States Senate Intelligence Committee concerning the Russian attack efforts against election infrastructure, Russia's use of social media to affect the election, the U.S. government's response to Russian activities, review of the Intelligence Community Assessment, and counterintelligence threats and vulnerabilities.
