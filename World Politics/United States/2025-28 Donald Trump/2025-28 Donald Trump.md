@@ -10,6 +10,7 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [2025 Citizenship Gold Cards](2025%20Citizenship%20Gold%20Cards)
 ## [2025 Alien Enemies Act Deportations](2025%20Alien%20Enemies%20Act%20Deportations)
 ## [2025 Kilmar Abrego Garcia Deportation to El Salvador](2025%20Kilmar%20Abrego%20Garcia%20Deportation%20to%20El%20Salvador)
+## [2025 Detention of Mahmoud Khalil](2025%20Detention%20of%20Mahmoud%20Khalil)
 
 # Environmental Policy
 ## [2025 Energy Plan for Oil and Gas](2025%20Energy%20Plan%20for%20Oil%20and%20Gas)
@@ -45,7 +46,9 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [2025 Musk Substitutes Verizon FAA Contract for Starlink](2025%20Musk%20Substitutes%20Verizon%20FAA%20Contract%20for%20Starlink)
 ## [2025 SEC Closing Crypto Legal Cases & Reducing Regulatory Enforcement](2025%20SEC%20Closing%20Crypto%20Legal%20Cases%20&%20Reducing%20Regulatory%20Enforcement)
 ## [2025 Executive Orders Targeting Non-Preferential Law Firms](2025%20Executive%20Orders%20Targeting%20Non-Preferential%20Law%20Firms)
-## [2025 Detention of Mahmoud Khalil](2025%20Detention%20of%20Mahmoud%20Khalil)
+##
+
+## [[2025 Trump Third Term]]
 ## [[2025 Charlie Kirk Assassination]]
 ## [[2025 James Comey Perjury Case]]
 
