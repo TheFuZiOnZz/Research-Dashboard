@@ -10,8 +10,11 @@
 - 
 - On 30 September 2020, Senator Ted Cruz asked Comey about the 3 May 2017 question being in 
 # Main Info
-- On
-	- 
+## Inspector General Report on Allegations Relating to Former FBI Deputy Director Andrew McCabe
+- On 13 April 2018, 
+# 
+# McCabe Gets Indicted
+- 
 # The Lawsuit
 [Docket](https://www.courtlistener.com/docket/71459121/united-states-v-comey/)
 - On 25 September 2025, James Comey was indicted for two counts of making `False statements within the jurisdiction of the legislative branch of the United States Government` and one count of `Obstruction of a Congressional proceeding`. The `Report Of a Grand Jury’s Failure To Concur In an Indictment` document attaches the first inditement proposed to the Grand Jury.
