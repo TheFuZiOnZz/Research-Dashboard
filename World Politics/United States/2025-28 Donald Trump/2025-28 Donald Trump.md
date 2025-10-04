@@ -30,7 +30,7 @@ Donald Trump - 20 January 2025 - 20 January 2028
 
 # Controversy’s
 ## [2025 Gulf of Mexico Renaming](2025%20Gulf%20of%20Mexico%20Renaming)
-## [2025 Establishment of the Department of Government Efficiency](2025%20Establishment%20of%20the%20Department%20of%20Government%20Efficiency)
+## [2025 Department of Government Efficiency](2025%20Department%20of%20Government%20Efficiency.md)
 ## [2025 Agency for International Development Funding Freeze](2025%20Agency%20for%20International%20Development%20Funding%20Freeze)
 ## [2025 17 Inspector Generals Fired](2025%2017%20Inspector%20Generals%20Fired)
 ## [2025 National Labor Relations Board Chair Fired](2025%20National%20Labor%20Relations%20Board%20Chair%20Fired)
