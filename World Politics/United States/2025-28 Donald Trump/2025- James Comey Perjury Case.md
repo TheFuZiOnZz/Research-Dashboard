@@ -1,6 +1,6 @@
 # Background
-- On
-	- 
+- On 3 May 2017, Chairman of the Senate Judiciary Committee, Charles E. Grassley, Republican of Iowa, asked then FBI Director James Comey whether he had ever authorized someone else at the F.B.I. to be an anonymous source in news reports about the Trump investigation or the Clinton investigation. Mr. Comey responded, No.
+- 
 # Main Info
 - On
 	- 
