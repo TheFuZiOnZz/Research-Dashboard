@@ -17,12 +17,14 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [2025 National Energy Emergency](2025%20National%20Energy%20Emergency)
 ## [2025 2nd U.S. Departure of the Paris Climate Accord](2025%202nd%20U.S.%20Departure%20of%20the%20Paris%20Climate%20Accord)
 ## [2025 National Energy Dominance Council](2025%20National%20Energy%20Dominance%20Council)
+## [[2025 Trump Clean Coal Claims]]
 
 # Foreign Policy
 ## [2025 Failing Peace Plans For Russia-Ukraine War](2025%20Failing%20Peace%20Plans%20For%20Russia-Ukraine%20War)
 ## [2025 Israel Negotiation Troubles](2025%20Israel%20Negotiation%20Troubles)
 ## [2025 Canada Negotiation Troubles](2025%20Canada%20Negotiation%20Troubles)
 ## [2025 SignalGate](2025%20SignalGate)
+## [[2025 United States Strikes On Venezuelan Boats]]
 
 # Controversy’s
 ## [2025 Gulf of Mexico Renaming](2025%20Gulf%20of%20Mexico%20Renaming)
