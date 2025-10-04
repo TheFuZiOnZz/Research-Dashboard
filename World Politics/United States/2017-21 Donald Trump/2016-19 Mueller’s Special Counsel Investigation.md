@@ -805,9 +805,12 @@
 ## Use of Confidential Human Sources in Crossfire Hurricane
 - On
 	- ` ` - [Review of Four FISA Applications and Other Aspects of the FBI’s Crossfire Hurricane Investigation, U.S. Office of the Inspector General, 2019](https://www.justice.gov/storage/120919-examination.pdf) 
-# McCabe Leaking to the Press Allegations
+# McCabe Leaking Info to the Press Allegations
 ## Inspector General Report on Allegations Relating to Former FBI Deputy Director Andrew McCabe
 - On 13 April 2018, 
+# 
+# McCabe Gets Indicted
+- 
 # Senate Intelligence Committee Report
 - [Wiki](https://en.wikipedia.org/wiki/Senate_Intelligence_Committee_report_on_Russian_interference_in_the_2016_United_States_presidential_election)
 - The Senate Intelligence Committee report on Russian interference in the United States presidential election, officially titled Report of the Select Committee on Intelligence United States Senate on Russian Active Measures Campaigns and Interference in the 2016 U.S. Election, is the official report in five volumes documenting the findings and conclusions of the United States Senate Intelligence Committee concerning the Russian attack efforts against election infrastructure, Russia's use of social media to affect the election, the U.S. government's response to Russian activities, review of the Intelligence Community Assessment, and counterintelligence threats and vulnerabilities.
