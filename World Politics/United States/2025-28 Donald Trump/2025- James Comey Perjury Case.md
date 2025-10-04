@@ -1,5 +1,8 @@
 # Background
-- On 3 May 2017, Chairman of the Senate Judiciary Committee, Charles E. Grassley, Republican of Iowa, asked then FBI Director James Comey whether he had ever authorized someone else at the F.B.I. to be an anonymous source in news reports about the Trump investigation or the Clinton investigation. Mr. Comey responded, No.
+- On 3 May 2017, Chairman of the Senate Judiciary Committee, Charles E. Grassley, Republican of Iowa, asked then FBI Director James Comey during a FBI Oversight hearing, whether he had ever authorized someone else at the F.B.I. to be an anonymous source in news reports about the Trump investigation or the Clinton investigation. Comey responded, No.
+	- Grassley: `QUESTION 2 ON RELATIVELY RELATED, HAVE YOU EVER AUTHORIZED SOMEONE ELSE AT THE FBI TO BE AN ANONYMOUS SOURCE IN NEWS REPORTS ABOUT THE TRUMP INVESTIGATION OR CLINTON INVESTIGATION?`
+	  
+	  Comey: `NO.` - [Comey Perjury Statement, C-SPAN, 2017](https://www.c-span.org/clip/senate-committee/user-clip-comey-perjury-statement/5174508)
 - 
 # Main Info
 - On
