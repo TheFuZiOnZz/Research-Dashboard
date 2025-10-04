@@ -26,6 +26,7 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [2025 SignalGate](2025%20SignalGate)
 ## [[2025 United States Strikes On Venezuelan Boats]]
 
+
 # Controversy’s
 ## [2025 Gulf of Mexico Renaming](2025%20Gulf%20of%20Mexico%20Renaming)
 ## [2025 Establishment of the Department of Government Efficiency](2025%20Establishment%20of%20the%20Department%20of%20Government%20Efficiency)
@@ -48,7 +49,7 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [2025 Musk Substitutes Verizon FAA Contract for Starlink](2025%20Musk%20Substitutes%20Verizon%20FAA%20Contract%20for%20Starlink)
 ## [2025 SEC Closing Crypto Legal Cases & Reducing Regulatory Enforcement](2025%20SEC%20Closing%20Crypto%20Legal%20Cases%20&%20Reducing%20Regulatory%20Enforcement)
 ## [2025 Executive Orders Targeting Non-Preferential Law Firms](2025%20Executive%20Orders%20Targeting%20Non-Preferential%20Law%20Firms)
-##
+## [[2025 Illegal National Guard Deployments to U.S. Cities]]
 
 ## [[2025 Trump Third Term]]
 ## [[2025 Charlie Kirk Assassination]]
