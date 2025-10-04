@@ -1,4 +1,5 @@
 # Background
+## Comey's Statements to Congressional Committees
 - On 3 May 2017, Chairman of the Senate Judiciary Committee, Charles E. Grassley, Republican of Iowa, asked then FBI Director James Comey during a FBI Oversight hearing, whether he himself or someone else had ever been authorized at the F.B.I. to be an anonymous source in news reports about the Trump the Clinton investigations. Comey responded to both, never and no.
 	- Grassley: `DIRECTOR COMEY HAVE YOU EVER BEEN AN ANONYMOUS SOURCE ABOUT NEWS RELATING TO THE TRUMP INVESTIGATION OR THE CLINTON INVESTIGATION?`
 	  
@@ -9,12 +10,15 @@
 	  Comey: `NO.` - [Comey Perjury Statement Clip, C-SPAN, 2017](https://www.c-span.org/clip/senate-committee/user-clip-comey-perjury-statement/5174508) [FBI Oversight, C-SPAN, 2017](https://www.c-span.org/program/senate-committee/fbi-oversight/477132)
 - 
 - On 30 September 2020, Senator Ted Cruz asked Comey about the 3 May 2017 question being in 
-# Main Info
-## Inspector General Report on Allegations Relating to Former FBI Deputy Director Andrew McCabe
+## McCabe and WSJ Articles
+### Inspector General Report on Allegations Relating to Former FBI Deputy Director Andrew McCabe
+- in February 2018, the Office of the Inspector General completed a report
 - On 13 April 2018, 
-# 
-# McCabe Gets Indicted
+### 
+### McCabe Gets Indicted
 - 
+# Main Info
+
 # The Lawsuit
 [Docket](https://www.courtlistener.com/docket/71459121/united-states-v-comey/)
 - On 25 September 2025, James Comey was indicted for two counts of making `False statements within the jurisdiction of the legislative branch of the United States Government` and one count of `Obstruction of a Congressional proceeding`. The `Report Of a Grand Jury’s Failure To Concur In an Indictment` document attaches the first inditement proposed to the Grand Jury.
