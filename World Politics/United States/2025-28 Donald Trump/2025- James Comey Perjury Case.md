@@ -4,7 +4,7 @@
 - in February 2018, the Office of the Inspector General completed a report
 - On 13 April 2018, 
 ### McCabe Resignation/Firing Controversy
-- On 16 March 20
+- On 16 March 2018, McCabe Was fired 26 hours before his scheduled retirement, by then Attorney General Jeff Sessions, based on reports from the
 ### McCabe Legal Proceedings Around Pension
 - 
 ## Comey's Statements to Congressional Committees
