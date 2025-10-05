@@ -3,8 +3,8 @@
 ### Inspector General Report on Allegations Relating to Former FBI Deputy Director Andrew McCabe
 - in February 2018, the Office of the Inspector General completed a report
 - On 13 April 2018, 
-### McCabe Resignation/Firing Controvesy
-- 
+### McCabe Resignation/Firing Controversy
+- On 16 March 20
 ### McCabe Legal Proceedings Around Pension
 - 
 ## Comey's Statements to Congressional Committees
