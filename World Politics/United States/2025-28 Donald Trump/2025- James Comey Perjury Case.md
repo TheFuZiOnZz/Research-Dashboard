@@ -1,10 +1,9 @@
 # Background
 ## McCabe and WSJ Articles
-### Inspector General Report on Allegations Relating to Former FBI Deputy Director Andrew McCabe
-- in February 2018, the Office of the Inspector General completed a report
-- On 13 April 2018, 
 ### McCabe Resignation/Firing Controversy
+- In February 2018, the Office of the Inspector General completed a report
 - On 16 March 2018, McCabe Was fired 26 hours before his scheduled retirement, by then Attorney General Jeff Sessions, based on reports from the
+- On 13 April 2018, the OIG report was released to Congress and obtained by the Associated Press, which then published it.
 ### McCabe Legal Proceedings Around Pension
 - 
 ## Comey's Statements to Congressional Committees
