@@ -53,6 +53,7 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [[2025- Illegal National Guard Deployments to U.S. Cities]]
 
 ## [[2025- Trump Third Term]]
+## [[2025 CDC Director Fired]]
 ## [[2025 Charlie Kirk Assassination]]
 ## [[2025- James Comey Perjury Case]]
 ## [[2025- ]]
