@@ -15,10 +15,10 @@
 	- ` ` - [Investigation and Review of the Federal Bureau of Prisons’ Custody, Care, and Supervision of Jeffrey Epstein at the Metropolitan Correctional Center in New York, New York, U.S. Office of the Inspector General, 2023](https://oig.justice.gov/sites/default/files/reports/23-085.pdf)
 	- ` ` - [Investigation and Review of the Federal Bureau of Prisons’ Custody, Care, and Supervision of Jeffrey Epstein at the Metropolitan Correctional Center in New York, New York, U.S. Office of the Inspector General, 2023](https://oig.justice.gov/sites/default/files/reports/23-085.pdf)
 
-Key:
-	XXX-YYYYYY
-		X = Folder
-		Y = Picture
-Notable Emails for my 25K+ dump
-	- 011-031567: allegations of trump overruling congress action on Yemen because Saudi Prince MBS bought a $1.5 Mil painting for $450 Mil
-	- 
+
+Notable Emails for the 25K+ dump
+	- 031567: allegations of trump overruling congress action on Yemen because Saudi Prince MBS bought a $1.5 Mil painting for $450 Mil
+
+
+[We created a searchable database with all 20,000 files from Epstein’s Estate](https://couriernewsroom.com/news/we-created-a-searchable-database-with-all-20000-files-from-epsteins-estate/)
+[Google Pinpoint - From the Estate of Jeffrey Epstein](https://journaliststudio.google.com/pinpoint/search?collection=092314e384a58618&utm_source=collection_share_link)
