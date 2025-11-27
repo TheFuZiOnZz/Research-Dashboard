@@ -7,7 +7,6 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [2025 Trade Tariffs](2025%20Trade%20Tariffs)
 
 # Immigration Policy
-## [[2025 Stopping Asylum Requests at the Southern Border]]
 ## [[2025 Declaring a National Emergency At the Southern Border]]
 ## [2025 Citizenship Gold Cards](2025%20Citizenship%20Gold%20Cards)
 ## [2025 Alien Enemies Act Deportations](2025%20Alien%20Enemies%20Act%20Deportations)
