@@ -1,3 +1,6 @@
+- Trump froze hundreds of billions of dollars in foreign aid. This was a violation of the empoundment control act spending clause and separation of powers. 
+
+
 - Trump signed an [Executive Order on January 20th, 2025](https://www.whitehouse.gov/presidential-actions/2025/01/reevaluating-and-realigning-united-states-foreign-aid/) ordering a 90-day freeze to be put into effect on all foreign development assistance programs for evaluation to ensure that they are aligned with Trump's foreign policy. The EO cites the [apportionment authority](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/a11_current_year/s120.pdf) of the OMB in order to carry out this funding freeze. It's unclear (to me) if this is a legitimate and legal use of the apportionment authority. (According to a _Just Security_ [article](https://www.justsecurity.org/107267/can-president-dissolve-usaid-by-executive-order/), it's probably not legal)
 - [Another Order](https://s3.documentcloud.org/documents/25535268/aliorder.pdf) against Trump's executive order, enjoining them from restricting funding to USAID.
 - [Fox and Friends](https://www.youtube.com/watch?v=wy6gmUL-_9I) with Mayor Adams and Tom Homan, the newly chosen border czar, with Adams now talking excitedly about cooperating with ICE
