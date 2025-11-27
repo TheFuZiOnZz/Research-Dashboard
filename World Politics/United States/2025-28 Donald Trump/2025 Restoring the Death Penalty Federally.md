@@ -1,5 +1,5 @@
 # Background
-- On
+- [[Death Penalty]]
 	- 
 # Main Info
 - On 20 January 2025, 
