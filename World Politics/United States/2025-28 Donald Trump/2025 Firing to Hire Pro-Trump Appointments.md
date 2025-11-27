@@ -1,6 +1,7 @@
 Trump reinstated the so-called schedule F without going through any notice and comment process, potentially firing federal employees without going through the usual merit system protection process, a violation of the APA and civil service protections.
 [Schedule F appointment - Wikipedia](https://en.wikipedia.org/wiki/Schedule_F_appointment)
 
+Trump unilaterally froze hiring in the government without any congressional authorization.
 # Background
 - On
 	- 

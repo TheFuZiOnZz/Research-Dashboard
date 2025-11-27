@@ -30,6 +30,7 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [2025 United States Strikes On Venezuelan Boats](2025%20United%20States%20Strikes%20On%20Venezuelan%20Boats)
 
 # Controversy’s
+## [[2025 List of Underqualified Trump Appointees]]
 ## [2025 Executive Orders Targeting Non-Preferential Law Firms](2025%20Executive%20Orders%20Targeting%20Non-Preferential%20Law%20Firms)
 ## [2025 Gulf of Mexico Renaming](2025%20Gulf%20of%20Mexico%20Renaming)
 ## [[2025 Pardoning of all January 6th Rioters]]
