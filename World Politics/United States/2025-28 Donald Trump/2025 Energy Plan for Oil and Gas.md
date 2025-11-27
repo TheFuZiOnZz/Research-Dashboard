@@ -19,6 +19,7 @@
 	  
 	  `“We’ve got to do this because it’s the most important election in our lifetime,” Hamm said as he made calls after the April dinner at Trump’s Mar-a-Lago Club, where the former president made the audacious fundraising ask, according to an associate.` - [Why oil tycoon Harold Hamm is raising millions to elect Trump in 2024, The Washington Post, 2024](https://www.washingtonpost.com/politics/2024/08/13/oil-donors-trump-pac-harold-hamm-election/)
 	- [FEC Receipt of Continental Resources Inc Donation to Make America Great Again Inc, Federal Election Commission, 2024](https://docquery.fec.gov/pdf/103/202405209648566103/202405209648566103_000006.pdf#zoom=fit&navpanes=0)
+- Trump rolled back a variety of energy related regulations with no process in violation of the APA. He also froze all congressional funding to alternative energy projects in violation of the empoundments clause. 
 
 # Day One Executive Orders
 - On 20 January 2025, Trump signed Executive Order 14154 `Unleashing American Energy`.
