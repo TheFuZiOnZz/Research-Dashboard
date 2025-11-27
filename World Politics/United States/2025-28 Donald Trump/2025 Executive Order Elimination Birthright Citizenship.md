@@ -27,10 +27,11 @@
 	  `Section 5`
 	  
 	  `The Congress shall have power to enforce, by appropriate legislation, the provisions of this article.` - [U.S. Constitution - Fourteenth Amendment, 1868](https://constitution.congress.gov/constitution/amendment-14/)
-- 
+- On 3 November 1884, SCOTUS lays out the firs
+	- `The main object of the opening sentence of the Fourteenth Amendment was to settle the question, upon which there had been a difference of opinion throughout the country and in this court, as to the citizenship of free negroes; and to put if beyond- doubt that all persons, white or black, and whether formerly slaves or not, born or naturalized in the United States, and owing no allegiance to. any alien power, should be citizens of the United States and of the State in which they reside.`
+	  
+	  `This section contemplates two sources of citizenship, and two sources only: birth and naturalization. The persons declared to be citizens are "all persons born or naturalized in the United States, and subject to the jurisdiction thereof." The evident meaning of these last words is, not merely subject in some respect or degree to the jurisdiction of the United States, but completely subject to their political jurisdiction, and owing them direct and immediate allegiance. And the words relate to the time of birth in the one case, as they do to the time of naturalization in the other. Persons not thus subject to the jurisdiction of the United States at the time of birth cannot become so afterwards, except by being naturalized, either individually, as by proceedings under the naturalization acts, or collectively, as by the force of a treaty by which foreign territory is acquired.`
 # Main Info
 - On 20 January 2025, Trump signed an executive order effectively eliminating birthright citizenship arguing that the 
 	- ` ` - [Protecting The Meaning And Value Of American Citizenship – The White House](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-meaning-and-value-of-american-citizenship/)
-# Lawsuit(s)
-- On
-	- 
+# Lawsuit(s
