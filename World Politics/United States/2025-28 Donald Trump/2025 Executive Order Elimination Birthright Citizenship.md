@@ -6,6 +6,7 @@
 	  
 	  `It is impossible, it would seem, to believe that the great men of the slaveholding States, who took so large a share in framing the Constitution of the United States, and exercised so much influence in procuring its adoption, could have been so forgetful or regardless of their own safety and the safety of those who trusted and confided in them.` - [Dred Scott v. Sandford, Supreme Court of the United States, 1857](https://www.archives.gov/milestone-documents/dred-scott-v-sandford)
 - During the United States election of 1860, Republicans rejected the ruling as being corrupted by partisanship and non-binding because the court had no jurisdiction. Their presidential nominee, Abraham Lincoln, stated he would not permit slavery anywhere in the country except where it already existed, which directly contradicted the court's ruling. His election is considered the final event that led the Southern states to secede from the Union, igniting the Civil War.
+	- ` ` - Dred Scott and the Dangers of a Political Court, Ethan Greenberg
 - On 9 July 1868, in the aftermath of the American Civil War, 28 States ratified the 14th Amendment which stated that `All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside.` This gave 
 	- `Section 1`
 	  
@@ -27,7 +28,7 @@
 	  
 	  `The Congress shall have power to enforce, by appropriate legislation, the provisions of this article.` - [U.S. Constitution - Fourteenth Amendment, 1868](https://constitution.congress.gov/constitution/amendment-14/)
 # Main Info
-- On 20 January 2025, 
+- On 20 January 2025, Trump signed an executive order effectivly 
 	- ` ` - [Protecting The Meaning And Value Of American Citizenship – The White House](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-meaning-and-value-of-american-citizenship/)
 # Lawsuit(s)
 - On
