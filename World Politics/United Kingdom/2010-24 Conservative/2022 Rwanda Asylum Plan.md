@@ -13,7 +13,7 @@
     - `while there was an initial increase in small boats detections in 2019, recorded detections on other routes remained relatively stable. Small boat arrivals increased further in 2020 as detections on other routes declined, likely in part due to the coronavirus (COVID-19) pandemic making other methods of entry such as air or ferry less viable. However, in 2021 and 2022, there was a substantial increase in the numbers of small boat arrivals. This occurred despite the other entry methods becoming more viable as global COVID-19 restrictions eased.` [link](https://www.gov.uk/government/statistics/irregular-migration-to-the-uk-year-ending-december-2022/irregular-migration-to-the-uk-year-ending-december-2022)
 # Rwanda
 - Between 2013 and 2018, Rwanda had a migrant deal with Israel like the Rwandan-UK Migrant deal. Some 4,000 Eritrean and Sudanese asylum seekers based in Israel were sent to Rwanda and Uganda between 2013 and 2018, before the secretive arrangement was abandoned and almost all are thought to have left the country almost immediately, with many attempting to return to Europe via people-smuggling routes.
-    - `Rwanda signed a similar agreement with Israel between 2014 and 2017 that was not a success, with almost of all of the 4,000 detainees sent there swiftly leaving the country to undertake the perilous journey to Europe, some of whom are understood to have fallen prey to human traffickers en route, notably in Libya.` - [What is Rwanda’s record on human rights? | The Independent](https://www.independent.co.uk/news/uk/politics/uk-asylum-rwanda-human-rights-b2058668.html)
+    - `Rwanda signed a similar agreement with Israel between 2014 and 2017 that was not a success, with almost of all of the 4,000 detainees sent there swiftly leaving the country to undertake the perilous journey to Europe, some of whom are understood to have fallen prey to human traffickers en route, notably in Libya.` - [What is Rwanda’s record on human rights?, The Independent, 2022](https://www.independent.co.uk/news/uk/politics/uk-asylum-rwanda-human-rights-b2058668.html)
     - `Then-minister of interior Gideon Sa’ar, announces that Israel has signed agreements with “third countries”, and that the departure of “infiltrators” to these countries has begun in limited numbers. According to the Population and Immigration Authority, 1,093 asylum seekers were deported to third countries during 2014.` [link](https://hotline.org.il/en/refugees-and-asylum-seekers-en/voluntary-departure/)
     - `the state admitted for the first time that no operative procedure to forcibly deport asylum seekers from Israel exists; thus, beginning on April 17 (2018), the ministry of interior ceased holding pre-deportation hearings, and now declared that all deportation notices previously given are obsolete. It was further declared that “infiltrators” whose visa expired – will have it renewed for a period of 60 days, as was the norm before the deportation. Additionally, it was clarified that the “voluntary departure” route to a third country is still available, and will be offered to every asylum seekers during his or her visa renewal, though the renewal of the visa will not be conditioned upon it.` [link](https://hotline.org.il/en/refugees-and-asylum-seekers-en/voluntary-departure/)
     - `These asylum seekers are sent to Uganda and Rwanda with a promise from the Israeli authorities that they will be provided with the necessary papersto enable them to stay legally in the receiving country. However, our findings show that, in reality, they do not receive any legal status: they are left with no valid legal documents upon arrival and are either encouraged to leave these countries, live below the radar and without legal status, and/or hide the fact that they came from Israel.  
@@ -27,46 +27,34 @@
     - `Arbitrary detention, ill-treatment, and torture in official and unofficial detention facilities continued. Fair trial standards were routinely flouted in many sensitive political cases, in which security-related charges are often used to prosecute prominent government critics.` - [link](https://www.hrw.org/world-report/2021/country-chapters/rwanda)
 # The Plan
 - On 14 April 2022, the Home Secretary Priti Patel announced a new plan to send refugees entering the UK to Rwanda to complete their asylum applications.
-    
     - `The government has today (Thursday 14 April) set out bold new plans to tackle illegal migration, control our borders and crack down on the criminal gangs exploiting this international crisis.` [link](https://www.gov.uk/government/news/world-first-partnership-to-tackle-global-migration-crisis)
-    
     - `Under this Partnership the UK is investing £120 million into the economic development and growth of Rwanda. Funding will also be provided to support the delivery of asylum operations, accommodation and integration, similar to the costs incurred in the UK for these services.` [link](https://www.gov.uk/government/news/world-first-partnership-to-tackle-global-migration-crisis)
-    
     - `Alongside this action, which will disrupt the business model of people-smuggling gangs, the military will also now take operational command of responding to small boats in the Channel, in partnership with Border Force. This will happen with immediate effect, and be backed up by £50 million in new funding. This change will deliver new boats, aerial surveillance and expert military personnel. In doing so it will bolster Border Force teams and their existing patrol vessels and provide a Wildcat helicopter.` [link](https://www.gov.uk/government/news/world-first-partnership-to-tackle-global-migration-crisis)
-    
     - `Finally, to address the unacceptable, £4.7 million per-day cost to the taxpayer from housing migrants in hotels (including those who have arrived through resettlement programmes), we will be introducing a new, nationwide dispersal system so asylum pressures are more equally spread across local authorities. We will also shortly open a new, bespoke, asylum reception centre in Linton-on-Ouse.` [link](https://www.gov.uk/government/news/world-first-partnership-to-tackle-global-migration-crisis)
-    
 - On 14 April 2022, Johnson defended the plan and called Rwanda one of the safest countries in the world.
-    
-    - `speaking at an airport in Kent, the Prime Minister said: “I just want to say something about Rwanda because I think there’s a risk of stereotyping here.  
-    -   
-    - “Rwanda has totally transformed over the last few decades, it’s a very, very different country from what it was.  
-    -   
-    - “This is not something that we’ve put together overnight, this has been nine months in preparation. So I would urge people not to think in a blinkered way about Rwanda.”  
-    -   
-    - He added: “Let’s be clear, Rwanda is one of the safest countries in the world, globally recognised for its record of welcoming and integrating migrants.”`  
-    - [[rwandaborisjohnsongovern]]
+    - `speaking at an airport in Kent, the Prime Minister said: “I just want to say something about Rwanda because I think there’s a risk of stereotyping here.`
+      
+      `“Rwanda has totally transformed over the last few decades, it’s a very, very different country from what it was.`
+      
+      `“This is not something that we’ve put together overnight, this has been nine months in preparation. So I would urge people not to think in a blinkered way about Rwanda.”`
+      
+      `He added: “Let’s be clear, Rwanda is one of the safest countries in the world, globally recognised for its record of welcoming and integrating migrants.”` - [Johnson defends Rwanda after concerns over ‘dismal’ human rights record, The Independent, 2022](https://www.independent.co.uk/news/uk/rwanda-boris-johnson-government-prime-minister-african-b2058037.html)
     
 - On 14 April 2022, The United Nations High Commissioner for Refugees (UNHCR) expressed she is firmly opposed to the policy saying the plan violates international law.
-    
-    - `“UNHCR remains firmly opposed to arrangements that seek to transfer refugees and asylum seekers to third countries in the absence of sufficient safeguards and standards. Such arrangements simply shift asylum responsibilities, evade international obligations, and are contrary to the letter and spirit of the Refugee Convention,” said UNHCR’s Assistant High Commissioner for Protection, Gillian Triggs.` [[unrefuge]]
-    
+    - `“UNHCR remains firmly opposed to arrangements that seek to transfer refugees and asylum seekers to third countries in the absence of sufficient safeguards and standards. Such arrangements simply shift asylum responsibilities, evade international obligations, and are contrary to the letter and spirit of the Refugee Convention,” said UNHCR’s Assistant High Commissioner for Protection, Gillian Triggs.` - [UN Refugee Agency opposes UK plan to export asylum, United Nations High Commissioner for Refugees, 2022](https://www.unhcr.org/uk/news/press-releases/un-refugee-agency-opposes-uk-plan-export-asylum)
 - On 15 April 2022, it was reported that The Rwandan Government were seemingly unaware of the policy before its announcement.
-    
-    - `Victoire Ingabire said: "The population has woken up to the deal that has been signed - nobody knew about it.”  
-    -   
-    - "We're not ready," she added.  
-    -   
-    - "Because if our people don't have enough to eat, if our kids or Rwanda's kids don't have the possibility of going to school because of the poverty, how will the Rwandan government give education to the kids of refugees?"`  
-    - [link](https://news.sky.com/story/nobody-knew-about-it-how-the-uks-world-first-migration-deal-has-gone-down-in-rwanda-itself-12590508)
+    - `Victoire Ingabire said: "The population has woken up to the deal that has been signed - nobody knew about it.”`
+      
+      `"We're not ready," she added.`
+      
+      `"Because if our people don't have enough to eat, if our kids or Rwanda's kids don't have the possibility of going to school because of the poverty, how will the Rwandan government give education to the kids of refugees?"` - ['Nobody knew about it': How the UK's 'world first' migration deal has gone down in Rwanda itself, Sky News, 2022](https://news.sky.com/story/nobody-knew-about-it-how-the-uks-world-first-migration-deal-has-gone-down-in-rwanda-itself-12590508)
     
 - On 14 June 2022, The European Court of Human Rights grounded the first scheduled flight to Rwanda, of which had 7 refugees onboard.
     - `Boris Johnson’s plan to send an inaugural flight of asylum seekers to Rwanda has been abandoned after a dramatic 11th-hour ruling by the European court of human rights.`
       
       `Up to seven people who had come to the UK seeking refuge had been expected to be removed to the east African country an hour and a half before the flight was due to take off.`
       
-      `But a ruling by the ECHR on one of the seven cases allowed lawyers for the other six to make successful last-minute applications.` 
-    - [link](https://www.theguardian.com/uk-news/2022/jun/14/european-court-humam-right-makes-11th-hour-intervention-in-rwanda-asylum-seeker-plan)
+      `But a ruling by the ECHR on one of the seven cases allowed lawyers for the other six to make successful last-minute applications.` - [Rwanda asylum flight cancelled after 11th-hour ECHR intervention, The Guardian, 2022](https://www.theguardian.com/uk-news/2022/jun/14/european-court-humam-right-makes-11th-hour-intervention-in-rwanda-asylum-seeker-plan)
 # Supreme Court
 - On 15 November 2023, the UK’s Supreme Court ruled the Rwanda Asylum Plan unlawful.
     - ` ` [link](https://www.supremecourt.uk/cases/docs/uksc-2023-0093-etc-judgment.pdf)
