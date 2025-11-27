@@ -7,5 +7,10 @@
 	  `The moves began late Friday after the launch of a new meme coin announced on Trump’s social media accounts and issued on the Solana blockchain. “Official Trump” (TRUMP) has a market cap of more than $5 billion and is the largest meme coin on the Solana network, according to CoinGecko.`
 	  
 	  `That move came ahead of Trump’s inauguration Monday, which is widely expected to usher in a new era of innovation and productivity in the crypto industry, and on the day crypto villain Gary Gensler ended his term as chairman of the Securities and Exchange Commission.` - [Solana surges 12% on launch of Trump-themed meme coin, ether falls, CNBC, 2025](https://www.cnbc.com/2025/01/18/crypto-market-today.html)
+- On 19 January 2025, it was reported that the coins price soared by over 300% overnight.
+	- `Shortly after launching, the price of $TRUMP rapidly rose by more than 300% by Saturday morning, and it kept rallying Saturday night and early Sunday morning—before paring back some of its gains later Sunday.`
+	  
+	  `The digital asset hovered at just over $46 as of 5:25 p.m. EST Sunday, with a market cap of $9.36 billion, according to CoinMarketCap.` - [Donald Trump Launches New Meme Coin Days Before Inauguration, Forbes, 2025](https://www.forbes.com/sites/tylerroush/2025/01/19/donald-trump-launches-trump-meme-coin-token-exceeds-12-billion-market-cap/)
 - On 20 January 2025, 
 	-  - 
+- On 1 September 2025, 
