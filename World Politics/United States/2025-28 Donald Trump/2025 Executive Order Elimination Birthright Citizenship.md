@@ -1,4 +1,5 @@
-
+[Executive Order 14160 - Wikipedia](https://en.wikipedia.org/wiki/Executive_Order_14160)
+[Fourteenth Amendment to the United States Constitution - Wikipedia](https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution)
 # Background
 - On 6 March 1857, SCOTUS decided the case of Dred Scott v. Sandford, in which held the United States Constitution did not extend American citizenship to people of black African descent, and therefore they could not enjoy the rights and privileges the Constitution conferred upon American citizens.
 	- `The words "people of the United States" and "citizens" are synonymous terms, and mean the same thing. They both describe the political body who, according to our republican institutions, form the sovereignty, and who hold the power and conduct the Government through their representatives. They are what we familiarly call the "sovereign people," and every citizen is one of this people and a constituent member of this sovereignty. The question before us is, whether the class of persons described in the plea in abatement compose a portion of this people, and are constituent members of this sovereignty? We think they are not, and that they are not included, and were not intended to be included, under the word "citizens" in the Constitution, and can therefore claim none of the rights and privileges which that instrument provides for and secures to citizens of the United States. On the contrary, they were at that time considered as a subordinate and inferior class of beings, who had been subjugated by the dominant race, and, whether emancipated or not, yet remained subject to their authority, and had no rights or privileges but such as those who held the power and the government might choose to grant them.` - [Dred Scott v. Sandford, Supreme Court of the United States, 1857](https://www.archives.gov/milestone-documents/dred-scott-v-sandford)
@@ -42,5 +43,18 @@
 	  `Among the categories of individuals born in the United States and not subject to the jurisdiction thereof, the privilege of United States citizenship does not automatically extend to persons born in the United States:  (1) when that person’s mother was unlawfully present in the United States and the father was not a United States citizen or lawful permanent resident at the time of said person’s birth, or (2) when that person’s mother’s presence in the United States at the time of said person’s birth was lawful but temporary (such as, but not limited to, visiting the United States under the auspices of the Visa Waiver Program or visiting on a student, work, or tourist visa) and the father was not a United States citizen or lawful permanent resident at the time of said person’s birth.`
 	  `It is the policy of the United States that no department or agency of the United States government shall issue documents recognizing United States citizenship, or accept documents issued by State, local, or other governments or authorities purporting to recognize United States citizenship, to persons:  (1) when that person’s mother was unlawfully present in the United States and the person’s father was not a United States citizen or lawful permanent resident at the time of said person’s birth, or (2) when that person’s mother’s presence in the United States was lawful but temporary, and the person’s father was not a United States citizen or lawful permanent resident at the time of said person’s birth.` - [Protecting The Meaning And Value Of American Citizenship, The White House, 2025](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-meaning-and-value-of-american-citizenship/)
 # Lawsuit(s)
+## State of Washington v. Trump
+- On
+	- 
+## CASA Inc. v. Trump
+- On
+	- 
+## New Hampshire Indonesian Community Support v. Trump
+- On
+	- 
+## State of New Jersey v. Trump
+- On
+	- 
+## Trump v. CASA (SCOTUS Case)
 - On
 	- 
