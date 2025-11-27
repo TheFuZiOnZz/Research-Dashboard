@@ -1,3 +1,6 @@
+[$Trump - Wikipedia](https://en.wikipedia.org/wiki/$Trump)
+[World Liberty Financial - Wikipedia](https://en.wikipedia.org/wiki/World_Liberty_Financial)
+
 - On 17 January 2025, Trump announces his $TRUMP meme coin on his Twitter with a market cap of $5 Billion becoming the largest meme coin on Solana.
 	- `My NEW Official Trump Meme is HERE! It’s time to celebrate everything we stand for: WINNING! Join my very special Trump Community. GET YOUR $TRUMP NOW. Go to http://gettrumpmemes.com — Have Fun!` - [@realDonaldTrump Tweet, Twitter, 2025](https://x.com/realDonaldTrump/status/1880446012168249386)
 	- `Solana’s SOL token rocketed after a meme coin linked to President-elect Donald Trump launched on the popular blockchain network.`
@@ -13,7 +16,7 @@
 	  `The digital asset hovered at just over $46 as of 5:25 p.m. EST Sunday, with a market cap of $9.36 billion, according to CoinMarketCap.` - [Donald Trump Launches New Meme Coin Days Before Inauguration, Forbes, 2025](https://www.forbes.com/sites/tylerroush/2025/01/19/donald-trump-launches-trump-meme-coin-token-exceeds-12-billion-market-cap/)
 - On 20 January 2025, 
 	-  - 
-- On 22 May 2025, Trump hosts a gala dinner at his Virginia golf club for $148 million in investors.
+- On 22 May 2025, Trump hosts a gala dinner at his Virginia golf club for $148 million in investors. This event was used as an incentive for people to invest.
 	- `The price of President Donald Trump’s meme coin plunged 16% as of Friday morning, just hours after he hosted a black-tie gala at his Virginia golf club for its biggest buyers — an elite crowd that spent a combined $148 million on the token for the chance to be there.`
 	  
 	  `It was billed as “the most exclusive invitation in the world.”`
@@ -30,5 +33,16 @@
 	  
 	  `Phones weren’t locked in RFID pouches, and security was lax, according to Pinto.`
 	  
-	  `“Once Trump left, they didn’t really worry about anything else, Pinto added.` - [At Trump's $148 million meme coin dinner, 'the food sucked,' attendee says, CNVC, 2025](https://www.cnbc.com/2025/05/23/trump-meme-coin-dinner.html)
+	  `“Once Trump left, they didn’t really worry about anything else, Pinto added.` - [At Trump's $148 million meme coin dinner, 'the food sucked,' attendee says, CNBC, 2025](https://www.cnbc.com/2025/05/23/trump-meme-coin-dinner.html)
 - On 1 September 2025, it was reported that the Trump Family had added $5 billion to their net worth 
+	- `The Trump family notched as much as $5 billion in paper wealth on Monday after its flagship crypto venture opened trading of a new digital currency.`
+	  
+	  `The launch is akin to an initial public offering, in which the cryptocurrency, called WLFI, can now be bought and sold on the open market like a listed company’s shares. Beforehand, people who had privately bought WLFI from the Trump venture, World Liberty Financial, hadn’t been able to exchange their tokens.`
+	  
+	  `The trading debut was most likely the biggest financial success for the president’s family since the inauguration. The Trump family, including President Trump himself, holds just under a quarter of all WLFI tokens in existence. Trump’s three sons are co-founders of World Liberty, while it names the president a “Co-Founder Emeritus.”`
+	  
+	  `World Liberty says founders and team members’ tokens remain “locked,” meaning they still can’t sell them. But the trading launch now puts a real-world valuation on their holdings, which previously were valued based on private sales.`
+	  
+	  `WLFI is likely now the Trumps’ most valuable asset, exceeding their decades-old property portfolio. While the president’s family has continued to pursue property deals around the world since taking office, the fast-moving crypto business has had the biggest early impact.`
+	  
+	  `President Trump helped launch World Liberty a year ago, while campaigning, saying it would help make “America Great Again, this time with crypto.”` - [Trump Family Amasses $5 Billion Fortune After Crypto Launch, Wall Street Journal, 2025](https://archive.ph/20250917193456/https://www.wsj.com/finance/currencies/trump-family-amasses-6-billion-fortune-after-crypto-launch-567faec5#selection-735.0-759.146)
