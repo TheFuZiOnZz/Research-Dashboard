@@ -1,3 +1,4 @@
 - On 17 January 2025, 
+	- [@realDonaldTrump Tweet, Twitter, 2025](https://x.com/realDonaldTrump/status/1880446012168249386)
 - On 20 January 2025, 
 	-  - 
