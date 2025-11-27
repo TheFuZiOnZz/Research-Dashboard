@@ -1,9 +1,13 @@
 # Background
-- [[Death Penalty]]
-	- 
+- [Death Penalty](../../../Political%20Positions/Criminal%20Justice%20Policy/Death%20Penalty)
+- Trump directed the reconsideration of President Biden's grants of clemency, which is not a thing that you can do.
 # Main Info
-- On 20 January 2025, 
-	- ` ` - [Restoring The Death Penalty And Protecting Public Safety, The White House, 2025](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-the-death-penalty-and-protecting-public-safety/)
+- On 20 January 2025, Trump signed executive order 14164, which reestablished the federal death penalty 
+	- `Capital punishment is an essential tool for deterring and punishing those who would commit the most heinous crimes and acts of lethal violence against American citizens.  Before, during, and after the founding of the United States, our cities, States, and country have continuously relied upon capital punishment as the ultimate deterrent and only proper punishment for the vilest crimes.  Our Founders knew well that only capital punishment can bring justice and restore order in response to such evil.  For this and other reasons, capital punishment continues to enjoy broad popular support.`
+	  
+	  `Yet for too long, politicians and judges who oppose capital punishment have defied and subverted the laws of our country.  At every turn, they seek to thwart the execution of lawfully imposed capital sentences and choose to enforce their personal beliefs rather than the law.  When President Biden took office in 2021, he allowed his Department of Justice to issue a moratorium on Federal executions, in defiance of his duty to faithfully execute the laws of the United States that provide for capital punishment.  And on December 23, 2024, President Biden commuted the sentences of 37 of the 40 most vile and sadistic rapists, child molesters, and murderers on Federal death row:  remorseless criminals who brutalized young children, strangled and drowned their victims, and hunted strangers for sport.  He commuted their sentences even though the laws of our Nation have always protected victims by applying capital punishment to barbaric acts like theirs.  Judges who oppose capital punishment have likewise disregarded the law by falsely claiming that capital punishment is unconstitutional, even though the Constitution explicitly acknowledges the legality of capital punishment.`
+	  
+	  `These efforts to subvert and undermine capital punishment defy the laws of our nation, make a mockery of justice, and insult the victims of these horrible crimes.  The Government’s most solemn responsibility is to protect its citizens from abhorrent acts, and my Administration will not tolerate efforts to stymie and eviscerate the laws that authorize capital punishment against those who commit horrible acts of violence against American citizens.` - [Restoring The Death Penalty And Protecting Public Safety, The White House, 2025](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-the-death-penalty-and-protecting-public-safety/)
 # Lawsuit(s)
 - On
 	- 
