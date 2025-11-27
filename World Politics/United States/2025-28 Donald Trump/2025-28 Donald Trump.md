@@ -28,7 +28,6 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [[2025 USAID Defunding]]
 ## [[2025 United States Strikes On Venezuelan Boats]]
 
-
 # Controversy’s
 ## [2025 Gulf of Mexico Renaming](2025%20Gulf%20of%20Mexico%20Renaming)
 ## [2025 Department of Government Efficiency](2025%20Department%20of%20Government%20Efficiency.md)
@@ -52,12 +51,11 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [2025 SEC Closing Crypto Legal Cases & Reducing Regulatory Enforcement](2025%20SEC%20Closing%20Crypto%20Legal%20Cases%20&%20Reducing%20Regulatory%20Enforcement)
 ## [2025 Executive Orders Targeting Non-Preferential Law Firms](2025%20Executive%20Orders%20Targeting%20Non-Preferential%20Law%20Firms)
 ## [[2025- Illegal National Guard Deployments to U.S. Cities]]
-
 ## [[2025- Trump Third Term]]
 ## [[2025 CDC Director Fired]]
 ## [[2025 Charlie Kirk Assassination]]
 ## [[2025- James Comey Perjury Case]]
-## [[2025- ]]
+
 # Pre-Presidency Controversy’s
 ## [2022-25 Smith’s Special Counsel Investigation](2022-25%20Smith’s%20Special%20Counsel%20Investigation)
 ## [2021-24 House Ethics Report Into Gaetz](2021-24%20House%20Ethics%20Report%20Into%20Gaetz)
