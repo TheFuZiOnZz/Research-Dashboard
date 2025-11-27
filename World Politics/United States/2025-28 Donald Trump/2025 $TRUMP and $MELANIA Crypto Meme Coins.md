@@ -1,6 +1,11 @@
 [$Trump - Wikipedia](https://en.wikipedia.org/wiki/$Trump)
 [World Liberty Financial - Wikipedia](https://en.wikipedia.org/wiki/World_Liberty_Financial)
 
+
+# Background
+- Binance CEO Charged
+- World Liberty Financial Founding
+# Main Info
 - On 17 January 2025, Trump announces his $TRUMP meme coin on his Twitter with a market cap of $5 Billion becoming the largest meme coin on Solana.
 	- `My NEW Official Trump Meme is HERE! It’s time to celebrate everything we stand for: WINNING! Join my very special Trump Community. GET YOUR $TRUMP NOW. Go to http://gettrumpmemes.com — Have Fun!` - [@realDonaldTrump Tweet, Twitter, 2025](https://x.com/realDonaldTrump/status/1880446012168249386)
 	- `Solana’s SOL token rocketed after a meme coin linked to President-elect Donald Trump launched on the popular blockchain network.`
@@ -14,8 +19,6 @@
 	- `Shortly after launching, the price of $TRUMP rapidly rose by more than 300% by Saturday morning, and it kept rallying Saturday night and early Sunday morning—before paring back some of its gains later Sunday.`
 	  
 	  `The digital asset hovered at just over $46 as of 5:25 p.m. EST Sunday, with a market cap of $9.36 billion, according to CoinMarketCap.` - [Donald Trump Launches New Meme Coin Days Before Inauguration, Forbes, 2025](https://www.forbes.com/sites/tylerroush/2025/01/19/donald-trump-launches-trump-meme-coin-token-exceeds-12-billion-market-cap/)
-- On 20 January 2025, 
-	-  - 
 - On 22 May 2025, Trump hosts a gala dinner at his Virginia golf club for $148 million in investors. This event was used as an incentive for people to invest.
 	- `The price of President Donald Trump’s meme coin plunged 16% as of Friday morning, just hours after he hosted a black-tie gala at his Virginia golf club for its biggest buyers — an elite crowd that spent a combined $148 million on the token for the chance to be there.`
 	  
@@ -46,3 +49,7 @@
 	  `WLFI is likely now the Trumps’ most valuable asset, exceeding their decades-old property portfolio. While the president’s family has continued to pursue property deals around the world since taking office, the fast-moving crypto business has had the biggest early impact.`
 	  
 	  `President Trump helped launch World Liberty a year ago, while campaigning, saying it would help make “America Great Again, this time with crypto.”` - [Trump Family Amasses $5 Billion Fortune After Crypto Launch, Wall Street Journal, 2025](https://archive.ph/20250917193456/https://www.wsj.com/finance/currencies/trump-family-amasses-6-billion-fortune-after-crypto-launch-567faec5#selection-735.0-759.146)
+
+# Lawsuit(s)
+- On
+	- 
