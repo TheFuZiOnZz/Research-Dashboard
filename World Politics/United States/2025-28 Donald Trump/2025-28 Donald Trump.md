@@ -17,6 +17,7 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [2025 Energy Plan for Oil and Gas](2025%20Energy%20Plan%20for%20Oil%20and%20Gas)
 ## [2025 National Energy Emergency](2025%20National%20Energy%20Emergency)
 ## [2025 2nd U.S. Departure of the Paris Climate Accord](2025%202nd%20U.S.%20Departure%20of%20the%20Paris%20Climate%20Accord)
+## [[2025 Freezing of Renewable Energy Projects]]
 ## [2025 National Energy Dominance Council](2025%20National%20Energy%20Dominance%20Council)
 ## [2025 Trump Clean Coal Claims](2025%20Trump%20Clean%20Coal%20Claims)
 
