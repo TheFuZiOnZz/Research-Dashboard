@@ -2,6 +2,8 @@ Trump reinstated the so-called schedule F without going through any notice and c
 [Schedule F appointment - Wikipedia](https://en.wikipedia.org/wiki/Schedule_F_appointment)
 
 Trump unilaterally froze hiring in the government without any congressional authorization.
+
+Trump issued a memo making it easier for him to fire senior non-political leaders at government agencies. This was an effort to prioritize loyalty and filty in violation of civil service protections and probably the First Amendment. 
 # Background
 - On
 	- 
