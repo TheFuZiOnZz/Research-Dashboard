@@ -33,6 +33,7 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [2025 Gulf of Mexico Renaming](2025%20Gulf%20of%20Mexico%20Renaming)
 ## [[2025 Pardoning of all January 6th Rioters]]
 ## [[2025 Return to In-Person Work Executive Order]]
+## [[2025 Withdrawal From the World Health Organization]]
 ## [2025 Department of Government Efficiency](2025%20Department%20of%20Government%20Efficiency)
 ## [2025 Agency for International Development Funding Freeze](2025%20Agency%20for%20International%20Development%20Funding%20Freeze)
 ## [2025 17 Inspector Generals Fired](2025%2017%20Inspector%20Generals%20Fired)

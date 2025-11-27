@@ -1,5 +1,5 @@
 # Background
-- On
+- On 
 	- 
 # Main Info
 - On 20 January 2025, Trump signed executive order which terminated federal employee telework agreements, contrary to pre-existing union agreements. 
