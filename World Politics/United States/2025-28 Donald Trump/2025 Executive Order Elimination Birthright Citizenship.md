@@ -27,8 +27,9 @@
 	  `Section 5`
 	  
 	  `The Congress shall have power to enforce, by appropriate legislation, the provisions of this article.` - [U.S. Constitution - Fourteenth Amendment, 1868](https://constitution.congress.gov/constitution/amendment-14/)
+- 
 # Main Info
-- On 20 January 2025, Trump signed an executive order effectivly 
+- On 20 January 2025, Trump signed an executive order effectively eliminating birthright citizenship arguing that the 
 	- ` ` - [Protecting The Meaning And Value Of American Citizenship – The White House](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-meaning-and-value-of-american-citizenship/)
 # Lawsuit(s)
 - On
