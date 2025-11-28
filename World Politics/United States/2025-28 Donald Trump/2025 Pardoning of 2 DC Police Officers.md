@@ -4,6 +4,6 @@
 	- ` ` - [Trump pardons two D.C. officers convicted in fatal chase and cover-up](https://www.nbcnews.com/news/us-news/trump-pardons-two-dc-officers-convicted-fatal-chase-20-year-old-man-co-rcna188920)
 # Main Point
 - On 22 January 2025, Trump signed executive grant of clemency for Andrew Zabavsky
-	- ` ` - [Executive Grant of Clemency for Andrew Zabavsky, The White House, 2025](https://www.whitehouse.gov/presidential-actions/2025/01/executive-grant-of-clemency-for-andrew-zabavsky/)
+	- ` ` - [Executive Grant of Clemency for Andrew Zabavsky, The White House, 2025](https://www.justice.gov/pardon/media/1390901/dl?inline)
 - On 22 January 2025, Trump signed executive grant of clemency for Terence Sutton
-	- ` ` - [Executive Grant of Clemency for Terence Sutton, The White House, 2025](https://www.whitehouse.gov/presidential-actions/2025/01/executive-grant-of-clemency-for-terence-sutton/)
+	- ` ` - [Executive Grant of Clemency for Terence Sutton, The White House, 2025](https://www.justice.gov/pardon/media/1390896/dl?inline)
