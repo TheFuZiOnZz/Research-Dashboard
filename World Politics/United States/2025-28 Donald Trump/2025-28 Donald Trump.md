@@ -8,6 +8,7 @@ Donald Trump - 20 January 2025 - 20 January 2028
 
 # Immigration Policy
 ## [[2025 Declaring a National Emergency At the Southern Border]]
+## [[2025 Travel Bans]]
 ## [2025 Citizenship Gold Cards](2025%20Citizenship%20Gold%20Cards)
 ## [2025 Alien Enemies Act Deportations](2025%20Alien%20Enemies%20Act%20Deportations)
 ## [2025 Kilmar Abrego Garcia Deportation to El Salvador](2025%20Kilmar%20Abrego%20Garcia%20Deportation%20to%20El%20Salvador)
