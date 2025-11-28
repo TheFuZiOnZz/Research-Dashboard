@@ -11,7 +11,7 @@
 - On 
 	- ` ` - 
 ## Main Point
-- On 21 January 2025, Trump signed executive grant of clemency for Ross William Ulbricht
+- On 21 January 2025, Trump signed executive grant of clemency for Ross William Ulbricht.
 	- ` ` - [Executive Grant of Clemency for Ross William Ulbricht, The White House, 2025](https://www.justice.gov/pardon/media/1386096/dl?inline)
 
 # Pardoning of 2 DC Police Officers
@@ -20,9 +20,9 @@
 - On 
 	- ` ` - [Trump pardons two D.C. officers convicted in fatal chase and cover-up](https://www.nbcnews.com/news/us-news/trump-pardons-two-dc-officers-convicted-fatal-chase-20-year-old-man-co-rcna188920)
 ## Main Point
-- On 22 January 2025, Trump signed executive grant of clemency for Andrew Zabavsky
+- On 22 January 2025, Trump signed executive grant of clemency for Andrew Zabavsky.
 	- ` ` - [Executive Grant of Clemency for Andrew Zabavsky, The White House, 2025](https://www.justice.gov/pardon/media/1390901/dl?inline)
-- On 22 January 2025, Trump signed executive grant of clemency for Terence Sutton
+- On 22 January 2025, Trump signed executive grant of clemency for Terence Sutton.
 	- ` ` - [Executive Grant of Clemency for Terence Sutton, The White House, 2025](https://www.justice.gov/pardon/media/1390896/dl?inline)
 
 # Pardoning of 24 Anti-Abortion Protesters
@@ -40,21 +40,25 @@
 - On 
 	- ` ` - 
 ## Main Point
-- On 27 March 2025, Trump signed executive grant of clemency for 
-	- ` ` - [justice.gov/pardon/media/1395001/dl?inline](https://www.justice.gov/pardon/media/1395001/dl?inline)
+- On 27 March 2025, Trump signed executive grant of clemency for Trevor Milton.
+	- ` ` - [Executive Grant of Clemency for Trevor Milton, The White House, 2025](https://www.justice.gov/pardon/media/1395001/dl?inline)
 
 # Pardoning of BitMEX founders Arthur Hayes, Ben Delo, and Sam Reed
 ## Background
 - On 
 	- ` ` - 
 ## Main Point
-- On 20 January 2025, Trump signed executive grant of clemency for 
-	- ` ` - 
+- On 27 March 2025, Trump signed executive grant of clemency for Arthur Hayes.
+	- ` ` - [Executive Grant of Clemency for Arthur Hayes, The White House, 2025](https://www.justice.gov/pardon/media/1394991/dl?inline)
+- On 27 March 2025, Trump signed executive grant of clemency for Ben Delo.
+	- ` ` - [Executive Grant of Clemency for Ben Delo, The White House, 2025](https://www.justice.gov/pardon/media/1394981/dl?inline)
+- On 27 March 2025, Trump signed executive grant of clemency for Sam Reed.
+	- ` ` - [Executive Grant of Clemency for Sam Reed, The White House, 2025](https://www.justice.gov/pardon/media/1395006/dl?inline)
 
 # Pardoning of Binance CEO, Changpeng Zhao
 ## Background
 - On 
 	- ` ` - 
 ## Main Point
-- On 21 October 2025, Trump signed executive grant of clemency for Changpeng Zhao
+- On 21 October 2025, Trump signed executive grant of clemency for Changpeng Zhao.
 	- ` ` - [Executive Grant of Clemency for Changpeng Zhao, The White House, 2025](https://www.justice.gov/pardon/media/1416576/dl?inline)
