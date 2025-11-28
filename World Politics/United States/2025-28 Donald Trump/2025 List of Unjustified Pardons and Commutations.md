@@ -8,7 +8,7 @@
 # Pardoning of Silk Road Founder, Ross Ulbricht
 ## Background
 - [The Travesty of the Silk Road Pardon ft. Liz Dye - YouTube](https://www.youtube.com/watch?v=0ikt2tdc1TM)
-- On 20 January 2025
+- On 
 	- ` ` - 
 ## Main Point
 - On 21 January 2025, Trump signed executive grant of clemency for Ross William Ulbricht
@@ -25,79 +25,36 @@
 - On 22 January 2025, Trump signed executive grant of clemency for Terence Sutton
 	- ` ` - [Executive Grant of Clemency for Terence Sutton, The White House, 2025](https://www.justice.gov/pardon/media/1390896/dl?inline)
 
-# Pardoning of Binance CEO, Changpeng Zhao
+# Pardoning of 24 Anti-Abortion Protesters
 ## Background
-- On 20 January 2025
+- On January 23rd, Trump issued another 24 full pardons for individuals convicted of threatening or obstructing people who were trying to obtain or provide reproductive health services. This overturned lawful jury verdicts and undermined federal law, like the pardons for the January 6th writers and the murderous police officers. This undermined the rule of law and making it clear that the only laws that mattered are the ones that Trump agrees with.
+- On 
 	- ` ` - 
 ## Main Point
-- On 20 January 2025, Trump signed executive grant of clemency for Changpeng Zhao
-	- ` ` - [Executive Grant of Clemency for Changpeng Zhao, The White House, 2025](https://www.justice.gov/pardon/media/1416576/dl?inline)
+- On 23 January 2025, Trump signed executive grant of clemency for Lauren Handy, Jonathan Darnel, Jay Smith, Paula Harlow, Jean Marshall, John Hinshaw, Heather Idoni, William Goodman, Joan Bell, Herb Geraghty, Chester Gallagher, Coleman Boyd, Joel Curry, Caroline Davis, Eva Edl, Dennis Green, Christopher Moscinski, Justin Phillips, Paul Place, Paul Vaughn, Bevelyn Beatty Williams, Calvin Zastrow, Eva Zastrow and James Zastrow.
+	- ` ` - [Executive Grant of Clemency for Lauren Handy, Jonathan Darnel, Jay Smith, Paula Harlow, Jean Marshall, John Hinshaw, Heather Idoni, William Goodman, Joan Bell, Herb Geraghty, Chester Gallagher, Coleman Boyd, Joel Curry, Caroline Davis, Eva Edl, Dennis Green, Christopher Moscinski, Justin Phillips, Paul Place, Paul Vaughn, Bevelyn Beatty Williams, Calvin Zastrow, Eva Zastrow and James Zastrow, The White House, 2025](https://www.justice.gov/pardon/media/1390906/dl?inline)
+
 # Pardoning of Nicola Corporation Founder, Trevor Milton
 ## Background
 - [Trump's flurry of pardons include some to campaign contributors - ABC News](https://abcnews.go.com/US/trumps-flurry-pardons-include-campaign-contributors/story?id=122313284)
-- On 20 January 2025
+- On 
+	- ` ` - 
+## Main Point
+- On 27 March 2025, Trump signed executive grant of clemency for 
+	- ` ` - [justice.gov/pardon/media/1395001/dl?inline](https://www.justice.gov/pardon/media/1395001/dl?inline)
+
+# Pardoning of BitMEX founders Arthur Hayes, Ben Delo, and Sam Reed
+## Background
+- On 
 	- ` ` - 
 ## Main Point
 - On 20 January 2025, Trump signed executive grant of clemency for 
 	- ` ` - 
-# Pardoning of BitMEX founders Arthur Hayes, Beno, and Sam Reed
+
+# Pardoning of Binance CEO, Changpeng Zhao
 ## Background
-- On 20 January 2025
+- On 
 	- ` ` - 
 ## Main Point
-- On 20 January 2025, Trump signed executive grant of clemency for 
-	- ` ` - 
-# Pardoning of 24 Anti-Abortion Protesters
-## Background
-- On January 23rd, Trump issued another 24 full pardons for individuals convicted of threatening or obstructing people who were trying to obtain or provide reproductive health services. This overturned lawful jury verdicts and undermined federal law, like the pardons for the January 6th writers and the murderous police officers. Uh, this undermined the rule of law and making it clear that the only laws that mattered are the ones that Trump agrees with.
-- On 20 January 2025
-	- ` ` - 
-## Main Point
-- On 23 January 2025, Trump signed executive grant of clemency for Joan Bell
-	- ` ` - [Executive Grant of Clemency for Lauren Handy, Jonathan Darnel, Jay Smith, Paula Harlow, Jean Marshall, John Hinshaw, Heather Idoni, William Goodman, Joan Bell, Herb Geraghty, Chester Gallagher,  The White House, 2025](https://www.justice.gov/pardon/media/1390906/dl?inline)
-- On 23 January 2025, Trump signed executive grant of clemency for Coleman Boyd
-	- ` ` - [justice.gov/pardon/media/1390906/dl?inline](https://www.justice.gov/pardon/media/1390906/dl?inline)
-- On 23 January 2025, Trump signed executive grant of clemency for Joel Curry
-	- ` ` - [justice.gov/pardon/media/1390906/dl?inline](https://www.justice.gov/pardon/media/1390906/dl?inline)
-- On 23 January 2025, Trump signed executive grant of clemency for 
-	- ` ` - 
-- On 23 January 2025, Trump signed executive grant of clemency for Caroline Davis
-	- ` ` - 
-- On 23 January 2025, Trump signed executive grant of clemency for Eva Edl
-	- ` ` - 
-- On 23 January 2025, Trump signed executive grant of clemency for 
-	- ` ` - 
-- On 23 January 2025, Trump signed executive grant of clemency for 
-	- ` ` - 
-- On 23 January 2025, Trump signed executive grant of clemency for 
-	- ` ` - 
-- On 23 January 2025, Trump signed executive grant of clemency for Dennis Green
-	- ` ` - 
-- On 23 January 2025, Trump signed executive grant of clemency for 
-	- ` ` - 
-- On 23 January 2025, Trump signed executive grant of clemency for 
-	- ` ` - 
-- On 23 January 2025, Trump signed executive grant of clemency for 
-	- ` ` - 
-- On 23 January 2025, Trump signed executive grant of clemency for 
-	- ` ` - 
-- On 23 January 2025, Trump signed executive grant of clemency for 
-	- ` ` - 
-- On 23 January 2025, Trump signed executive grant of clemency for Christopher Moscinski
-	- ` ` - 
-- On 23 January 2025, Trump signed executive grant of clemency for Justin Phillips
-	- ` ` - 
-- On 23 January 2025, Trump signed executive grant of clemency for Paul Place
-	- ` ` - 
-- On 23 January 2025, Trump signed executive grant of clemency for 
-	- ` ` - 
-- On 23 January 2025, Trump signed executive grant of clemency for Paul Vaughn
-	- ` ` - 
-- On 23 January 2025, Trump signed executive grant of clemency for Bevelyn Beatty Williams
-	- ` ` - 
-- On 23 January 2025, Trump signed executive grant of clemency for Calvin Zastrow
-	- ` ` - 
-- On 23 January 2025, Trump signed executive grant of clemency for Eva Zastrow
-	- ` ` - 
-- On 23 January 2025, Trump signed executive grant of clemency for James Zastrow
-	- ` ` - 
+- On 21 October 2025, Trump signed executive grant of clemency for Changpeng Zhao
+	- ` ` - [Executive Grant of Clemency for Changpeng Zhao, The White House, 2025](https://www.justice.gov/pardon/media/1416576/dl?inline)
