@@ -27,7 +27,8 @@
 
 # Pardoning of 24 Anti-Abortion Protesters
 ## Background
-- On January 23rd, Trump issued another 24 full pardons for individuals convicted of threatening or obstructing people who were trying to obtain or provide reproductive health services. This overturned lawful jury verdicts and undermined federal law, like the pardons for the January 6th writers and the murderous police officers. This undermined the rule of law and making it clear that the only laws that mattered are the ones that Trump agrees with.
+- On January 23rd, Trump issued another 24 full pardons for individuals convicted of threatening or obstructing people who were trying to obtain or provide reproductive health services. This overturned lawful jury verdicts and undermined federal law, This undermined the rule of law and making it clear that the only laws that mattered are the ones that Trump agrees with.
+- [President Trump Pardons 23 People Who Harassed and Attacked Abortion Patients and Clinics - Center for Reproductive Rights](https://reproductiverights.org/news/trump-pardons-23-people-attacked-abortion-patients-clinics/)
 - On 
 	- ` ` - 
 ## Main Point
