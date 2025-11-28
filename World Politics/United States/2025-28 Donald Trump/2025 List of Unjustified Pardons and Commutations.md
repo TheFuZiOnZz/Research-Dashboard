@@ -1,3 +1,18 @@
+# Pardoning of all January 6th Rioters
+## Background
+[2024 Election Fraud Conspiracy](2024%20Election%20Fraud%20Conspiracy)
+## Main Info
+- On 20 January 2025,
+	- ` ` - [Granting Pardons And Commutation Of Sentences For Certain Offenses Relating To The Events At Or Near The United States Capitol On January 6, 2021, The White House, 2025](https://www.whitehouse.gov/presidential-actions/2025/01/granting-pardons-and-commutation-of-sentences-for-certain-offenses-relating-to-the-events-at-or-near-the-united-states-capitol-on-january-6-2021/)
+
+# Pardoning of Silk Road Founder, Ross Ulbricht
+## Background
+- [The Travesty of the Silk Road Pardon ft. Liz Dye - YouTube](https://www.youtube.com/watch?v=0ikt2tdc1TM)
+- On 20 January 2025
+	- ` ` - 
+## Main Point
+- On 21 January 2025, Trump signed executive grant of clemency for Ross William Ulbricht
+	- ` ` - [Executive Grant of Clemency for Ross William Ulbricht, The White House, 2025](https://www.justice.gov/pardon/media/1386096/dl?inline)
 
 # Pardoning of 2 DC Police Officers
 ## Background
@@ -9,15 +24,6 @@
 	- ` ` - [Executive Grant of Clemency for Andrew Zabavsky, The White House, 2025](https://www.justice.gov/pardon/media/1390901/dl?inline)
 - On 22 January 2025, Trump signed executive grant of clemency for Terence Sutton
 	- ` ` - [Executive Grant of Clemency for Terence Sutton, The White House, 2025](https://www.justice.gov/pardon/media/1390896/dl?inline)
-
-# Pardoning of Silk Road Founder, Ross Ulbricht
-## Background
-- [The Travesty of the Silk Road Pardon ft. Liz Dye - YouTube](https://www.youtube.com/watch?v=0ikt2tdc1TM)
-- On 20 January 2025
-	- ` ` - 
-## Main Point
-- On 20 January 2025, Trump signed executive grant of clemency for Ross William Ulbricht
-	- ` ` - [Executive Grant of Clemency for Ross William Ulbricht, The White House, 2025](https://www.justice.gov/pardon/media/1386096/dl?inline)
 
 # Pardoning of Binance CEO, Changpeng Zhao
 ## Background
@@ -41,17 +47,56 @@
 ## Main Point
 - On 20 January 2025, Trump signed executive grant of clemency for 
 	- ` ` - 
-# Pardoning of 
+# Pardoning of 24 Anti-Abortion Protesters
 ## Background
 - On 20 January 2025
 	- ` ` - 
 ## Main Point
-- On 20 January 2025, Trump signed executive grant of clemency for 
+- On 23 January 2025, Trump signed executive grant of clemency for Joan Bell
+	- ` ` - [Executive Grant of Clemency for Joan Bell, The White House, 2025](https://www.justice.gov/pardon/media/1390906/dl?inline)
+- On 23 January 2025, Trump signed executive grant of clemency for Coleman Boyd
 	- ` ` - 
-# Pardoning of 
-## Background
-- On 20 January 2025
+- On 23 January 2025, Trump signed executive grant of clemency for Joel Curry
 	- ` ` - 
-## Main Point
-- On 20 January 2025, Trump signed executive grant of clemency for 
+- On 23 January 2025, Trump signed executive grant of clemency for Jonathan Darnel
+	- ` ` - 
+- On 23 January 2025, Trump signed executive grant of clemency for Caroline Davis
+	- ` ` - 
+- On 23 January 2025, Trump signed executive grant of clemency for Eva Edl
+	- ` ` - 
+- On 23 January 2025, Trump signed executive grant of clemency for Chester Gallagher
+	- ` ` - 
+- On 23 January 2025, Trump signed executive grant of clemency for Herb Geraghty
+	- ` ` - 
+- On 23 January 2025, Trump signed executive grant of clemency for William Goodman
+	- ` ` - 
+- On 23 January 2025, Trump signed executive grant of clemency for Dennis Green
+	- ` ` - 
+- On 23 January 2025, Trump signed executive grant of clemency for 
+	- ` ` - 
+- On 23 January 2025, Trump signed executive grant of clemency for 
+	- ` ` - 
+- On 23 January 2025, Trump signed executive grant of clemency for 
+	- ` ` - 
+- On 23 January 2025, Trump signed executive grant of clemency for 
+	- ` ` - 
+- On 23 January 2025, Trump signed executive grant of clemency for 
+	- ` ` - 
+- On 23 January 2025, Trump signed executive grant of clemency for 
+	- ` ` - 
+- On 23 January 2025, Trump signed executive grant of clemency for 
+	- ` ` - 
+- On 23 January 2025, Trump signed executive grant of clemency for 
+	- ` ` - 
+- On 23 January 2025, Trump signed executive grant of clemency for 
+	- ` ` - 
+- On 23 January 2025, Trump signed executive grant of clemency for 
+	- ` ` - 
+- On 23 January 2025, Trump signed executive grant of clemency for 
+	- ` ` - 
+- On 23 January 2025, Trump signed executive grant of clemency for 
+	- ` ` - 
+- On 23 January 2025, Trump signed executive grant of clemency for 
+	- ` ` - 
+- On 23 January 2025, Trump signed executive grant of clemency for 
 	- ` ` - 
