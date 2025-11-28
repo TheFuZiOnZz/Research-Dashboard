@@ -1,5 +1,7 @@
-- # Background
-- On
+# Background
+- Trump created or repurposed Doge, headed up by Elon Musk, who had reams of conflicts of interest. Doge worked to illegally fire federal workers in violation of civil service protections. Doge also illegally access sensitive personal data of millions of Americans, created unauthorized information systems, illegally combined federal databases, and just generally created chaos. And at the end of the day, contrary to the public releases, save the government and taxpayers virtually no money. 
+- [DOGE Is The Real Fraud ft. Liz Dye - YouTube](https://www.youtube.com/watch?v=71hKowGIpHM)
+- 
 - It is a repurposing of the United States Digital Service
     - Quoting from the [Obama White House Archives](https://obamawhitehouse.archives.gov/the-press-office/2014/08/11/fact-sheet-improving-and-simplifying-digital-services), USDS's service had "one core mission: to improve and simplify the digital experience that people and businesses have with their government."
         - A Biden Administration [example press sheet](https://www.usds.gov/assets/files/USDS-Overview.pdf) for the types of things USDS would take credit for.
@@ -11,8 +13,8 @@
 - The head administrator of DOGE is Elon Musk.
 - The primary purpose of the USDS under Obama seems to have been to streamline the technological side of things in government departments. It was not created to further any sort of executive or legislative agenda, and was not marketed as such. DOGE, on the other hand, in writing, appears to strive for the same goal, although Elon's behavior on X seems to make it sound as though the job is actually auditing other departments for "waste and fraud," where "waste" can also just mean "things Trump doesn't like."
 # Main Info
-- On
-	- 
+- On 20 January 2025, Trump signed executive order 14158,
+	- ` ` - [Establishing And Implementing The President's "Department Of Government Efficiency", The White House, 2025](https://www.whitehouse.gov/presidential-actions/2025/01/establishing-and-implementing-the-presidents-department-of-government-efficiency/)
 # Lawsuit(s)
 - On
 	- 
