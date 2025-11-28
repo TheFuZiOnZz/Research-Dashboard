@@ -46,7 +46,6 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [[2025 Defining Sex and Gender and Defunding Trans Services]]
 ## [[2025 Ending 'DEI' Programs]
 ## [[2025 JFK Files Privacy Violations]]
-## [[2025 ]]
 ## [2025 Department of Government Efficiency](2025%20Department%20of%20Government%20Efficiency)
 ## [2025 Agency for International Development Funding Freeze](2025%20Agency%20for%20International%20Development%20Funding%20Freeze)
 ## [2025 17 Inspector Generals Fired](2025%2017%20Inspector%20Generals%20Fired)

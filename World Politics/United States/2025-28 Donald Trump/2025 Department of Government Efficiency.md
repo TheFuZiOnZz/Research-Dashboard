@@ -15,6 +15,8 @@
 # Main Info
 - On 20 January 2025, Trump signed executive order 14158,
 	- ` ` - [Establishing And Implementing The President's "Department Of Government Efficiency", The White House, 2025](https://www.whitehouse.gov/presidential-actions/2025/01/establishing-and-implementing-the-presidents-department-of-government-efficiency/)
+- On 23 January 2025, DOGE set up an illegal unauthorized, possibly unsecured server to email all government employees on mass, which violated the e-government act and lots of government security regulations and policies.
+	- `OPM is testing a new capability allowing it to send important communications to ALL civilian federal employees from a single email address. Testing of this messaging system functionality is expected as soon as this week.` - [Federal Government-Wide Email Communication Test](https://www.opm.gov/statements/federal-government-wide-email-communication-test-coming/)
 # Lawsuit(s)
 - On
 	- 
