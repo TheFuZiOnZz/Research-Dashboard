@@ -44,7 +44,7 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [[2025 Restoring the Death Penalty Federally]]
 ## [[2025 Defining Sex and Gender and Defunding Trans Services]]
 ## [[2025 Ending 'DEI' Programs]]
-## [[2025 ]]
+## [[2025 Pardoning of 2 DC Police Officers]]
 ## [[2025 ]]
 ## [[2025 ]]
 ## [2025 Department of Government Efficiency](2025%20Department%20of%20Government%20Efficiency)
