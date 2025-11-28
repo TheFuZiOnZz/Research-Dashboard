@@ -49,26 +49,27 @@
 	- ` ` - 
 # Pardoning of 24 Anti-Abortion Protesters
 ## Background
+- On January 23rd, Trump issued another 24 full pardons for individuals convicted of threatening or obstructing people who were trying to obtain or provide reproductive health services. This overturned lawful jury verdicts and undermined federal law, like the pardons for the January 6th writers and the murderous police officers. Uh, this undermined the rule of law and making it clear that the only laws that mattered are the ones that Trump agrees with.
 - On 20 January 2025
 	- ` ` - 
 ## Main Point
 - On 23 January 2025, Trump signed executive grant of clemency for Joan Bell
-	- ` ` - [Executive Grant of Clemency for Joan Bell, The White House, 2025](https://www.justice.gov/pardon/media/1390906/dl?inline)
+	- ` ` - [Executive Grant of Clemency for Lauren Handy, Jonathan Darnel, Jay Smith, Paula Harlow, Jean Marshall, John Hinshaw, Heather Idoni, William Goodman, Joan Bell, Herb Geraghty, Chester Gallagher,  The White House, 2025](https://www.justice.gov/pardon/media/1390906/dl?inline)
 - On 23 January 2025, Trump signed executive grant of clemency for Coleman Boyd
-	- ` ` - 
+	- ` ` - [justice.gov/pardon/media/1390906/dl?inline](https://www.justice.gov/pardon/media/1390906/dl?inline)
 - On 23 January 2025, Trump signed executive grant of clemency for Joel Curry
-	- ` ` - 
-- On 23 January 2025, Trump signed executive grant of clemency for Jonathan Darnel
+	- ` ` - [justice.gov/pardon/media/1390906/dl?inline](https://www.justice.gov/pardon/media/1390906/dl?inline)
+- On 23 January 2025, Trump signed executive grant of clemency for 
 	- ` ` - 
 - On 23 January 2025, Trump signed executive grant of clemency for Caroline Davis
 	- ` ` - 
 - On 23 January 2025, Trump signed executive grant of clemency for Eva Edl
 	- ` ` - 
-- On 23 January 2025, Trump signed executive grant of clemency for Chester Gallagher
+- On 23 January 2025, Trump signed executive grant of clemency for 
 	- ` ` - 
-- On 23 January 2025, Trump signed executive grant of clemency for Herb Geraghty
+- On 23 January 2025, Trump signed executive grant of clemency for 
 	- ` ` - 
-- On 23 January 2025, Trump signed executive grant of clemency for William Goodman
+- On 23 January 2025, Trump signed executive grant of clemency for 
 	- ` ` - 
 - On 23 January 2025, Trump signed executive grant of clemency for Dennis Green
 	- ` ` - 
@@ -82,21 +83,21 @@
 	- ` ` - 
 - On 23 January 2025, Trump signed executive grant of clemency for 
 	- ` ` - 
-- On 23 January 2025, Trump signed executive grant of clemency for 
+- On 23 January 2025, Trump signed executive grant of clemency for Christopher Moscinski
+	- ` ` - 
+- On 23 January 2025, Trump signed executive grant of clemency for Justin Phillips
+	- ` ` - 
+- On 23 January 2025, Trump signed executive grant of clemency for Paul Place
 	- ` ` - 
 - On 23 January 2025, Trump signed executive grant of clemency for 
 	- ` ` - 
-- On 23 January 2025, Trump signed executive grant of clemency for 
+- On 23 January 2025, Trump signed executive grant of clemency for Paul Vaughn
 	- ` ` - 
-- On 23 January 2025, Trump signed executive grant of clemency for 
+- On 23 January 2025, Trump signed executive grant of clemency for Bevelyn Beatty Williams
 	- ` ` - 
-- On 23 January 2025, Trump signed executive grant of clemency for 
+- On 23 January 2025, Trump signed executive grant of clemency for Calvin Zastrow
 	- ` ` - 
-- On 23 January 2025, Trump signed executive grant of clemency for 
+- On 23 January 2025, Trump signed executive grant of clemency for Eva Zastrow
 	- ` ` - 
-- On 23 January 2025, Trump signed executive grant of clemency for 
-	- ` ` - 
-- On 23 January 2025, Trump signed executive grant of clemency for 
-	- ` ` - 
-- On 23 January 2025, Trump signed executive grant of clemency for 
+- On 23 January 2025, Trump signed executive grant of clemency for James Zastrow
 	- ` ` - 
