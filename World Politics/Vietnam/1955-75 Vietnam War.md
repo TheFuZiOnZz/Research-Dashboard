@@ -1,4 +1,4 @@
-# 1955-75 Vietnam War
+
 - On 1 November 1955 to 30 April 1975, The Vietnam War was a conflict in Vietnam, Laos, and Cambodia.
 - Withdrawal of U.S. coalition's forces from Vietnam in 1973 after the Paris Peace Accords
 - Communist forces take power in South Vietnam, Cambodia and Laos
