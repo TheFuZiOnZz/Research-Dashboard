@@ -1,10 +1,30 @@
 # Background
-- United States Military Code Article 90
-	- ` ` - [Manual For Courts-Martial, United States (2023 Edition), U.S. Department Of Defense](https://jsc.defense.gov/Portals/99/2023%20MCM%20(w_%20preface)%20(2023_09_15).pdf?ver=DYv_dgnVlSTjgwUwpO2piQ%3d%3d)
-- United States Military Code Article 91
-	- ` ` - [Manual For Courts-Martial, United States (2023 Edition), U.S. Department Of Defense](https://jsc.defense.gov/Portals/99/2023%20MCM%20(w_%20preface)%20(2023_09_15).pdf?ver=DYv_dgnVlSTjgwUwpO2piQ%3d%3d)
-- United States Military Code Article 92
-	- ` ` - [Manual For Courts-Martial, United States (2023 Edition), U.S. Department Of Defense](https://jsc.defense.gov/Portals/99/2023%20MCM%20(w_%20preface)%20(2023_09_15).pdf?ver=DYv_dgnVlSTjgwUwpO2piQ%3d%3d)
+- United States Military Code Article 90, Willfully disobeying superior commissioned officer
+	- `Any person subject to this chapter who willfully disobeys a lawful command of that person’s superior commissioned officer shall be punished—`
+	  
+	  `(1) if the offense is committed in time of war, by death or such other punishment as a court-martial may direct; and`
+	  
+	  `(2) if the offense is committed at any other time, by such punishment, other than death, as a courtmartial may direct.` - [Manual For Courts-Martial, United States (2023 Edition), U.S. Department Of Defense](https://jsc.defense.gov/Portals/99/2023%20MCM%20(w_%20preface)%20(2023_09_15).pdf?ver=DYv_dgnVlSTjgwUwpO2piQ%3d%3d)
+- United States Military Code Article 91, Insubordinate conduct toward warrant officer, noncommissioned officer, or petty officer
+	- `Any warrant officer or enlisted member who—`
+	  
+	  `(1) strikes or assaults a warrant officer, noncommissioned officer, or petty officer, while that officer is in the execution of his office;`
+	  
+	  `(2) willfully disobeys the lawful order of a warrant officer, noncommissioned officer, or petty officer; or`
+	  
+	  `(3) treats with contempt or is disrespectful in language or deportment toward a warrant officer, noncommissioned officer, or petty officer, while that officer is in the execution of his office;`
+	  
+	  `shall be punished as a court-martial may direct.` - [Manual For Courts-Martial, United States (2023 Edition), U.S. Department Of Defense](https://jsc.defense.gov/Portals/99/2023%20MCM%20(w_%20preface)%20(2023_09_15).pdf?ver=DYv_dgnVlSTjgwUwpO2piQ%3d%3d)
+- United States Military Code Article 92, Failure to obey order or regulation
+	- `Any person subject to this chapter who—`
+	  
+	  `(1) violates or fails to obey any lawful general order or regulation;`
+	  
+	  `(2) having knowledge of any other lawful order issued by a member of the armed forces, which it is his duty to obey, fails to obey the order; or`
+	  
+	  `(3) is derelict in the performance of his duties;`
+	  
+	  `shall be punished as a court-martial may direct.` - [Manual For Courts-Martial, United States (2023 Edition), U.S. Department Of Defense](https://jsc.defense.gov/Portals/99/2023%20MCM%20(w_%20preface)%20(2023_09_15).pdf?ver=DYv_dgnVlSTjgwUwpO2piQ%3d%3d)
 - 
 # Main Point
 - On 18 November 2025, A video by Democrats, which was shared by Michigan Senator Elissa Slotkin, features Senator Mark Kelly and Representatives Chris DeLuzio, Maggie Goodlander, Chrissy Houlahan and Jason Crow 
