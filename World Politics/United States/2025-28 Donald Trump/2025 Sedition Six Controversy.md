@@ -11,14 +11,72 @@
 
 
 
-Slotkin: I'M SENATOR ELISSA SLOTKIN
+Slotkin: I'm Senator Elissa Slotkin
 
-Kelly: I'M SENATOR MARK KELLY
+Kelly: I'm Senator Mark Kelly
 
-Deluzio: REPRESENTATIVE CHRIS DELUZIO
+Deluzio: Representative Chris Deluzio
 
-Goodlander: CONGRESSWOMAN MAGGIE GOODLANDER
+Goodlander: Congresswoman Maggie Goodlander
 
-HOULAHAN: REPRESENTATIVE CHRISSY HOULAHAN
+Houlahan: Representative Chrissy Houlahan
 
-CONGRESSMAN JA
+Crow: Congressman Jason Crow
+
+Kelly: I WAS A CAPTAIN IN THE UNITED STATES NAVY
+
+Slotkin: FORMER CIA OFFICER
+
+Deluzio: Former Navy
+
+Crow: FORMER PARATROOPER AND ARMY RANGER
+
+Goodlander: FORMER INTELLIGENCE OFFICER
+
+Houlahan: Former Air Force
+
+Kelly: WE WANT TO SPEAK DIRECTLY TO MEMBERS OF THE MILITARY.
+
+Slotkin: AND THE INTELLIGENCE COMMUNITY.
+
+Deluzio: WHO TAKE RISKS EACH DAYTO KEEP AMERICANS SAFE.
+
+Slotkin: WE KNOW YOU ARE UNDER ENORMOUS STRESS AND PRESSURE RIGHT NOW.
+
+Houlahan: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
