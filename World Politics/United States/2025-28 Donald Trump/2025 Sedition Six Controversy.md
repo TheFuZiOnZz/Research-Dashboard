@@ -97,6 +97,7 @@
 	  `Crow: Don't Give Up`
 	  
 	  `Slotkin: Don't Give Up the Ship` - [@SenatorSlotkin Tweet (Written Transcript of Video), Twitter, 2025](https://x.com/SenatorSlotkin/status/1990774492356902948)
+- 
 # Lawsuit
 - On 20 January 2025
 	- ` ` - 
