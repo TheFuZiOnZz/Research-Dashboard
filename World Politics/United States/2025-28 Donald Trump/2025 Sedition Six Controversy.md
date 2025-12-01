@@ -132,6 +132,13 @@
 	  `The Department of War reminds all individuals that military retirees remain subject to the UCMJ for applicable offenses, and federal laws such as 18 U.S.C. § 2387 prohibit actions intended to interfere with the loyalty, morale, or good order and discipline of the armed forces. Any violations will be addressed through appropriate legal channels.`
 	  
 	  `All servicemembers are reminded that they have a legal obligation under the UCMJ to obey lawful orders and that orders are presumed to be lawful. A servicemember’s personal philosophy does not justify or excuse the disobedience of an otherwise lawful order.` - [@DeptofWar Tweet, Twitter, 2025](https://x.com/DeptofWar/status/1992999267967905905)
-
+- On 24 November 2025, Kelly responded to the news of the Pentagon's investigation saying he and other members of congress wouldn't be intimidated and will protect the constitution.
+	- `When I was 22 years old, I commissioned as an Ensign in the United States Navy and swore an oath to the Constitution. I upheld that oath through flight school, multiple deployments on the USS Midway, 39 combat missions in Operation Desert Storm, test pilot school, four space shuttle flights at NASA, and every day since I retired – which I did after my wife Gabby was shot in the head while serving her constituents.`
+	  
+	  `In combat, I had a missile blow up next to my jet and flew through anti-aircraft fire to drop bombs on enemy targets. At NASA, I launched on a rocket, commanded the space shuttle, and was part of the recovery mission that brought home the bodies of my astronaut classmates who died on Columbia. I did all of this in service to this country that I love and has given me so much.`
+	  
+	  `Secretary Hegseth’s tweet is the first I heard of this. I also saw the President’s posts saying I should be arrested, hanged, and put to death.`
+	  
+	  `If this is meant to intimidate me and other members of Congress from doing our jobs and holding this administration accountable, it won’t work. I’ve given too much to this country to be silenced by bullies who care more about their own power than protecting the Constitution.` - [@SenMarkKelly Tweet, Twitter, 2025](https://x.com/SenMarkKelly/status/1993025671757807746)
 
 
