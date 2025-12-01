@@ -36,7 +36,7 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [[2025 List of Unjustified Pardons and Commutations]]
 ## [2025 Executive Orders Targeting Non-Preferential Law Firms](2025%20Executive%20Orders%20Targeting%20Non-Preferential%20Law%20Firms)
 ## [2025 Gulf of Mexico Renaming](2025%20Gulf%20of%20Mexico%20Renaming)
-## [[2025 Pardoning of]]
+## [[2025 ]]
 ## [[2025 Return to In-Person Work Executive Order]]
 ## [[2025 Withdrawal From the World Health Organization]]
 ## [[2025 Firing to Hire Pro-Trump Appointments]]
@@ -74,6 +74,7 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [2025- James Comey Perjury Case](2025-%20James%20Comey%20Perjury%20Case)
 ## [[2025 Letitia James Bank Fraud Case]]
 ## [[2025 John Bolton Classified Documents Case]]
+## [[2025 Sedition Six Controversy]]
 
 # Pre-Presidency Controversy’s
 ## [2022-25 Smith’s Special Counsel Investigation](2022-25%20Smith’s%20Special%20Counsel%20Investigation)
