@@ -97,7 +97,8 @@
 	  `Crow: Don't Give Up`
 	  
 	  `Slotkin: Don't Give Up the Ship` - [@SenatorSlotkin Tweet (Written Transcript of Video), Twitter, 2025](https://x.com/SenatorSlotkin/status/1990774492356902948)
-- 
+- On 20 November 2025, following multiple reposting of similar messages from Trump supporters, Trump posted that the Democrats featured in the video should be charged with Seditious Conspiracy stating that it is punishable by death.  
+	- `SEDITIOUS BEHAVIOR, punishable by DEATH!` - [@realDonaldTrump Post, Truth Social, 2025](https://truthsocial.com/@realDonaldTrump/posts/115582703277798715)
 # Lawsuit
 - On 20 January 2025
 	- ` ` - 
