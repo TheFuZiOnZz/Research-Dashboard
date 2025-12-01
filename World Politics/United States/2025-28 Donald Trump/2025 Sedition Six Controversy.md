@@ -23,48 +23,85 @@ Houlahan: Representative Chrissy Houlahan
 
 Crow: Congressman Jason Crow
 
-Kelly: I WAS A CAPTAIN IN THE UNITED STATES NAVY
+Kelly: I Was a Captain In the United States Navy
 
-Slotkin: FORMER CIA OFFICER
+Slotkin: Former Cia Officer
 
 Deluzio: Former Navy
 
-Crow: FORMER PARATROOPER AND ARMY RANGER
+Crow: Former Paratrooper And Army Ranger
 
-Goodlander: FORMER INTELLIGENCE OFFICER
+Goodlander: Former Intelligence Officer
 
 Houlahan: Former Air Force
 
-Kelly: WE WANT TO SPEAK DIRECTLY TO MEMBERS OF THE MILITARY.
+Kelly: We Want To Speak Directly To Members Of the Military
 
-Slotkin: AND THE INTELLIGENCE COMMUNITY.
+Slotkin: And the Intelligence Community
 
-Crow: WHO TAKE RISKS EACH DAY
+Crow: Who Take Risks Each Day
 
-Deluzio: TO KEEP AMERICANS SAFE.
+Deluzio: To Keep Americans Safe
 
-Slotkin: WE KNOW YOU ARE UNDER ENORMOUS STRESS AND PRESSURE RIGHT NOW.
+Slotkin: We Know You Are Under Enormous Stress And Pressure Right Now
 
-Houlahan: AMERICANS TRUST THEIR MILITARY
+Houlahan: Americans Trust Their Military
 
-Deluzio: BUT THAT TRUST IS AT RISK
+Deluzio: But That Trust Is At Risk
 
-Kelly: THIS ADMINISTRATION IS PITTING OUR UNIFORMED MILITARY
+Kelly: This Administration Is Pitting Our Uniformed Military
 
-Slotkin: AND INTELLIGENCE COMMUNITY PROFESSIONALS
+Slotkin: And Intelligence Community Professionals
 
-Crow: AGAINST AMERICAN CITIZENS
+Crow: Against American Citizens
 
-Kelly: LIKE US, YOU ALL SWORE AN OATH.
+Kelly: Like Us, You All Swore an Oath
 
-Goodlander: TO PROTECT AND DEFEND THIS CONSTITUTION. 
+Goodlander: To Protect And Defend This Constitution
 
-Deluzio: RIGHT NOW, THE THREATS TO OUR CONSTITUTION AREN'T JUST COMING FROM ABROAD,
+Deluzio: Right Now, the Threats To Our Constitution Aren't Just Coming From Abroad
 
-Crow: BUT FROM RIGHT HERE AT HOME
+Crow: But From Right Here At Home
 
-Kelly: OUR LAWS ARE CLEAR, YOU CAN Refuse ILLEGAL ORDERS
+Kelly: Our Laws Are Clear, You Can Refuse Illegal Orders
 
-Slotkin: YOU CAN Refuse ILLEGAL ORDERS
+Slotkin: You Can Refuse Illegal Orders
 
-Deluzio: YOU must Refuse ILLEGAL ORDERS
+Deluzio: You Must Refuse Illegal Orders
+
+Slotkin: No One Has To Carry Out Orders That Violate the Law
+
+Houlahan: Or Our Constitution
+
+Crow: We Know This Is Hard
+ 
+Kelly: And That It's a Difficult Time To Be a Public Servant
+
+Slotkin: But Whether You're Serving In the Cia,
+
+Crow: the Army
+
+Deluzio: Our Navy
+
+Houlahan: the Air Force
+
+Kelly: Your Vigilance Is Critical.
+
+Slotkin: And Know We Have Your Back
+
+Crow: Because Now More Than Ever
+
+Houlahan: the American People Need You
+
+Slotkin: We Need You To Stand Up For Our Laws. 
+
+Deluzio: Our Constitution.
+
+Kelly: And Who We Are As Americans. Dont Give Up
+
+Deluzio: Dont Give Up
+
+Crow: Dont Give Up
+
+Slotkin: Dont Give Up the Ship
+
