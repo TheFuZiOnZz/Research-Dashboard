@@ -131,7 +131,7 @@
 	  `"If you look at sedition", Trump continued, "that's a form of, a very strong form of being a traitor. It's a terrible thing to say, I must tell you."`
 	  
 	  `Trump also suggested the US defence secretary and US deputy attorney general were looking into the matter.` - [Trump says he was 'not threatening death' to Democrats over video to troops, BBC News, 2025](https://www.bbc.co.uk/news/articles/cx2p2dz9zk2o)
-- On 25 November 2025, 
+- On 25 November 2025, the six Democratic Lawmakers became subject to a FBI probe.
 	- `A group of Democratic lawmakers who encouraged US troops to disobey any orders they deem illegal are pushing back on an alleged federal inquiry into their actions.`
 	  
 	  `US Senator Elissa Slotkin, of Michigan, said the FBI had notified the six lawmakers of its investigation on Monday, after she and others appeared in a video last week, which US President Donald Trump branded "seditious".`
