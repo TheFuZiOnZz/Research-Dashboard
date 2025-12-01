@@ -123,8 +123,14 @@
 	  `Crow: Don't Give Up`
 	  
 	  `Slotkin: Don't Give Up the Ship` - [@SenatorSlotkin Tweet (Written Transcript of Video), Twitter, 2025](https://x.com/SenatorSlotkin/status/1990774492356902948)
-- On 20 November 2025, following multiple reposting of similar messages from Trump supporters, Trump posted that the Democrats featured in the video should be charged with Seditious Conspiracy stating that it is punishable by death.  
+- On 20 November 2025, following multiple reposting of similar messages from Trump supporters on his Truth Social feed, Trump posted that the Democrats featured in the video should be charged with Seditious Conspiracy stating that it is punishable by death.  
 	- `SEDITIOUS BEHAVIOR, punishable by DEATH!` - [@realDonaldTrump Post, Truth Social, 2025](https://truthsocial.com/@realDonaldTrump/posts/115582703277798715)
+- On 20 November 2025, following the Truth Social post, Trump claimed that the post was not threatening death.
+	- `Following his social media posts, Trump told Fox News in a radio interview on Friday: "I'm not threatening death, but I think they're in serious trouble."`
+	  
+	  `"If you look at sedition", Trump continued, "that's a form of, a very strong form of being a traitor. It's a terrible thing to say, I must tell you."`
+	  
+	  `Trump also suggested the US defence secretary and US deputy attorney general were looking into the matter.` - [Trump says he was 'not threatening death' to Democrats over video to troops, BBC News, 2025](https://www.bbc.co.uk/news/articles/cx2p2dz9zk2o)
 # Investigations
 - On 24 November 2025, The Pentagon said it is reviewing "serious allegations of misconduct" against US Democratic Senator Mark Kelly.
 	- `The Department of War has received serious allegations of misconduct against Captain Mark Kelly, USN (Ret.). In accordance with the Uniform Code of Military Justice, 10 U.S.C. § 688, and other applicable regulations, a thorough review of these allegations has been initiated to determine further actions, which may include recall to active duty for court-martial proceedings or administrative measures. This matter will be handled in compliance with military law, ensuring due process and impartiality. Further official comments will be limited, to preserve the integrity of the proceedings.`
