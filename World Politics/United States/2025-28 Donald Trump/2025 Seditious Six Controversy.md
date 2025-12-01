@@ -131,6 +131,20 @@
 	  `"If you look at sedition", Trump continued, "that's a form of, a very strong form of being a traitor. It's a terrible thing to say, I must tell you."`
 	  
 	  `Trump also suggested the US defence secretary and US deputy attorney general were looking into the matter.` - [Trump says he was 'not threatening death' to Democrats over video to troops, BBC News, 2025](https://www.bbc.co.uk/news/articles/cx2p2dz9zk2o)
+- On 25 November 2025, 
+	- `A group of Democratic lawmakers who encouraged US troops to disobey any orders they deem illegal are pushing back on an alleged federal inquiry into their actions.`
+	  
+	  `US Senator Elissa Slotkin, of Michigan, said the FBI had notified the six lawmakers of its investigation on Monday, after she and others appeared in a video last week, which US President Donald Trump branded "seditious".`
+	  
+	  `"No amount of intimidation or harassment will ever stop us from doing our jobs and honouring our Constitution," four Democrats in the US House of Representatives said.`
+	  
+	  `The Department of Justice (DoJ) and FBI have declined to comment on the reported investigation.`
+	  
+	  `The Pentagon has also previously announced that it will review "serious allegations of misconduct" against Senator Mark Kelly of Arizona, who appeared in the clip.`
+	  
+	  `On Tuesday, Reuters reported that a DoJ official, who spoke on condition of anonymity, said the FBI had requested interviews with six Democratic politicians to determine "if there's any wrongdoing, and then go from there".`
+	  
+	  `When Kelly was asked by NPR about the matter later that day, he said: "The sergeant at arms got something in an email. We're taking a look at it."` - 
 # Investigations
 - On 24 November 2025, The Pentagon said it is reviewing "serious allegations of misconduct" against US Democratic Senator Mark Kelly.
 	- `The Department of War has received serious allegations of misconduct against Captain Mark Kelly, USN (Ret.). In accordance with the Uniform Code of Military Justice, 10 U.S.C. § 688, and other applicable regulations, a thorough review of these allegations has been initiated to determine further actions, which may include recall to active duty for court-martial proceedings or administrative measures. This matter will be handled in compliance with military law, ensuring due process and impartiality. Further official comments will be limited, to preserve the integrity of the proceedings.`
