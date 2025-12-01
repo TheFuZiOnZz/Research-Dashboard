@@ -127,7 +127,11 @@
 	- `SEDITIOUS BEHAVIOR, punishable by DEATH!` - [@realDonaldTrump Post, Truth Social, 2025](https://truthsocial.com/@realDonaldTrump/posts/115582703277798715)
 # Investigations
 - On 24 November 2025, The Pentagon said it is reviewing "serious allegations of misconduct" against US Democratic Senator Mark Kelly.
-	- ` ` - 
+	- `The Department of War has received serious allegations of misconduct against Captain Mark Kelly, USN (Ret.). In accordance with the Uniform Code of Military Justice, 10 U.S.C. § 688, and other applicable regulations, a thorough review of these allegations has been initiated to determine further actions, which may include recall to active duty for court-martial proceedings or administrative measures. This matter will be handled in compliance with military law, ensuring due process and impartiality. Further official comments will be limited, to preserve the integrity of the proceedings.`
+	  
+	  `The Department of War reminds all individuals that military retirees remain subject to the UCMJ for applicable offenses, and federal laws such as 18 U.S.C. § 2387 prohibit actions intended to interfere with the loyalty, morale, or good order and discipline of the armed forces. Any violations will be addressed through appropriate legal channels.`
+	  
+	  `All servicemembers are reminded that they have a legal obligation under the UCMJ to obey lawful orders and that orders are presumed to be lawful. A servicemember’s personal philosophy does not justify or excuse the disobedience of an otherwise lawful order.` - [@DeptofWar Tweet, Twitter, 2025](https://x.com/DeptofWar/status/1992999267967905905)
 
 
 
