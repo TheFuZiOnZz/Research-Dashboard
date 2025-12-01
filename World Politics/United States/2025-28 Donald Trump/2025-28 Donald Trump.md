@@ -74,7 +74,7 @@ Donald Trump - 20 January 2025 - 20 January 2028
 ## [2025- James Comey Perjury Case](2025-%20James%20Comey%20Perjury%20Case)
 ## [[2025 Letitia James Bank Fraud Case]]
 ## [[2025 John Bolton Classified Documents Case]]
-## [[2025 Sedition Six Controversy]]
+## [[2025 Seditious Six Controversy]]
 
 # Pre-Presidency Controversy’s
 ## [2022-25 Smith’s Special Counsel Investigation](2022-25%20Smith’s%20Special%20Counsel%20Investigation)
