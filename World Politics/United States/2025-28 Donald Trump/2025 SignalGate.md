@@ -190,3 +190,8 @@
 # 2nd Chat
 - On 20 April 2025, Hegseth was found to have shared attack details in second signal chat.
 	- ` ` - [Hegseth Said to Have Shared Attack Details in Second Signal Chat, The New York Times, 2025](https://www.nytimes.com/2025/04/20/us/politics/hegseth-yemen-attack-second-signal-chat.html)
+
+# Inspector General Report 
+- 
+Watchdog finds Hegseth violated Pentagon protocol in ‘Signalgate’ affair
+https://www.washingtonpost.com/national-security/2025/12/03/hegseth-signalgate-inspector-general-report/
