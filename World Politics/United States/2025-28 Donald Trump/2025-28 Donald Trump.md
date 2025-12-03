@@ -44,7 +44,7 @@ Donald Trump - 20 January 2025 - 20 January 2028?
 ## [2025 Pausing the TikTok Ban](2025%20Pausing%20the%20TikTok%20Ban)
 ## [2025 Restoring the Death Penalty Federally](2025%20Restoring%20the%20Death%20Penalty%20Federally)
 ## [2025 Defining Sex and Gender and Defunding Trans Services](2025%20Defining%20Sex%20and%20Gender%20and%20Defunding%20Trans%20Services)
-## [[2025 Ending 'DEI' Programs]
+## [[2025 Ending 'DEI' Programs]]
 ## [2025 JFK Files Privacy Violations](2025%20JFK%20Files%20Privacy%20Violations)
 ## [2025 Department of Government Efficiency](2025%20Department%20of%20Government%20Efficiency)
 ## [2025 Agency for International Development Funding Freeze](2025%20Agency%20for%20International%20Development%20Funding%20Freeze)
