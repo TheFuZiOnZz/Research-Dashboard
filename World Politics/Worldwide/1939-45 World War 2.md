@@ -64,5 +64,6 @@
 ## [1945 Soviet–Japanese War](1945%20Soviet–Japanese%20War)
 # Post-War
 
+# [1945 Operation Paperclip](1945%20Operation%20Paperclip)
 ## [1945-46 International Military Tribunal, Nuremberg Trials](1945-46%20International%20Military%20Tribunal,%20Nuremberg%20Trials)
 ## [1945-48 International Military Tribunal for the Far East, Tokyo Trials](1945-48%20International%20Military%20Tribunal%20for%20the%20Far%20East,%20Tokyo%20Trials)
