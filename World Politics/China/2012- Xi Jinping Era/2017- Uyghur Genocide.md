@@ -1,5 +1,5 @@
 [Uyghur genocide - RationalWiki](https://rationalwiki.org/wiki/Uyghur_genocide)
-- THe Uyghur Genocid
+- The Uyghur Genocide refers to, since 2014, the government of the People's Republic of China has committed a series of ongoing human rights abuses against Uyghurs and other Turkic Muslim minorities in Xinjiang which has often been characterized as persecution or as genocide. There have been reports of mass arbitrary arrests and detention, torture, mass surveillance, cultural and religious persecution, family separation, forced labor, sexual violence, and violations of reproductive rights.
 - Since 2017, China has held Uyghur people in re-education camps in Xinjiang.
 - The International Consortium of Investigative Journalists (ICIJ) did an investigation called the `China Cables` after receiving secret Chinese government documents which were leaked by exiled Uyghurs.
 - The key findings of the investigation were: - [China Cables - China’s Operating Manuals for Mass Internment, International Consortium of Investigative Journalists](https://www.icij.org/investigations/china-cables/)
