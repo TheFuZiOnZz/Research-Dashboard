@@ -1,7 +1,7 @@
-## 2017- Uyghur Genocide
+[Uyghur genocide - RationalWiki](https://rationalwiki.org/wiki/Uyghur_genocide)
 - Since 2017, China has held Uyghur people in re-education camps in Xinjiang.
 - The International Consortium of Investigative Journalists (ICIJ) did an investigation called the `China Cables` after receiving secret Chinese government documents which were leaked by exiled Uyghurs.
-- The key findings of the investigation were: [link](https://www.icij.org/investigations/china-cables/)
+- The key findings of the investigation were: [China Cables, China’s Operating Manuals for Mass Internment, International Consortium of Investigative Journalists](https://www.icij.org/investigations/china-cables/)
     - `China Cables reveals, in the government’s own words and authoritative detail, a description of China’s extrajudicial internment and compulsory indoctrination of Muslims.`
     - `Confirms China's camps are involuntary indoctrination centers under heavy 24-hour guard — with high watchtowers, internal cameras and dedicated police bases.`
     - `China Cables exposes key details of China's mass-surveillance system that is used to control routine behavior, curb internal communication and isolate Xinjiang from the rest of the world.`
@@ -23,5 +23,5 @@
 - [link](https://docs.google.com/document/d/17hvyxhJZN4LbhM51cM0MfphSxeUVyW5mp8tky9dtY-Q/edit)
 - [link](https://docs.google.com/document/d/1oaJAqOlhfDiPwZK6PKPEqHihXg_zYp80-IO0oqHpuCk/edit)
 
-### 2021 Uyghur Forced Labor Prevention Act
+## 2021 Uyghur Forced Labor Prevention Act
 - [Wiki](https://en.wikipedia.org/wiki/Uyghur_Forced_Labor_Prevention_Act)
