@@ -1,4 +1,5 @@
 [Uyghur genocide - RationalWiki](https://rationalwiki.org/wiki/Uyghur_genocide)
+- THe Uyghur Genocid
 - Since 2017, China has held Uyghur people in re-education camps in Xinjiang.
 - The International Consortium of Investigative Journalists (ICIJ) did an investigation called the `China Cables` after receiving secret Chinese government documents which were leaked by exiled Uyghurs.
 - The key findings of the investigation were: - [China Cables - China’s Operating Manuals for Mass Internment, International Consortium of Investigative Journalists](https://www.icij.org/investigations/china-cables/)
