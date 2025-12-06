@@ -3,9 +3,10 @@
 # [Flat Earth](Flat%20Earth)
 # [Great Replacement](Great%20Replacement)
 # [Pizzagate](Pizzagate)
+# [Sovereign Citizenry](Sovereign%20Citizenry)
 # [The Great Reset](The%20Great%20Reset)
 # [Vaccines Cause Autism](Vaccines%20Cause%20Autism)
-# [[1945 Operation Paperclip]]
+# [1945 Operation Paperclip](1945%20Operation%20Paperclip)
 # [1953-73 MKULTRA](1953-73%20MKULTRA)
 # [1963 JFK Assassination](1963%20JFK%20Assassination)
 # [1969-72 U.S. Moon Landings](1969-72%20U.S.%20Moon%20Landings)
