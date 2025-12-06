@@ -46,7 +46,7 @@
 ## [Emissions Trading](Environmental%20Policy/Emissions%20Trading)
 ## [1970- Environmental Protection Agency](Environmental%20Policy/1970-%20Environmental%20Protection%20Agency)
 # Healthcare Policy
-## [Socialised Healthcare](Healthcare%20Policy/Socialised%20Healthcare)
+## [Socialised Healthcare](Political%20Positions/Healthcare%20Policy%201/Socialised%20Healthcare.md)
 # Housing Policy
 ## [Socialised Housing](Housing%20Policy/Socialised%20Housing)
 # Immigration Policy
