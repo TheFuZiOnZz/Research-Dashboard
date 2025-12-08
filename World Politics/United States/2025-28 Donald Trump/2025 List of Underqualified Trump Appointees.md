@@ -15,3 +15,5 @@
 ## Comey Perjury Case Screwup
 
 # Alina Habba, U.S. Attorney for the District of New Jersey
+- On
+- https://www.forbes.com/sites/antoniopequenoiv/2025/12/08/alina-habba-steps-down-as-us-attorney-after-court-says-she-was-unlawfully-appointed/?utm_campaign=ForbesMainTwitter&utm_source=ForbesMainTwitter&utm_medium=social 
