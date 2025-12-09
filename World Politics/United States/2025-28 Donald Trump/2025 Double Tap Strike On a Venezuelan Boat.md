@@ -3,6 +3,7 @@
 [Operation Southern Spear - Wikipedia](https://en.wikipedia.org/wiki/Operation_Southern_Spear)
 hegseth second strike war crime [Hegseth order on first Caribbean boat strike, officials say: Kill them all, Washington Post, 2025](https://archive.ph/20251129174022/https://www.washingtonpost.com/national-security/2025/11/28/hegseth-kill-them-all-survivors-boat-strike/) 
 [Illegal Orders and Reasoning Agents](https://pragmaticpapers.com/articles/illegal-orders-and-reasoning-agents)
+[Trump Killed 11 Alleged Drug Traffickers. Is This Murder? - YouTube](https://www.youtube.com/watch?v=7t-_m16y25o)
 [Unequivocal War Crimes - YouTube](https://www.youtube.com/watch?v=Ox-fhnkBrkI)
 # Background
 - On 20 January 2025
