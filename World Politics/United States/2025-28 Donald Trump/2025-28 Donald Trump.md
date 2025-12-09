@@ -65,7 +65,6 @@ Donald Trump - 20 January 2025 - 20 January 2028?
 ## [2025 Merchandise Sold By Cabinet Members](2025%20Merchandise%20Sold%20By%20Cabinet%20Members)
 ## [2025 Musk Substitutes Verizon FAA Contract for Starlink](2025%20Musk%20Substitutes%20Verizon%20FAA%20Contract%20for%20Starlink)
 ## [2025 SEC Closing Crypto Legal Cases & Reducing Regulatory Enforcement](2025%20SEC%20Closing%20Crypto%20Legal%20Cases%20&%20Reducing%20Regulatory%20Enforcement)
-## [2025 Executive Orders Targeting Non-Preferential Law Firms](2025%20Executive%20Orders%20Targeting%20Non-Preferential%20Law%20Firms)
 ## [2025- Illegal National Guard Deployments to U.S. Cities](2025-%20Illegal%20National%20Guard%20Deployments%20to%20U.S.%20Cities)
 ## [[2025 Firing the Federal Reserve Chair]]
 ## [2025- Trump Third Term](2025-%20Trump%20Third%20Term)

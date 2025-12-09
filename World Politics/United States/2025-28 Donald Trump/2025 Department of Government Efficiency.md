@@ -1,3 +1,5 @@
+[Who Runs DOGE? A Descent into Madness (ft. Anna Bower) - YouTube](https://www.youtube.com/watch?v=0ziKJQC32qk)
+[DOGE Got Hammered In Court - YouTube](https://www.youtube.com/watch?v=q7wo9ooM6CI)
 # Background
 - Trump created or repurposed Doge, headed up by Elon Musk, who had reams of conflicts of interest. Doge worked to illegally fire federal workers in violation of civil service protections. Doge also illegally access sensitive personal data of millions of Americans, created unauthorized information systems, illegally combined federal databases, and just generally created chaos. And at the end of the day, contrary to the public releases, save the government and taxpayers virtually no money. 
 - [DOGE Is The Real Fraud ft. Liz Dye - YouTube](https://www.youtube.com/watch?v=71hKowGIpHM)

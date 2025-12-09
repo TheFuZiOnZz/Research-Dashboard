@@ -1,6 +1,6 @@
 [$Trump - Wikipedia](https://en.wikipedia.org/wiki/$Trump)
 [World Liberty Financial - Wikipedia](https://en.wikipedia.org/wiki/World_Liberty_Financial)
-
+[The Most Corrupt Presidential Act In History - YouTube](https://www.youtube.com/watch?v=G2i8-K2OsTk)
 
 # Background
 - Binance CEO Charged
