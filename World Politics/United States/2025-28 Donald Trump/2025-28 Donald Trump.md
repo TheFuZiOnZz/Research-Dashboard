@@ -11,7 +11,7 @@ Donald Trump - 20 January 2025 - 20 January 2028?
 ## [2025 Travel Bans](2025%20Travel%20Bans)
 ## [2025 Citizenship Gold Cards](2025%20Citizenship%20Gold%20Cards)
 ## [2025 Alien Enemies Act Misuse](2025%20Alien%20Enemies%20Act%20Deportations)
-## [2025 Kilmar Abrego Garcia and Others Deportations to El Salvador](2025%20Kilmar%20Abrego%20Garcia%20and%20Others%20Deportations%20to%20El%20Salvador.md)
+## [2025 Kilmar Abrego Garcia and Others Deportations to El Salvador](2025%20Kilmar%20Abrego%20Garcia%20and%20Others%20Deportations%20to%20El%20Salvador)
 ## [2025 Detention of Mahmoud Khalil](2025%20Detention%20of%20Mahmoud%20Khalil)
 
 # Environmental Policy
@@ -30,7 +30,7 @@ Donald Trump - 20 January 2025 - 20 January 2028?
 ## [2025 SignalGate](2025%20SignalGate)
 ## [2025 USAID Defunding](2025%20USAID%20Defunding)
 ## [2025 Double Tap Strike On a Venezuelan Boat](2025%20Double%20Tap%20Strike%20On%20a%20Venezuelan%20Boat)
-## [[2025 Propsals to Expand the U.S.]]
+## [2025 Propsals to Expand the U.S.](2025%20Propsals%20to%20Expand%20the%20U.S.)
 
 # Controversy’s
 ## [2025 List of Underqualified Trump Appointees](2025%20List%20of%20Underqualified%20Trump%20Appointees)
@@ -47,7 +47,7 @@ Donald Trump - 20 January 2025 - 20 January 2028?
 ## [2025 Ending 'DEI' Programs](2025%20Ending%20'DEI'%20Programs)
 ## [2025 JFK Files Privacy Violations](2025%20JFK%20Files%20Privacy%20Violations)
 ## [2025 Department of Government Efficiency](2025%20Department%20of%20Government%20Efficiency)
-## [2025 USAID Funding Freeze](2025%20USAID%20Funding%20Freeze.md)
+## [2025 USAID Funding Freeze](2025%20USAID%20Funding%20Freeze)
 ## [2025 17 Inspector Generals Fired](2025%2017%20Inspector%20Generals%20Fired)
 ## [2025 Trans Military Ban](2025%20Trans%20Military%20Ban)
 ## [2025 National Labor Relations Board Chair Fired](2025%20National%20Labor%20Relations%20Board%20Chair%20Fired)
@@ -67,19 +67,19 @@ Donald Trump - 20 January 2025 - 20 January 2028?
 ## [2025 Musk Substitutes Verizon FAA Contract for Starlink](2025%20Musk%20Substitutes%20Verizon%20FAA%20Contract%20for%20Starlink)
 ## [2025 SEC Closing Crypto Legal Cases & Reducing Regulatory Enforcement](2025%20SEC%20Closing%20Crypto%20Legal%20Cases%20&%20Reducing%20Regulatory%20Enforcement)
 ## [2025- Illegal National Guard Deployments to U.S. Cities](2025-%20Illegal%20National%20Guard%20Deployments%20to%20U.S.%20Cities)
-## [[2025 Firing the Federal Reserve Chair]]
+## [2025 Firing the Federal Reserve Chair](2025%20Firing%20the%20Federal%20Reserve%20Chair)
 ## [2025- Trump Third Term](2025-%20Trump%20Third%20Term)
 ## [2025 CDC Director Fired](2025%20CDC%20Director%20Fired)
 ## [2025 Charlie Kirk Assassination](2025%20Charlie%20Kirk%20Assassination)
-## [[2025 Border Czar Bribery Controversy]]
+## [2025 Border Czar Bribery Controversy](2025%20Border%20Czar%20Bribery%20Controversy)
 ## [2025- James Comey Perjury Case](2025-%20James%20Comey%20Perjury%20Case)
 ## [2025 Letitia James Bank Fraud Case](2025%20Letitia%20James%20Bank%20Fraud%20Case)
 ## [2025 Federal Government Shutdown](2025%20Federal%20Government%20Shutdown)
 ## [2025 John Bolton Classified Documents Case](2025%20John%20Bolton%20Classified%20Documents%20Case)
 ## [2025 Washington D.C. National Guard Shooting](2025%20Washington%20D.C.%20National%20Guard%20Shooting)
 ## [2025 Six Democratic Lawmakers Sedition Controversy](2025%20Six%20Democratic%20Lawmakers%20Sedition%20Controversy)
-## [[2025 Newark Immigration Detention Center Incident]]
-## [[2025 Trump Halts All Federal Grans And Loans]]
+## [2025 Newark Immigration Detention Center Incident](2025%20Newark%20Immigration%20Detention%20Center%20Incident)
+## [2025 Trump Halts All Federal Grans And Loans](2025%20Trump%20Halts%20All%20Federal%20Grans%20And%20Loans)
 
 # Pre-Presidency Controversy’s
 ## [2022-25 Smith’s Special Counsel Investigation](2022-25%20Smith’s%20Special%20Counsel%20Investigation)
