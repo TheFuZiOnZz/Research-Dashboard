@@ -1,6 +1,5 @@
 [2025 United States naval deployment in the Caribbean - Wikipedia](https://en.wikipedia.org/wiki/2025_United_States_naval_deployment_in_the_Caribbean)
 [Operation Southern Spear - Wikipedia](https://en.wikipedia.org/wiki/Operation_Southern_Spear)
-[Illegal Orders and Reasoning Agents](https://pragmaticpapers.com/articles/illegal-orders-and-reasoning-agents)
 [Trump Killed 11 Alleged Drug Traffickers. Is This Murder? - YouTube](https://www.youtube.com/watch?v=7t-_m16y25o)
 [Unequivocal War Crimes - YouTube](https://www.youtube.com/watch?v=Ox-fhnkBrkI)
 # Background
@@ -39,7 +38,7 @@
 	  `The Special Operations commander overseeing the Sept. 2 attack — the opening salvo in the Trump administration’s war on suspected drug traffickers in the Western Hemisphere — ordered a second strike to comply with Hegseth’s instructions, two people familiar with the matter said. The two men were blown apart in the water.`
 	  
 	  `Hegseth’s order, which has not been previously reported, adds another dimension to the campaign against suspected drug traffickers. Some current and former U.S. officials and law-of-war experts have said that the Pentagon’s lethal campaign — which has killed more than 80 people to date — is unlawful and may expose those most directly involved to future prosecution.` - [Hegseth order on first Caribbean boat strike, officials say: Kill them all, Washington Post, 2025](https://www.washingtonpost.com/national-security/2025/11/28/hegseth-kill-them-all-survivors-boat-strike)
-- On 28 November 2025, Hegseth tweeted that the Washington Post story was fake news and that the strikes were lawful under U
+- On 28 November 2025, Hegseth tweeted that the Washington Post story was fake news and that the strikes were lawful under U.S. and International Law.
 	- `As usual, the fake news is delivering more fabricated, inflammatory, and derogatory reporting to discredit our incredible warriors fighting to protect the homeland.`
 	  
 	  `As we’ve said from the beginning, and in every statement, these highly effective strikes are specifically intended to be “lethal, kinetic strikes.” The declared intent is to stop lethal drugs, destroy narco-boats, and kill the narco-terrorists who are poisoning the American people. Every trafficker we kill is affiliated with a Designated Terrorist Organization.`
@@ -49,6 +48,16 @@
 	  `Our current operations in the Caribbean are lawful under both U.S. and international law, with all actions in compliance with the law of armed conflict—and approved by the best military and civilian lawyers, up and down the chain of command.`
 	  
 	  `Our warriors in SOUTHCOM put their lives on the line every day to protect the Homeland from narco-terrorists — and I will ALWAYS have their back.` - [@SecWar Tweet, Twitter (X), 2025](https://x.com/SecWar/status/1994552598142038358)
+- On 2 December 2025, White House Press Secretary Karoline Leavitt confirmed that there was a second strike and that the Head of the Joint Special Operations Command, Admiral Frank Bradley worked within his authority.
+	- `The White House confirmed Monday that the U.S. did launch a second strike on an alleged drug boat from Venezuela in early September and that it was ordered by Adm. Frank M. Bradley, who at the time headed the Joint Special Operations Command.`
+	  
+	  `The follow-up strike killed the survivors of an initial U.S. strike on the vessel, which the Trump administration has said originated from Venezuela. Some lawmakers and legal experts say that second attack could constitute a war crime.`
+	  
+	  `“With respect to the strikes in question on Sept. 2, Secretary Hegseth authorized Adm. Bradley to conduct these kinetic strikes,” White House press secretary Karoline Leavitt said in a statement during Monday's briefing.`
+	  
+	  `“Adm. Bradley worked well within his authority and the law directing the engagement to ensure the boat was destroyed and the threat to the United States of America was eliminated," she added.`
+	  
+	  `U.S. Special Operations Command, which Bradley now leads as commander, did not immediately respond to a request for comment.` - [White House confirms second Sept. 2 strike on alleged drug boat, NBC News, 2025](https://www.nbcnews.com/politics/white-house/white-house-confirms-second-sept-2-strike-alleged-drug-boat-rcna246834)
 # Lawsuit
 - On 20 January 2025
 	- ` ` - 

@@ -29,7 +29,7 @@
 		- `Lawfulness. A general order or regulation is lawful unless it is contrary to the Constitution, the laws of the United States, or lawful superior orders or for some other reason is beyond the authority of the official issuing it. See the discussion of lawfulness in subparagraph` - [Manual For Courts-Martial, United States (2023 Edition), U.S. Department Of Defense](https://jsc.defense.gov/Portals/99/2023%20MCM%20(w_%20preface)%20(2023_09_15).pdf?ver=DYv_dgnVlSTjgwUwpO2piQ%3d%3d)
 
 # Main Point
-- On 18 November 2025, A video by Democrats, which was shared by Michigan Senator Elissa Slotkin, features Senator Mark Kelly and Representatives Chris DeLuzio, Maggie Goodlander, Chrissy Houlahan and Jason Crow 
+- On 18 November 2025, A video by Democrats, which was shared by Michigan Senator Elissa Slotkin, features Senator Mark Kelly and Representatives Chris DeLuzio, Maggie Goodlander, Chrissy Houlahan and Jason Crow, in response to the 
 	- `We want to speak directly to members of the Military and the Intelligence Community. The American people need you to stand up for our laws and our Constitution. Don’t give up the ship.` - [@SenatorSlotkin Tweet, Twitter, 2025](https://x.com/SenatorSlotkin/status/1990774492356902948)
 	- `Slotkin: I'm Senator Elissa Slotkin`
 	  
