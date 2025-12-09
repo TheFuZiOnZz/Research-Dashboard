@@ -27,6 +27,18 @@
 	  
 	  `shall be punished as a court-martial may direct.` - [Manual For Courts-Martial, United States (2023 Edition), U.S. Department Of Defense](https://jsc.defense.gov/Portals/99/2023%20MCM%20(w_%20preface)%20(2023_09_15).pdf?ver=DYv_dgnVlSTjgwUwpO2piQ%3d%3d)
 		- `Lawfulness. A general order or regulation is lawful unless it is contrary to the Constitution, the laws of the United States, or lawful superior orders or for some other reason is beyond the authority of the official issuing it. See the discussion of lawfulness in subparagraph` - [Manual For Courts-Martial, United States (2023 Edition), U.S. Department Of Defense](https://jsc.defense.gov/Portals/99/2023%20MCM%20(w_%20preface)%20(2023_09_15).pdf?ver=DYv_dgnVlSTjgwUwpO2piQ%3d%3d)
+- Department of Defense Law of War Manual.
+	- Chapter 18, Implementation and Enforcement of the Law of War.
+		- Section 3, Duties of Individual Members of the Armed Forces.
+			- `18.3.2 Refuse to Comply With Clearly Illegal Orders to Commit Law of War Violations. Members of the armed forces must refuse to comply with clearly illegal orders to commit law of war violations. In addition, orders should not be construed to authorize implicitly violations of law of war.`
+			  
+			  `18.3.2.1 Clearly Illegal Orders to Commit Law of War Violations. The requirement to refuse to comply with orders to commit law of war violations applies to orders to perform conduct that is clearly illegal or orders that the subordinate knows, in fact, are illegal. For example, orders to fire upon the shipwrecked would be clearly illegal. Similarly, orders to kill defenseless persons who have submitted to and are under effective physical control would also be clearly illegal. On the other hand, the duty not to comply with orders that are clearly illegal would be limited in its application when the subordinate is not competent to evaluate whether the rule has been violated.`
+			  
+			  `Subordinates are not required to screen the orders of superiors for questionable points of legality, and may, absent specific knowledge to the contrary, presume that orders have been lawfully issued.`
+			  
+			  `18.3.2.2 Commands and Orders Should Not Be Understood as Implicitly Authorizing Violations of the Law of War. Commands and orders should not be understood as implicitly authorizing violations of the law of war where other interpretations are reasonably available.`
+			  
+			  `For example, if a commander issues an order to attack a town, one should assume that the order directs attacks on military objectives located in that area. Similarly, speeches by commanders before combat operations to rally members of their command should not be understood to authorize implicitly law of war violations against the enemy.`  - [Department of Defense Law of War Manual, U.S. Department of Defense](https://ogc.osd.mil/Portals/99/department_of_defense_law_of_war_manual.pdf)
 
 # Main Point
 - On 18 November 2025, A video by Democrats, which was shared by Michigan Senator Elissa Slotkin, features Senator Mark Kelly and Representatives Chris DeLuzio, Maggie Goodlander, Chrissy Houlahan and Jason Crow, calling for U.S. military personnel not to comply with unlawful orders in response to the [2025 Double Tap Strike on a Venezuelan Boat](2025%20Double%20Tap%20Strike%20on%20a%20Venezuelan%20Boat).
