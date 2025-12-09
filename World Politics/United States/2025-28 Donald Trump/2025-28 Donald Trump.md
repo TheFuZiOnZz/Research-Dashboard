@@ -70,6 +70,7 @@ Donald Trump - 20 January 2025 - 20 January 2028?
 ## [2025- Trump Third Term](2025-%20Trump%20Third%20Term)
 ## [2025 CDC Director Fired](2025%20CDC%20Director%20Fired)
 ## [2025 Charlie Kirk Assassination](2025%20Charlie%20Kirk%20Assassination)
+## [[2025 Border Czar Bribery Controversy]]
 ## [2025- James Comey Perjury Case](2025-%20James%20Comey%20Perjury%20Case)
 ## [2025 Letitia James Bank Fraud Case](2025%20Letitia%20James%20Bank%20Fraud%20Case)
 ## [2025 Federal Government Shutdown](2025%20Federal%20Government%20Shutdown)

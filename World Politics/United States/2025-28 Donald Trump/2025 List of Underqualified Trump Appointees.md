@@ -10,6 +10,7 @@
 
 # Lindsey Halligan, U.S. Attorney for the Eastern District of Virginia
 [Lindsey Halligan - Wikipedia](https://en.wikipedia.org/wiki/Lindsey_Halligan)
+[Political Prosecutions By An Idiot - YouTube](https://www.youtube.com/watch?v=HukrHSxfVPQ&t=4s)
 [Lindsey Halligan is OUT - YouTube](https://www.youtube.com/watch?v=qsqWVJgN4b8)
 ## Unlawful Appointment Case
 ## Comey Perjury Case Screwup

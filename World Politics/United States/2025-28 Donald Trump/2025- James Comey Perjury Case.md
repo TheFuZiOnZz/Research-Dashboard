@@ -51,5 +51,5 @@
 	  
 	  `On or about September 30,2020, in the Eastern District of Virginia, the defendant, JAMES B. COMEY JR. did corruptly endeavor to influence, obstruct and impede the due and proper exercise of the power of inquiry under which an investigation was being had before the Senate Judiciary Committee by making false and misleading statements before that conunittee.` - [United States v. James B. Comey Jr. (Indictment), 2025]([storage.courtlistener.com/recap/gov.uscourts.vaed.582135/gov.uscourts.vaed.582135.1.0\_2.pdf](https://storage.courtlistener.com/recap/gov.uscourts.vaed.582135/gov.uscourts.vaed.582135.1.0_2.pdf))
 
-
+[Trump’s Corrupt Case Against Comey Is A Trainwreck - YouTube](https://www.youtube.com/watch?v=rBa8l9K1hzc)
 [I Witnessed Trump's Case Against James Comey Implode in Court - YouTube](https://www.youtube.com/watch?v=AUQOK49C3Vw)
