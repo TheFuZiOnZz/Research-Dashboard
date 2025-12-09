@@ -6,7 +6,7 @@ hegseth second strike war crime [Hegseth order on first Caribbean boat strike, o
 [Trump Killed 11 Alleged Drug Traffickers. Is This Murder? - YouTube](https://www.youtube.com/watch?v=7t-_m16y25o)
 [Unequivocal War Crimes - YouTube](https://www.youtube.com/watch?v=Ox-fhnkBrkI)
 # Background
-- On 20 January 2025
+- Article 3, Conflicts not of an international character, of the Geneva Convention, Relative to the Treatment Of Prisoners of War Of 12 August 1949
 	- `Article 3`
 	  
 	  `In the case of armed conflict not of an international character occurring in the territory of one of the High Contracting Parties, each Party to the conflict shall be bound to apply, as a minimum, the following provisions:`
@@ -21,7 +21,13 @@ hegseth second strike war crime [Hegseth order on first Caribbean boat strike, o
 	  
 	  `c) outrages upon personal dignity, in particular, humiliating and degrading treatment;`
 	  
-	  `d) the passing of sentences and the carrying out of executions without previous judgment pronounced by a regularly constituted court affording all the judicial guarantees which are recognized as indispensable by civilized peoples.` - 
+	  `d) the passing of sentences and the carrying out of executions without previous judgment pronounced by a regularly constituted court affording all the judicial guarantees which are recognized as indispensable by civilized peoples.` - [Geneva Convention, Relative to the Treatment Of Prisoners of War Of 12 August 1949, ](https://ihl-databases.icrc.org/assets/treaties/375-GC-III-EN.002.pdf)
+- War Crimes Act of 1996
+	- `"(a) OFFENSE.—^Whoever, whether inside or outside the United States, commits a grave breach of the Geneva Conventions, in any of the circumstances described in subsection (b), shall be fined under this title or imprisoned for life or any term of years, or both, and if death results to the victim, shall also be subject to the penalty of death.`
+	  
+	  `"(b) CIRCUMSTANCES.—^The circumstances referred to in subsection (a) are that the person committing such breach or the victim of such breach is a member of the Armed Forces of the United States or a national of the United States (as defined in section 101 of the Immigration and Nationality Act).`
+	  
+	  `"(c) DEFINITIONS.—As used in this section, the term 'grave breach of the Geneva Conventions' means conduct defined ar a grave breach in any of the international conventions relating to the laws of warfare signed at Geneva 12 August 1949 or any protocol to any such convention, to which the United States is a party.".` - [War Crimes Act of 1996, ](https://www.congress.gov/104/statute/STATUTE-110/STATUTE-110-Pg2104.pdf)
 # Main Point
 - On 2 September 2025, 
 	- ` ` - 
