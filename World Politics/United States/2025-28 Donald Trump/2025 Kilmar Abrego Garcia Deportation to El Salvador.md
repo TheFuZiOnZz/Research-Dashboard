@@ -1,4 +1,5 @@
 [Deportation of Kilmar Abrego Garcia - Wikipedia](https://en.wikipedia.org/wiki/Deportation_of_Kilmar_Abrego_Garcia)
+[The Dubious Charges Against Abrego Garcia - YouTube](https://www.youtube.com/watch?v=ipxHg1dnP9k)
 [(Another) Extraordinary Update on Abrego Garcia - YouTube](https://www.youtube.com/watch?v=YbvpdXpTjKk)
 # Background
 - Abrego Garcia was born in the Los Nogales neighborhood of San Salvador, El Salvador, the Barrio 18 criminal gang tried to extort his mother's food business for money and threatened that if she did not pay the money, they would force her eldest son, Cesar, to join the gang; the gang later threatened to kill him. As a result, the family paid the money and hid Cesar, eventually sending him to the United States. Barrio 18 then turned its attention to Kilmar, who was around 12 years old. The gang followed Kilmar and continued to threaten his family. Eventually, when Kilmar was 16 years old, his family sent him to the U.S. as well. Court documents indicate that around 2011 or 2012, he illegally crossed the Mexico–U.S. border near McAllen, Texas.

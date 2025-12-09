@@ -67,6 +67,7 @@ Donald Trump - 20 January 2025 - 20 January 2028?
 ## [2025 SEC Closing Crypto Legal Cases & Reducing Regulatory Enforcement](2025%20SEC%20Closing%20Crypto%20Legal%20Cases%20&%20Reducing%20Regulatory%20Enforcement)
 ## [2025 Executive Orders Targeting Non-Preferential Law Firms](2025%20Executive%20Orders%20Targeting%20Non-Preferential%20Law%20Firms)
 ## [2025- Illegal National Guard Deployments to U.S. Cities](2025-%20Illegal%20National%20Guard%20Deployments%20to%20U.S.%20Cities)
+## [[2025 Firing the Federal Reserve Chair]]
 ## [2025- Trump Third Term](2025-%20Trump%20Third%20Term)
 ## [2025 CDC Director Fired](2025%20CDC%20Director%20Fired)
 ## [2025 Charlie Kirk Assassination](2025%20Charlie%20Kirk%20Assassination)

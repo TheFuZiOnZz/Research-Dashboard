@@ -16,5 +16,6 @@
 ## Comey Perjury Case Screwup
 
 # Alina Habba, U.S. Attorney for the District of New Jersey
+[Crime is Legal In New Jersey (Because Alina Habba Is Terrible) - YouTube](https://www.youtube.com/watch?v=2lYq-ZJ9kI0&t=956s)
 - On
-- https://www.forbes.com/sites/antoniopequenoiv/2025/12/08/alina-habba-steps-down-as-us-attorney-after-court-says-she-was-unlawfully-appointed/?utm_campaign=ForbesMainTwitter&utm_source=ForbesMainTwitter&utm_medium=social 
+- [Site Unreachable](https://www.forbes.com/sites/antoniopequenoiv/2025/12/08/alina-habba-steps-down-as-us-attorney-after-court-says-she-was-unlawfully-appointed/?utm_campaign=ForbesMainTwitter&utm_source=ForbesMainTwitter&utm_medium=social) 
