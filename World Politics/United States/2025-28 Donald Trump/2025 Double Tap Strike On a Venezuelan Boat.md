@@ -169,7 +169,7 @@
 	  `“Adm. Bradley worked well within his authority and the law directing the engagement to ensure the boat was destroyed and the threat to the United States of America was eliminated," she added.`
 	  
 	  `U.S. Special Operations Command, which Bradley now leads as commander, did not immediately respond to a request for comment.` - [White House confirms second Sept. 2 strike on alleged drug boat, NBC News, 2025](https://www.nbcnews.com/politics/white-house/white-house-confirms-second-sept-2-strike-alleged-drug-boat-rcna246834)
-- On 4 December 2025, CNN reported that the boat appeared to have no radio or other communications devices onboard, a claim used by defense officials to justify the second strike, and that the two men who survived the first strike were holding on to the boat for 41 minutes before the second strike hit.
+- On 4 December 2025, CNN reported that the boat appeared to have no radio or other communications devices onboard, a claim used by defense officials to justify the second strike, and that the two men who survived the first strike were holding on to the boat for 41 minutes before the second strike hit. It was also reported that there were two missiles per strike, totaling four missiles fired.,  
 	- `The two men killed as they floated holding onto their capsized boat in a secondary strike against a suspected drug vessel in early September did not appear to have radio or other communications devices, the top military official overseeing the strike told lawmakers on Thursday, according to three sources with direct knowledge of his congressional briefings.`
 	  
 	  `As far back as September, defense officials have been quietly pushing back on criticism that killing the two survivors amounted to a war crime by arguing, in part, that they were legitimate targets because they appeared to be radioing for help or backup — reinforcements that, if they had received it, could have theoretically allowed them to continue to traffic the drugs aboard their sinking ship.`
@@ -180,7 +180,17 @@
 	  
 	  `The initial hit on the vessel, believed to be carrying cocaine, killed nine people immediately and split the boat in half, capsizing it and sending a massive smoke plume into the sky, the sources who viewed the video as part of the briefings said. Part of the surveillance video was a zoomed-in, higher-definition view of the two survivors clinging to a still-floating, capsized portion, they said.`
 	  
-	  `For a little under an hour — 41 minutes, according to a separate US official — Bradley and the rest of the US military command center discussed what to do as they watched the men struggle to overturn what was left of their boat, the sources said.` - [Exclusive: Survivors clinging to capsized boat didn’t radio for backup, admiral overseeing double-tap strike tells lawmakers,  CNN, 2025](https://edition.cnn.com/2025/12/04/politics/strike-lawmakers-briefing-radio-survivors)
+	  `For a little under an hour — 41 minutes, according to a separate US official — Bradley and the rest of the US military command center discussed what to do as they watched the men struggle to overturn what was left of their boat, the sources said.`
+	  
+	  `During that time, Bradley also consulted with the uniformed lawyer on duty during the operation, he told lawmakers, according to two of the sources. The JAG officer, or judge advocate general officer, assessed it would be legal to move forward with a second strike, the sources added.`
+	  
+	  `Ultimately, Bradley told lawmakers, he ordered a second strike to destroy the remains of the vessel, killing the two survivors, on the grounds that it appeared that part of the vessel remained afloat because it still held cocaine, according to one of the sources. The survivors could hypothetically have floated to safety, been rescued, and carried on with trafficking the drugs, the logic went.`
+	  
+	  `The other source with direct knowledge of the briefing called that rationale “f**king insane.”`
+	  
+	  `The Pentagon did not immediately respond to a request for comment.`
+	  
+	  `According to Senate Intelligence Chairman Tom Cotton, a Republican of Arkansas, and Democratic Sen. Chris Coons of Delaware, who were also briefed, the military used a total of four missiles to sink the boat: two missiles in the initial strike, according to Coons, and two in the second strike.` - [Exclusive: Survivors clinging to capsized boat didn’t radio for backup, admiral overseeing double-tap strike tells lawmakers,  CNN, 2025](https://edition.cnn.com/2025/12/04/politics/strike-lawmakers-briefing-radio-survivors)
 # Lawsuit
 - On 20 January 2025
 	- ` ` - 
