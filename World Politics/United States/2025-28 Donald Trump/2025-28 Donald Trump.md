@@ -1,4 +1,4 @@
-2025 United States federal government shutdown[United States](../United%20States)
+[United States](../United%20States)
 
 Donald Trump - 20 January 2025 - 20 January 2028?
 # Social Policy
