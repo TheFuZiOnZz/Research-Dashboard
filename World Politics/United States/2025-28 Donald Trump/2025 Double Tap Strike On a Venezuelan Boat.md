@@ -1,6 +1,8 @@
 [Trump Killed 11 Alleged Drug Traffickers. Is This Murder? - YouTube](https://www.youtube.com/watch?v=7t-_m16y25o)
 [Unequivocal War Crimes - YouTube](https://www.youtube.com/watch?v=Ox-fhnkBrkI)
 # Background
+- Charter of the United Nations, Article 2, Point 4
+	- `All Members shall refrain in their international relations from the threat or use of force against the territorial integrity or political independence of any state, or in any other manner inconsistent with the Purposes of the United Nations` - [Charter of the United Nations, United Nations, 1945](https://untso.unmissions.org/sites/default/files/united_nations_charter.pdf)
 - Geneva Convention, Relative to the Treatment Of Prisoners of War Of 12 August 1949, Article 3, Conflicts not of an international character.
 	- `Article 3`
 	  
