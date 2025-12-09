@@ -42,6 +42,7 @@
 	- `Killing cartel members who poison our fellow citizens is the highest and best use of our military.` - [@JDVance Tweet, Twitter (X), 2025](https://x.com/JDVance/status/1964341094226743787)
 	- `Killing the citizens of another nation who are civilians without any due process is called a war crime.` - [@krassenstein Reply Tweet, Twitter (X), 2025](https://x.com/krassenstein/status/1964341267568984402)
 	- `I don’t give a shit what you call it` - [@JDVance Reply Tweet, Twitter (X), 2025](https://x.com/JDVance/status/1964341436096057502)
+- On 4 September 2025, in compliance with the War Powers Resolution of 1973, Trump provided a report to congress to notify them of current hostilities. the report cited to the presidents broad Article 2 powers as
 - On 28 November 2025, The Washington Post reported that Department of War Secretary Pete Hegseth ordered all people suspected of ferrying drugs to be killed. Due to this verbal command, the 2 September incident actually featured two separate strikes on the boat featured in the Trump Truth Social post.
 	- `The longer the U.S. surveillance aircraft followed the boat, the more confident intelligence analysts watching from command centers became that the 11 people on board were ferrying drugs.`
 	  
