@@ -270,5 +270,7 @@
 	  `According to Senate Intelligence Chairman Tom Cotton, a Republican of Arkansas, and Democratic Sen. Chris Coons of Delaware, who were also briefed, the military used a total of four missiles to sink the boat: two missiles in the initial strike, according to Coons, and two in the second strike.` - [Exclusive: Survivors clinging to capsized boat didn’t radio for backup, admiral overseeing double-tap strike tells lawmakers,  CNN, 2025](https://edition.cnn.com/2025/12/04/politics/strike-lawmakers-briefing-radio-survivors)
 
 # Investigations
-- On
-	- ` ` - 
+- On 29 November 2025, both the Senate Armed Services Committee and the House Armed Services Committee have announced their intention to investigate the strike in a rare display of bipartisan alignment.
+	- `House Armed Services Committee Chairman Mike Rogers (R-Ala.) and Ranking Member Adam Smith (D-Wash.) issued the following joint statement.`
+	  
+	  `"This committee is committed to providing rigorous oversight of the Department of Defense’s military operations in the Caribbean. We take seriously the reports of follow-on strikes on boats alleged to be ferrying narcotics in the SOUTHCOM region and are taking bipartisan action to gather a full accounting of the operation in question.”` - [Rogers and Smith Issue Joint Statement on Recent Reports of Follow-Up Strike Ordered in SOUTHCOM AOR, House Armed Services Committee, 2025](https://democrats-armedservices.house.gov/2025/11/rogers-and-smith-issue-joint-statement-on-recent-reports-of-follow-up-strike-ordered-in-southcom-aor#:~:text=We%20take%20seriously%20the%20reports,of%20the%20operation%20in%20question.%E2%80%9D)
