@@ -1,9 +1,9 @@
-### 2019-24 Business Fraud Criminal Suit
 - [Wiki](https://en.wikipedia.org/wiki/New_York_civil_investigation_of_The_Trump_Organization)
 - [Wiki](https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_New_York)
 - [Wiki](https://en.wikipedia.org/wiki/Stormy_Daniels%E2%80%93Donald_Trump_scandal)
-- [link](https://www.youtube.com/watch?v=LRbRdE2pGv0)
-- [link](https://www.youtube.com/watch?v=Ltw-SN9QiII)
+- [The Trump Indictment - YouTube](https://www.youtube.com/watch?v=LRbRdE2pGv0)
+- [Analyzing The Trump Indictment & Arrest - YouTube](https://www.youtube.com/watch?v=Ltw-SN9QiII)
+- [Trump's Massive Fines Cancelled by Appellate Court (For Now) - YouTube](https://www.youtube.com/watch?v=UP4e7yWIcuE)
 - original story - [link](https://archive.ph/Ri3Yu)
 - In 2020, the Manhattan District Attorney, Alvin Bragg opened a criminal case to determine whether The Trump Organization had committed financial fraud.
 - In December 2022, two of the organization's subsidiary companies were found guilty of 17 charges including tax fraud.
