@@ -29,7 +29,7 @@ Donald Trump - 20 January 2025 - 20 January 2028?
 ## [2025 Canada Negotiation Troubles](2025%20Canada%20Negotiation%20Troubles)
 ## [2025 SignalGate](2025%20SignalGate)
 ## [2025 USAID Defunding](2025%20USAID%20Defunding)
-## [2025 Double Tap Strike On a Venezuelan Boat](2025%20Double%20Tap%20Strike%20On%20a%20Venezuelan%20Boat)
+## [2025 Double Tap Strike on a Venezuelan Boat](2025%20Double%20Tap%20Strike%20on%20a%20Venezuelan%20Boat)
 ## [2025 Propsals to Expand the U.S.](2025%20Propsals%20to%20Expand%20the%20U.S.)
 
 # Controversy’s
