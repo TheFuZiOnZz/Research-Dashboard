@@ -134,6 +134,15 @@
 	  `The Special Operations commander overseeing the Sept. 2 attack — the opening salvo in the Trump administration’s war on suspected drug traffickers in the Western Hemisphere — ordered a second strike to comply with Hegseth’s instructions, two people familiar with the matter said. The two men were blown apart in the water.`
 	  
 	  `Hegseth’s order, which has not been previously reported, adds another dimension to the campaign against suspected drug traffickers. Some current and former U.S. officials and law-of-war experts have said that the Pentagon’s lethal campaign — which has killed more than 80 people to date — is unlawful and may expose those most directly involved to future prosecution.` - [Hegseth order on first Caribbean boat strike, officials say: Kill them all, Washington Post, 2025](https://www.washingtonpost.com/national-security/2025/11/28/hegseth-kill-them-all-survivors-boat-strike)
+	- `In briefing materials provided to the White House, JSOC reported that the “double-tap,” or follow-on strike, was intended to sink the boat and remove a navigation hazard to other vessels — not to kill survivors, according to another person who saw the report.`
+	  
+	  `A similar explanation was given to lawmakers in two closed-door briefings, according to two congressional aides. That explanation has prompted frustration among some members of Congress who say they believe the Pentagon was deceptive in its description of events, the aides said.`
+	  
+	  `“The idea that wreckage from one small boat in a vast ocean is a hazard to marine traffic is patently absurd, and killing survivors is blatantly illegal,” said Rep. Seth Moulton (D-Massachusetts), a Marine Corps veteran and vocal Trump critic who received a [classified briefing](https://archive.ph/o/zeGnd/https://www.washingtonpost.com/national-security/2025/11/01/trump-venezuela-war-drugs-law/) from Pentagon officials on the strikes in late October with other members of the House Armed Services Committee. “Mark my words: It may take some time, but Americans will be prosecuted for this, either as a war crime or outright murder.”
+
+The boat in the first strike was hit a total of four times, twice to kill the crew and twice more to sink it, four people familiar with the operation said.
+
+In subsequent strikes on alleged traffickers that left no survivors, the U.S. military has also fired multiple missiles to remove boats from the waterways, several people familiar with the matter said.`
 - On 28 November 2025, Hegseth tweeted that the Washington Post story was fake news and that the strikes were lawful under U.S. and International Law.
 	- `As usual, the fake news is delivering more fabricated, inflammatory, and derogatory reporting to discredit our incredible warriors fighting to protect the homeland.`
 	  
@@ -144,8 +153,12 @@
 	  `Our current operations in the Caribbean are lawful under both U.S. and international law, with all actions in compliance with the law of armed conflict—and approved by the best military and civilian lawyers, up and down the chain of command.`
 	  
 	  `Our warriors in SOUTHCOM put their lives on the line every day to protect the Homeland from narco-terrorists — and I will ALWAYS have their back.` - [@SecWar Tweet, Twitter (X), 2025](https://x.com/SecWar/status/1994552598142038358)
-- On 1 December 2025, Hegseth tweeted that 
-	- ` ` - [Site Unreachable](https://x.com/PeteHegseth/status/1995643490152128919)
+- On 1 December 2025, Hegseth tweeted that he did not give the order to second strike.
+	- `Let’s make one thing crystal clear:`
+	  
+	  `Admiral Mitch Bradley is an American hero, a true professional, and has my 100% support. I stand by him and the combat decisions he has made — on the September 2 mission and all others since.`
+	  
+	  `America is fortunate to have such men protecting us. When this @DeptofWar says we have the back of our warriors — we mean it.` - [@PeteHegseth Tweet, Twitter (X), 2025](https://x.com/PeteHegseth/status/1995643490152128919)
 - On 2 December 2025, White House Press Secretary Karoline Leavitt confirmed that there was a second strike and that the Head of the Joint Special Operations Command, Admiral Frank Bradley worked within his authority.
 	- `The White House confirmed Monday that the U.S. did launch a second strike on an alleged drug boat from Venezuela in early September and that it was ordered by Adm. Frank M. Bradley, who at the time headed the Joint Special Operations Command.`
 	  
