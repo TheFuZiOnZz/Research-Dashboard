@@ -23,6 +23,8 @@
 	  `"(b) CIRCUMSTANCES.—^The circumstances referred to in subsection (a) are that the person committing such breach or the victim of such breach is a member of the Armed Forces of the United States or a national of the United States (as defined in section 101 of the Immigration and Nationality Act).`
 	  
 	  `"(c) DEFINITIONS.—As used in this section, the term 'grave breach of the Geneva Conventions' means conduct defined ar a grave breach in any of the international conventions relating to the laws of warfare signed at Geneva 12 August 1949 or any protocol to any such convention, to which the United States is a party.".` - [War Crimes Act of 1996, U.S Congress, 1996](https://www.congress.gov/104/statute/STATUTE-110/STATUTE-110-Pg2104.pdf)
+- Office of Legal Counsel Memo, April 2018 Airstrikes Against Syrian Chemical-Weapons Facilities.
+	- ` ` - [April 2018 Airstrikes Against Syrian Chemical-Weapons Facilities, Office of Legal Counsel, 2018](https://www.justice.gov/olc/opinion/file/1067551/dl)
 - Executive Order 14157
 	- `The Cartels have engaged in a campaign of violence and terror throughout the Western Hemisphere that has not only destabilized countries with significant importance for our national interests but also flooded the United States with deadly drugs, violent criminals, and vicious gangs.`
 	  
@@ -42,7 +44,7 @@
 	- `Killing cartel members who poison our fellow citizens is the highest and best use of our military.` - [@JDVance Tweet, Twitter (X), 2025](https://x.com/JDVance/status/1964341094226743787)
 	- `Killing the citizens of another nation who are civilians without any due process is called a war crime.` - [@krassenstein Reply Tweet, Twitter (X), 2025](https://x.com/krassenstein/status/1964341267568984402)
 	- `I don’t give a shit what you call it` - [@JDVance Reply Tweet, Twitter (X), 2025](https://x.com/JDVance/status/1964341436096057502)
-- On 4 September 2025, in compliance with the War Powers Resolution of 1973, Trump provided a report to congress to notify them of current hostilities. the report cited to the presidents broad Article 2 constitutional powers as the Commander in Chief with no mention of any specifics about who was targeted and killed or their participation in any prior armed attack or imminent attack, which is required in the War Powers Resolution of 1973.
+- On 4 September 2025, in compliance with the War Powers Resolution of 1973, Trump provided a report to congress to notify them of current hostilities. the report cited to the presidents broad Article 2 constitutional powers as the Commander in Chief with no mention of any specifics about who was targeted and killed or their participation in any prior armed attack or imminent attack, which is required in the War Powers Resolution of 1973. And although the boat was supposed to be affiliated with Tren de Aragua, that detail is omitted here. The summary of what the boat was doing. Illicit trafficking does not say what was being trafficked and where it was going.
 	- `Dear Mr. President:`
 	  
 	  `I write to apprise you of military action taken on September 2, 2025, in the Caribbean Sea and of the potential for further such actions.`
@@ -53,7 +55,7 @@
 	  
 	  `It is not possible at this time to know the full scope and duration of military operations that will be necessary. United States forces remain postured to carry out further military operations.`
 	  
-	  `I am providing this report as part Of my efforts to keep the Congress fully informed, consistent with the War Powers Resolution (Public Law 93-148). I directed these actions consistent with my responsibility to protect Americans and United States interests abroad and in furtherance of United States national security and foreign policy interests, pursuant to my constitutional authority as Commander in Chief and Chief Executive to conduct United States foreign relations. I appreciate the support of the Congress in this action.` - [Report 20250904A, ](https://assets.ctfassets.net/6hn51hpulw83/iOdLcVg6XVHorL4Rv5rWr/9a116b4c89cb06efee02dcd6df96bba1/20250904-Trump.pdf)
+	  `I am providing this report as part Of my efforts to keep the Congress fully informed, consistent with the War Powers Resolution (Public Law 93-148). I directed these actions consistent with my responsibility to protect Americans and United States interests abroad and in furtherance of United States national security and foreign policy interests, pursuant to my constitutional authority as Commander in Chief and Chief Executive to conduct United States foreign relations. I appreciate the support of the Congress in this action.` - [Report 20250904A, The White House, 2025](https://assets.ctfassets.net/6hn51hpulw83/iOdLcVg6XVHorL4Rv5rWr/9a116b4c89cb06efee02dcd6df96bba1/20250904-Trump.pdf)
 - On 28 November 2025, The Washington Post reported that Department of War Secretary Pete Hegseth ordered all people suspected of ferrying drugs to be killed. Due to this verbal command, the 2 September incident actually featured two separate strikes on the boat featured in the Trump Truth Social post.
 	- `The longer the U.S. surveillance aircraft followed the boat, the more confident intelligence analysts watching from command centers became that the 11 people on board were ferrying drugs.`
 	  
