@@ -1,12 +1,10 @@
-[Stephen Miller takes leading role in strikes on alleged Venezuelan drug boats | Trump administration | The Guardian](https://www.theguardian.com/us-news/2025/sep/29/stephen-miller-venezuela-drug-boat-strike)
 [2025 United States naval deployment in the Caribbean - Wikipedia](https://en.wikipedia.org/wiki/2025_United_States_naval_deployment_in_the_Caribbean)
 [Operation Southern Spear - Wikipedia](https://en.wikipedia.org/wiki/Operation_Southern_Spear)
-hegseth second strike war crime [Hegseth order on first Caribbean boat strike, officials say: Kill them all, Washington Post, 2025](https://archive.ph/20251129174022/https://www.washingtonpost.com/national-security/2025/11/28/hegseth-kill-them-all-survivors-boat-strike/) 
 [Illegal Orders and Reasoning Agents](https://pragmaticpapers.com/articles/illegal-orders-and-reasoning-agents)
 [Trump Killed 11 Alleged Drug Traffickers. Is This Murder? - YouTube](https://www.youtube.com/watch?v=7t-_m16y25o)
 [Unequivocal War Crimes - YouTube](https://www.youtube.com/watch?v=Ox-fhnkBrkI)
 # Background
-- Article 3, Conflicts not of an international character, of the Geneva Convention, Relative to the Treatment Of Prisoners of War Of 12 August 1949
+- Geneva Convention, Relative to the Treatment Of Prisoners of War Of 12 August 1949, Article 3, Conflicts not of an international character
 	- `Article 3`
 	  
 	  `In the case of armed conflict not of an international character occurring in the territory of one of the High Contracting Parties, each Party to the conflict shall be bound to apply, as a minimum, the following provisions:`
@@ -31,7 +29,16 @@ hegseth second strike war crime [Hegseth order on first Caribbean boat strike, o
 # Main Point
 - On 2 September 2025, Trump announced that a military vessel struck and sank a speedboat that it alleged was smuggling drugs from Venezuela to the southern Caribbean during a high-seas interdiction mission.
 	- `Earlier this morning, on my Orders, U.S. Military Forces conducted a kinetic strike against positively identified Tren de Aragua Narcoterrorists in the SOUTHCOM area of responsibility. TDA is a designated Foreign Terrorist Organization, operating under the control of Nicolas Maduro, responsible for mass murder, drug trafficking, sex trafficking, and acts of violence and terror across the United States and Western Hemisphere. The strike occurred while the terrorists were at sea in International waters transporting illegal narcotics, heading to the United States. The strike resulted in 11 terrorists killed in action. No U.S. Forces were harmed in this strike. Please let this serve as notice to anybody even thinking about bringing drugs into the United States of America. BEWARE! Thank you for your attention to this matter!!!!!!!!!!!` - [@realDonaldTrump Post, Truth Social, 2025](https://truthsocial.com/@realDonaldTrump/posts/115136798909755892)
-- On 28 November 2025, it was reported that Department of War Secretary Pete Hegseth ordered all people suspected of ferrying drugs to be killed. Due to this verbal command, the 2 September incident actually featured two separate strikes on the boat featured in the 
+- On 28 November 2025, it was reported that Department of War Secretary Pete Hegseth ordered all people suspected of ferrying drugs to be killed. Due to this verbal command, the 2 September incident actually featured two separate strikes on the boat featured in the Trump Truth Social post.
+	- `The longer the U.S. surveillance aircraft followed the boat, the more confident intelligence analysts watching from command centers became that the 11 people on board were ferrying drugs.`
+	  
+	  `Defense Secretary Pete Hegseth gave a spoken directive, according to two people with direct knowledge of the operation. “The order was to kill everybody,” one of them said.`
+	  
+	  `A missile screamed off the Trinidad coast, striking the vessel and igniting a blaze from bow to stern. For minutes, commanders watched the boat burning on a live drone feed. As the smoke cleared, they got a jolt: Two survivors were clinging to the smoldering wreck.`
+	  
+	  `The Special Operations commander overseeing the Sept. 2 attack — the opening salvo in the Trump administration’s war on suspected drug traffickers in the Western Hemisphere — ordered a second strike to comply with Hegseth’s instructions, two people familiar with the matter said. The two men were blown apart in the water.`
+	  
+	  `Hegseth’s order, which has not been previously reported, adds another dimension to the campaign against suspected drug traffickers. Some current and former U.S. officials and law-of-war experts have said that the Pentagon’s lethal campaign — which has killed more than 80 people to date — is unlawful and may expose those most directly involved to future prosecution.` - [Hegseth order on first Caribbean boat strike, officials say: Kill them all, Washington Post, 2025](https://www.washingtonpost.com/national-security/2025/11/28/hegseth-kill-them-all-survivors-boat-strike)
 # Lawsuit
 - On 20 January 2025
 	- ` ` - 
