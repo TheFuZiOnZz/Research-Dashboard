@@ -192,10 +192,10 @@
 		  
 		  `Almost all coca crops – the main ingredient of cocaine – are concentrated in Colombia, Peru and Bolivia. Colombia in particular – has seen its cocaine production grow dramatically in recent years, due both to an increase in cultivation area (almost 100,000 hectares more since 2020) and, more significantly, because of higher yields in refining the product, according to UN researchers.` - [Trump claims Venezuela’s Maduro is a drug-trafficking threat to the US. Does the data back him up?, CNN, 2025](https://edition.cnn.com/2025/09/01/americas/trump-venezuela-maduro-drug-threat-analysis-intl-latam)
 - On 5 September 2025, Hegseth told reporters that Tren de Aragua is no different to al-Qaida.
-	- `Days after the U.S. military [destroyed a boat in the Caribbean](https://taskandpurpose.com/news/drug-boat-southern-caribbean/) that it claimed was being used to smuggle drugs, Defense Secretary Pete Hegseth said that the legal basis for the strike lay in the status of the traffickers as an “imminent threat” to the United States.`
+	- `Days after the U.S. military destroyed a boat in the Caribbean that it claimed was being used to smuggle drugs, Defense Secretary Pete Hegseth said that the legal basis for the strike lay in the status of the traffickers as an “imminent threat” to the United States.`
 	  
 	  `“A foreign terrorist organization poisoning your people with drugs coming from a drug cartel is no different than al-Qaida — and they’ll be treated as such, as they were in international waters,” Hegseth told reporters on Thursday.` - [Drug cartels are 'no different than al-Qaida,' Hegseth says, Task & Purpose, 2025](https://taskandpurpose.com/news/military-drug-cartels-terrorists/)
-- On 12 November 2025, CNN reported that the U.K. stopped sharing some intelligence to the U.S.  regarding the Caribbean over the boat strikes.
+- On 12 November 2025, CNN reported that the U.K. stopped sharing some intelligence to the U.S. regarding the Caribbean over the boat strikes.
 	- `The United Kingdom is no longer sharing intelligence with the US about suspected drug trafficking vessels in the Caribbean because it does not want to be complicit in US military strikes and believes the attacks are illegal, sources familiar with the matter told CNN.`
 	  
 	  `The UK’s decision marks a significant break from its closest ally and intelligence sharing partner and underscores the growing skepticism over the legality of the US military’s campaign around Latin America.`
