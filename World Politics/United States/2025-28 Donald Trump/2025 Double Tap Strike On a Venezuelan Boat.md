@@ -138,11 +138,11 @@
 	  
 	  `A similar explanation was given to lawmakers in two closed-door briefings, according to two congressional aides. That explanation has prompted frustration among some members of Congress who say they believe the Pentagon was deceptive in its description of events, the aides said.`
 	  
-	  `“The idea that wreckage from one small boat in a vast ocean is a hazard to marine traffic is patently absurd, and killing survivors is blatantly illegal,” said Rep. Seth Moulton (D-Massachusetts), a Marine Corps veteran and vocal Trump critic who received a [classified briefing](https://archive.ph/o/zeGnd/https://www.washingtonpost.com/national-security/2025/11/01/trump-venezuela-war-drugs-law/) from Pentagon officials on the strikes in late October with other members of the House Armed Services Committee. “Mark my words: It may take some time, but Americans will be prosecuted for this, either as a war crime or outright murder.”
-
-The boat in the first strike was hit a total of four times, twice to kill the crew and twice more to sink it, four people familiar with the operation said.
-
-In subsequent strikes on alleged traffickers that left no survivors, the U.S. military has also fired multiple missiles to remove boats from the waterways, several people familiar with the matter said.`
+	  `“The idea that wreckage from one small boat in a vast ocean is a hazard to marine traffic is patently absurd, and killing survivors is blatantly illegal,” said Rep. Seth Moulton (D-Massachusetts), a Marine Corps veteran and vocal Trump critic who received a classified briefing from Pentagon officials on the strikes in late October with other members of the House Armed Services Committee. “Mark my words: It may take some time, but Americans will be prosecuted for this, either as a war crime or outright murder.”`
+	  
+	  `The boat in the first strike was hit a total of four times, twice to kill the crew and twice more to sink it, four people familiar with the operation said.`
+	  
+	  `In subsequent strikes on alleged traffickers that left no survivors, the U.S. military has also fired multiple missiles to remove boats from the waterways, several people familiar with the matter said.` - [Hegseth order on first Caribbean boat strike, officials say: Kill them all, Washington Post, 2025](https://www.washingtonpost.com/national-security/2025/11/28/hegseth-kill-them-all-survivors-boat-strike)
 - On 28 November 2025, Hegseth tweeted that the Washington Post story was fake news and that the strikes were lawful under U.S. and International Law.
 	- `As usual, the fake news is delivering more fabricated, inflammatory, and derogatory reporting to discredit our incredible warriors fighting to protect the homeland.`
 	  
@@ -169,6 +169,7 @@ In subsequent strikes on alleged traffickers that left no survivors, the U.S. mi
 	  `“Adm. Bradley worked well within his authority and the law directing the engagement to ensure the boat was destroyed and the threat to the United States of America was eliminated," she added.`
 	  
 	  `U.S. Special Operations Command, which Bradley now leads as commander, did not immediately respond to a request for comment.` - [White House confirms second Sept. 2 strike on alleged drug boat, NBC News, 2025](https://www.nbcnews.com/politics/white-house/white-house-confirms-second-sept-2-strike-alleged-drug-boat-rcna246834)
+- On 4 December 2025, CNN reported that the two men who survived the first 
 # Lawsuit
 - On 20 January 2025
 	- ` ` - 
