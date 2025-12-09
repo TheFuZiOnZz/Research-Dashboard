@@ -1,4 +1,4 @@
-[United States](../United%20States)
+2025 United States federal government shutdown[United States](../United%20States)
 
 Donald Trump - 20 January 2025 - 20 January 2028?
 # Social Policy
@@ -72,6 +72,7 @@ Donald Trump - 20 January 2025 - 20 January 2028?
 ## [2025 Charlie Kirk Assassination](2025%20Charlie%20Kirk%20Assassination)
 ## [2025- James Comey Perjury Case](2025-%20James%20Comey%20Perjury%20Case)
 ## [2025 Letitia James Bank Fraud Case](2025%20Letitia%20James%20Bank%20Fraud%20Case)
+## [[2025 Federal Government Shutdown]]
 ## [2025 John Bolton Classified Documents Case](2025%20John%20Bolton%20Classified%20Documents%20Case)
 ## [2025 Washington D.C. National Guard Shooting](2025%20Washington%20D.C.%20National%20Guard%20Shooting)
 
