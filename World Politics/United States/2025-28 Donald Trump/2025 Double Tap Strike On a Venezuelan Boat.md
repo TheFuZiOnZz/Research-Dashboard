@@ -263,6 +263,6 @@
 	  `The Pentagon did not immediately respond to a request for comment.`
 	  
 	  `According to Senate Intelligence Chairman Tom Cotton, a Republican of Arkansas, and Democratic Sen. Chris Coons of Delaware, who were also briefed, the military used a total of four missiles to sink the boat: two missiles in the initial strike, according to Coons, and two in the second strike.` - [Exclusive: Survivors clinging to capsized boat didn’t radio for backup, admiral overseeing double-tap strike tells lawmakers,  CNN, 2025](https://edition.cnn.com/2025/12/04/politics/strike-lawmakers-briefing-radio-survivors)
-# Lawsuit
-- On 20 January 2025
+# Investigations
+- On
 	- ` ` - 
