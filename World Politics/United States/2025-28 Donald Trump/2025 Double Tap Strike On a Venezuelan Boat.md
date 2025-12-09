@@ -1,5 +1,3 @@
-[2025 United States naval deployment in the Caribbean - Wikipedia](https://en.wikipedia.org/wiki/2025_United_States_naval_deployment_in_the_Caribbean)
-[Operation Southern Spear - Wikipedia](https://en.wikipedia.org/wiki/Operation_Southern_Spear)
 [Trump Killed 11 Alleged Drug Traffickers. Is This Murder? - YouTube](https://www.youtube.com/watch?v=7t-_m16y25o)
 [Unequivocal War Crimes - YouTube](https://www.youtube.com/watch?v=Ox-fhnkBrkI)
 # Background
@@ -25,10 +23,21 @@
 	  `"(b) CIRCUMSTANCES.—^The circumstances referred to in subsection (a) are that the person committing such breach or the victim of such breach is a member of the Armed Forces of the United States or a national of the United States (as defined in section 101 of the Immigration and Nationality Act).`
 	  
 	  `"(c) DEFINITIONS.—As used in this section, the term 'grave breach of the Geneva Conventions' means conduct defined ar a grave breach in any of the international conventions relating to the laws of warfare signed at Geneva 12 August 1949 or any protocol to any such convention, to which the United States is a party.".` - [War Crimes Act of 1996, U.S Congress, 1996](https://www.congress.gov/104/statute/STATUTE-110/STATUTE-110-Pg2104.pdf)
-- Executive
+- Executive Order 14157
+	- `The Cartels have engaged in a campaign of violence and terror throughout the Western Hemisphere that has not only destabilized countries with significant importance for our national interests but also flooded the United States with deadly drugs, violent criminals, and vicious gangs.`
+	  
+	  `The Cartels functionally control, through a campaign of assassination, terror, rape, and brute force nearly all illegal traffic across the southern border of the United States.  In certain portions of Mexico, they function as quasi-governmental entities, controlling nearly all aspects of society.  The Cartels’ activities threaten the safety of the American people, the security of the United States, and the stability of the international order in the Western Hemisphere.  Their activities, proximity to, and incursions into the physical territory of the United States pose an unacceptable national security risk to the United States.`
+	  
+	  `(b)  Other transnational organizations, such as Tren de Aragua (TdA) and La Mara Salvatrucha (MS-13) pose similar threats to the United States.  Their campaigns of violence and terror in the United States and internationally are extraordinarily violent, vicious, and similarly threaten the stability of the international order in the Western Hemisphere.`
+	  
+	  `(c)  The Cartels and other transnational organizations, such as TdA and MS-13, operate both within and outside the United States.  They present an unusual and extraordinary threat to the national security, foreign policy, and economy of the United States.  I hereby declare a national emergency, under IEEPA, to deal with those threats.` - [Designating Cartels And Other Organizations As Foreign Terrorist Organizations And Specially Designated Global Terrorists, The White House, 2025](https://www.whitehouse.gov/presidential-actions/2025/01/designating-cartels-and-other-organizations-as-foreign-terrorist-organizations-and-specially-designated-global-terrorists/)
 # Main Point
 - On 2 September 2025, Trump announced that a military vessel struck and sank a speedboat that it alleged was smuggling drugs from Venezuela to the southern Caribbean during a high-seas interdiction mission.
 	- `Earlier this morning, on my Orders, U.S. Military Forces conducted a kinetic strike against positively identified Tren de Aragua Narcoterrorists in the SOUTHCOM area of responsibility. TDA is a designated Foreign Terrorist Organization, operating under the control of Nicolas Maduro, responsible for mass murder, drug trafficking, sex trafficking, and acts of violence and terror across the United States and Western Hemisphere. The strike occurred while the terrorists were at sea in International waters transporting illegal narcotics, heading to the United States. The strike resulted in 11 terrorists killed in action. No U.S. Forces were harmed in this strike. Please let this serve as notice to anybody even thinking about bringing drugs into the United States of America. BEWARE! Thank you for your attention to this matter!!!!!!!!!!!` - [@realDonaldTrump Post, Truth Social, 2025](https://truthsocial.com/@realDonaldTrump/posts/115136798909755892)
+- On 2 September 2025, Secretary of State Marco Rubio stated that the boat was not heading for the United States
+	- `“The president is very clear that he’s going to use the full power of America, the full might of the United States, to take on and eradicate these drug cartels, no matter where they’re operating from, and no matter how long they’ve been able to act with impunity,” said Secretary of State Marco Rubio before boarding a plane in Florida to head to Mexico.`
+	  
+	  `In a deviation from Mr. Trump’s account, however, Mr. Rubio said that the vessel’s destination was probably Trinidad or another country in the Caribbean.` - [Trump Says U.S. Attacked Boat Carrying Venezuelan Gang Members, Killing 11, The New York Times, 2025](https://www.nytimes.com/2025/09/02/us/politics/trump-venezuela-boat-drugs-attack.html)
 - On 28 November 2025, The Washington Post reported that Department of War Secretary Pete Hegseth ordered all people suspected of ferrying drugs to be killed. Due to this verbal command, the 2 September incident actually featured two separate strikes on the boat featured in the Trump Truth Social post.
 	- `The longer the U.S. surveillance aircraft followed the boat, the more confident intelligence analysts watching from command centers became that the 11 people on board were ferrying drugs.`
 	  
