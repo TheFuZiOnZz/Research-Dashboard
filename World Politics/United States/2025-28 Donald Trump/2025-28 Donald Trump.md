@@ -30,7 +30,7 @@ Donald Trump - 20 January 2025 - 20 January 2028?
 ## [2025 SignalGate](2025%20SignalGate)
 ## [2025 USAID Defunding](2025%20USAID%20Defunding)
 ## [2025 Double Tap Strike On a Venezuelan Boat](2025%20Double%20Tap%20Strike%20On%20a%20Venezuelan%20Boat)
-## [[2025 Propsals to Buy Greenland]]
+## [[2025 Propsals to Expand the U.S.]]
 
 # Controversy’s
 ## [2025 List of Underqualified Trump Appointees](2025%20List%20of%20Underqualified%20Trump%20Appointees)

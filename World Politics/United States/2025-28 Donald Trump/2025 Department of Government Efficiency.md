@@ -1,3 +1,4 @@
+[How Elon Musk Hijacked the US Government - YouTube](https://www.youtube.com/watch?v=GaZ7g0mPhLA)
 [The Insane "Fork In The Road" Email to Federal Employees - YouTube](https://www.youtube.com/watch?v=PT848djz4jA)
 [WTF is DOGE? - YouTube](https://www.youtube.com/watch?v=ihvSwJT0rLU&t=482s)
 [DOGE Is The Real Fraud ft. Liz Dye - YouTube](https://www.youtube.com/watch?v=71hKowGIpHM)
