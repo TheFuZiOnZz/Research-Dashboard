@@ -1,6 +1,7 @@
 # Pardoning of all January 6th Rioters
 ## Background
 [2024 Election Fraud Conspiracy](2024%20Election%20Fraud%20Conspiracy)
+[Pardoning 1500 Insurrectionists Is An Insult To America - YouTube](https://www.youtube.com/watch?v=X0OWDMv57cQ)
 ## Main Info
 - On 20 January 2025,
 	- ` ` - [Granting Pardons And Commutation Of Sentences For Certain Offenses Relating To The Events At Or Near The United States Capitol On January 6, 2021, U.S. Department of Justice, 2025](https://www.whitehouse.gov/presidential-actions/2025/01/granting-pardons-and-commutation-of-sentences-for-certain-offenses-relating-to-the-events-at-or-near-the-united-states-capitol-on-january-6-2021/)

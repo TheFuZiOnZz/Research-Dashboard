@@ -1,3 +1,4 @@
+[End of Birthright Citizenship? (ft. Liz Dye) - YouTube](https://www.youtube.com/watch?v=knH3v5aEe_g)
 [Executive Order 14160 - Wikipedia](https://en.wikipedia.org/wiki/Executive_Order_14160)
 [Fourteenth Amendment to the United States Constitution - Wikipedia](https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution)
 # Background

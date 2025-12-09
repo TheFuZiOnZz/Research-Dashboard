@@ -30,6 +30,7 @@ Donald Trump - 20 January 2025 - 20 January 2028?
 ## [2025 SignalGate](2025%20SignalGate)
 ## [2025 USAID Defunding](2025%20USAID%20Defunding)
 ## [2025 Double Tap Strike On a Venezuelan Boat](2025%20Double%20Tap%20Strike%20On%20a%20Venezuelan%20Boat)
+## [[2025 Propsals to Buy Greenland]]
 
 # Controversy’s
 ## [2025 List of Underqualified Trump Appointees](2025%20List%20of%20Underqualified%20Trump%20Appointees)
@@ -78,6 +79,7 @@ Donald Trump - 20 January 2025 - 20 January 2028?
 ## [2025 Washington D.C. National Guard Shooting](2025%20Washington%20D.C.%20National%20Guard%20Shooting)
 ## [2025 Six Democratic Lawmakers Sedition Controversy](2025%20Six%20Democratic%20Lawmakers%20Sedition%20Controversy)
 ## [[2025 Newark Immigration Detention Center Incident]]
+## [[2025 Trump Halts All Federal Grans And Loans]]
 
 # Pre-Presidency Controversy’s
 ## [2022-25 Smith’s Special Counsel Investigation](2022-25%20Smith’s%20Special%20Counsel%20Investigation)
