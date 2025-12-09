@@ -29,7 +29,7 @@
 # Main Point
 - On 2 September 2025, Trump announced that a military vessel struck and sank a speedboat that it alleged was smuggling drugs from Venezuela to the southern Caribbean during a high-seas interdiction mission.
 	- `Earlier this morning, on my Orders, U.S. Military Forces conducted a kinetic strike against positively identified Tren de Aragua Narcoterrorists in the SOUTHCOM area of responsibility. TDA is a designated Foreign Terrorist Organization, operating under the control of Nicolas Maduro, responsible for mass murder, drug trafficking, sex trafficking, and acts of violence and terror across the United States and Western Hemisphere. The strike occurred while the terrorists were at sea in International waters transporting illegal narcotics, heading to the United States. The strike resulted in 11 terrorists killed in action. No U.S. Forces were harmed in this strike. Please let this serve as notice to anybody even thinking about bringing drugs into the United States of America. BEWARE! Thank you for your attention to this matter!!!!!!!!!!!` - [@realDonaldTrump Post, Truth Social, 2025](https://truthsocial.com/@realDonaldTrump/posts/115136798909755892)
-- On 28 November 2025, it was reported that Department of War Secretary Pete Hegseth ordered all people suspected of ferrying drugs to be killed. Due to this verbal command, the 2 September incident actually featured two separate strikes on the boat featured in the Trump Truth Social post.
+- On 28 November 2025, The Washington Post reported that Department of War Secretary Pete Hegseth ordered all people suspected of ferrying drugs to be killed. Due to this verbal command, the 2 September incident actually featured two separate strikes on the boat featured in the Trump Truth Social post.
 	- `The longer the U.S. surveillance aircraft followed the boat, the more confident intelligence analysts watching from command centers became that the 11 people on board were ferrying drugs.`
 	  
 	  `Defense Secretary Pete Hegseth gave a spoken directive, according to two people with direct knowledge of the operation. “The order was to kill everybody,” one of them said.`
@@ -39,6 +39,16 @@
 	  `The Special Operations commander overseeing the Sept. 2 attack — the opening salvo in the Trump administration’s war on suspected drug traffickers in the Western Hemisphere — ordered a second strike to comply with Hegseth’s instructions, two people familiar with the matter said. The two men were blown apart in the water.`
 	  
 	  `Hegseth’s order, which has not been previously reported, adds another dimension to the campaign against suspected drug traffickers. Some current and former U.S. officials and law-of-war experts have said that the Pentagon’s lethal campaign — which has killed more than 80 people to date — is unlawful and may expose those most directly involved to future prosecution.` - [Hegseth order on first Caribbean boat strike, officials say: Kill them all, Washington Post, 2025](https://www.washingtonpost.com/national-security/2025/11/28/hegseth-kill-them-all-survivors-boat-strike)
+- On 28 November 2025, Hegseth tweeted that the Washington Post story was fake news and that the strikes were lawful under U
+	- `As usual, the fake news is delivering more fabricated, inflammatory, and derogatory reporting to discredit our incredible warriors fighting to protect the homeland.`
+	  
+	  `As we’ve said from the beginning, and in every statement, these highly effective strikes are specifically intended to be “lethal, kinetic strikes.” The declared intent is to stop lethal drugs, destroy narco-boats, and kill the narco-terrorists who are poisoning the American people. Every trafficker we kill is affiliated with a Designated Terrorist Organization.`
+	  
+	  `The Biden administration preferred the kid gloves approach, allowing millions of people — including dangerous cartels and unvetted Afghans — to flood our communities with drugs and violence. The Trump administration has sealed the border and gone on offense against narco-terrorists. Biden coddled terrorists, we kill them.`
+	  
+	  `Our current operations in the Caribbean are lawful under both U.S. and international law, with all actions in compliance with the law of armed conflict—and approved by the best military and civilian lawyers, up and down the chain of command.`
+	  
+	  `Our warriors in SOUTHCOM put their lives on the line every day to protect the Homeland from narco-terrorists — and I will ALWAYS have their back.` - [@SecWar Tweet, Twitter (X), 2025](https://x.com/SecWar/status/1994552598142038358)
 # Lawsuit
 - On 20 January 2025
 	- ` ` - 
