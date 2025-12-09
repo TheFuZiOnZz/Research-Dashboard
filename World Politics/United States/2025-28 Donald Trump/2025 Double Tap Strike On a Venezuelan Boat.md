@@ -3,7 +3,7 @@
 - Charter of the United Nations, Article 2, Point 4
 	- `All Members shall refrain in their international relations from the threat or use of force against the territorial integrity or political independence of any state, or in any other manner inconsistent with the Purposes of the United Nations` - [Charter of the United Nations, United Nations, 1945](https://untso.unmissions.org/sites/default/files/united_nations_charter.pdf)
 - Geneva Convention, For the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field of 12 August 1949
-	- Chapter 2.
+	- Chapter 2, Wounded, Sick and Shipwrecked.
 		- Article 12, Protection and Care.
 			- `Article 12`
 			  
@@ -11,9 +11,11 @@
 			  
 			  `Such persons shall be treated humanely and cared for by the Parties to the conflict in whose power they may be, without any adverse distinction founded on sex, race, nationality, religion, political opinions, or any other similar criteria. Any attempts upon their lives, or violence to their persons, shall be strictly prohibited; in particular, they shall not be murdered or exterminated, subjected to torture or to biological experiments; they shall not wilfully be left without medical assistance and care, nor shall conditions exposing them to contagion or infection be created.`
 			  
-			  `Only urgent medical reasons will authorize priority in the order of treatment to be administered. Women shall be treated with all consideration due to their sex.
+			  `Only urgent medical reasons will authorize priority in the order of treatment to be administered.`
+			  
+			  `Women shall be treated with all consideration due to their sex.` - [Geneva Conventions Of 12 August 1949, The International Committee of the Red Cross](https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf)
 - Geneva Convention, Relative to the Treatment Of Prisoners of War of 12 August 1949, 
-	- Chapter 1.
+	- Chapter 1, General Provisions.
 		- Article 3, Conflicts not of an international character.
 			- `Article 3`
 			  
@@ -29,7 +31,7 @@
 			  
 			  `c) outrages upon personal dignity, in particular, humiliating and degrading treatment;`
 			  
-			  `d) the passing of sentences and the carrying out of executions without previous judgment pronounced by a regularly constituted court affording all the judicial guarantees which are recognized as indispensable by civilized peoples.` - [Geneva Convention Of 12 August 1949, The International Committee of the Red Cross](https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf)
+			  `d) the passing of sentences and the carrying out of executions without previous judgment pronounced by a regularly constituted court affording all the judicial guarantees which are recognized as indispensable by civilized peoples.` - [Geneva Conventions Of 12 August 1949, The International Committee of the Red Cross](https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf)
 - 18 U.S.C. § 2441, created by the War Crimes Act of 1996.
 	- `§ 2441. War crimes (a) Offense. Whoever, whether inside or outside the United States, commits a war crime, in any of the circumstances described in subsection (b), shall be fined under this title or imprisoned for life or any term of years, or both, and if death results to the victim, shall also be subject to the penalty of death.`
 	  
@@ -114,6 +116,8 @@
 			  `17.14.3 Search, Collection, and Protection of the Wounded, Sick, Shipwrecked, and Dead. Whenever circumstances permit, and particularly after an engagement, all possible measures shall be taken, without delay, to search for and collect the wounded, sick, and shipwrecked, to protect them against pillage and ill-treatment, to ensure their adequate care, and to search for the dead, prevent their being despoiled, and decently dispose of them.`
 			  
 			  `The obligations to search for, collect, and take affirmative steps to protect the wounded, sick, and shipwrecked are subject to practical limitations; military commanders are to judge what is possible, and to what extent they can commit their personnel to these duties.` - [Department of Defense Law of War Manual, U.S. Department of Defense](https://ogc.osd.mil/Portals/99/department_of_defense_law_of_war_manual.pdf)
+	- Chapter 18, Implementation and Enforcement of the Law of War.
+		- Section 3.
 - Office of Legal Counsel Memo, April 2018 Airstrikes Against Syrian Chemical-Weapons Facilities.
 	- `We now explain our analysis of the April 13, 2018 Syrian strikes in light of our precedents. In evaluating whether a proposed military action falls within the President’s authority under Article II of the Constitution, we have distilled our precedents into two inquiries. First, we consider whether the President could reasonably determine that the action serves important national interests. See, e.g., Somalia Deployment, 16 O.L.C. at 9 (“At the core of this power is the President’s authority to take military action to protect American citizens, property, and interests from foreign threats.”); British Flying Students, 40 Op. Att’y Gen. at 62 (“[T]he President’s authority has long been recognized as extending to the dispatch of armed forces outside of the United States, either on missions of good will or rescue, or for purposes of protecting American lives or property or American interests.”). Second, we consider whether the “anticipated nature, scope, and duration” of the conflict might rise to the level of a war under the Constitution. See Libya Deployment, 35 Op. O.L.C. at 31 (quoting Haiti Deployment I, 18 Op. O.L.C. at 179). Prior to the Syrian strikes, we applied this framework to conclude that the proposed Syrian operation would fall within the President’s constitutional authority.`
 	  
