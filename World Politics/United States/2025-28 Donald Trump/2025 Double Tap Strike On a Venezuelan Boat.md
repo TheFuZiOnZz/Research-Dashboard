@@ -70,6 +70,14 @@
 	  `It is not possible at this time to know the full scope and duration of military operations that will be necessary. United States forces remain postured to carry out further military operations.`
 	  
 	  `I am providing this report as part Of my efforts to keep the Congress fully informed, consistent with the War Powers Resolution (Public Law 93-148). I directed these actions consistent with my responsibility to protect Americans and United States interests abroad and in furtherance of United States national security and foreign policy interests, pursuant to my constitutional authority as Commander in Chief and Chief Executive to conduct United States foreign relations. I appreciate the support of the Congress in this action.` - [Report 20250904A, The White House, 2025](https://assets.ctfassets.net/6hn51hpulw83/iOdLcVg6XVHorL4Rv5rWr/9a116b4c89cb06efee02dcd6df96bba1/20250904-Trump.pdf)
+- On 5 September 2025, Trump told reporters that overdoses occurring in the U.S. were equivalent to war dead and that Venezuelan President Nicolas Maduro had ties to Tren de Aragua, of which Maduro Denies.
+	- `At every turn, the Trump administration has sought to tie Maduro's government to narco trafficking, allegations Caracas denies.`
+	  
+	  `Specifically, Trump has accused Maduro of running the Tren de Aragua gang, which his administration designated a terrorist organization in February. Maduro has denied any connection to Tren de Aragua, which his government says was rendered inactive in Venezuela by a prison raid in 2023.`
+	  
+	  `Trump on Friday compared the deaths of hundreds of thousands of Americans in overdoses to war dead, as he sought to justify the muscular military activity in the Caribbean.`
+	  
+	  `"Think if you're in a war and you lose 300,000 ... We're not going to allow it to happen," he said.` - [Trump plays down possible regime change in Venezuela; US deploys stealth fighter jets, Reuters, 2025](https://www.reuters.com/world/americas/trump-plays-down-possible-regime-change-venezuela-us-deploys-stealth-fighter-2025-09-05/)
 - On 5 September 2025, Hegseth told reporters that Tren de Aragua is no different to al-Qaida.
 	- `Days after the U.S. military [destroyed a boat in the Caribbean](https://taskandpurpose.com/news/drug-boat-southern-caribbean/) that it claimed was being used to smuggle drugs, Defense Secretary Pete Hegseth said that the legal basis for the strike lay in the status of the traffickers as an “imminent threat” to the United States.`
 	  
