@@ -2,22 +2,34 @@
 # Background
 - Charter of the United Nations, Article 2, Point 4
 	- `All Members shall refrain in their international relations from the threat or use of force against the territorial integrity or political independence of any state, or in any other manner inconsistent with the Purposes of the United Nations` - [Charter of the United Nations, United Nations, 1945](https://untso.unmissions.org/sites/default/files/united_nations_charter.pdf)
-- Geneva Convention, Relative to the Treatment Of Prisoners of War Of 12 August 1949, Article 3, Conflicts not of an international character.
-	- `Article 3`
-	  
-	  `In the case of armed conflict not of an international character occurring in the territory of one of the High Contracting Parties, each Party to the conflict shall be bound to apply, as a minimum, the following provisions:`
-	  
-	  `1) Persons taking no active part in the hostilities, including members of armed forces who have laid down their arms and those placed hors de combat by sickness, wounds, detention, or any other cause, shall in all circumstances be treated humanely, without any adverse distinction founded on race, colour, religion or faith, sex, birth or wealth, or any other similar criteria.`
-	  
-	  `To this end, the following acts are and shall remain prohibited at any time and in any place whatsoever with respect to the above-mentioned persons:`
-	  
-	  `a) violence to life and person, in particular murder of all kinds, mutilation, cruel treatment and torture;`
-	  
-	  `b) taking of hostages;`
-	  
-	  `c) outrages upon personal dignity, in particular, humiliating and degrading treatment;`
-	  
-	  `d) the passing of sentences and the carrying out of executions without previous judgment pronounced by a regularly constituted court affording all the judicial guarantees which are recognized as indispensable by civilized peoples.` - [Geneva Convention Of 12 August 1949, The International Committee of the Red Cross](https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf)
+- Geneva Convention, For the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field of 12 August 1949
+	- Chapter 2.
+		- Article 12, Protection and Care.
+			- `Article 12`
+			  
+			  `Members of the armed forces and other persons mentioned in the following Article, who are at sea and who are wounded, sick or shipwrecked, shall be respected and protected in all circumstances, it being understood that the term “shipwreck” means shipwreck from any cause and includes forced landings at sea by or from aircraft.`
+			  
+			  `Such persons shall be treated humanely and cared for by the Parties to the conflict in whose power they may be, without any adverse distinction founded on sex, race, nationality, religion, political opinions, or any other similar criteria. Any attempts upon their lives, or violence to their persons, shall be strictly prohibited; in particular, they shall not be murdered or exterminated, subjected to torture or to biological experiments; they shall not wilfully be left without medical assistance and care, nor shall conditions exposing them to contagion or infection be created.`
+			  
+			  `Only urgent medical reasons will authorize priority in the order of treatment to be administered. Women shall be treated with all consideration due to their sex.
+- Geneva Convention, Relative to the Treatment Of Prisoners of War of 12 August 1949, 
+	- Chapter 1.
+		- Article 3, Conflicts not of an international character.
+			- `Article 3`
+			  
+			  `In the case of armed conflict not of an international character occurring in the territory of one of the High Contracting Parties, each Party to the conflict shall be bound to apply, as a minimum, the following provisions:`
+			  
+			  `1) Persons taking no active part in the hostilities, including members of armed forces who have laid down their arms and those placed hors de combat by sickness, wounds, detention, or any other cause, shall in all circumstances be treated humanely, without any adverse distinction founded on race, colour, religion or faith, sex, birth or wealth, or any other similar criteria.`
+			  
+			  `To this end, the following acts are and shall remain prohibited at any time and in any place whatsoever with respect to the above-mentioned persons:`
+			  
+			  `a) violence to life and person, in particular murder of all kinds, mutilation, cruel treatment and torture;`
+			  
+			  `b) taking of hostages;`
+			  
+			  `c) outrages upon personal dignity, in particular, humiliating and degrading treatment;`
+			  
+			  `d) the passing of sentences and the carrying out of executions without previous judgment pronounced by a regularly constituted court affording all the judicial guarantees which are recognized as indispensable by civilized peoples.` - [Geneva Convention Of 12 August 1949, The International Committee of the Red Cross](https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf)
 - 18 U.S.C. § 2441, created by the War Crimes Act of 1996.
 	- `§ 2441. War crimes (a) Offense. Whoever, whether inside or outside the United States, commits a war crime, in any of the circumstances described in subsection (b), shall be fined under this title or imprisoned for life or any term of years, or both, and if death results to the victim, shall also be subject to the penalty of death.`
 	  
