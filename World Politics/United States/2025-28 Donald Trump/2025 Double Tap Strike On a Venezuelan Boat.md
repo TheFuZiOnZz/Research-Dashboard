@@ -29,8 +29,9 @@ hegseth second strike war crime [Hegseth order on first Caribbean boat strike, o
 	  
 	  `"(c) DEFINITIONS.—As used in this section, the term 'grave breach of the Geneva Conventions' means conduct defined ar a grave breach in any of the international conventions relating to the laws of warfare signed at Geneva 12 August 1949 or any protocol to any such convention, to which the United States is a party.".` - [War Crimes Act of 1996, U.S Congress, 1996](https://www.congress.gov/104/statute/STATUTE-110/STATUTE-110-Pg2104.pdf)
 # Main Point
-- On 2 September 2025, The US announced that a military vessel struck and sank a speedboat that it alleged was smuggling drugs from Venezuela to the southern Caribbean during a high-seas interdiction mission.
-	- ` ` - 
+- On 2 September 2025, Trump announced that a military vessel struck and sank a speedboat that it alleged was smuggling drugs from Venezuela to the southern Caribbean during a high-seas interdiction mission.
+	- `Earlier this morning, on my Orders, U.S. Military Forces conducted a kinetic strike against positively identified Tren de Aragua Narcoterrorists in the SOUTHCOM area of responsibility. TDA is a designated Foreign Terrorist Organization, operating under the control of Nicolas Maduro, responsible for mass murder, drug trafficking, sex trafficking, and acts of violence and terror across the United States and Western Hemisphere. The strike occurred while the terrorists were at sea in International waters transporting illegal narcotics, heading to the United States. The strike resulted in 11 terrorists killed in action. No U.S. Forces were harmed in this strike. Please let this serve as notice to anybody even thinking about bringing drugs into the United States of America. BEWARE! Thank you for your attention to this matter!!!!!!!!!!!` - [@realDonaldTrump Post, Truth Social, 2025](https://truthsocial.com/@realDonaldTrump/posts/115136798909755892)
+- On 28 November 2025, it was reported that Department of War Secretary Pete Hegseth ordered all people suspected of ferrying drugs to be killed. Due to this verbal command, the 2 September incident actually featured two separate strikes on the boat featured in the 
 # Lawsuit
 - On 20 January 2025
 	- ` ` - 
