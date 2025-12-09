@@ -27,9 +27,9 @@ hegseth second strike war crime [Hegseth order on first Caribbean boat strike, o
 	  
 	  `"(b) CIRCUMSTANCES.—^The circumstances referred to in subsection (a) are that the person committing such breach or the victim of such breach is a member of the Armed Forces of the United States or a national of the United States (as defined in section 101 of the Immigration and Nationality Act).`
 	  
-	  `"(c) DEFINITIONS.—As used in this section, the term 'grave breach of the Geneva Conventions' means conduct defined ar a grave breach in any of the international conventions relating to the laws of warfare signed at Geneva 12 August 1949 or any protocol to any such convention, to which the United States is a party.".` - [War Crimes Act of 1996, ](https://www.congress.gov/104/statute/STATUTE-110/STATUTE-110-Pg2104.pdf)
+	  `"(c) DEFINITIONS.—As used in this section, the term 'grave breach of the Geneva Conventions' means conduct defined ar a grave breach in any of the international conventions relating to the laws of warfare signed at Geneva 12 August 1949 or any protocol to any such convention, to which the United States is a party.".` - [War Crimes Act of 1996, U.S Congress, 1996](https://www.congress.gov/104/statute/STATUTE-110/STATUTE-110-Pg2104.pdf)
 # Main Point
-- On 2 September 2025, 
+- On 2 September 2025, The US announced that a military vessel struck and sank a speedboat that it alleged was smuggling drugs from Venezuela to the southern Caribbean during a high-seas interdiction mission.
 	- ` ` - 
 # Lawsuit
 - On 20 January 2025
