@@ -169,7 +169,12 @@
 	  `“Adm. Bradley worked well within his authority and the law directing the engagement to ensure the boat was destroyed and the threat to the United States of America was eliminated," she added.`
 	  
 	  `U.S. Special Operations Command, which Bradley now leads as commander, did not immediately respond to a request for comment.` - [White House confirms second Sept. 2 strike on alleged drug boat, NBC News, 2025](https://www.nbcnews.com/politics/white-house/white-house-confirms-second-sept-2-strike-alleged-drug-boat-rcna246834)
-- On 4 December 2025, CNN reported that the two men who survived the first 
+- On 4 December 2025, CNN reported that the boat appeared to have no radio or other communications devices onboard and that the two men who survived the first strike were holding on to the boat for 41 minutes before the second strike hit.
+	- `But Thursday, Adm. Frank “Mitch” Bradley acknowledged that the two survivors of the military’s initial strike were in no position to make a distress call in his briefings to lawmakers. Bradley was in charge of Joint Special Operations Command at the time of the strike and was the top military officer directing the attack.`
+	  
+	  `The initial hit on the vessel, believed to be carrying cocaine, killed nine people immediately and split the boat in half, capsizing it and sending a massive smoke plume into the sky, the sources who viewed the video as part of the briefings said. Part of the surveillance video was a zoomed-in, higher-definition view of the two survivors clinging to a still-floating, capsized portion, they said.`
+	  
+	  `For a little under an hour — 41 minutes, according to a separate US official — Bradley and the rest of the US military command center discussed what to do as they watched the men struggle to overturn what was left of their boat, the sources said.` - [Exclusive: Survivors clinging to capsized boat didn’t radio for backup, admiral overseeing double-tap strike tells lawmakers | CNN Politics](https://edition.cnn.com/2025/12/04/politics/strike-lawmakers-briefing-radio-survivors)
 # Lawsuit
 - On 20 January 2025
 	- ` ` - 
