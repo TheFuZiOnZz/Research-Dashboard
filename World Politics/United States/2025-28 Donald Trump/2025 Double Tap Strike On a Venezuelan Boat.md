@@ -196,6 +196,8 @@
 	- `Days after the U.S. military [destroyed a boat in the Caribbean](https://taskandpurpose.com/news/drug-boat-southern-caribbean/) that it claimed was being used to smuggle drugs, Defense Secretary Pete Hegseth said that the legal basis for the strike lay in the status of the traffickers as an “imminent threat” to the United States.`
 	  
 	  `“A foreign terrorist organization poisoning your people with drugs coming from a drug cartel is no different than al-Qaida — and they’ll be treated as such, as they were in international waters,” Hegseth told reporters on Thursday.` - [Drug cartels are 'no different than al-Qaida,' Hegseth says, Task & Purpose, 2025](https://taskandpurpose.com/news/military-drug-cartels-terrorists/)
+- On 12 November 2025, it was reported that the U.K. stopped sharing some intelligence regarding the
+	- ` ` - [Exclusive: UK suspends some intelligence sharing with US over boat strike concerns in major break | CNN Politics](https://edition.cnn.com/2025/11/11/politics/uk-suspends-caribbean-intelligence-sharing-us)
 - On 28 November 2025, The Washington Post reported that Department of War Secretary Pete Hegseth ordered all people suspected of ferrying drugs to be killed. Due to this verbal command, the 2 September incident actually featured two separate strikes on the boat featured in the Trump Truth Social post.
 	- `The longer the U.S. surveillance aircraft followed the boat, the more confident intelligence analysts watching from command centers became that the 11 people on board were ferrying drugs.`
 	  
