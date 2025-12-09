@@ -2,6 +2,7 @@
 [2025 United States naval deployment in the Caribbean - Wikipedia](https://en.wikipedia.org/wiki/2025_United_States_naval_deployment_in_the_Caribbean)
 [Operation Southern Spear - Wikipedia](https://en.wikipedia.org/wiki/Operation_Southern_Spear)
 hegseth second strike war crime [Hegseth order on first Caribbean boat strike, officials say: Kill them all, Washington Post, 2025](https://archive.ph/20251129174022/https://www.washingtonpost.com/national-security/2025/11/28/hegseth-kill-them-all-survivors-boat-strike/) 
+[Unequivocal War Crimes - YouTube](https://www.youtube.com/watch?v=Ox-fhnkBrkI)
 # Background
 - On 20 January 2025
 	- ` ` - 

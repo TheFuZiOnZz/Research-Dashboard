@@ -36,7 +36,6 @@ Donald Trump - 20 January 2025 - 20 January 2028?
 ## [2025 List of Unjustified Pardons and Commutations](2025%20List%20of%20Unjustified%20Pardons%20and%20Commutations)
 ## [2025 Executive Orders Targeting Non-Preferential Law Firms](2025%20Executive%20Orders%20Targeting%20Non-Preferential%20Law%20Firms)
 ## [2025 Gulf of Mexico Renaming](2025%20Gulf%20of%20Mexico%20Renaming)
-## [2025 ](2025%20)
 ## [2025 Return to In-Person Work Executive Order](2025%20Return%20to%20In-Person%20Work%20Executive%20Order)
 ## [2025 Withdrawal From the World Health Organization](2025%20Withdrawal%20From%20the%20World%20Health%20Organization)
 ## [2025 Firing to Hire Pro-Trump Appointments](2025%20Firing%20to%20Hire%20Pro-Trump%20Appointments)
