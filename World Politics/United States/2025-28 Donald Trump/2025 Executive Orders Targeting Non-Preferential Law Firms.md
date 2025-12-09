@@ -1,3 +1,4 @@
+[Trump Went After the Law Firms and Lost BIGGLY, ft. Liz Dye - YouTube](https://www.youtube.com/watch?v=LfsNe0HdahU)
 [Lawyers Beat Trump In Court! (For Now...) - YouTube](https://www.youtube.com/watch?v=DV76sIhZrdM)
 # Executive Order Suspending Security Clearances
 ## Background

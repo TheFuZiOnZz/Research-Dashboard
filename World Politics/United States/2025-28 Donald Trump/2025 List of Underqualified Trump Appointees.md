@@ -1,5 +1,6 @@
 [The Unraveling of the Justice Department, The New York Times, 2025](https://removepaywalls.com/https://www.nytimes.com/interactive/2025/11/16/magazine/trump-justice-department-staff-attorneys.html)
 # Ed Martin, Interim U.S. Attorney for the District of Columbia
+[Trump's Worst Lawyer ft. Liz Dye - YouTube](https://www.youtube.com/watch?v=pHrqlxbVM0g)
 [The DOJ Can't Stop Screwing Up (ft. Liz Dye) - YouTube](https://youtu.be/UfZ4-UUU3UQ?si=QVkcL5D000VT5tkw&t=575) timestamped
 
 - Trump appointed Ed Martin to be the interim US attorney for the District of Columbia. Martin was entirely unqualified for the role. His only qualification was that he had promoted Trump's baseless stolen election claims. Martin went on to fire more than two dozen prosecutors who had worked on the January 6th prosecution or the criminal investigation of Donald Trump, which was plainly retaliatory.

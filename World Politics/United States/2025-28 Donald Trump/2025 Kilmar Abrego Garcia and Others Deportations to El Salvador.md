@@ -1,4 +1,9 @@
 [Deportation of Kilmar Abrego Garcia - Wikipedia](https://en.wikipedia.org/wiki/Deportation_of_Kilmar_Abrego_Garcia)
+[Trump Defies Judge to Deport Venezuelans to Salvadoran Slave Jail - YouTube](https://www.youtube.com/watch?v=Vvv0_aVTzlI)
+[SCOTUS: Due Process In Theory; Deportations In Reality - YouTube](https://www.youtube.com/watch?v=ryxRgQWuUFU)
+[Trump Ordered to Return Kilmar Abrego Garcia - YouTube](https://www.youtube.com/watch?v=oe_drf1bJn8)
+[An Extraordinary Update on Abrego Garcia - YouTube](https://www.youtube.com/watch?v=0n_GfNbJwDY)
+[You Can't Deport US Citizens - YouTube](https://www.youtube.com/watch?v=VS-for7pUxU)
 [The Dubious Charges Against Abrego Garcia - YouTube](https://www.youtube.com/watch?v=ipxHg1dnP9k)
 [(Another) Extraordinary Update on Abrego Garcia - YouTube](https://www.youtube.com/watch?v=YbvpdXpTjKk)
 # Background
@@ -7,9 +12,6 @@
 
 # Main Point
 - On 15 March 2025, 
-- 
-- On 
-- 
 
 # Lawsuits
 [Docket](https://www.courtlistener.com/docket/69777799/abrego-garcia-v-noem/)

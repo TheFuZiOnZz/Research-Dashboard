@@ -1,3 +1,5 @@
+[Texting War Plans = Illegal - YouTube](https://www.youtube.com/watch?v=YXsT3DOxBbY)
+[Signal War Plans v.s. Hillary's Emails - YouTube](https://www.youtube.com/watch?v=cw1tNTIEs-o)
 # Background
 - On 15 March 2025, the U.S. began launching airstrikes on Houthi targets in Yemen due to the ongoing piracy campaign conducted by to support Hamas and the Palestinians in the [2023- Israel-Hamas War](../../Israel-Palestine/1948-%20Israeli-Palestinian%20Period/2023-%20Israel-Hamas%20War).
 	- `The US has launched a "decisive and powerful" wave of air strikes on Houthi rebels in Yemen, President Donald Trump has said, citing the group's attacks on shipping in the Red Sea as the reason.`
