@@ -1,3 +1,8 @@
+[The Insane "Fork In The Road" Email to Federal Employees - YouTube](https://www.youtube.com/watch?v=PT848djz4jA)
+[WTF is DOGE? - YouTube](https://www.youtube.com/watch?v=ihvSwJT0rLU&t=482s)
+[DOGE Is The Real Fraud ft. Liz Dye - YouTube](https://www.youtube.com/watch?v=71hKowGIpHM)
+[A Judge Just Reversed Trump's Purge - YouTube](https://www.youtube.com/watch?v=YlVxgRdb0o0)
+[Why the Five Things Email Failed - YouTube](https://www.youtube.com/watch?v=xsviypz8yEs)
 [Who Runs DOGE? A Descent into Madness (ft. Anna Bower) - YouTube](https://www.youtube.com/watch?v=0ziKJQC32qk)
 [DOGE Got Hammered In Court - YouTube](https://www.youtube.com/watch?v=q7wo9ooM6CI)
 # Background

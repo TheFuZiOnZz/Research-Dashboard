@@ -1,3 +1,4 @@
+[SCOTUS Rules Against Trump And Saves USAID (For Now) - YouTube](https://www.youtube.com/watch?v=gA37Fp788w4)
 - Trump froze hundreds of billions of dollars in foreign aid. This was a violation of the empoundment control act spending clause and separation of powers. 
 
 

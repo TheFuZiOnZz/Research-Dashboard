@@ -8,7 +8,9 @@
 	  
 	  `Martin soon fired 15 attorneys in the Capitol Siege Section who prosecuted the Jan. 6 defendants. They joined more than a dozen other prosecutors fired for working under the special counsel, Jack Smith, on the criminal investigations of President Trump. According to the D.O.J.’s new leadership, they could not be trusted to “faithfully implement” the president’s agenda.` - [The Unraveling of the Justice Department, The New York Times, 2025](https://removepaywalls.com/https://www.nytimes.com/interactive/2025/11/16/magazine/trump-justice-department-staff-attorneys.html)
 	- `Ed Martin, the interim U.S. attorney in Washington, demoted seven senior supervisors and leaders in the office. It was the latest step in the purge of career attorneys involved in prosecuting the Jan. 6 rioters as well as two Trump allies, Steve Bannon and Peter Navarro. The administration had already removed at least a dozen senior leaders from their positions across the Justice Department, giving some the choice to join the Sanctuary Cities Enforcement Working Group, which was newly formed to target jurisdictions that refused to cooperate with federal authorities on immigration enforcement.` - [The Unraveling of the Justice Department, The New York Times, 2025](https://removepaywalls.com/https://www.nytimes.com/interactive/2025/11/16/magazine/trump-justice-department-staff-attorneys.html)
-
+# Emil Bove, Acting Deputy Attorney General
+[They're Fabricating Criminal Prosecutions Now - YouTube](https://www.youtube.com/watch?v=5KApz1PdBgA)
+- 
 # Lindsey Halligan, U.S. Attorney for the Eastern District of Virginia
 [Lindsey Halligan - Wikipedia](https://en.wikipedia.org/wiki/Lindsey_Halligan)
 [Political Prosecutions By An Idiot - YouTube](https://www.youtube.com/watch?v=HukrHSxfVPQ&t=4s)
