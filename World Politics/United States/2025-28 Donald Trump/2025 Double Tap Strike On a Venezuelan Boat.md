@@ -1,4 +1,3 @@
-[Unequivocal War Crimes - YouTube](https://www.youtube.com/watch?v=Ox-fhnkBrkI)
 # Background
 - Charter of the United Nations, Article 2, Point 4
 	- `All Members shall refrain in their international relations from the threat or use of force against the territorial integrity or political independence of any state, or in any other manner inconsistent with the Purposes of the United Nations` - [Charter of the United Nations, United Nations, 1945](https://untso.unmissions.org/sites/default/files/united_nations_charter.pdf)
@@ -196,8 +195,12 @@
 	- `Days after the U.S. military [destroyed a boat in the Caribbean](https://taskandpurpose.com/news/drug-boat-southern-caribbean/) that it claimed was being used to smuggle drugs, Defense Secretary Pete Hegseth said that the legal basis for the strike lay in the status of the traffickers as an “imminent threat” to the United States.`
 	  
 	  `“A foreign terrorist organization poisoning your people with drugs coming from a drug cartel is no different than al-Qaida — and they’ll be treated as such, as they were in international waters,” Hegseth told reporters on Thursday.` - [Drug cartels are 'no different than al-Qaida,' Hegseth says, Task & Purpose, 2025](https://taskandpurpose.com/news/military-drug-cartels-terrorists/)
-- On 12 November 2025, it was reported that the U.K. stopped sharing some intelligence regarding the
-	- ` ` - [Exclusive: UK suspends some intelligence sharing with US over boat strike concerns in major break | CNN Politics](https://edition.cnn.com/2025/11/11/politics/uk-suspends-caribbean-intelligence-sharing-us)
+- On 12 November 2025, CNN reported that the U.K. stopped sharing some intelligence to the U.S.  regarding the Caribbean over the boat strikes.
+	- `The United Kingdom is no longer sharing intelligence with the US about suspected drug trafficking vessels in the Caribbean because it does not want to be complicit in US military strikes and believes the attacks are illegal, sources familiar with the matter told CNN.`
+	  
+	  `The UK’s decision marks a significant break from its closest ally and intelligence sharing partner and underscores the growing skepticism over the legality of the US military’s campaign around Latin America.`
+	  
+	  `For years, the UK, which controls a number of territories in the Caribbean where it bases intelligence assets, has helped the US locate vessels suspected of carrying drugs so that the US Coast Guard could interdict them, the sources said. That meant the ships would be stopped, boarded, its crew detained, and drugs seized.` - [Exclusive: UK suspends some intelligence sharing with US over boat strike concerns in major break, CNN, 2025](https://edition.cnn.com/2025/11/11/politics/uk-suspends-caribbean-intelligence-sharing-us)
 - On 28 November 2025, The Washington Post reported that Department of War Secretary Pete Hegseth ordered all people suspected of ferrying drugs to be killed. Due to this verbal command, the 2 September incident actually featured two separate strikes on the boat featured in the Trump Truth Social post.
 	- `The longer the U.S. surveillance aircraft followed the boat, the more confident intelligence analysts watching from command centers became that the 11 people on board were ferrying drugs.`
 	  
@@ -227,7 +230,7 @@
 	  `Our current operations in the Caribbean are lawful under both U.S. and international law, with all actions in compliance with the law of armed conflict—and approved by the best military and civilian lawyers, up and down the chain of command.`
 	  
 	  `Our warriors in SOUTHCOM put their lives on the line every day to protect the Homeland from narco-terrorists — and I will ALWAYS have their back.` - [@SecWar Tweet, Twitter (X), 2025](https://x.com/SecWar/status/1994552598142038358)
-- On 1 December 2025, Hegseth tweeted that he did not give the order to second strike.
+- On 1 December 2025, Hegseth tweeted that he did not give the order for the second strike.
 	- `Let’s make one thing crystal clear:`
 	  
 	  `Admiral Mitch Bradley is an American hero, a true professional, and has my 100% support. I stand by him and the combat decisions he has made — on the September 2 mission and all others since.`
@@ -243,7 +246,7 @@
 	  `“Adm. Bradley worked well within his authority and the law directing the engagement to ensure the boat was destroyed and the threat to the United States of America was eliminated," she added.`
 	  
 	  `U.S. Special Operations Command, which Bradley now leads as commander, did not immediately respond to a request for comment.` - [White House confirms second Sept. 2 strike on alleged drug boat, NBC News, 2025](https://www.nbcnews.com/politics/white-house/white-house-confirms-second-sept-2-strike-alleged-drug-boat-rcna246834)
-- On 4 December 2025, CNN reported that the boat appeared to have no radio or other communications devices onboard, a claim used by defense officials to justify the second strike, and that the two men who survived the first strike were holding on to the boat for 41 minutes before the second strike hit. It was also reported that there were two missiles per strike, totaling four missiles fired.,  
+- On 4 December 2025, CNN reported that the boat appeared to have no radio or other communications devices onboard, a claim used by defense officials to justify the second strike, and that the two men who survived the first strike were holding on to the boat for 41 minutes before the second strike hit. It was also reported that there were two missiles per strike, totaling four missiles fired.
 	- `The two men killed as they floated holding onto their capsized boat in a secondary strike against a suspected drug vessel in early September did not appear to have radio or other communications devices, the top military official overseeing the strike told lawmakers on Thursday, according to three sources with direct knowledge of his congressional briefings.`
 	  
 	  `As far back as September, defense officials have been quietly pushing back on criticism that killing the two survivors amounted to a war crime by arguing, in part, that they were legitimate targets because they appeared to be radioing for help or backup — reinforcements that, if they had received it, could have theoretically allowed them to continue to traffic the drugs aboard their sinking ship.`
@@ -265,6 +268,7 @@
 	  `The Pentagon did not immediately respond to a request for comment.`
 	  
 	  `According to Senate Intelligence Chairman Tom Cotton, a Republican of Arkansas, and Democratic Sen. Chris Coons of Delaware, who were also briefed, the military used a total of four missiles to sink the boat: two missiles in the initial strike, according to Coons, and two in the second strike.` - [Exclusive: Survivors clinging to capsized boat didn’t radio for backup, admiral overseeing double-tap strike tells lawmakers,  CNN, 2025](https://edition.cnn.com/2025/12/04/politics/strike-lawmakers-briefing-radio-survivors)
+
 # Investigations
 - On
 	- ` ` - 

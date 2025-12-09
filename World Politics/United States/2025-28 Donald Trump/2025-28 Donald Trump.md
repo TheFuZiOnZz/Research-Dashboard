@@ -23,7 +23,6 @@ Donald Trump - 20 January 2025 - 20 January 2028?
 ## [2025 Trump Clean Coal Claims](2025%20Trump%20Clean%20Coal%20Claims)
 
 # Foreign Policy
-
 ## [2025 Failing Peace Plans For Russia-Ukraine War](2025%20Failing%20Peace%20Plans%20For%20Russia-Ukraine%20War)
 ## [2025 Israel Negotiation Troubles](2025%20Israel%20Negotiation%20Troubles)
 ## [2025 Canada Negotiation Troubles](2025%20Canada%20Negotiation%20Troubles)

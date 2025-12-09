@@ -1,3 +1,5 @@
+[Illegal Orders Are Illegal - YouTube](https://www.youtube.com/watch?v=wkaS3-9WvM8)
+[I Investigated Why Trump Wants to Recall Sen. Kelly to Active Duty (ft. Sen. Kelly) - YouTube](https://www.youtube.com/watch?v=AwVl_e7V3rM)
 # Background
 - United States Military Code Article 90, Willfully disobeying superior commissioned officer
 	- `Any person subject to this chapter who willfully disobeys a lawful command of that person’s superior commissioned officer shall be punished—`
@@ -174,6 +176,3 @@
 	  `On Tuesday, Reuters reported that a DoJ official, who spoke on condition of anonymity, said the FBI had requested interviews with six Democratic politicians to determine "if there's any wrongdoing, and then go from there".`
 	  
 	  `When Kelly was asked by NPR about the matter later that day, he said: "The sergeant at arms got something in an email. We're taking a look at it."` - [Democrats who told troops to disobey illegal orders push back on alleged FBI probe, BBC News, 2025](https://www.bbc.co.uk/news/articles/cze832dr2n0o)
-
-[Illegal Orders Are Illegal - YouTube](https://www.youtube.com/watch?v=wkaS3-9WvM8)
-[I Investigated Why Trump Wants to Recall Sen. Kelly to Active Duty (ft. Sen. Kelly) - YouTube](https://www.youtube.com/watch?v=AwVl_e7V3rM)
