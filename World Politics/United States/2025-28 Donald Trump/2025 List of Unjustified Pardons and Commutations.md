@@ -64,3 +64,13 @@
 ## Main Point
 - On 21 October 2025, Trump signed executive grant of clemency for Changpeng Zhao.
 	- ` ` - [Executive Grant of Clemency for Changpeng Zhao, U.S. Department of Justice, 2025](https://www.justice.gov/pardon/media/1416576/dl?inline)
+
+# Pardoning of Juan Orlando Hernandez, Former President Of Honduras
+## Background
+- On 28 October 2025, Juan Orlando Hernandez sends a letter to Trump pleeding 
+	- ` ` - [View this full article!](https://removepaywalls.com/https://www.nytimes.com/interactive/2025/12/02/us/politics/hernandez-letter.html)
+## Main Point
+- On 2 December 2025, 
+	- ` ` - [Executive Grant of Clemency for Juan Orlando Hernandez, U.S. Department of Justice, 2025](https://www.justice.gov/pardon/media/1419806/dl?inline)
+- On 2 December 2025, Hernández is freed from prison after Trump's pardon.
+	- ` ` - [Juan Orlando Hernández, Former President of Honduras, Is Freed From Prison After Trump Pardon - The New York Times](https://www.nytimes.com/2025/12/02/us/politics/hernandez-honduras-trump.html)
