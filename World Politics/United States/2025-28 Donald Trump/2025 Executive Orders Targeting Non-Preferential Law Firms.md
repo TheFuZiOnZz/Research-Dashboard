@@ -1,3 +1,4 @@
+[Lawyers Beat Trump In Court! (For Now...) - YouTube](https://www.youtube.com/watch?v=DV76sIhZrdM)
 # Executive Order Suspending Security Clearances
 ## Background
 - [Suspension of Security Clearances and Evaluation of Government Contracts – The White House](https://www.whitehouse.gov/presidential-actions/2025/02/suspension-of-security-clearances-and-evaluation-of-government-contracts/)
