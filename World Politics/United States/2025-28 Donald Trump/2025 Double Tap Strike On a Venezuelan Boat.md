@@ -16,7 +16,7 @@
 	  
 	  `c) outrages upon personal dignity, in particular, humiliating and degrading treatment;`
 	  
-	  `d) the passing of sentences and the carrying out of executions without previous judgment pronounced by a regularly constituted court affording all the judicial guarantees which are recognized as indispensable by civilized peoples.` - [Geneva Convention, Relative to the Treatment Of Prisoners of War Of 12 August 1949, ](https://ihl-databases.icrc.org/assets/treaties/375-GC-III-EN.002.pdf)
+	  `d) the passing of sentences and the carrying out of executions without previous judgment pronounced by a regularly constituted court affording all the judicial guarantees which are recognized as indispensable by civilized peoples.` - [Geneva Convention Of 12 August 1949, The International Committee of the Red Cross](https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf)
 - War Crimes Act of 1996
 	- `"(a) OFFENSE.—^Whoever, whether inside or outside the United States, commits a grave breach of the Geneva Conventions, in any of the circumstances described in subsection (b), shall be fined under this title or imprisoned for life or any term of years, or both, and if death results to the victim, shall also be subject to the penalty of death.`
 	  
