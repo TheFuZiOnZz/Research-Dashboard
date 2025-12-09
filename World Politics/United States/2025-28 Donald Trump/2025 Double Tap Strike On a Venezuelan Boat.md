@@ -144,6 +144,8 @@
 	  `Our current operations in the Caribbean are lawful under both U.S. and international law, with all actions in compliance with the law of armed conflict—and approved by the best military and civilian lawyers, up and down the chain of command.`
 	  
 	  `Our warriors in SOUTHCOM put their lives on the line every day to protect the Homeland from narco-terrorists — and I will ALWAYS have their back.` - [@SecWar Tweet, Twitter (X), 2025](https://x.com/SecWar/status/1994552598142038358)
+- On 1 December 2025, Hegseth tweeted that 
+	- ` ` - [Site Unreachable](https://x.com/PeteHegseth/status/1995643490152128919)
 - On 2 December 2025, White House Press Secretary Karoline Leavitt confirmed that there was a second strike and that the Head of the Joint Special Operations Command, Admiral Frank Bradley worked within his authority.
 	- `The White House confirmed Monday that the U.S. did launch a second strike on an alleged drug boat from Venezuela in early September and that it was ordered by Adm. Frank M. Bradley, who at the time headed the Joint Special Operations Command.`
 	  
