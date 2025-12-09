@@ -6,7 +6,7 @@ hegseth second strike war crime [Hegseth order on first Caribbean boat strike, o
 - On 20 January 2025
 	- ` ` - 
 # Main Point
-- On 20 January 2025, Trump signed executive order 
+- On 2 September 2025, 
 	- ` ` - 
 # Lawsuit
 - On 20 January 2025
