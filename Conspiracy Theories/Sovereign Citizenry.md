@@ -6,4 +6,8 @@
 
 # Claims
 ## The United States is a Corporation
-- 
+- A
+
+## There are Two U.S. Constitutions
+- A Constitution for the United States of America
+- A Constitution of the United States of America
