@@ -17,3 +17,6 @@
 	- 
 [The Act of 1871: The "United States" Is a Corporation - There are Two Constitutions - YouTube](https://www.youtube.com/watch?v=N2Lw_5ex8KA) - Conspiracy video
 [The Act of 1871: The “United States” Is a Corporation – There are Two Constitutions – Federal Jack](https://web.archive.org/web/20220203023128/http://www.federaljack.com/slavery-by-consent-the-united-states-corporation/) - Conspiracy Page
+
+
+right of the citizen to travel upon the public highways and to transport his property thereon by horsedrawn carriage, wagon, or automobile, is not a mere privilege which may be permitted or prohibited at will, but a common right which he has under his right to life, liberty, in the pursuit of happiness, not only in his person, but in his safe conduct.
