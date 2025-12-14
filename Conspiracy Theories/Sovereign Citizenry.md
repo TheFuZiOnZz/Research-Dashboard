@@ -3,7 +3,7 @@
 
 # Background
 - 
-
+[Lawyer Destroys Sovereign Citizen During Debate (The End Of The Paper People)part1 - YouTube](https://youtu.be/TlkB_JekAAg?si=bFsRdSAmEwmMTHtA) - Debate
 # Claims
 ## The United States is a Corporation, There are Two U.S. Constitutions
 - A Constitution for the United States of America
@@ -16,4 +16,4 @@
 	- ` ` - 
 	- 
 [The Act of 1871: The "United States" Is a Corporation - There are Two Constitutions - YouTube](https://www.youtube.com/watch?v=N2Lw_5ex8KA) - Conspiracy video
-[Fetching Title#si8e](https://web.archive.org/web/20220203023128/http://www.federaljack.com/slavery-by-consent-the-united-states-corporation/) - Conspiracy Page
+[The Act of 1871: The “United States” Is a Corporation – There are Two Constitutions – Federal Jack](https://web.archive.org/web/20220203023128/http://www.federaljack.com/slavery-by-consent-the-united-states-corporation/) - Conspiracy Page
