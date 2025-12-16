@@ -79,6 +79,7 @@ Donald Trump - 20 January 2025 - 20 January 2028?
 ## [2025 Six Democratic Lawmakers Sedition Controversy](2025%20Six%20Democratic%20Lawmakers%20Sedition%20Controversy)
 ## [2025 Newark Immigration Detention Center Incident](2025%20Newark%20Immigration%20Detention%20Center%20Incident)
 ## [2025 Trump Halts All Federal Grans And Loans](2025%20Trump%20Halts%20All%20Federal%20Grans%20And%20Loans)
+## [[2025 Trumps Demolition of the White House East Wing]]
 
 # Pre-Presidency Controversy’s
 ## [2022-25 Smith’s Special Counsel Investigation](2022-25%20Smith’s%20Special%20Counsel%20Investigation)
