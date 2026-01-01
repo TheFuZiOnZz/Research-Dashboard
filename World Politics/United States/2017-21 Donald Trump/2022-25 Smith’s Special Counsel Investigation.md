@@ -275,4 +275,6 @@
 #### Conclusion
 - 
 	- ` ` - [Report on (Volume Two: The Documents Case), U.S. Department of Justice, 2025]()
-# 
+# Smith Testifies to Congress
+[Jack Smith Deposition - YouTube](https://www.youtube.com/watch?v=lR-bhPzQYUE)
+[Jack Smith Deposition Transcript](https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/2025-12/Smith-Depo-Transcript_Redacted-w-Errata.pdf)
