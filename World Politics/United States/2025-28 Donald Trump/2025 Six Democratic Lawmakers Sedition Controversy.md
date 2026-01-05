@@ -146,6 +146,8 @@
 	  `"If you look at sedition", Trump continued, "that's a form of, a very strong form of being a traitor. It's a terrible thing to say, I must tell you."`
 	  
 	  `Trump also suggested the US defence secretary and US deputy attorney general were looking into the matter.` - [Trump says he was 'not threatening death' to Democrats over video to troops, BBC News, 2025](https://www.bbc.co.uk/news/articles/cx2p2dz9zk2o)
+- On 5 January 2026, 
+	- ` ` - [@SecWar Tweet, Twitter, 2026](https://x.com/SecWar/status/2008189258528665898)
 
 # Investigations
 - On 24 November 2025, The Pentagon said it is reviewing "serious allegations of misconduct" against US Democratic Senator Mark Kelly.
