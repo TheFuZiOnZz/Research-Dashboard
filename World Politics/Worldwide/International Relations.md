@@ -1,0 +1,6 @@
+[Liberal international order - Wikipedia](https://en.wikipedia.org/wiki/Liberal_international_order)
+[Davos 2026: Special address by Mark Carney, PM of Canada | World Economic Forum](https://www.weforum.org/stories/2026/01/davos-2026-special-address-by-mark-carney-prime-minister-of-canada/)
+[the-power-of-the-powerless.pdf](https://www.nonviolent-conflict.org/wp-content/uploads/1979/01/the-power-of-the-powerless.pdf)
+[Contestations of the Liberal International Order: From Liberal Multilateralism to Postnational Liberalism](https://sci-hub.ee/https://doi.org/10.1017/S0020818320000570)
+[Börzel and Zürn 2021\_Contestations of the Liberal International Order – Visual International Relations Project](https://visualinternationalrelationsproject.com/borzel-and-zurn-2021_contestations-of-the-liberal-international-order/)
+[Pushback, Withdrawal, Dissidence, and Reform: Why Do States Contest the Liberal International Order? - St. Gallen Symposium](https://symposium.org/pushback-withdrawal-dissidence-and-reform-why-do-states-contest-the-liberal-international-order/)

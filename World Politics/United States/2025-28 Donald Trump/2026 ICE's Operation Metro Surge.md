@@ -10,7 +10,11 @@
 - On 20 January 2025, Trump signed executive order 
 	- ` ` - 
 # Shootings
-- [Operation Metro Surge - Wikipedia](https://en.wikipedia.org/wiki/Operation_Metro_Surge#Shootings)
-
-- On 20 January 2025
+## Renée Good
+- [Killing of Renée Good - Wikipedia](https://en.wikipedia.org/wiki/Killing_of_Ren%C3%A9e_Good)
+- On 7 January 2026
+	- ` ` - 
+## Alex Pretti
+- [Killing of Alex Pretti - Wikipedia](https://en.wikipedia.org/wiki/Killing_of_Alex_Pretti)
+- On 24 January 2026
 	- ` ` - 
