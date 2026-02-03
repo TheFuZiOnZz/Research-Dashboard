@@ -13,6 +13,7 @@ Donald Trump - 20 January 2025 - 20 January 2028?
 ## [2025 Alien Enemies Act Misuse](2025%20Alien%20Enemies%20Act%20Deportations)
 ## [2025 Kilmar Abrego Garcia and Others Deportations to El Salvador](2025%20Kilmar%20Abrego%20Garcia%20and%20Others%20Deportations%20to%20El%20Salvador)
 ## [2025 Detention of Mahmoud Khalil](2025%20Detention%20of%20Mahmoud%20Khalil)
+## [[2026 ICE's Operation Metro Surge]]
 
 # Environmental Policy
 ## [2025 Energy Plan for Oil and Gas](2025%20Energy%20Plan%20for%20Oil%20and%20Gas)
