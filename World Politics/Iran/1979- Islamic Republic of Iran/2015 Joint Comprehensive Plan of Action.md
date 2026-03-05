@@ -1,4 +1,6 @@
 - The Joint Comprehensive Plan of Action (JCPOA), is an agreement on the Iranian nuclear program reached in Vienna on 14 July 2015, between Iran and the P5+1 (the five permanent members of the United Nations Security Council—China, France, Russia, United Kingdom, United States—plus Germany) together with the European Union.
+# Background
+- On 13 December 1974, Iran and the IAEA jointly signed a non-proliferation treaty known as the Safeguards Agreement
 # Obama
 - Every aspect of the deal that wanted to limit Iran in its nuclear supplies successfully carried out its requirements.
     - `The nuclear deal prohibits Iran from possessing any uranium that’s more than 3.67 percent U-235, and prohibits it from having more than 660 pounds of enriched uranium (about 97 percent less than it had prior to the deal). Iran is fully complying with these restrictions.`
