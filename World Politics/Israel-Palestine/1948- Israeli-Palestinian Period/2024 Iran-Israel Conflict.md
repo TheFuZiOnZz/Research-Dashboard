@@ -4,5 +4,5 @@
 ## [2024 Assassination of Fuad Shukr](2024%20Assassination%20of%20Fuad%20Shukr)
 ## [2024 Assassination of Ismail Haniyeh](2024%20Assassination%20of%20Ismail%20Haniyeh)
 ## [2024 Lebanon Pager Explosions](2024%20Lebanon%20Pager%20Explosions)
-## [2024- Israeli Invasion of Lebanon](2024-%20Israeli%20Invasion%20of%20Lebanon)
+## [2024 Israeli Invasion of Lebanon](2024%20Israeli%20Invasion%20of%20Lebanon)
 ## [2024 October Iranian Missile Strikes in Israel](2024%20October%20Iranian%20Missile%20Strikes%20in%20Israel)
