@@ -5,7 +5,7 @@
 	- `The Agency shall have the right and the obligation to ensure that safeguards will be applied, in accordance with the terms of this Agreement, on all source or special fissionable material in all peaceful nuclear activities within the territory of Iran, under its jurisdiction or carried out under its control anywhere, for the exclusive purpose of verifying that such material is not diverted to nuclear weapons or other nuclear explosive devices.` - [Agreement Between Iran And the Agency For the Application Of Safeguards In Connection With the Treaty On the Non-Proliferation Of Nuclear Weapons, International Atomic Energy Agency, 1974](https://www.iaea.org/sites/default/files/publications/documents/infcircs/1974/infcirc214.pdf)
 
 # Obama
-- On 14 July 2015, Iran and the the five permanent members of the UN Security Council, China, France, Russia, United Kingdom, United States and Germany)
+- On 14 July 2015, Iran and the the five permanent members of the UN Security Council, China, France, Russia, United Kingdom, United States along with Germany.
 - Every aspect of the deal that wanted to limit Iran in its nuclear supplies successfully carried out its requirements.
     - `The nuclear deal prohibits Iran from possessing any uranium that’s more than 3.67 percent U-235, and prohibits it from having more than 660 pounds of enriched uranium (about 97 percent less than it had prior to the deal). Iran is fully complying with these restrictions.`
       
