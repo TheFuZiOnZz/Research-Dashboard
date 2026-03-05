@@ -14,7 +14,7 @@
       `Iran has such a reactor in Arak; the deal requires Iran not to operate the facility and to redesign it such that it will not produce fissile material if operated. Iran is fully complying with these restrictions.` - [The Iran deal, explained in 9 graphics, Vox, 2018](https://www.vox.com/world/2018/5/8/17328858/iran-nuclear-deal-trump-announcement-chart)
 - The International Atomic Energy Agency said Iran has already increased production of enriched uranium.
     - `The head of the global nuclear watchdog has confirmed Iran is increasing its production of enriched uranium. But International Atomic Energy Agency (IAEA) chief Yukiya Amano said it was not clear when they will reach a limit set under a 2015 international deal. Iran announced last month that it would suspend some commitments in retaliation for sanctions reinstated by the US.` - [Iran has increased production of enriched uranium - IAEA, BBC News, 2019](https://www.bbc.co.uk/news/world-middle-east-48587347)
-- On 4 March 2016, Iran and the IAEA jointly signed further protocols to the Iran Safeguards Agreement following the Implementation Day of the JCPOA
+- On 4 March 2016, Iran and the IAEA jointly signed further protocols to the Iran Safeguards Agreement following the Implementation Day of the JCPOA,
 	- ` ` - [Protocol Additional to the Agreement between the Islamic Republic of Iran and the International Atomic Energy Agency for the Application of Safeguards in Connection with the Treaty on the Non-Proliferation of Nuclear Weapons, International Atomic Energy Agency, 2016](https://www.iaea.org/sites/default/files/infcirc214a1.pdf)
 # Trump I
 - On 8 May 2018, Trump announced the withdrawal from the JCPOA during a speech at the White House.
