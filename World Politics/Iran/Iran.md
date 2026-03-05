@@ -19,5 +19,5 @@
 ## [2015 Joint Comprehensive Plan of Action](1979-%20Islamic%20Republic%20of%20Iran/2015%20Joint%20Comprehensive%20Plan%20of%20Action)
 ## [2020 Qasem Soleimani Assassination](1979-%20Islamic%20Republic%20of%20Iran/2020%20Qasem%20Soleimani%20Assassination)
 ## [2024 Iran-Israel Conflict](2024%20Iran-Israel%20Conflict) 
-## [2025 Twelve-Day War](2025%20Twelve-Day%20War.md)
+## [2025 Twelve-Day War](2025%20Twelve-Day%20War)
 ## [2026- Iran War](2026-%20Iran%20War)
