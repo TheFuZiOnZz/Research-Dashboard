@@ -1,15 +1,18 @@
-# Obama
 - The Joint Comprehensive Plan of Action (JCPOA), is an agreement on the Iranian nuclear program reached in Vienna on 14 July 2015, between Iran and the P5+1 (the five permanent members of the United Nations Security Council—China, France, Russia, United Kingdom, United States—plus Germany) together with the European Union.
-# Trump
-- On 8 May 2018, Trump announced the withdrawal from the JCPOA during a speech at the White House.
-	- `the heart of the Iran deal was a giant fiction: that a murderous regime desired only a peaceful nuclear energy program.` - [Read the Full Transcript of Trump’s Speech on the Iran Nuclear Deal, The New York Times, 2018](https://www.nytimes.com/2018/05/08/us/politics/trump-speech-iran-deal.html)
-	- The withdrawal caused concerns in Iran due to its impact on the economy.
-		` ` - [Iranians Fear Deeper Crisis as Trump Ends Nuclear Deal - The New York Times](https://www.nytimes.com/2018/05/08/world/middleeast/iran-crisis-nuclear-deal.html)
-- Every aspect of the deal that wanted to limit Iran in its nuclear supplies successfully carried out its requirements. [link](https://www.vox.com/world/2018/5/8/17328858/iran-nuclear-deal-trump-announcement-chart)
+# Obama
+- Every aspect of the deal that wanted to limit Iran in its nuclear supplies successfully carried out its requirements.
     - `The nuclear deal prohibits Iran from possessing any uranium that’s more than 3.67 percent U-235, and prohibits it from having more than 660 pounds of enriched uranium (about 97 percent less than it had prior to the deal). Iran is fully complying with these restrictions.`
       
       `Prior to the deal, Iran had close to 20,000 centrifuges at its uranium enrichment facilities, Natanz and Fordow. Under the deal’s terms, Iran can only enrich at Natanz, and can only operate a maximum of 5,060 older-model centrifuges (rather than newer, more efficient ones). Iran is fully complying with these restrictions.`
       
-      `Iran has such a reactor in Arak; the deal requires Iran not to operate the facility and to redesign it such that it will not produce fissile material if operated. Iran is fully complying with these restrictions.`  
+      `Iran has such a reactor in Arak; the deal requires Iran not to operate the facility and to redesign it such that it will not produce fissile material if operated. Iran is fully complying with these restrictions.` - [The Iran deal, explained in 9 graphics, Vox, 2018](https://www.vox.com/world/2018/5/8/17328858/iran-nuclear-deal-trump-announcement-chart)
 - The International Atomic Energy Agency said Iran has already increased production of enriched uranium.
-    - `The head of the global nuclear watchdog has confirmed Iran is increasing its production of enriched uranium. But International Atomic Energy Agency (IAEA) chief Yukiya Amano said it was not clear when they will reach a limit set under a 2015 international deal. Iran announced last month that it would suspend some commitments in retaliation for sanctions reinstated by the US.` [link](https://www.bbc.co.uk/news/world-middle-east-48587347)
+    - `The head of the global nuclear watchdog has confirmed Iran is increasing its production of enriched uranium. But International Atomic Energy Agency (IAEA) chief Yukiya Amano said it was not clear when they will reach a limit set under a 2015 international deal. Iran announced last month that it would suspend some commitments in retaliation for sanctions reinstated by the US.` - [Iran has increased production of enriched uranium - IAEA, BBC News, 2019](https://www.bbc.co.uk/news/world-middle-east-48587347)
+# Trump I
+- On 8 May 2018, Trump announced the withdrawal from the JCPOA during a speech at the White House.
+	- `the heart of the Iran deal was a giant fiction: that a murderous regime desired only a peaceful nuclear energy program.` - [Read the Full Transcript of Trump’s Speech on the Iran Nuclear Deal, The New York Times, 2018](https://www.nytimes.com/2018/05/08/us/politics/trump-speech-iran-deal.html)
+	- The withdrawal caused concerns in Iran due to its impact on the economy.
+		` ` - [Iranians Fear Deeper Crisis as Trump Ends Nuclear Deal, The New York Times, 2018](https://www.nytimes.com/2018/05/08/world/middleeast/iran-crisis-nuclear-deal.html)
+# Biden
+
+# Trump II
