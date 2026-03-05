@@ -21,8 +21,10 @@
 - 
 # Trump II
 [Iran–United States relations during the second Trump administration - Wikipedia](https://en.wikipedia.org/wiki/Iran%E2%80%93United_States_relations_during_the_second_Trump_administration)
+- On 31 May 2025, 
+	- ` ` - [Verification and monitoring in the Islamic Republic of Iran in light of United Nations Security Council resolution 2231 (2015), International Atomic Energy Agency, 2025](https://www.iaea.org/sites/default/files/25/06/gov2025-24.pdf)
+	- ` ` - [NPT Safeguards Agreement with the Islamic Republic of Iran, Report by the Director General, International Atomic Energy Agency, 2025](https://www.iaea.org/sites/default/files/25/06/gov2025-25.pdf)
+	- [Damning IAEA report spells out past secret nuclear activities in Iran, Reuters, 2025](https://www.reuters.com/world/china/iaea-report-says-iran-had-secret-activities-with-undeclared-nuclear-material-2025-05-31/)
 - On 12 June 2025, 
-	- ` ` - [NPT Safeguards Agreement with the Islamic Republic of Iran, International Atomic Energy Agency, 2025](https://www.iaea.org/sites/default/files/25/06/gov2025-38.pdf)
+	- ` ` - [NPT Safeguards Agreement with the Islamic Republic of Iran, Resolution, International Atomic Energy Agency, 2025](https://www.iaea.org/sites/default/files/25/06/gov2025-38.pdf)
 	- [IAEA board declares Iran in breach of non-proliferation obligations, Reuters, 2025](https://www.reuters.com/world/china/iaea-board-declares-iran-breach-non-proliferation-duties-diplomats-say-2025-06-12/)
-- 
-- 
