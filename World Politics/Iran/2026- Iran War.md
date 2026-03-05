@@ -1,2 +1,5 @@
 - [2026 Iran war - Wikipedia](https://en.wikipedia.org/wiki/2026_Iran_war)
-- 
+- On 28 February 2026, Israel and the United States engaged in coordinated joint attacks on various sites in Iran. Codenamed Operation Roaring Lion by Israel and Operation Epic Fury by the United States, the attacks have targeted key Iranian officials, military commanders, and facilities. Iran's response has been named Operation True Promise IV.
+- The operation began with joint strikes by Israel and the US in the cities of Tehran, Isfahan, Qom, Karaj, and Kermanshah. The attacks included the assassination of Supreme Leader Ali Khamenei, whose compound was destroyed; Ali Shamkhani, former secretary of Iran's Supreme National Security Council; and several other Iranian officials. 
+- In retaliation, Iran launched dozens of its drones and ballistic missiles throughout the Persian Gulf at targets in Israel and US military bases in Jordan, Kuwait, Bahrain, Qatar, Iraq, Saudi Arabia, and the United Arab Emirates. Iran launched strikes on civilian airports and shipping ports in Kuwait, the UAE, and Oman. Britain's Akrotiri and Dhekelia military base in Cyprus was struck. Iran closed the Strait of Hormuz, disrupting global oil and gas shipments. 
+- Hezbollah in Lebanon joined the war after the killing of Khamenei.
