@@ -1,2 +1,0 @@
-- [Wiki](https://en.wikipedia.org/wiki/New_Deal)
-- On
