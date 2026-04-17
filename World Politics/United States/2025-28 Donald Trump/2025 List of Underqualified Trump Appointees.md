@@ -41,4 +41,11 @@
 # Mark Coyne, 'Supervisory Assistant' U.S. Attorney
 - [United States v. VILLAFANE, 3:25-cr-00232 – CourtListener.com](https://www.courtlistener.com/docket/69895484/united-states-v-villafane/)
 - [Judge Ejects Federal Prosecutor From Court and Orders Bosses to Testify - The New York Times](https://www.nytimes.com/2026/03/17/nyregion/judge-quraishi-new-jersey-attorneys-office.html?unlocked_article_code=1.UFA.ILPO.q1hHG3i6kh5n&smid=nytcore-ios-share)
-- 
+- [Site Unreachable](https://www.forbes.com/sites/antoniopequenoiv/2025/12/08/alina-habba-steps-down-as-us-attorney-after-court-says-she-was-unlawfully-appointed/?utm_campaign=ForbesMainTwitter&utm_source=ForbesMainTwitter&utm_medium=social)
+- [View this full article!](https://removepaywalls.com/https://www.nytimes.com/interactive/2026/03/17/nyregion/judge-quraishi-hearing-transcript.html)
+- [Judge Tosses DOJ Lawyer From Courtroom As New Jersey U.S. Attorney’s Office Descends Into Chaos - Above the Law](https://abovethelaw.com/2026/03/judge-tosses-doj-lawyer-from-courtroom-as-new-jersey-u-s-attorneys-office-descends-into-chaos/)
+- [View this full article!](https://removepaywalls.com/https://www.nytimes.com/2026/03/09/nyregion/us-attorney-nj-prosecutors.html)
+- [United States v. NAVIWALA, 2:24-cr-00099 – CourtListener.com](https://www.courtlistener.com/docket/68269162/united-states-v-naviwala/?filed_after=&filed_before=&entry_gte=&entry_lte=&order_by=desc)
+- [storage.courtlistener.com/recap/gov.uscourts.njd.540663/gov.uscourts.njd.540663.317.0\_2.pdf](https://storage.courtlistener.com/recap/gov.uscourts.njd.540663/gov.uscourts.njd.540663.317.0_2.pdf)
+- [View this full article!](https://removepaywalls.com/https://www.nytimes.com/2025/12/08/nyregion/alina-habba-nj-us-attorney-resigns.html)
+- [storage.courtlistener.com/recap/gov.uscourts.njd.557842/gov.uscourts.njd.557842.144.0.pdf](https://storage.courtlistener.com/recap/gov.uscourts.njd.557842/gov.uscourts.njd.557842.144.0.pdf)
