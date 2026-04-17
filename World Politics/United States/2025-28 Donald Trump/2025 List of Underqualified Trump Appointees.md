@@ -39,4 +39,6 @@
 	  
 	  `Ms. Habba will become a senior adviser to Attorney General Pam Bondi and will oversee U.S. attorneys across the country.` - [Alina Habba, a Trump Loyalist, Resigns as U.S. Attorney in New Jersey, The New York Times, 2025](https://www.nytimes.com/2025/12/08/nyregion/alina-habba-nj-us-attorney-resigns.html)
 # Mark Coyne, 'Supervisory Assistant' U.S. Attorney
+- [United States v. VILLAFANE, 3:25-cr-00232 – CourtListener.com](https://www.courtlistener.com/docket/69895484/united-states-v-villafane/)
+- [Judge Ejects Federal Prosecutor From Court and Orders Bosses to Testify - The New York Times](https://www.nytimes.com/2026/03/17/nyregion/judge-quraishi-new-jersey-attorneys-office.html?unlocked_article_code=1.UFA.ILPO.q1hHG3i6kh5n&smid=nytcore-ios-share)
 - 
