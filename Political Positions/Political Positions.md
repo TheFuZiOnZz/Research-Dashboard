@@ -46,7 +46,7 @@
 ## [Emissions Trading](Environmental%20Policy/Emissions%20Trading)
 ## [1970- Environmental Protection Agency](Environmental%20Policy/1970-%20Environmental%20Protection%20Agency)
 # Healthcare Policy
-## [Socialised Healthcare](Political%20Positions/Healthcare%20Policy/Socialised%20Healthcare.md)
+## [Socialised Healthcare](Political%20Positions/Healthcare%20Policy/Socialised%20Healthcare)
 # Housing Policy
 ## [Socialised Housing](Housing%20Policy/Socialised%20Housing)
 # Immigration Policy
@@ -69,6 +69,7 @@
 ## [Reform Vs Revolution](Social%20Policy/Reform%20Vs%20Revolution)
 ## [Trigger Warnings](Social%20Policy/Trigger%20Warnings)
 ## [Well-Being Gap between Liberals and Conservatives](Social%20Policy/Well-Being%20Gap%20between%20Liberals%20and%20Conservatives)
+## [Self-Radicalization](Self-Radicalization)
 # Transport Policy
 ## [Public Transport](Transport%20Policy/Public%20Transport)
 # Voting Policy
