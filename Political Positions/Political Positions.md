@@ -69,7 +69,7 @@
 ## [Reform Vs Revolution](Social%20Policy/Reform%20Vs%20Revolution)
 ## [Trigger Warnings](Social%20Policy/Trigger%20Warnings)
 ## [Well-Being Gap between Liberals and Conservatives](Social%20Policy/Well-Being%20Gap%20between%20Liberals%20and%20Conservatives)
-## [Self-Radicalization](Self-Radicalization)
+## [Self-Radicalization](Social%20Policy/Self-Radicalization)
 # Transport Policy
 ## [Public Transport](Transport%20Policy/Public%20Transport)
 # Voting Policy
