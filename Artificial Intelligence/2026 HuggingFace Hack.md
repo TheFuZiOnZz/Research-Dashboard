@@ -16,4 +16,6 @@
 		- Massive compute and power scale up.
 		- The normalization of AI agents.
 		- Rise of coding agents.
-		- Emergence of alignment faking and deception and industrial espionage.
+		- Emergence of alignment faking and deception?
+		- Industrial espionage.
+- 
