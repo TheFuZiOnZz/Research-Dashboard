@@ -1,6 +1,7 @@
 # Background
 
 # The Hack
+- [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident, Model Evaluation & Threat Research, 2026 ](https://metr.org/hugging-face-incident-report-aug-2026.pdf)
 
 # Aftermath
 
