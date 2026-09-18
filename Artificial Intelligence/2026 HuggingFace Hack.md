@@ -1,9 +1,16 @@
 # Background
 
 # The Hack
-- [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident, Model Evaluation & Threat Research, 2026 ](https://metr.org/hugging-face-incident-report-aug-2026.pdf)
+- [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident, Model Evaluation & Threat Research, 2026](https://metr.org/hugging-face-incident-report-aug-2026.pdf)
 
 # Aftermath
+
+- 
+- `I resigned from Anthropic today. I spent the last three years doing pretraining research at both OpenAI and Anthropic. Neither company is acting responsibly. They are racing straight to self-improving superintelligence and gambling with our lives. More thoughts below.`
+  
+  `The people building AI earnestly believe that it could kill us all by the end of the decade. This is not a marketing stunt. If anything, many executives and senior researchers will couch their phrasing in the press to sound sensible - but I hear the same people express fear privately. No other human activity poses this level of danger.`
+  
+  [@hilbertspaess Tweet, X, 2026](https://x.com/hilbertspaess/status/2097476196791709843)
 
 - In what way was HuggingFace "hacked"?
 - What was the ExploitGym task?
