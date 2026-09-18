@@ -19,7 +19,7 @@
 	  `If you are a lab researcher, I urge you to consider what the next few years will actually feel like. Do you want to kick off a superintelligent RL run without a rigorous understanding of its mind? Should you put your head down because “it’s happening anyway” - or take this moment to call for different conditions?` - [@hilbertspaess Tweet, X, 2026](https://x.com/hilbertspaess/status/2097476196791709843)
 
 
-
+- Agentic AI?
 - In what way was HuggingFace "hacked"?
 - What was the ExploitGym task?
 - How trustworthy/reliable are METR generally and the HuggingFace report specifically?
