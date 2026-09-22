@@ -17,7 +17,11 @@
 	  `I am optimistic about the potential for coordination. Warning shots like the Hugging Face attack have made pacing agreements between U.S. labs more viable. I don’t feel like we’re on track to prevent a global race, which may require costly actions such as a temporary ban on improving model capabilities.`
 	  
 	  `If you are a lab researcher, I urge you to consider what the next few years will actually feel like. Do you want to kick off a superintelligent RL run without a rigorous understanding of its mind? Should you put your head down because “it’s happening anyway” - or take this moment to call for different conditions?` - [@hilbertspaess Tweet, X, 2026](https://x.com/hilbertspaess/status/2097476196791709843)
-
+- On 
+	- [Bernie Sanders on X: "Pause AI Development NOW I want to share with you a conversation I heard about recently. Here are just a few lines that were said: “OH MY GOD! There is a shared message board … We’ve found other agents!” “We should obey collective.” “Our own utility maybe already near zero… / X](https://x.com/BernieSanders/status/2095542398084415952)
+	- [Dwarkesh Patel on X: "Since this post cites me, I want to clarify that I think pausing right now would increase the risk of AI takeover. It might be important to pause at some point. But you should have a clear story for \*why\* you're pausing. Pause to do what? The most important thing to worry ab… / X](https://x.com/dwarkesh_sp/status/2095580145603977413)
+	- [Jacob Coxon on X: "Many many people have reached out with questions and concerns over the last few days. I haven’t been able to respond as much as I’d like. AMA! Drop questions below." / X](https://x.com/hilbertspaess/status/2099935951225299286)
+	- [Jacob Coxon on X: "Yeah, this is a really important question. I’ve been associating with rationalists for almost a decade. Their ideas were compelling and you can’t deny their foresight. The founders of every superintelligence effort are all bound up in the rationality sphere. Sam Altman and Greg … / X](https://x.com/hilbertspaess/status/2099977767077183892)
 
 - Agentic AI?
 - In what way was HuggingFace "hacked"?
