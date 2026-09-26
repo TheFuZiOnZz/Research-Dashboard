@@ -21,8 +21,11 @@
 
 # Appeal
 
-- On
+- On 13 July 2020, 
 	- ` ` - [Manchester City overturn two-year ban from European competition on appeal to Cas - BBC Sport](https://www.bbc.co.uk/sport/football/53387306)
+- On 28 July 2020, 
+	- ` ` - [Manchester City showed 'blatant disregard' in Uefa FFP case, but didn't breach FFP says Cas - BBC Sport](https://www.bbc.co.uk/sport/football/53571659)
+	- ` ` - [Mansour's payments and a U-turn by Uefa: key Manchester City findings | Manchester City | The Guardian](https://www.theguardian.com/football/2020/jul/29/mansour-payments-and-u-turn-uefa-key-manchester-city-findings-court-of-arbitration-for-sport)
 
 # Aftermath
 
