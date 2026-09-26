@@ -1,5 +1,6 @@
 # Controversies
 
+## [[2013 Neymar to FC Barcelona Controversy]]
 ## [[2021 European Super League Proposal]]
 
 # Financial Fair Play
@@ -13,6 +14,3 @@
 ## [2024 Everton Premier League Charges](2024%20Everton%20Premier%20League%20Charges)
 ## [[2025-26 Chelsea Premier League Charges]]
 
-# Transfers
-
-## 
