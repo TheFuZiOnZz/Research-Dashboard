@@ -18,6 +18,8 @@
 
 - On
 	- ` ` - 
+- On
+	- ` ` - [Senior aide of Abu Dhabi Crown Prince was mystery £30m broker in investigated Manchester City sponsorship deal - The Athletic](https://web.archive.org/web/20250329121546/https://www.nytimes.com/athletic/6235957/2025/03/27/manchester-city-premier-league-sponsorship-jaber-mohamed/)
 
 # Appeal
 
