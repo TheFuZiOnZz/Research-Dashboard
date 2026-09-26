@@ -1,6 +1,6 @@
 # Background
 
-## [2020- Manchester City UEFA Charges](2020-%20Manchester%20City%20UEFA%20Charges.md)
+## [2020 Manchester City UEFA Charges](2020%20Manchester%20City%20UEFA%20Charges.md)
 
 # The Charges
 
