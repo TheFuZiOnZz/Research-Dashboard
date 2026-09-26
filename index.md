@@ -9,4 +9,4 @@
 # Culture
 ## [Red Pill](Red%20Pill/Red%20Pill)
 # [Artificial Intelligence](Artificial%20Intelligence/Artificial%20Intelligence)
-# [[Football]]
+# [Football](Football.md)
