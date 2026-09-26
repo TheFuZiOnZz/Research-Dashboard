@@ -1,6 +1,8 @@
-# Controversies
+2015 FIFA corruption case# Controversies
 
+## [[2006 English Football Corruption Investigation]]
 ## [[2013 Neymar to FC Barcelona Controversy]]
+## [[2015 FIFA Corruption Case]]
 ## [[2021 European Super League Proposal]]
 
 # Financial Fair Play
