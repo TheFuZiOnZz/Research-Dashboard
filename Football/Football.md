@@ -6,4 +6,4 @@
 ## [2023 Everton Premier League Charges](2023%20Everton%20Premier%20League%20Charges)
 ## [2024 Leicester City Premier League Charges](2024%20Leicester%20City%20Premier%20League%20Charges)
 ## [2024 Everton Premier League Charges](2024%20Everton%20Premier%20League%20Charges)
-## [[2024 Chelsea Premier League Charges]]
+## [[2025-26 Chelsea Premier League Charges]]
