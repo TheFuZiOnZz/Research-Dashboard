@@ -12,6 +12,8 @@
 
 - On
 	- ` ` - [Manchester City found guilty on almost all Premier League charges relating to financial breaches, The Athletic, 2026](https://archive.ph/7mMaH)
+- On
+	- ` ` - [A letter from the Chairman](https://www.mancity.com/news/club/a-letter-from-the-chairman-to-manchester-city-fans-63926027)
 
 # Appeal
 
