@@ -1,4 +1,4 @@
-2015 FIFA corruption case# Controversies
+# Controversies
 
 ## [[2006 English Football Corruption Investigation]]
 ## [[2013 Neymar to FC Barcelona Controversy]]
