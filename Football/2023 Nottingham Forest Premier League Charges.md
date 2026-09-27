@@ -45,26 +45,23 @@
 - On 1 September 2023, Forest sold Brennan Johnson to Tottenham Hotspur for £47.5m. The transfer was completed after the 30 June accounting deadline and therefore did not count towards Forest's PSR calculation for the assessment period that had already ended.
     - `Brennan Johnson moved to Tottenham Hotspur on 1 September 2023 for a fee of £47.5m.` — [Further statement and analysis of Profit and Sustainability Rules, Nottingham Forest Supporters' Trust, 2024](https://nffctrust.org/post/further-statement-and-analysis-of-profit-and-sustainability-rules)
 - On 31 December 2023, Forest submitted its PSR report to the Premier League. The calculation showed that the club's losses exceeded the applicable £61m threshold.
-    - `The Premier League considers that Forest’s PSR Calculation results in a loss of £95,536,000, breaching the £61m threshold by £34,536,000.` — [Premier League v Nottingham Forest FC, Independent Commission decision, 2024](https://svenhaist.com/wp-content/uploads/2024/03/Die-Urteilsbegruendung-zum-Punktabzug-fuer-Nottingham-Forest.pdf)
+    - `The Premier League’s case is that Forest’s PSR Calculation, dated 31 December 2023, demonstrates losses in excess of the £61m threshold applicable to Forest, as a newly promoted club. The Premier League considers that Forest’s PSR Calculation results in a loss of £95,536,000, breaching the £61m threshold by £34,536,000.` — [Premier League v Nottingham Forest FC, Independent Commission decision, 2024](https://svenhaist.com/wp-content/uploads/2024/03/Die-Urteilsbegruendung-zum-Punktabzug-fuer-Nottingham-Forest.pdf)
 
 # The Charges
 
 - On 15 January 2024, the Premier League confirmed that Nottingham Forest had admitted breaching its Profitability and Sustainability Rules for the assessment period ending with the 2022/23 season. The club's PSR calculation exceeded its applicable threshold by £34.5m.
-    
-    - `Everton FC and Nottingham Forest FC have each confirmed to the Premier League that they are in breach of the League’s Profitability and Sustainability Rules (PSR) as a result of sustaining losses above the permitted thresholds for the assessment period ending Season 2022/23.`
-        
-        `Due to Nottingham Forest spending two seasons in the Championship within the three-year assessment period, the maximum loss for the club is £61million.` — [Everton and Nottingham Forest confirm Premier League PSR breaches, Premier League, 2024](https://www.premierleague.com/en/news/3858986)
-        
-- On 15 January 2024, the Premier League referred Forest's case to an independent Commission appointed by the chair of the Premier League Judicial Panel. The Commission was responsible for determining the appropriate sanction following Forest's admission of the breach.
-    
-    - `In accordance with Premier League Rules, both cases have now been referred to the chair of the Judicial Panel, who will appoint separate Commissions to determine the appropriate sanction.`
-        
-        `Commissions are independent of the Premier League and member clubs. The proceedings are heard in private with the Commissions’ final decisions made public on the Premier League’s website.` — [Everton and Nottingham Forest confirm Premier League PSR breaches, Premier League, 2024](https://www.premierleague.com/en/news/3858986)
-        
+    - `The two clubs have each confirmed to the Premier League that they are in breach of the League’s Profitability and Sustainability Rules`
+      
+      `Everton FC and Nottingham Forest FC have each confirmed to the Premier League that they are in breach of the League’s Profitability and Sustainability Rules (PSR). This is as a result of sustaining losses above the permitted thresholds for the assessment period ending Season 2022/23.`
+      
+      `In accordance with Premier League Rules, both cases have now been referred to the chair of the Judicial Panel, who will appoint separate Commissions to determine the appropriate sanction.`
+      
+      `Commissions are independent of the Premier League and member clubs. The proceedings are heard in private with the Commissions’ final decisions made public on the Premier League’s website. The League will make no further comment until that time.` — [Everton and Nottingham Forest confirm Premier League PSR breaches, Premier League, 2024](https://www.premierleague.com/en/news/3858986)
+    - `A Club will be in breach of the PSRs if its PSR Calculation over the relevant period results in a loss in excess of £105 million (with that threshold reduced by £22million for each season that the relevant Club has been in the Championship during the relevant period)`
+      
+      `Due to Nottingham Forest spending two seasons in the Championship within the three-year assessment period, the maximum loss for the club is £61million.` — [Everton and Nottingham Forest confirm Premier League PSR breaches, Premier League, 2024](https://www.premierleague.com/en/news/3858986)
 - On 30 January 2024, Forest submitted its formal answer to the Premier League's complaint. The club accepted that it had breached the PSR threshold but argued that exceptional circumstances should be taken into account when determining the sanction.
-    
     - `Forest accepts that it is in breach of the PSR but asserts that this ought to be considered in light of certain exceptional circumstances which the Commission has considered below.` — [Premier League v Nottingham Forest FC, Independent Commission decision, 2024](https://svenhaist.com/wp-content/uploads/2024/03/Die-Urteilsbegruendung-zum-Punktabzug-fuer-Nottingham-Forest.pdf)
-        
 - During the Commission proceedings, Forest argued that the timing of Brennan Johnson's eventual sale should be treated as a significant mitigating factor. The club argued that it had received an offer from Atlético Madrid on 30 June and subsequently sold Johnson to Tottenham for £47.5m on 1 September, meaning that the club had ultimately generated a substantial profit from the player's sale, but after the relevant accounting deadline.
     
     - `The club knew they would need to sell a player to comply with PSR by 30 June and described their failure to do so as a "near miss". They received an offer for Johnson of €50m (£42.9m) on that date from Atlético Madrid but demanded €65m (£55.8m).` — [Nottingham Forest docked four points for Premier League financial rules breach, The Guardian, 2024](https://www.theguardian.com/football/2024/mar/18/nottingham-forest-docked-four-points-premier-league-financial-rules-breach-profitability-and-sustainability)
