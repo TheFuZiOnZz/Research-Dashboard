@@ -45,7 +45,7 @@
 - On 31 December 2023, Forest submitted its PSR report to the Premier League. The calculation showed that the club's losses exceeded the applicable £61m threshold.
     - `The Premier League’s case is that Forest’s PSR Calculation, dated 31 December 2023, demonstrates losses in excess of the £61m threshold applicable to Forest, as a newly promoted club. The Premier League considers that Forest’s PSR Calculation results in a loss of £95,536,000, breaching the £61m threshold by £34,536,000.` — [Premier League v Nottingham Forest FC, Independent Commission decision, 2024](https://svenhaist.com/wp-content/uploads/2024/03/Die-Urteilsbegruendung-zum-Punktabzug-fuer-Nottingham-Forest.pdf)
 
-# The Charges
+# The Commission
 
 - On 15 January 2024, the Premier League confirmed that Nottingham Forest had admitted breaching its Profitability and Sustainability Rules for the assessment period ending with the 2022/23 season. The club's PSR calculation exceeded its applicable threshold by £34.5m.
     - `The two clubs have each confirmed to the Premier League that they are in breach of the League’s Profitability and Sustainability Rules`
@@ -60,45 +60,29 @@
       `Due to Nottingham Forest spending two seasons in the Championship within the three-year assessment period, the maximum loss for the club is £61million.` — [Everton and Nottingham Forest confirm Premier League PSR breaches, Premier League, 2024](https://www.premierleague.com/en/news/3858986)
 - On 30 January 2024, Forest submitted its formal answer to the Premier League's complaint. The club accepted that it had breached the PSR threshold but argued that exceptional circumstances should be taken into account when determining the sanction.
     - `Forest accepts that it is in breach of the PSR but asserts that this ought to be considered in light of certain exceptional circumstances which the Commission has considered below.` — [Premier League v Nottingham Forest FC, Independent Commission decision, 2024](https://svenhaist.com/wp-content/uploads/2024/03/Die-Urteilsbegruendung-zum-Punktabzug-fuer-Nottingham-Forest.pdf)
-- During the Commission proceedings, Forest argued that the timing of Brennan Johnson's eventual sale should be treated as a significant mitigating factor. The club argued that it had received an offer from Atlético Madrid on 30 June and subsequently sold Johnson to Tottenham for £47.5m on 1 September, meaning that the club had ultimately generated a substantial profit from the player's sale, but after the relevant accounting deadline.
-    
-    - `The club knew they would need to sell a player to comply with PSR by 30 June and described their failure to do so as a "near miss". They received an offer for Johnson of €50m (£42.9m) on that date from Atlético Madrid but demanded €65m (£55.8m).` — [Nottingham Forest docked four points for Premier League financial rules breach, The Guardian, 2024](https://www.theguardian.com/football/2024/mar/18/nottingham-forest-docked-four-points-premier-league-financial-rules-breach-profitability-and-sustainability)
+- On 7 and 8 March 2024, the independent Commission held its hearing into Forest's admitted PSR breach. 
+- On 18 March 2024, the independent Commission imposed an immediate four-point deduction on Nottingham Forest for the PSR breach relating to the assessment period ending in 2022/23. The Commission found that Forest had exceeded its permitted threshold by £34.5m.
+    - `An independent Commission has applied an immediate four-point deduction to Nottingham Forest FC for a breach of the Premier League’s Profitability and Sustainability Rules (PSRs) for the period ending Season 2022/23.`
         
-- Forest also argued that its circumstances were unusual because its PSR threshold had been reduced from the standard £105m to £61m as a consequence of having spent two seasons in the Championship. The club argued that this placed it in a different financial position from established Premier League clubs.
-    
-    - `Forest claimed that it faced a lower PSR Threshold than other clubs, having been in the EFL the season prior to the breach, but it had not had the benefit of Parachute Payments whilst in the EFL, as the other two promoted clubs had.` — [Premier League v Nottingham Forest FC, Decision on Costs, Premier League, 2025](https://resources.premierleague.pulselive.com/premierleague/document/2025/06/09/e3f28ff3-c998-4a42-812d-186cd35723ec/PL-v-NFFC-Decision-on-Costs.pdf)
-        
-- On 7 and 8 March 2024, the independent Commission held its hearing into Forest's admitted PSR breach. The Premier League's case was that Forest's PSR calculation produced an adjusted loss of £95.536m, £34.536m above the £61m permitted threshold.
-    
+        `Nottingham Forest was referred to an independent Commission on 15 January, following an admission by the club that it had breached the relevant PSR threshold of £61 million by £34.5 million.` — [Nottingham Forest FC deducted four points by independent Commission, Premier League, 2024](https://www.premierleague.com/en/news/3936397)
+- The Premier League's case was that Forest's PSR calculation produced an adjusted loss of £95.536m, £34.536m above the £61m permitted threshold.
     - `By a complaint dated 15 January 2024, the Premier League Board (the "Premier League" or the "PL") alleges that Nottingham Forest Football Club Limited ("Forest" or the "Club") has acted in breach of the Premier League’s Profitability & Sustainability Rules (the "PSR").`
         
         `The Premier League considers that Forest’s PSR Calculation results in a loss of £95,536,000, breaching the £61m threshold by £34,536,000.`
         
         `Forest accepts that it is in breach of the PSR but asserts that this ought to be considered in light of certain exceptional circumstances which the Commission has considered below.` — [Premier League v Nottingham Forest FC, Independent Commission decision, 2024](https://svenhaist.com/wp-content/uploads/2024/03/Die-Urteilsbegruendung-zum-Punktabzug-fuer-Nottingham-Forest.pdf)
-        
-
-# The Decision
-
-- On 18 March 2024, the independent Commission imposed an immediate four-point deduction on Nottingham Forest for the PSR breach relating to the assessment period ending in 2022/23. The Commission found that Forest had exceeded its permitted threshold by £34.5m.
-    
-    - `An independent Commission has applied an immediate four-point deduction to Nottingham Forest FC for a breach of the Premier League’s Profitability and Sustainability Rules (PSRs) for the period ending Season 2022/23.`
-        
-        `Nottingham Forest was referred to an independent Commission on 15 January, following an admission by the club that it had breached the relevant PSR threshold of £61 million by £34.5 million.` — [Nottingham Forest FC deducted four points by independent Commission, Premier League, 2024](https://www.premierleague.com/en/news/3936397)
-        
+- During the Commission proceedings, Forest argued that the timing of Brennan Johnson's eventual sale should be treated as a significant mitigating factor. The club argued that it had received an offer from Atlético Madrid on 30 June and subsequently sold Johnson to Tottenham for £47.5m on 1 September, meaning that the club had ultimately generated a substantial profit from the player's sale, but after the relevant accounting deadline.
+    - `The club knew they would need to sell a player to comply with PSR by 30 June and described their failure to do so as a "near miss". They received an offer for Johnson of €50m (£42.9m) on that date from Atlético Madrid but demanded €65m (£55.8m).` — [Nottingham Forest docked four points for Premier League financial rules breach, The Guardian, 2024](https://www.theguardian.com/football/2024/mar/18/nottingham-forest-docked-four-points-premier-league-financial-rules-breach-profitability-and-sustainability)
+- Forest also argued that its circumstances were unusual because its PSR threshold had been reduced from the standard £105m to £61m as a consequence of having spent two seasons in the Championship. The club argued that this placed it in a different financial position from established Premier League clubs.
+    - `Forest claimed that it faced a lower PSR Threshold than other clubs, having been in the EFL the season prior to the breach, but it had not had the benefit of Parachute Payments whilst in the EFL, as the other two promoted clubs had.` — [Premier League v Nottingham Forest FC, Decision on Costs, Premier League, 2025](https://resources.premierleague.pulselive.com/premierleague/document/2025/06/09/e3f28ff3-c998-4a42-812d-186cd35723ec/PL-v-NFFC-Decision-on-Costs.pdf)
 - The Commission acknowledged that Forest had demonstrated what it described as “exceptional cooperation” throughout the investigation and proceedings. However, it did not accept all of Forest's proposed mitigating factors when determining the sanction.
-    
     - `The independent Commission determined the sanction following a two-day hearing this month, at which the club had the opportunity to detail a range of mitigating factors. The Commission found that the club had demonstrated "exceptional cooperation" in its dealings with the Premier League throughout the process.` — [Nottingham Forest FC deducted four points by independent Commission, Premier League, 2024](https://www.premierleague.com/en/news/3936397)
-        
 - The Commission rejected Forest's argument that the eventual sale of Johnson should substantially mitigate the breach. It considered that Forest could have done more to complete a sale before the 30 June deadline and did not regard the two-month gap between the accounting deadline and Johnson's eventual transfer as a “near miss”.
-    
     - `The commission believes the club could have done more to complete Johnson’s transfer by 30 June, with a number of teams interested, and that missing the deadline by more than two months could not be classified as a "near miss".` — [Nottingham Forest docked four points for Premier League financial rules breach, The Guardian, 2024](https://www.theguardian.com/football/2024/mar/18/nottingham-forest-docked-four-points-premier-league-financial-rules-breach-profitability-and-sustainability)
-        
 - The Commission's decision left Forest with an immediate four-point reduction in its Premier League total. The sanction was imposed during the 2023/24 season under new Premier League procedures intended to ensure PSR cases were resolved within the same season in which the complaint was issued.
-    
     - `The NFFC case proceeded in accordance with the new Standard Directions, set out at Appendix 1 to the Rules.`
         
         `Clubs agreed to introduce Standard Directions for PSR cases ... that seek to ensure such cases are resolved in the same season the complaint is issued, with any sanction handed down prior to the subsequent Annual General Meeting.` — [Nottingham Forest FC deducted four points by independent Commission, Premier League, 2024](https://www.premierleague.com/en/news/3936397)
-        
 
 # Appeal
 
