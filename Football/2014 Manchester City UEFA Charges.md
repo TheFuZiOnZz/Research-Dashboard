@@ -73,7 +73,9 @@
     
     `A decision may not be made until early May when City, or any other of the 76 clubs being investigated, could face a probationary period, be fined, have a transfer embargo imposed on them, or even be excluded from European competition if found guilty.`
     
-    `While City have made total losses of around £150m in the past two seasons, the trend is downwards with the sum twice being halved. In 2012-13 the deficit was £51.6m and the club is intent that it will break even in the near future.` — [Manchester City confident of satisfying Uefa financial fair play rules, The Guardian, 2014](https://www.theguardian.com/football/2014/apr/15/manchester-city-uefa-financial-fair-play-rules)
+    `While City have made total losses of around £150m in the past two seasons, the trend is downwards with the sum twice being halved. In 2012-13 the deficit was £51.6m and the club is intent that it will break even in the near future.`
+    
+    `The Club Financial Control Body's investigatory chamber convenes on Tuesday and Wednesday to consider the cases of 76 clubs. Any considered to have committed serious breaches will be referred to the CFCB's adjudicatory panel for a final verdict, with Uefa to announce details of all sanctions around 5 May.` — [Manchester City confident of satisfying Uefa financial fair play rules, The Guardian, 2014](https://www.theguardian.com/football/2014/apr/15/manchester-city-uefa-financial-fair-play-rules)
 - On 19 April 2014, UEFA confirmed that the CFCB Investigatory Chamber had held a two-day meeting concerning the FFP investigations, but that the process was still ongoing.
     
     `The Investigatory Chamber of the Club Financial Control Body (CFCB) held a two-day meeting last week where it deliberated on the investigations relating to financial fair play.`
