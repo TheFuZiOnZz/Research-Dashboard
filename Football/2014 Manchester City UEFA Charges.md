@@ -131,16 +131,23 @@
 - On 16 May 2014, City accepted UEFA's settlement agreement. The agreement imposed financial, sporting and monitoring conditions. The specific Manchester City settlement required a total €60m payment, of which €40m was conditional on compliance. It also imposed transfer-spending and squad-registration restrictions.
 	- `Following an investigation under the UEFA Club Licensing and Financial Fair Play Regulations (“CLFFPR”) a settlement agreement was concluded between the UEFA Club Financial Control Body (“CFCB”) Chief Investigator and Manchester City Football Club Limited ("Manchester City") on the basis of Article 14 (1)(b) and Article 15 of the Procedural Rules governing the CFCB.`
 	  
-	  `The settlement was concluded on 16 May 2014 and covers the three sporting seasons 2013/14, 2014/15 and 2015/16. For the duration of the settlement, Manchester City will be subject to on-going restrictions which have been agreed by the club and which are described further below.` 
+	  `The settlement was concluded on 16 May 2014 and covers the three sporting seasons 2013/14, 2014/15 and 2015/16. For the duration of the settlement, Manchester City will be subject to on-going restrictions which have been agreed by the club and which are described further below.`
 	  
 	  `A central purpose of the settlement is to ensure that Manchester City becomes breakeven compliant within the meaning of the CLFFPR in a short space of time.`
 	  
-	  In this regard, Manchester City undertakes to report a maximum break-even 
-deficit of EUR 20 Mio. for the financial year ending in 2014 and a maximum breakeven deficit of EUR 10 Mio. for the financial year ending in 2015. In this context certain commercial partnerships were subject to examination. In order to avoid dispute and for the avoidance of doubt, Manchester City has agreed that for the period of the settlement it will not seek to improve the financial terms of two second tier commercial partnerships.
-
-    
-    
-     — [Decision of the Chief Investigator of the CFCB Investigatory Chamber: Settlement Agreement with Manchester City Football Club Limited, UEFA, 2014](https://editorial.uefa.com/resources/0258-0e2dedb2acec-2bcb7225d41a-1000/manchester_city_fc_-_settlement_agreement_-_may-2014.pdf)
+	  `In this regard, Manchester City undertakes to report a maximum break-even deficit of EUR 20 Mio. for the financial year ending in 2014 and a maximum breakeven deficit of EUR 10 Mio. for the financial year ending in 2015. In this context certain commercial partnerships were subject to examination. In order to avoid dispute and for the avoidance of doubt, Manchester City has agreed that for the period of the settlement it will not seek to improve the financial terms of two second tier commercial partnerships.`
+	  
+	  `Furthermore Manchester City agrees that revenues from the sale of assets within their group structure will not be included in future break-even calculations.`
+	  
+	  `Manchester City accepts that employee benefit expenses cannot be increased during the next two financial periods (2015 & 2016). If Manchester City meets the annual break-even requirements outlined above, this spending limit will be removed for the 2016 financial period.`
+	  
+	  `Manchester City accepts that for the duration of the settlement it will be subject to a limitation on the number of players that it may include on the “A” list for the purposes of participation in UEFA competitions. Specifically, for season 2014/15 Manchester City may only register a potential maximum of 21 players on the “A” list, instead of the potential maximum of 25 as foreseen in the relevant competition regulations. If MC manages to comply with the annual break-even target the club shall be released from the restriction as regards the registration of players in UEFA club competitions for the 2015/16 season.`
+	  
+	  `Manchester City agrees to significantly limit spending in the transfer market for seasons 2014/2015 and 2015/2016. Manchester City further accepts a calculated limitation on the number of new registrations it may include within their “A” List for the purposes of participation in UEFA competitions. This calculation is based on the clubs net transfer position in each respective registration period covered by this agreement.`
+	  
+	  `Manchester City agrees to pay a total amount of EUR 60 Mio. which will be withheld from any revenues it earns from participating in UEFA competitions commencing in season 2013/14. Of this EUR 60 Mio. an amount of EUR 40 Mio. will be withheld conditionally and will be returned to Manchester City if the club fulfills the operational and financial measures agreed with the UEFA CFCB.`
+	  
+	  `The compliance with the Settlement Agreement will be subject to on-going and in depth monitoring, in accordance with the applicable rules. In this connection, Manchester City also undertakes to provide the CFCB with a Progress Report evidencing its compliance with all relevant conditions agreed on a six monthly basis.` `In case Manchester City fails to comply with any of the terms of this Agreement, the UEFA CFCB Chief Investigator shall refer the case to the Adjudicatory Chamber, as foreseen in Art. 15 (4) of the Procedural Rules.` — [Decision of the Chief Investigator of the CFCB Investigatory Chamber: Settlement Agreement with Manchester City Football Club Limited, UEFA, 2014](https://editorial.uefa.com/resources/0258-0e2dedb2acec-2bcb7225d41a-1000/manchester_city_fc_-_settlement_agreement_-_may-2014.pdf)
 - On 16 May 2014, contemporary reporting described the practical consequences of the settlement: a 21-player European squad, transfer restrictions, maximum losses and a wage-bill restriction.
     `Manchester City have reluctantly accepted a conditional £49m fine and restrictions on their European squad and incoming transfers under Uefa's new financial fair play regime.`
     
