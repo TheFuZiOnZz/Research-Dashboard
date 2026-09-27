@@ -53,42 +53,34 @@
 
 # The Charges
 
-
-
-# Conviction
-
-
-
-# Aftermath
-
 - On 14 April 2014, UEFA's Financial Fair Play investigation reached the stage where Manchester City and 75 other clubs were being assessed by the Club Financial Control Body. City's combined losses for the 2011–12 and 2012–13 seasons were around £149m.
-    `Manchester City and Paris Saint-Germain are among the European clubs who will learn this week whether they are deemed to be in serious breach of Uefa's financial fair play rules.`
-    
-    `The Club Financial Control Body's (CFCB) investigatory chamber, headed by the former Belgium prime minister Jean-Luc Dehaene, is to meet on Tuesday and Wednesday to consider the cases of 76 clubs. Those considered to have committed serious breaches of Uefa's break-even rules will be referred to the CFCB's adjudicatory panel for a final verdict, with Uefa to announce details of all sanctions around 5 May. The sanctions could include being barred from European competition.`
-    
-    `Manchester City, who have lost £149m in the past two seasons, and PSG are both understood to be among the 76 clubs under investigation. The CFCB panel will have four options open to them: to dismiss the case; to agree a settlement with the club effectively putting them on probation; to issue a reprimand and fine of up to €100,000; or in serious cases to refer the club to the adjudicatory chamber. The clubs should therefore know their position, and how much they have to fear, by the end of the week.` — [Manchester City and Paris Saint-Germain face financial fair play fate, The Guardian, 2014](https://www.theguardian.com/football/2014/apr/14/manchester-city-psg-ffp-uefa-set-learn-fate)
+	- `Manchester City and Paris Saint-Germain are among the European clubs who will learn this week whether they are deemed to be in serious breach of Uefa's financial fair play rules.`
+	  
+	  `The Club Financial Control Body's (CFCB) investigatory chamber, headed by the former Belgium prime minister Jean-Luc Dehaene, is to meet on Tuesday and Wednesday to consider the cases of 76 clubs. Those considered to have committed serious breaches of Uefa's break-even rules will be referred to the CFCB's adjudicatory panel for a final verdict, with Uefa to announce details of all sanctions around 5 May. The sanctions could include being barred from European competition.`
+	  
+	  `Manchester City, who have lost £149m in the past two seasons, and PSG are both understood to be among the 76 clubs under investigation. The CFCB panel will have four options open to them: to dismiss the case; to agree a settlement with the club effectively putting them on probation; to issue a reprimand and fine of up to €100,000; or in serious cases to refer the club to the adjudicatory chamber. The clubs should therefore know their position, and how much they have to fear, by the end of the week.` — [Manchester City and Paris Saint-Germain face financial fair play fate, The Guardian, 2014](https://www.theguardian.com/football/2014/apr/14/manchester-city-psg-ffp-uefa-set-learn-fate)
 - On 15 April 2014, City publicly expressed confidence that its financial position was improving and that it expected to reach break-even.
-    `Manchester City are confident their finances are in good order as Uefa prepares to rule if any club should face sanctions under its financial fair play regulations.`
-    
-    `A decision may not be made until early May when City, or any other of the 76 clubs being investigated, could face a probationary period, be fined, have a transfer embargo imposed on them, or even be excluded from European competition if found guilty.`
-    
-    `While City have made total losses of around £150m in the past two seasons, the trend is downwards with the sum twice being halved. In 2012-13 the deficit was £51.6m and the club is intent that it will break even in the near future.`
-    
-    `The Club Financial Control Body's investigatory chamber convenes on Tuesday and Wednesday to consider the cases of 76 clubs. Any considered to have committed serious breaches will be referred to the CFCB's adjudicatory panel for a final verdict, with Uefa to announce details of all sanctions around 5 May.` — [Manchester City confident of satisfying Uefa financial fair play rules, The Guardian, 2014](https://www.theguardian.com/football/2014/apr/15/manchester-city-uefa-financial-fair-play-rules)
+	- `Manchester City are confident their finances are in good order as Uefa prepares to rule if any club should face sanctions under its financial fair play regulations.`
+	  
+	  `A decision may not be made until early May when City, or any other of the 76 clubs being investigated, could face a probationary period, be fined, have a transfer embargo imposed on them, or even be excluded from European competition if found guilty.`
+	  
+	  `While City have made total losses of around £150m in the past two seasons, the trend is downwards with the sum twice being halved. In 2012-13 the deficit was £51.6m and the club is intent that it will break even in the near future.`
+	  
+	  `The Club Financial Control Body's investigatory chamber convenes on Tuesday and Wednesday to consider the cases of 76 clubs. Any considered to have committed serious breaches will be referred to the CFCB's adjudicatory panel for a final verdict, with Uefa to announce details of all sanctions around 5 May.` — [Manchester City confident of satisfying Uefa financial fair play rules, The Guardian, 2014](https://www.theguardian.com/football/2014/apr/15/manchester-city-uefa-financial-fair-play-rules)
 - On 19 April 2014, UEFA confirmed that the CFCB Investigatory Chamber had held a two-day meeting concerning the FFP investigations, but that the process was still ongoing.
-    `The Investigatory Chamber of the Club Financial Control Body (CFCB) held a two-day meeting last week where it deliberated on the investigations relating to financial fair play.`
-    
-    `The procedure is ongoing and any findings of the Investigatory Chamber will be published after its next meeting, which is scheduled to take place in the first week of May.`
-    
-    `UEFA will not comment further until these proceedings are concluded.` — [UEFA financial fair play statement, UEFA, 2014](https://www.uefa.com/news-media/news/0214-0e8a3094f1d3-34a548371565-1000--uefa-financial-fair-play-statement/)    
+	- `The Investigatory Chamber of the Club Financial Control Body (CFCB) held a two-day meeting last week where it deliberated on the investigations relating to financial fair play.`
+	  
+	  `The procedure is ongoing and any findings of the Investigatory Chamber will be published after its next meeting, which is scheduled to take place in the first week of May.`
+	  
+	  `UEFA will not comment further until these proceedings are concluded.` — [UEFA financial fair play statement, UEFA, 2014](https://www.uefa.com/news-media/news/0214-0e8a3094f1d3-34a548371565-1000--uefa-financial-fair-play-statement/)    
 - On 28 April 2014, UEFA began offering settlement agreements to clubs it considered to have breached the FFP rules. Manchester City and PSG were among the clubs offered settlements.
 	- `Manchester City and Paris Saint-Germain are among a number of clubs who have been offered settlements for breaching financial fair play rules, it can be revealed.`
 	  
 	  `Uefa's club financial control board has made offers to all the clubs deemed to have breached the rules in advance of its meeting on Thursday.`
 	  
-	      `The clubs – understood to be fewer than 20 in total and including Manchester City and PSG – can either accept the offer of the sanctions, which could range from a reprimand to a fine and up to restrictions on squads for European competition next season, or try to negotiate a lesser punishment. If no agreement is reached, the outstanding cases will go to an adjudicatory panel for a final decision.`
-    
-    `It is not known what settlements each club has been offered but Uefa could reveal the outcomes as early as Friday.The most powerful sanction, that of being excluded from European competition, is not expected to be used.` — [Manchester City and PSG offered deals over financial fair play, The Guardian, 2014](https://www.theguardian.com/football/2014/apr/28/manchester-city-financial-fair-play-settlements-offer)
+	  `The clubs – understood to be fewer than 20 in total and including Manchester City and PSG – can either accept the offer of the sanctions, which could range from a reprimand to a fine and up to restrictions on squads for European competition next season, or try to negotiate a lesser punishment. If no agreement is reached, the outstanding cases will go to an adjudicatory panel for a final decision.`
+	  
+	  `It is not known what settlements each club has been offered but Uefa could reveal the outcomes as early as Friday.The most powerful sanction, that of being excluded from European competition, is not expected to be used.` — [Manchester City and PSG offered deals over financial fair play, The Guardian, 2014](https://www.theguardian.com/football/2014/apr/28/manchester-city-financial-fair-play-settlements-offer)
 - On 30 April 2014, reporting focused on the treatment of related-party sponsorships when UEFA calculated the clubs' break-even positions. City's Etihad sponsorship was particularly significant.
     - `In both cases, a key factor will be whether Uefa's CFCB board has calculated that PSG's deal with the Qatar Tourism Authority and Manchester City's sponsorship deal with Etihad should be discounted under "related party" rules. It is understood that PSG and Manchester City are among the clubs judged to have failed the break-even test and that both are likely to face a combination of financial and sporting sanctions. That will mean not only a fine but restrictions on their squad sizes in Europe next season, most likely via a cap on squad value. Such a ruling would force those clubs in breach to potentially omit some of their more expensive players in favour of homegrown talent.`
 	  
@@ -122,23 +114,28 @@
     
     - `Eight of the nine clubs sanctioned, including PSG, have apparently settled, but City's ownership faced down Friday's deadline. They expect to win the Premier League on Sunday, and face Uefa again on Monday. Such is the state of the new Manchester City.` — [Manchester City take the lead to face down Uefa over break-even rules, The Guardian, 2014](https://www.theguardian.com/football/david-conn-inside-sport-blog/2014/may/10/manchester-city-face-down-uefa-financial-fair-play)
 - On 13 May 2014, negotiations were still unresolved. UEFA had reportedly presented City with a “take it or leave it” offer, while City maintained that it narrowly complied with the rules according to its interpretation.
-    `Manchester City have not yet reached a settlement with Uefa over the proposed sanctions they face for breaking financial fair play rules.`
-    
-    `Uefa had hoped that Manchester City would agree to a fine of €60m (£49m) and restrictions on their European squad by the end of last week and had issued a "take it or leave it" offer over the weekend.`
-    
-    `But the Manchester club, furious at being bracketed with Paris Saint-Germain and convinced they narrowly complied with the new rules according to their reading of them, have yet to settle with Uefa.`
-    
-    `If no settlement is reached, the matter will be passed to the adjudicatory arm of Uefa's independent club financial control board, which has the power to impose an even heavier sanction.` — [Manchester City's financial fair play deal is still on the rocks, The Guardian, 2014](https://www.theguardian.com/football/2014/may/13/manchester-city-financial-fair-play-deal)
+	- `Manchester City have not yet reached a settlement with Uefa over the proposed sanctions they face for breaking financial fair play rules.`
+	  
+	  `Uefa had hoped that Manchester City would agree to a fine of €60m (£49m) and restrictions on their European squad by the end of last week and had issued a "take it or leave it" offer over the weekend.``But the Manchester club, furious at being bracketed with Paris Saint-Germain and convinced they narrowly complied with the new rules according to their reading of them, have yet to settle with Uefa.`
+	  
+	  `But the Manchester club, furious at being bracketed with Paris Saint-Germain and convinced they narrowly complied with the new rules according to their reading of them, have yet to settle with Uefa.`
+	  
+	  `If no settlement is reached, the matter will be passed to the adjudicatory arm of Uefa's independent club financial control board, which has the power to impose an even heavier sanction. But Uefa is believed to be confident that a settlement can be reached and insists the process is still on track.` — [Manchester City's financial fair play deal is still on the rocks, The Guardian, 2014](https://www.theguardian.com/football/2014/may/13/manchester-city-financial-fair-play-deal)
+
+# Settlement
+
+
+
+# Aftermath
+
 - On 16 May 2014, City accepted UEFA's settlement agreement. The agreement imposed financial, sporting and monitoring conditions.
-    `The Club Financial Control Body (CFCB) Investigatory Chamber today announced that the nine clubs, for which investigations were opened following non-compliance with Financial Fair Play (FFP) regulations, have individually agreed to settlement agreements.`
-    
-    `These agreements are aimed at ensuring each club achieves break-even compliance with minimal delay.`
-    
-    `Sporting measures: Defined as limitations on (i) the number of players included on the ‘A’ list related to UEFA competitions.`
-    
-    `Financial contributions: Defined as money withheld from revenues earned from participation in UEFA competitions.`
-    
-    `Each club will be subject to ongoing monitoring, and any case of non-compliance with the terms of their agreement will be automatically referred to the CFCB Adjudicatory Chamber.` — [Nine clubs sign settlement agreements, UEFA, 2014](https://www.uefa.com/news-media/news/0215-0f8a585ec7de-874f31f5f843-1000--nine-clubs-sign-settlement-agreements/)
+	- `The Club Financial Control Body (CFCB) Investigatory Chamber today announced that the nine clubs, for which investigations were opened following non-compliance with Financial Fair Play (FFP) regulations, have individually agreed to settlement agreements.``These agreements are aimed at ensuring each club achieves break-even compliance with minimal delay.`
+	  
+	  `Sporting measures: Defined as limitations on (i) the number of players included on the ‘A’ list related to UEFA competitions.`
+	  
+	  `Financial contributions: Defined as money withheld from revenues earned from participation in UEFA competitions.`
+	  
+	  `Each club will be subject to ongoing monitoring, and any case of non-compliance with the terms of their agreement will be automatically referred to the CFCB Adjudicatory Chamber.` — [Nine clubs sign settlement agreements, UEFA, 2014](https://www.uefa.com/news-media/news/0215-0f8a585ec7de-874f31f5f843-1000--nine-clubs-sign-settlement-agreements/)
 - On 16 May 2014, the specific Manchester City settlement required a total €60m payment, of which €40m was conditional on compliance. It also imposed transfer-spending and squad-registration restrictions.
     `Manchester City agrees to pay a total amount of EUR 60 Mio.`
     
