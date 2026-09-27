@@ -128,24 +128,19 @@
 
 # Aftermath
 
-- On 16 May 2014, City accepted UEFA's settlement agreement. The agreement imposed financial, sporting and monitoring conditions.
-	- `The Club Financial Control Body (CFCB) Investigatory Chamber today announced that the nine clubs, for which investigations were opened following non-compliance with Financial Fair Play (FFP) regulations, have individually agreed to settlement agreements.``These agreements are aimed at ensuring each club achieves break-even compliance with minimal delay.`
+- On 16 May 2014, City accepted UEFA's settlement agreement. The agreement imposed financial, sporting and monitoring conditions. The specific Manchester City settlement required a total €60m payment, of which €40m was conditional on compliance. It also imposed transfer-spending and squad-registration restrictions.
+	- `Following an investigation under the UEFA Club Licensing and Financial Fair Play Regulations (“CLFFPR”) a settlement agreement was concluded between the UEFA Club Financial Control Body (“CFCB”) Chief Investigator and Manchester City Football Club Limited ("Manchester City") on the basis of Article 14 (1)(b) and Article 15 of the Procedural Rules governing the CFCB.`
 	  
-	  `Sporting measures: Defined as limitations on (i) the number of players included on the ‘A’ list related to UEFA competitions.`
+	  `The settlement was concluded on 16 May 2014 and covers the three sporting seasons 2013/14, 2014/15 and 2015/16. For the duration of the settlement, Manchester City will be subject to on-going restrictions which have been agreed by the club and which are described further below.` 
 	  
-	  `Financial contributions: Defined as money withheld from revenues earned from participation in UEFA competitions.`
+	  `A central purpose of the settlement is to ensure that Manchester City becomes breakeven compliant within the meaning of the CLFFPR in a short space of time.`
 	  
-	  `Each club will be subject to ongoing monitoring, and any case of non-compliance with the terms of their agreement will be automatically referred to the CFCB Adjudicatory Chamber.` — [Nine clubs sign settlement agreements, UEFA, 2014](https://www.uefa.com/news-media/news/0215-0f8a585ec7de-874f31f5f843-1000--nine-clubs-sign-settlement-agreements/)
-- On 16 May 2014, the specific Manchester City settlement required a total €60m payment, of which €40m was conditional on compliance. It also imposed transfer-spending and squad-registration restrictions.
-    `Manchester City agrees to pay a total amount of EUR 60 Mio.`
+	  In this regard, Manchester City undertakes to report a maximum break-even 
+deficit of EUR 20 Mio. for the financial year ending in 2014 and a maximum breakeven deficit of EUR 10 Mio. for the financial year ending in 2015. In this context certain commercial partnerships were subject to examination. In order to avoid dispute and for the avoidance of doubt, Manchester City has agreed that for the period of the settlement it will not seek to improve the financial terms of two second tier commercial partnerships.
+
     
-    `Of this EUR 60 Mio. an amount of EUR 40 Mio. will be withheld conditionally and will be returned to Manchester City if the club fulfills the operational and financial measures agreed with the UEFA CFCB.`
     
-    `Manchester City agrees to significantly limit spending in the transfer market for seasons 2014/2015 and 2015/2016.`
-    
-    `Manchester City further accepts a calculated limitation on the number of new registrations it may include within their “A” List.`
-    
-    `The compliance with the Settlement Agreement will be subject to on-going and in depth monitoring, in accordance with the applicable rules.` — [Manchester City FC - Settlement Agreement - May 2014, UEFA, 2014](https://editorial.uefa.com/resources/0258-0e2dedb2acec-2bcb7225d41a-1000/manchester_city_fc_-_settlement_agreement_-_may-2014.pdf)
+     — [Decision of the Chief Investigator of the CFCB Investigatory Chamber: Settlement Agreement with Manchester City Football Club Limited, UEFA, 2014](https://editorial.uefa.com/resources/0258-0e2dedb2acec-2bcb7225d41a-1000/manchester_city_fc_-_settlement_agreement_-_may-2014.pdf)
 - On 16 May 2014, contemporary reporting described the practical consequences of the settlement: a 21-player European squad, transfer restrictions, maximum losses and a wage-bill restriction.
     `Manchester City have reluctantly accepted a conditional £49m fine and restrictions on their European squad and incoming transfers under Uefa's new financial fair play regime.`
     
