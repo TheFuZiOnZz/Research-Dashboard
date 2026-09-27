@@ -80,28 +80,19 @@
     
     `The procedure is ongoing and any findings of the Investigatory Chamber will be published after its next meeting, which is scheduled to take place in the first week of May.`
     
-    `UEFA will not comment further until these proceedings are concluded.`
-    
-    — [UEFA financial fair play statement, UEFA, 2014](https://www.uefa.com/news-media/news/0214-0e8a3094f1d3-34a548371565-1000--uefa-financial-fair-play-statement/)
-    
+    `UEFA will not comment further until these proceedings are concluded.` — [UEFA financial fair play statement, UEFA, 2014](https://www.uefa.com/news-media/news/0214-0e8a3094f1d3-34a548371565-1000--uefa-financial-fair-play-statement/)    
 - On 28 April 2014, UEFA began offering settlement agreements to clubs it considered to have breached the FFP rules. Manchester City and PSG were among the clubs offered settlements.
-    
     `Manchester City and Paris Saint-Germain are among a number of clubs who have been offered settlements for breaching financial fair play rules, it can be revealed.`
     
     `Uefa's club financial control board has made offers to all the clubs deemed to have breached the rules in advance of its meeting on Thursday.`
     
     `The clubs – understood to be fewer than 20 in total and including Manchester City and PSG – can either accept the offer of the sanctions, which could range from a reprimand to a fine and up to restrictions on squads for European competition next season, or try to negotiate a lesser punishment. If no agreement is reached, the outstanding cases will go to an adjudicatory panel for a final decision.`
     
-    — [Manchester City and PSG offered deals over financial fair play, The Guardian, 2014](https://www.theguardian.com/football/2014/apr/28/manchester-city-financial-fair-play-settlements-offer)
-    
+    `It is not known what settlements each club has been offered but Uefa could reveal the outcomes as early as Friday.The most powerful sanction, that of being excluded from European competition, is not expected to be used.` — [Manchester City and PSG offered deals over financial fair play, The Guardian, 2014](https://www.theguardian.com/football/2014/apr/28/manchester-city-financial-fair-play-settlements-offer)
 - On 30 April 2014, reporting focused on the treatment of related-party sponsorships when UEFA calculated the clubs' break-even positions. City's Etihad sponsorship was particularly significant.
+    `In both cases, a key factor will be whether Uefa's CFCB board has calculated that PSG's deal with the Qatar Tourism Authority and Manchester City's sponsorship deal with Etihad should be discounted under "related party" rules. It is understood that PSG and Manchester City are among the clubs judged to have failed the break-even test and that both are likely to face a combination of financial and sporting sanctions. That will mean not only a fine but restrictions on their squad sizes in Europe next season, most likely via a cap on squad value. Such a ruling would force those clubs in breach to potentially omit some of their more expensive players in favour of homegrown talent.`
     
-    `In both cases, a key factor will be whether Uefa's CFCB board has calculated that PSG's deal with the Qatar Tourism Authority and Manchester City's sponsorship deal with Etihad should be discounted under "related party" rules.`
-    
-    `It is understood that PSG and Manchester City are among the clubs judged to have failed the break-even test and that both are likely to face a combination of financial and sporting sanctions.`
-    
-    — [Financial fair play: how it works and the penalties clubs could face, The Guardian, 2014](https://www.theguardian.com/football/2014/apr/30/football-financial-fair-play-how-it-works)
-    
+    `The sanction has been mooted in recognition of the fact that clubs who transgress must be punished on the field as well as via their bottom line.` — [Financial fair play: how it works and the penalties clubs could face, The Guardian, 2014]( https://www.theguardian.com/football/2014/apr/30/football-financial-fair-play-how-it-works)
 - On 2 May 2014, UEFA confirmed that nine of the original 76 clubs remained under examination. Manchester City and PSG were reported to be among those nine.
     
     `Of the 76 clubs asked to submit more information to the Club Financial Control Body regarding compliance with Financial Fair Play (FFP), examinations will continue into nine of them.`
