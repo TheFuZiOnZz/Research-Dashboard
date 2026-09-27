@@ -61,7 +61,6 @@
 
 # Aftermath
 
-
 - On 14 April 2014, UEFA's Financial Fair Play investigation reached the stage where Manchester City and 75 other clubs were being assessed by the Club Financial Control Body. City's combined losses for the 2011–12 and 2012–13 seasons were around £149m.
     `Manchester City and Paris Saint-Germain are among the European clubs who will learn this week whether they are deemed to be in serious breach of Uefa's financial fair play rules.`
     
@@ -77,7 +76,6 @@
     
     `The Club Financial Control Body's investigatory chamber convenes on Tuesday and Wednesday to consider the cases of 76 clubs. Any considered to have committed serious breaches will be referred to the CFCB's adjudicatory panel for a final verdict, with Uefa to announce details of all sanctions around 5 May.` — [Manchester City confident of satisfying Uefa financial fair play rules, The Guardian, 2014](https://www.theguardian.com/football/2014/apr/15/manchester-city-uefa-financial-fair-play-rules)
 - On 19 April 2014, UEFA confirmed that the CFCB Investigatory Chamber had held a two-day meeting concerning the FFP investigations, but that the process was still ongoing.
-    
     `The Investigatory Chamber of the Club Financial Control Body (CFCB) held a two-day meeting last week where it deliberated on the investigations relating to financial fair play.`
     
     `The procedure is ongoing and any findings of the Investigatory Chamber will be published after its next meeting, which is scheduled to take place in the first week of May.`
