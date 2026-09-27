@@ -108,7 +108,7 @@
 - On 5 May 2014, City remained some distance from agreeing to UEFA's proposed settlement. Failure to agree would have resulted in referral to the adjudicatory panel.
     `Manchester City are still a long way off agreeing a settlement with Uefa over sanctions for breaking financial fair play rules, it can be disclosed.`
     
-    `The club have until the end of the week to agree to the sanctions or face the case being handed to a panel for a non-negotiable decision.`
+    `The club have until the end of the week to agree to the sanctions or face the case being handed to a panel for a non-negotiable decision. City are one of nine European clubs, also including Paris St-Germain who are being dealt with for rule breaches, and it is understood they are one of those furthest from reaching an agreement.`
     
     `The initial settlement offer made to City included financial restrictions on their Champions League squad for next season, and possibly a cut in the size of it, as well as a heavy fine.` — [Manchester City yet to agree punishment with Uefa over FFP, The Guardian, 2014](https://www.theguardian.com/football/2014/may/05/manchester-city-settlement-uefa-financial-fair-play)
 - On 6 May 2014, the proposed settlement terms became clearer: a €60m fine, a 21-player Champions League squad and a restriction on the relevant wage bill.
