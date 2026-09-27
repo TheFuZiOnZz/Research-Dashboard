@@ -35,33 +35,17 @@
 - On 29 May 2022, Nottingham Forest secured promotion to the Premier League by defeating Huddersfield Town 1–0 in the Championship play-off final at Wembley. Forest had spent the previous two seasons in the Championship, a fact that would later affect the club's applicable Profitability and Sustainability Rules (PSR) threshold.
     - `Nottingham Forest secured promotion to the Premier League for the first time in 23 years with a 1-0 win over Huddersfield Town in the Championship play-off final.` — [Nottingham Forest promoted to Premier League after 1-0 play-off final win over Huddersfield, BBC Sport, 2022](https://www.bbc.co.uk/sport/football/61600792)
 - During the 2022 summer transfer window, Forest made a large number of signings following promotion. The club ultimately signed more than 20 players during the season as it rebuilt its squad for Premier League football.
-    
     - `Nottingham Forest completed the signing of their 22nd player of the summer transfer window when they brought in Willy Boly from Wolves.` — [Nottingham Forest: Premier League new boys complete record-breaking transfer window, BBC Sport, 2022](https://www.bbc.co.uk/sport/football/62738418)
-        
 - On 31 March 2023, Forest submitted a projected PSR calculation to the Premier League for the financial year ending 30 June 2023. The club was already aware that the applicable PSR threshold was lower than the standard £105m because it had spent two seasons in the Championship during the relevant assessment period.
-    
     - `Due to Nottingham Forest spending two seasons in the Championship within the three-year assessment period, the maximum loss for the club is £61million.` — [Everton and Nottingham Forest confirm Premier League PSR breaches, Premier League, 2024](https://www.premierleague.com/en/news/3858986)
-        
 - On 28 May 2023, Forest completed their first Premier League season since promotion by finishing 16th, four points above the relegation zone. Their 38 points ultimately left them in the Premier League for a second consecutive season.
-    
     - `Nottingham Forest finished 16th in the Premier League in 2022/23, recording nine wins, 11 draws and 18 defeats for a total of 38 points.` — [Nottingham Forest Football Club Season History, Premier League](https://www.premierleague.com/clubs/15/Nottm-Forest/season-history)
-        
 - On 30 June 2023, the financial year relevant to Forest's PSR calculation ended. The same day, Atlético Madrid made a conditional offer of approximately €50m for Brennan Johnson. Johnson was an academy product whose sale would have provided a significant accounting profit for PSR purposes.
-    
-    - `Atletico Madrid submitted a conditional bid of €50m for Brennan Johnson on the PSR deadline date 30 June 2023.` — [Further statement and analysis of Profit and Sustainability Rules, Nottingham Forest Supporters' Trust, 2024](https://nffctrust.org/post/further-statement-and-analysis-of-profit-and-sustainability-rules)
-        
-- On 21 July 2023, Brentford made its first offer for Johnson, followed by further offers later in July and August. Forest rejected the offers while continuing to seek a higher valuation for the player.
-    
-    - `Brentford FC submitted bids for the player of £32.5m, £35m and £40m in July and August 2023.` — [Further statement and analysis of Profit and Sustainability Rules, Nottingham Forest Supporters' Trust, 2024](https://nffctrust.org/post/further-statement-and-analysis-of-profit-and-sustainability-rules)
-        
+    - `Atletico Madrid submitted a conditional bid of €50m for Brennan Johnson on the PSR deadline date 30 June 2023.` — [Further statement and analysis of Profit and Sustainability Rules, Nottingham Forest Supporters' Trust, 2024]
 - On 1 September 2023, Forest sold Brennan Johnson to Tottenham Hotspur for £47.5m. The transfer was completed after the 30 June accounting deadline and therefore did not count towards Forest's PSR calculation for the assessment period that had already ended.
-    
     - `Brennan Johnson moved to Tottenham Hotspur on 1 September 2023 for a fee of £47.5m.` — [Further statement and analysis of Profit and Sustainability Rules, Nottingham Forest Supporters' Trust, 2024](https://nffctrust.org/post/further-statement-and-analysis-of-profit-and-sustainability-rules)
-        
 - On 31 December 2023, Forest submitted its PSR report to the Premier League. The calculation showed that the club's losses exceeded the applicable £61m threshold.
-    
     - `The Premier League considers that Forest’s PSR Calculation results in a loss of £95,536,000, breaching the £61m threshold by £34,536,000.` — [Premier League v Nottingham Forest FC, Independent Commission decision, 2024](https://svenhaist.com/wp-content/uploads/2024/03/Die-Urteilsbegruendung-zum-Punktabzug-fuer-Nottingham-Forest.pdf)
-        
 
 # The Charges
 
