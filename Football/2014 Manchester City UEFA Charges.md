@@ -148,14 +148,15 @@
 	  `Manchester City agrees to pay a total amount of EUR 60 Mio. which will be withheld from any revenues it earns from participating in UEFA competitions commencing in season 2013/14. Of this EUR 60 Mio. an amount of EUR 40 Mio. will be withheld conditionally and will be returned to Manchester City if the club fulfills the operational and financial measures agreed with the UEFA CFCB.`
 	  
 	  `The compliance with the Settlement Agreement will be subject to on-going and in depth monitoring, in accordance with the applicable rules. In this connection, Manchester City also undertakes to provide the CFCB with a Progress Report evidencing its compliance with all relevant conditions agreed on a six monthly basis.` `In case Manchester City fails to comply with any of the terms of this Agreement, the UEFA CFCB Chief Investigator shall refer the case to the Adjudicatory Chamber, as foreseen in Art. 15 (4) of the Procedural Rules.` — [Decision of the Chief Investigator of the CFCB Investigatory Chamber: Settlement Agreement with Manchester City Football Club Limited, UEFA, 2014](https://editorial.uefa.com/resources/0258-0e2dedb2acec-2bcb7225d41a-1000/manchester_city_fc_-_settlement_agreement_-_may-2014.pdf)
-- On 16 May 2014, contemporary reporting described the practical consequences of the settlement: a 21-player European squad, transfer restrictions, maximum losses and a wage-bill restriction.
-    `Manchester City have reluctantly accepted a conditional £49m fine and restrictions on their European squad and incoming transfers under Uefa's new financial fair play regime.`
-    
-    `Under the complex ruling the club must also agree to a string of other conditions: maximum losses of €20m in 2014 and €10m in 2015, to cap their wage bill at current levels for the next two seasons and to "significantly limit" spending in the transfer market for the same period.`
-    
-    `The sanctions will limit Manuel Pellegrini's options when it comes to naming his 21-man European squad, cut from the usual 25, of which eight must qualify as "homegrown".`
-    
-    `If they comply with those conditions, they will get back €40m of the €60m fine, which will be deducted from their Uefa prize money over the next three years.` — [Manchester City accept £49m fine and transfer cap from Uefa over FFP, The Guardian, 2014](https://www.theguardian.com/football/2014/may/16/manchester-city-fine-transfer-cap-uefa-ffp)
+- On 16 May 2014, The practical consequences of the settlement were a capped 21-player European squad, transfer restrictions, maximum losses and a wage-bill restriction.
+	- `Manchester City have reluctantly accepted a conditional £49m fine and restrictions on their European squad and incoming transfers under Uefa's new financial fair play regime.`
+	  
+	  `But the club said their summer transfer plans would be unaffected by restrictions they said would limit them to a maximum £49m net outlay in the upcoming transfer window.` — [Manchester City accept £49m fine and transfer cap from Uefa over FFP, The Guardian, 2014](https://www.theguardian.com/football/2014/may/16/manchester-city-fine-transfer-cap-uefa-ffp)
+	- `Under the complex ruling the club must also agree to a string of other conditions: maximum losses of €20m in 2014 and €10m in 2015, to cap their wage bill at current levels for the next two seasons and to "significantly limit" spending in the transfer market for the same period.`
+	  
+	  `The sanctions will limit Manuel Pellegrini's options when it comes to naming his 21-man European squad, cut from the usual 25, of which eight must qualify as "homegrown". City pointed out, however, that last season they registered 23 players and used only 21.`
+	  
+	  `If they comply with those conditions, they will get back €40m of the €60m fine, which will be deducted from their Uefa prize money over the next three years.` — [Manchester City accept £49m fine and transfer cap from Uefa over FFP, The Guardian, 2014](https://www.theguardian.com/football/2014/may/16/manchester-city-fine-transfer-cap-uefa-ffp)
 - On 23 May 2014, UEFA confirmed the principles governing the reduced squad sizes for clubs subject to the settlement agreements.
     `Should a club be entitled to register a maximum number of 21 players on the A list, the minimum number of places exclusively reserved for 'locally trained players' shall be five instead of eight.`
     
