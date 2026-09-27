@@ -124,10 +124,6 @@
 
 # Settlement
 
-
-
-# Aftermath
-
 - On 16 May 2014, City accepted UEFA's settlement agreement. The agreement imposed financial, sporting and monitoring conditions. The specific Manchester City settlement required a total €60m payment, of which €40m was conditional on compliance. It also imposed transfer-spending and squad-registration restrictions.
 	- `Following an investigation under the UEFA Club Licensing and Financial Fair Play Regulations (“CLFFPR”) a settlement agreement was concluded between the UEFA Club Financial Control Body (“CFCB”) Chief Investigator and Manchester City Football Club Limited ("Manchester City") on the basis of Article 14 (1)(b) and Article 15 of the Procedural Rules governing the CFCB.`
 	  
@@ -159,7 +155,10 @@
 	  `The sanctions will limit Manuel Pellegrini's options when it comes to naming his 21-man European squad, cut from the usual 25, of which eight must qualify as "homegrown". City pointed out, however, that last season they registered 23 players and used only 21.`
 	  
 	  `If they comply with those conditions, they will get back €40m of the €60m fine, which will be deducted from their Uefa prize money over the next three years.` — [Manchester City accept £49m fine and transfer cap from Uefa over FFP, The Guardian, 2014](https://www.theguardian.com/football/2014/may/16/manchester-city-fine-transfer-cap-uefa-ffp)
-- On 11 June 2014, UEFA confirmed the principles governing the reduced squad sizes for clubs subject to the settlement agreements. UEFA confirmed that all nine settlement clubs would remain under monitoring and that non-compliance could result in referral to the CFCB Adjudicatory Chamber. 
+
+# Aftermath
+
+- On 11 June 2014, UEFA confirmed the principles governing the reduced squad sizes for clubs subject to the settlement agreements. UEFA also confirmed that all nine settlement clubs would remain under monitoring and that non-compliance could result in referral to the CFCB Adjudicatory Chamber. 
 	- `On Friday 16 May, settlement agreements were concluded with nine clubs who had not fulfilled the break-even requirements of the UEFA Financial Fair Play (FFP) Regulations. In relation to the provisions in the settlements concerning the number of players to be included in the A list for the 2014/15 UEFA club competitions, the UEFA Emergency Panel, meeting in Lisbon on Friday 23 May, already confirmed the relevant principles, which are as follows:`
 	  
 	  `• Should a club be entitled to register a maximum number of 21 players on the A list, the minimum number of places exclusively reserved for 'locally trained players' shall be five instead of eight, of which a maximum of four shall be 'association-trained'; and`
@@ -169,15 +168,9 @@
 	  `All nine clubs which have signed settlement agreements will be subject to ongoing monitoring, and any case of non-compliance with the terms of their agreement will be automatically referred to the Club Financial Control Body (CFCB) Adjudicatory Chamber as per Article 15(4) of the Procedural Rules governing the CFCB.`
 	  
 	  `UEFA also confirms that no reviews were requested of the settlement agreements, either by directly affected parties or by the chairman of the CFCB.` — [Settlement player list principles confirmed, UEFA, 2014](https://www.uefa.com/news-media/news/0216-0e8b11e0e9dc-cb8209816719-1000--settlement-player-list-principles-confirmed/)
-- On 11 June 2014, UEFA confirmed that all nine settlement clubs would remain under monitoring and that non-compliance could result in referral to the CFCB Adjudicatory Chamber.
-    `All nine clubs which have signed settlement agreements will be subject to ongoing monitoring.`
-    
-    `Any case of non-compliance with the terms of their agreement will be automatically referred to the Club Financial Control Body (CFCB) Adjudicatory Chamber.`
-    
-    `UEFA also confirms that no reviews were requested of the settlement agreements.` — [Settlement player list principles confirmed, UEFA, 2014](https://www.uefa.com/news-media/news/0216-0e8b11e0e9dc-cb8209816719-1000--settlement-player-list-principles-confirmed/)
 - On 3 December 2014, City's published accounts showed that its annual loss had fallen to £23m for 2013–14, while turnover reached £347m.
-    `Manchester City believe they will comply with Uefa’s financial fair play break-even rules this season after announcing they reduced their annual loss to £23m in 2013-14.`
-    
-    `In the season during which the club won the Premier League and Capital One Cup trophies, City made income of £347m, a £76m increase on 2012-13, by far a record for the club.`
-    
-    `The £23m loss includes the £16m reduction in Champions League payments from Uefa because of City breaching FFP rules over the 2012 and 2013 accounting years.` — [Manchester City turnover reaches £347m with losses cut to £23m, The Guardian, 2014](https://www.theguardian.com/football/2014/dec/03/manchester-city-financial-results)
+	- `Manchester City believe they will comply with Uefa’s financial fair play break-even rules this season after announcing they reduced their annual loss to £23m in 2013-14. In the season during which the club won the Premier League and Capital One Cup trophies, City made income of £347m, a £76m increase on 2012-13, by far a record for the club.`
+	  
+	  `The annual accounts show [Sheikh Mansour](https://www.theguardian.com/football/sheikh-mansour) of Abu Dhabi, who bought City in 2008, has invested £1.15bn over six years, more than that invested by Roman Abramovich in Chelsea and therefore the most by any owner in English football history. That includes £160m invested during 2013-14 to build the huge academy complex due to open on Monday across the road from the Etihad Stadium. The project has included a contribution of around £20m towards community facilities including a school and leisure centre next to the academy.`
+	  
+	  `Ferran Soriano, City’s chief executive, said the £23m loss, which includes the £16m reduction in Champions League payments from Uefa because of City breaching FFP rules over the 2012 and 2013 accounting years, reflected “a new level of financial sustainability”. Soriano said City were expecting to make a profit in this financial year and to enter next season with “no outstanding sanctions or restrictions”.` — [Manchester City turnover reaches £347m with losses cut to £23m, The Guardian, 2014](https://www.theguardian.com/football/2014/dec/03/manchester-city-financial-results)
