@@ -1,65 +1,35 @@
 # Background
 
 - On 1 September 2008, Manchester City agreed a takeover by the Abu Dhabi United Group, headed by Sheikh Mansour. The takeover brought a major increase in the club's financial resources and was followed immediately by significant spending on players.
-    
     - `Manchester City have agreed a takeover deal with the Abu Dhabi United Group for Development and Investment (Adug), the club has confirmed.` — [Manchester City agree takeover deal with Abu Dhabi group, The Guardian, 2008](https://www.theguardian.com/football/2008/sep/01/manchestercity.premierleague)
-        
-    - `The announcement yesterday that Thaksin Shinawatra, the former prime minister of Thailand, had sold the club to Abu Dhabi United Group (Adug) is expected to be followed by the biggest injection of cash into a football club since Roman Abramovich changed the face of the English game with his £600m-plus investment in Chelsea.` — [You're bought! Abu Dhabi's answer to Sir Alan Sugar in Manchester City takeover, The Guardian, 2008](https://www.theguardian.com/football/2008/sep/02/manchestercity.premierleague)
-        
+    - `This morning City find themselves not only the richest club in Manchester but perhaps the world. The announcement yesterday that Thaksin Shinawatra, the former prime minister of Thailand, had sold the club to Abu Dhabi United Group (Adug) is expected to be followed by the biggest injection of cash into a football club since Roman Abramovich changed the face of the English game with his £600m-plus investment in Chelsea.` — [You're bought! Abu Dhabi's answer to Sir Alan Sugar in Manchester City takeover, The Guardian, 2008](https://www.theguardian.com/football/2008/sep/02/manchestercity.premierleague)
 - On 1 September 2008, City demonstrated the scale of its new spending power by signing Robinho from Real Madrid for a British-record £32.5m on the same day as the takeover was announced.
-    
     - `Manchester City demonstrated their new-found status as the richest club on the planet when the billionaire Arabs who have bought the club from Thaksin Shinawatra stunned Roman Abramovich late last night by signing Robinho from under the noses of Chelsea.` — [City beat Chelsea to sign £32.5m Robinho, The Guardian, 2008](https://www.theguardian.com/football/2008/sep/02/manchestercity.chelsea1)
-        
 - On 22 September 2009, Sheikh Mansour completed the purchase of the remaining 10% of Manchester City's shares, giving him 100% ownership of the club. By that point, more than £200m had already been spent on players and other investment since the takeover.
-    
     - `Sheikh Mansour bin Zayed al-Nahyan of the Abu Dhabi ruling family has bought the 10% of Manchester City not previously under his control, completing his acquisition of 100% of the club's shares, a year since he dramatically bought his 90% majority shareholding.` — [Last shares give Sheikh Mansour total control of Manchester City, The Guardian, 2009](https://www.theguardian.com/football/2009/sep/23/manchester-city-takeover)
-        
     - `Since that takeover by Mansour's Abu Dhabi United Group, more than £200m has been spent on new players and other investment in a revolution at City, all conducted with 10% of the shares remaining outside his ownership.` — [Last shares give Sheikh Mansour total control of Manchester City, The Guardian, 2009](https://www.theguardian.com/football/2009/sep/23/manchester-city-takeover)
-        
-- On 17 September 2009, UEFA president Michel Platini publicly criticised the scale of Manchester City's spending following the takeover, arguing that such expenditure could contribute to inflation across European football.
-    
+- On 17 September 2009, UEFA president Michel Platini publicly criticized the scale of Manchester City's spending following the takeover, arguing that such expenditure could contribute to inflation across European football.
     - `The Uefa president, Michel Platini, has singled out the expenditure at City since the takeover by Sheikh Mansour bin Zayed al-Nahyan, a senior member of the Abu Dhabi royal family, a year ago. City have spent more than £200m on 11 players since, which Uefa has condemned as an inflationary danger for clubs across European football.` — [Abu Dhabi takeover of Manchester City 'no danger to football', insists chairman, The Guardian, 2009](https://www.theguardian.com/football/2009/sep/17/manchester-city-abu-dhabi-takeover)
-        
 - On 21 September 2009, UEFA's Executive Committee approved the Financial Fair Play concept. The stated objectives included improving financial stability, encouraging clubs to operate within their revenues and introducing greater financial discipline.
-    
     - `The major objective of the Financial Fair Play concept is to improve the financial fairness in European competitions, as well as the long-term stability of European club football.` — [UEFA EXCO approves financial fair play, UEFA, 2009](https://www.uefa.com/news-media/news/0254-0d7c87e72463-23e4c100b95f-1000/)
-        
     - `These include an obligation for clubs whose turnover is over a certain threshold, over a period of time, to balance their books or break even.` — [UEFA EXCO approves financial fair play, UEFA, 2009](https://www.uefa.com/news-media/news/0254-0d7c87e72463-23e4c100b95f-1000/)
-        
 - On 27 May 2010, UEFA formally approved the Club Licensing and Financial Fair Play Regulations. The regulations were phased in over three years, with the break-even requirement applying to financial statements ending in 2012 and being assessed during the 2013/14 UEFA club competition season.
-    
     - `The UEFA Club Licensing and Financial Fair Play Regulations, which have the support of all stakeholders in European football, have been approved by UEFA's Executive Committee.` — [Financial Fair Play Regulations are approved, UEFA, 2010](https://www.uefa.com/news-media/news/01e5-0ea1848137bd-b1291315b87e-1000--financial-fair-play-regulations-are-approved/)
-        
     - `After a phased implementation over three years – 2010, 2011 and 2012 – the main cornerstone of the regulations, the break-even requirement, enters into force for the financial statements of the reporting period ending 2012, to be assessed during the 2013/14 UEFA club competition season.` — [Financial Fair Play Regulations are approved, UEFA, 2010](https://www.uefa.com/news-media/news/01e5-0ea1848137bd-b1291315b87e-1000--financial-fair-play-regulations-are-approved/)
-        
     - `We have worked on the financial fair play concept hand-in-hand with the clubs, as our intention is not to punish them, but to protect them.` — [Financial Fair Play Regulations are approved, UEFA, 2010](https://www.uefa.com/news-media/news/01e5-0ea1848137bd-b1291315b87e-1000--financial-fair-play-regulations-are-approved/)
-        
 - On 31 May 2012, Manchester City's 2011/12 financial year ended with the club recording a loss of £97.9m. City nevertheless stated that it remained confident of meeting UEFA's FFP requirements, arguing that certain expenditure could be excluded from the break-even calculation.
-    
     - `Manchester City have announced annual losses of £97.9m. Although the sum is still enormous, it is less than half the £197.5m from 12 months' ago.` — [Manchester City announce annual losses of £97.9m for 2011-12, The Guardian, 2012](https://www.theguardian.com/football/2012/dec/14/manchester-city-losses-97-million)
-        
     - `And they are confident even the huge losses confirmed on Friday will not have an impact on their ability to meet Uefa's strict Financial Fair Play guidelines as £15m comes from infrastructure and youth development costs. More importantly, approximately £80m comes from contracts that pre-date 2010, from which City expect to get some kind of relief.` — [Manchester City announce annual losses of £97.9m for 2011-12, The Guardian, 2012](https://www.theguardian.com/football/2012/dec/14/manchester-city-losses-97-million)
-        
 - On 31 May 2013, Manchester City's 2012/13 financial year ended with a loss of approximately £51.6m, substantially reducing the previous year's loss. The club's commercial revenue had also increased significantly.
-    
     - `The £52m loss is by far City's lowest of any year since the takeover, due to the £271m income.` — [Manchester City reveal £52m loss for year to May 2013, down from £98m, The Guardian, 2014](https://www.theguardian.com/football/2014/jan/29/manchester-city-loss-wage-bill-income)
-        
     - `City’s matchday and TV income were similar to 2011-12, but other commercial income, principally from sponsorship by the Abu Dhabi airline Etihad, and other Abu Dhabi and international sponsors, rose from £107m in 2011-12 to £143m.` — [Manchester City reveal £52m loss for year to May 2013, down from £98m, The Guardian, 2014](https://www.theguardian.com/football/2014/jan/29/manchester-city-loss-wage-bill-income)
-        
 - On 29 January 2014, Manchester City's published accounts showed the scale of the investment made since the 2008 takeover. The club had spent £712m on transfer fees over the five years and Sheikh Mansour had provided almost £1bn to the club.
-    
     - `In those five years, City have spent £712m on transfer fees alone, including last summer's £102m outlay on five new players.` — [Manchester City reveal £52m loss for year to May 2013, down from £98m, The Guardian, 2014](https://www.theguardian.com/football/2014/jan/29/manchester-city-loss-wage-bill-income)
-        
     - `The accounts show Sheikh Mansour had paid almost exactly £1bn into City since his 2008 takeover, including £190m last year.` — [Manchester City reveal £52m loss for year to May 2013, down from £98m, The Guardian, 2014](https://www.theguardian.com/football/2014/jan/29/manchester-city-loss-wage-bill-income)
-        
 - On 15 April 2014, as UEFA prepared to rule on the clubs under investigation, Manchester City said it was confident its finances complied with the Financial Fair Play requirements. The club pointed to the substantial reduction in its losses over the preceding two years.
-    
     - `Manchester City are confident their finances are in good order as Uefa prepares to rule if any club should face sanctions under its financial fair play regulations.` — [Manchester City confident of satisfying Uefa financial fair play rules, The Guardian, 2014](https://www.theguardian.com/football/2014/apr/15/manchester-city-uefa-financial-fair-play-rules)
-        
     - `While City have made total losses of around £150m in the past two seasons, the trend is downwards with the sum twice being halved.` — [Manchester City confident of satisfying Uefa financial fair play rules, The Guardian, 2014](https://www.theguardian.com/football/2014/apr/15/manchester-city-uefa-financial-fair-play-rules)
-        
 - On 2 May 2014, UEFA confirmed that investigations had been opened into nine clubs following concerns over compliance with the Financial Fair Play regulations. Manchester City was among the clubs subsequently involved in the settlement process.
-    
     - `The Club Financial Control Body (CFCB) Investigatory Chamber today announced that the nine clubs, for which investigations were opened following non-compliance with Financial Fair Play (FFP) regulations, have individually agreed to settlement agreements.` — [Nine clubs sign settlement agreements, UEFA, 2014](https://www.uefa.com/news-media/news/0215-0f8a585ec7de-874f31f5f843-1000--nine-clubs-sign-settlement-agreements/)
 
 # The Charges
