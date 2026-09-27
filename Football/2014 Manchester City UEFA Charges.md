@@ -296,17 +296,3 @@
         
     - `The £23m loss includes the £16m financial fair play penalty.` — [Manchester City turnover reaches £347m with losses cut to £23m, The Guardian, 2014](https://www.theguardian.com/football/2014/dec/03/manchester-city-financial-results)
         
-
-## Outcome
-
-- The 2014 UEFA action was an FFP investigation and settlement process rather than a criminal or court “charge”. UEFA determined that Manchester City had not complied with the applicable break-even requirements and concluded a settlement with the club on 16 May 2014.
-    
-- The settlement required City to pay €60m in total, although €40m was conditional and could be returned if the club complied with the agreed conditions.
-    
-- City were restricted to a 21-player Champions League A-list for 2014–15, subject to the locally-trained-player provisions.
-    
-- City faced limits on transfer spending, restrictions on the growth of its relevant wage bill and maximum permitted losses of €20m in 2014 and €10m in 2015.
-    
-- The agreement also imposed continuing monitoring, with non-compliance capable of referral to UEFA's CFCB Adjudicatory Chamber.
-    
-- City maintained during the process that it had complied with the rules according to its interpretation of the regulations, but ultimately accepted the settlement rather than continue the dispute through UEFA's adjudicatory process.
