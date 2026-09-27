@@ -62,182 +62,189 @@
 # Aftermath
 
 
+- On 14 April 2014, UEFA's Financial Fair Play investigation reached the stage where Manchester City and 75 other clubs were being assessed by the Club Financial Control Body. City's combined losses for the 2011–12 and 2012–13 seasons were around £149m.
+    `Manchester City and Paris Saint-Germain are among the European clubs who will learn this week whether they are deemed to be in serious breach of Uefa's financial fair play rules.`
+    
+    `The Club Financial Control Body's (CFCB) investigatory chamber, headed by the former Belgium prime minister Jean-Luc Dehaene, is to meet on Tuesday and Wednesday to consider the cases of 76 clubs. Those considered to have committed serious breaches of Uefa's break-even rules will be referred to the CFCB's adjudicatory panel for a final verdict, with Uefa to announce details of all sanctions around 5 May. The sanctions could include being barred from European competition.`
+    
+    `Manchester City, who have lost £149m in the past two seasons, and PSG are both understood to be among the 76 clubs under investigation. The CFCB panel will have four options open to them: to dismiss the case; to agree a settlement with the club effectively putting them on probation; to issue a reprimand and fine of up to €100,000; or in serious cases to refer the club to the adjudicatory chamber. The clubs should therefore know their position, and how much they have to fear, by the end of the week.` — [Manchester City and Paris Saint-Germain face financial fair play fate, The Guardian, 2014](https://www.theguardian.com/football/2014/apr/14/manchester-city-psg-ffp-uefa-set-learn-fate)
+- On 15 April 2014, City publicly expressed confidence that its financial position was improving and that it expected to reach break-even.
+    `Manchester City are confident their finances are in good order as Uefa prepares to rule if any club should face sanctions under its financial fair play regulations.`
+    
+    `A decision may not be made until early May when City, or any other of the 76 clubs being investigated, could face a probationary period, be fined, have a transfer embargo imposed on them, or even be excluded from European competition if found guilty.`
+    
+    `While City have made total losses of around £150m in the past two seasons, the trend is downwards with the sum twice being halved. In 2012-13 the deficit was £51.6m and the club is intent that it will break even in the near future.` — [Manchester City confident of satisfying Uefa financial fair play rules, The Guardian, 2014](https://www.theguardian.com/football/2014/apr/15/manchester-city-uefa-financial-fair-play-rules)
+- On 19 April 2014, UEFA confirmed that the CFCB Investigatory Chamber had held a two-day meeting concerning the FFP investigations, but that the process was still ongoing.
+    
+    `The Investigatory Chamber of the Club Financial Control Body (CFCB) held a two-day meeting last week where it deliberated on the investigations relating to financial fair play.`
+    
+    `The procedure is ongoing and any findings of the Investigatory Chamber will be published after its next meeting, which is scheduled to take place in the first week of May.`
+    
+    `UEFA will not comment further until these proceedings are concluded.`
+    
+    — [UEFA financial fair play statement, UEFA, 2014](https://www.uefa.com/news-media/news/0214-0e8a3094f1d3-34a548371565-1000--uefa-financial-fair-play-statement/)
+    
+- On 28 April 2014, UEFA began offering settlement agreements to clubs it considered to have breached the FFP rules. Manchester City and PSG were among the clubs offered settlements.
+    
+    `Manchester City and Paris Saint-Germain are among a number of clubs who have been offered settlements for breaching financial fair play rules, it can be revealed.`
+    
+    `Uefa's club financial control board has made offers to all the clubs deemed to have breached the rules in advance of its meeting on Thursday.`
+    
+    `The clubs – understood to be fewer than 20 in total and including Manchester City and PSG – can either accept the offer of the sanctions, which could range from a reprimand to a fine and up to restrictions on squads for European competition next season, or try to negotiate a lesser punishment. If no agreement is reached, the outstanding cases will go to an adjudicatory panel for a final decision.`
+    
+    — [Manchester City and PSG offered deals over financial fair play, The Guardian, 2014](https://www.theguardian.com/football/2014/apr/28/manchester-city-financial-fair-play-settlements-offer)
+    
+- On 30 April 2014, reporting focused on the treatment of related-party sponsorships when UEFA calculated the clubs' break-even positions. City's Etihad sponsorship was particularly significant.
+    
+    `In both cases, a key factor will be whether Uefa's CFCB board has calculated that PSG's deal with the Qatar Tourism Authority and Manchester City's sponsorship deal with Etihad should be discounted under "related party" rules.`
+    
+    `It is understood that PSG and Manchester City are among the clubs judged to have failed the break-even test and that both are likely to face a combination of financial and sporting sanctions.`
+    
+    — [Financial fair play: how it works and the penalties clubs could face, The Guardian, 2014](https://www.theguardian.com/football/2014/apr/30/football-financial-fair-play-how-it-works)
+    
+- On 2 May 2014, UEFA confirmed that nine of the original 76 clubs remained under examination. Manchester City and PSG were reported to be among those nine.
+    
+    `Of the 76 clubs asked to submit more information to the Club Financial Control Body regarding compliance with Financial Fair Play (FFP), examinations will continue into nine of them.`
+    
+    `From that group, the examination as regards 67 clubs has come to an end and continues only in relation to the nine remaining clubs.`
+    
+    `Further information shall be provided once this process has been completed.`
+    
+    — [Nine FFP investigations opened, UEFA, 2014](https://www.uefa.com/news-media/news/0215-0f8a9467e2e2-6209dddc723e2-6209dddc723f-1000--nine-ffp-investigations-opened/)
+    
+- On 2 May 2014, reporting identified City and PSG as two of the clubs still facing possible sanctions.
+    
+    `Uefa has confirmed that nine clubs, believed to include Manchester City and Paris Saint-Germain, remain at risk of punishment under its financial fair play rules designed to curb overspending.`
+    
+    `Uefa had originally said 76 clubs merited further investigation under rules that limit losses to €45m (£37m) over a two-year period.`
+    
+    `The initial calculations cover the 2011-12 and 2012-13 seasons.`
+    
+    — [Manchester City and PSG at risk of sanctions over financial fair play, The Guardian, 2014](https://www.theguardian.com/football/2014/may/02/manchester-city-psg-uefa-financial-fair-play)
+    
+- On 5 May 2014, City remained some distance from agreeing to UEFA's proposed settlement. Failure to agree would have resulted in referral to the adjudicatory panel.
+    
+    `Manchester City are still a long way off agreeing a settlement with Uefa over sanctions for breaking financial fair play rules, it can be disclosed.`
+    
+    `The club have until the end of the week to agree to the sanctions or face the case being handed to a panel for a non-negotiable decision.`
+    
+    `The initial settlement offer made to City included financial restrictions on their Champions League squad for next season, and possibly a cut in the size of it, as well as a heavy fine.`
+    
+    — [Manchester City yet to agree punishment with Uefa over FFP, The Guardian, 2014](https://www.theguardian.com/football/2014/may/05/manchester-city-settlement-uefa-financial-fair-play)
+    
+- On 6 May 2014, the proposed settlement terms became clearer: a €60m fine, a 21-player Champions League squad and a restriction on the relevant wage bill.
+    
+    `Manchester City are facing Uefa sanctions for breaching financial fair play rules which would see the club limited to a 21-man Champions League squad instead of the usual 25 players next season.`
+    
+    `City, who are still strongly challenging the settlement offer from Uefa, are also facing a fine in the region of €60m (£49m) over three years, and a cap imposed for next season to ensure there is no rise in this season's Champions League A squad wage bill.`
+    
+    `The reduction in the size of the Champions League squad to 21 would potentially hit the club hardest, and City would also have to ensure that there are still eight locally-trained players in that A squad.`
+    
+    — [Manchester City face £49m fine and wage cap for financial fair play breach, The Guardian, 2014](https://www.theguardian.com/football/2014/may/06/manchester-city-face-49m-fine-wage-cap-financial-fair-play)
+    
+- On 10 May 2014, City was the only one of the nine clubs that had not accepted its proposed settlement by the initial deadline.
+    
+    `Uefa set a deadline of Friday for City to accept a €60m (£49m) settlement to be paid to the European governing body over three years, a 21-player limit to next season's Champions League squad and a wage cap to the current level.`
+    
+    `Eight of the nine clubs sanctioned, including PSG, have apparently settled, but City's ownership faced down Friday's deadline.`
+    
+    `City have long argued that despite combined losses of a shade over £150m during the two seasons under consideration (2011-12 and 2012-13) they deserve to pass Uefa's financial test.`
+    
+    `City insist their sponsorships were properly agreed, and that Etihad receives good value.`
+    
+    — [Manchester City take the lead to face down Uefa over break-even rules, The Guardian, 2014](https://www.theguardian.com/football/david-conn-inside-sport-blog/2014/may/10/manchester-city-face-down-uefa-financial-fair-play)
+    
+- On 13 May 2014, negotiations were still unresolved. UEFA had reportedly presented City with a “take it or leave it” offer, while City maintained that it narrowly complied with the rules according to its interpretation.
+    
+    `Manchester City have not yet reached a settlement with Uefa over the proposed sanctions they face for breaking financial fair play rules.`
+    
+    `Uefa had hoped that Manchester City would agree to a fine of €60m (£49m) and restrictions on their European squad by the end of last week and had issued a "take it or leave it" offer over the weekend.`
+    
+    `But the Manchester club, furious at being bracketed with Paris Saint-Germain and convinced they narrowly complied with the new rules according to their reading of them, have yet to settle with Uefa.`
+    
+    `If no settlement is reached, the matter will be passed to the adjudicatory arm of Uefa's independent club financial control board, which has the power to impose an even heavier sanction.`
+    
+    — [Manchester City's financial fair play deal is still on the rocks, The Guardian, 2014](https://www.theguardian.com/football/2014/may/13/manchester-city-financial-fair-play-deal)
+    
+- On 16 May 2014, City accepted UEFA's settlement agreement. The agreement imposed financial, sporting and monitoring conditions.
+    
+    `The Club Financial Control Body (CFCB) Investigatory Chamber today announced that the nine clubs, for which investigations were opened following non-compliance with Financial Fair Play (FFP) regulations, have individually agreed to settlement agreements.`
+    
+    `These agreements are aimed at ensuring each club achieves break-even compliance with minimal delay.`
+    
+    `Sporting measures: Defined as limitations on (i) the number of players included on the ‘A’ list related to UEFA competitions.`
+    
+    `Financial contributions: Defined as money withheld from revenues earned from participation in UEFA competitions.`
+    
+    `Each club will be subject to ongoing monitoring, and any case of non-compliance with the terms of their agreement will be automatically referred to the CFCB Adjudicatory Chamber.`
+    
+    — [Nine clubs sign settlement agreements, UEFA, 2014](https://www.uefa.com/news-media/news/0215-0f8a585ec7de-874f31f5f843-1000--nine-clubs-sign-settlement-agreements/)
+    
+- On 16 May 2014, the specific Manchester City settlement required a total €60m payment, of which €40m was conditional on compliance. It also imposed transfer-spending and squad-registration restrictions.
+    
+    `Manchester City agrees to pay a total amount of EUR 60 Mio.`
+    
+    `Of this EUR 60 Mio. an amount of EUR 40 Mio. will be withheld conditionally and will be returned to Manchester City if the club fulfills the operational and financial measures agreed with the UEFA CFCB.`
+    
+    `Manchester City agrees to significantly limit spending in the transfer market for seasons 2014/2015 and 2015/2016.`
+    
+    `Manchester City further accepts a calculated limitation on the number of new registrations it may include within their “A” List.`
+    
+    `The compliance with the Settlement Agreement will be subject to on-going and in depth monitoring, in accordance with the applicable rules.`
+    
+    — [Manchester City FC - Settlement Agreement - May 2014, UEFA, 2014](https://editorial.uefa.com/resources/0258-0e2dedb2acec-2bcb7225d41a-1000/manchester_city_fc_-_settlement_agreement_-_may-2014.pdf)
+    
+- On 16 May 2014, contemporary reporting described the practical consequences of the settlement: a 21-player European squad, transfer restrictions, maximum losses and a wage-bill restriction.
+    
+    `Manchester City have reluctantly accepted a conditional £49m fine and restrictions on their European squad and incoming transfers under Uefa's new financial fair play regime.`
+    
+    `Under the complex ruling the club must also agree to a string of other conditions: maximum losses of €20m in 2014 and €10m in 2015, to cap their wage bill at current levels for the next two seasons and to "significantly limit" spending in the transfer market for the same period.`
+    
+    `The sanctions will limit Manuel Pellegrini's options when it comes to naming his 21-man European squad, cut from the usual 25, of which eight must qualify as "homegrown".`
+    
+    `If they comply with those conditions, they will get back €40m of the €60m fine, which will be deducted from their Uefa prize money over the next three years.`
+    
+    — [Manchester City accept £49m fine and transfer cap from Uefa over FFP, The Guardian, 2014](https://www.theguardian.com/football/2014/may/16/manchester-city-fine-transfer-cap-uefa-ffp)
+    
+- On 23 May 2014, UEFA confirmed the principles governing the reduced squad sizes for clubs subject to the settlement agreements.
+    
+    `Should a club be entitled to register a maximum number of 21 players on the A list, the minimum number of places exclusively reserved for 'locally trained players' shall be five instead of eight.`
+    
+    `Should a club be entitled to register a maximum number of 22 players on the A list, the minimum number of places exclusively reserved for 'locally trained players' shall be six instead of eight.`
+    
+    — [Settlement player list principles confirmed, UEFA, 2014](https://www.uefa.com/news-media/news/0216-0e8b11e0e9dc-cb8209816719-1000--settlement-player-list-principles-confirmed/)
+    
+- On 11 June 2014, UEFA confirmed that all nine settlement clubs would remain under monitoring and that non-compliance could result in referral to the CFCB Adjudicatory Chamber.
+    
+    `All nine clubs which have signed settlement agreements will be subject to ongoing monitoring.`
+    
+    `Any case of non-compliance with the terms of their agreement will be automatically referred to the Club Financial Control Body (CFCB) Adjudicatory Chamber.`
+    
+    `UEFA also confirms that no reviews were requested of the settlement agreements.`
+    
+    — [Settlement player list principles confirmed, UEFA, 2014](https://www.uefa.com/news-media/news/0216-0e8b11e0e9dc-cb8209816719-1000--settlement-player-list-principles-confirmed/)
+    
+- On 3 December 2014, City's published accounts showed that its annual loss had fallen to £23m for 2013–14, while turnover reached £347m.
+    
+    `Manchester City believe they will comply with Uefa’s financial fair play break-even rules this season after announcing they reduced their annual loss to £23m in 2013-14.`
+    
+    `In the season during which the club won the Premier League and Capital One Cup trophies, City made income of £347m, a £76m increase on 2012-13, by far a record for the club.`
+    
+    `The £23m loss includes the £16m reduction in Champions League payments from Uefa because of City breaching FFP rules over the 2012 and 2013 accounting years.`
+    
+    — [Manchester City turnover reaches £347m with losses cut to £23m, The Guardian, 2014](https://www.theguardian.com/football/2014/dec/03/manchester-city-financial-results)
+    
 
+## Outcome
 
-- On 14 April 2014, UEFA's Financial Fair Play investigation reached the stage where Manchester City and 75 other clubs were being assessed by the Club Financial Control Body (CFCB). City's combined losses for the 2011–12 and 2012–13 seasons were around £149m, although UEFA's rules permitted certain expenditures to be excluded from the break-even calculation.
-    - `Manchester City and Paris Saint-Germain are among the European clubs who will learn this week whether they are deemed to be in serious breach of Uefa's financial fair play rules.`
-        
-    - `The CFCB's investigatory chamber ... is to meet on Tuesday and Wednesday to consider the cases of 76 clubs.`
-        
-    - `Manchester City, who have lost £149m in the past two seasons, and PSG are both understood to be among the 76 clubs under investigation.`
-        
-    - `Clubs can lose up to €45m (£37m) over the last two years under Uefa's rules.`
-        
-    - `City made losses of £97.9m in 2012 and £51.6m last year, but can write off sums spent on facilities, youth development and a number of other items.` — [Manchester City and Paris Saint-Germain face financial fair play fate, The Guardian, 2014](https://www.theguardian.com/football/2014/apr/14/manchester-city-psg-ffp-uefa-set-learn-fate)
-        
-- On 15 April 2014, Manchester City publicly maintained that its financial position was improving and that it expected to reach break-even, despite the size of its historic losses. UEFA's investigatory chamber was preparing to consider the cases.
+- UEFA's 2014 action against Manchester City was an FFP investigation followed by a negotiated settlement, rather than a criminal or court charge.
     
-    - `Manchester City are confident their finances are in good order as Uefa prepares to rule if any club should face sanctions under its financial fair play regulations.`
-        
-    - `While City have made total losses of around £150m in the past two seasons, the trend is downwards with the sum twice being halved.`
-        
-    - `In 2012-13 the deficit was £51.6m and the club is intent that it will break even in the near future.`
-        
-    - `A decision may not be made until early May when City ... could face a probationary period, be fined, have a transfer embargo imposed on them, or even be excluded from European competition if found guilty.` — [Manchester City confident of satisfying Uefa financial fair play rules, The Guardian, 2014](https://www.theguardian.com/football/2014/apr/15/manchester-city-uefa-financial-fair-play-rules)
-        
-- On 19 April 2014, UEFA confirmed that the CFCB Investigatory Chamber had already held a two-day meeting to deliberate on the FFP investigations, but that no findings would be published until its next meeting in early May.
+- The settlement required a €60m total financial contribution, with €40m conditional on compliance.
     
-    - `The Investigatory Chamber of the Club Financial Control Body (CFCB) held a two-day meeting last week where it deliberated on the investigations relating to financial fair play.`
-        
-    - `The procedure is ongoing and any findings of the Investigatory Chamber will be published after its next meeting, which is scheduled to take place in the first week of May.`
-        
-    - `UEFA will not comment further until these proceedings are concluded.` — [UEFA financial fair play statement, UEFA, 2014](https://www.uefa.com/news-media/news/0214-0e8a3094f1d3-34a548371565-1000--uefa-financial-fair-play-statement/)
-        
-- On 28 April 2014, UEFA began offering settlement agreements to clubs it considered to have breached the FFP rules. Manchester City and Paris Saint-Germain were among the clubs offered settlements, with failure to agree potentially sending the cases to the CFCB's adjudicatory panel.
+- City's Champions League squad was restricted to 21 players for the relevant season.
     
-    - `Manchester City and Paris Saint-Germain are among a number of clubs who have been offered settlements for breaching financial fair play rules, it can be revealed.`
-        
-    - `The clubs ... can either accept the offer of the sanctions ... or try to negotiate a lesser punishment.`
-        
-    - `If no agreement is reached, the outstanding cases will go to an adjudicatory panel for a final decision.`
-        
-    - `City have been working closely with Uefa to try to ensure they comply with spending rules, which limit losses to €45m over the last two years.` — [Manchester City and PSG offered deals over financial fair play, The Guardian, 2014](https://www.theguardian.com/football/2014/apr/28/manchester-city-financial-fair-play-settlements-offer)
-        
-- On 30 April 2014, contemporary reporting focused on how UEFA would treat sponsorship and other related-party transactions when calculating City's break-even position. The Etihad sponsorship was particularly significant because of its connection to City's Abu Dhabi ownership.
+- City accepted restrictions on transfer spending, its relevant wage bill and permitted losses.
     
-    - `The ins and outs of how Uefa plans to bring the highest spending clubs – including, probably, Manchester City – to heel.`
-        
-    - `Many of its critics argue it will simply do the opposite, locking in the natural order and allowing big clubs to cement their position because they have the biggest revenues.` — [Financial fair play: how it works and the penalties clubs could face, The Guardian, 2014](https://www.theguardian.com/football/2014/apr/30/football-financial-fair-play-how-it-works)
-        
-- On 2 May 2014, UEFA formally confirmed that nine of the original 76 clubs remained under examination. Manchester City and PSG were widely reported at the time as being among those nine, although UEFA's own announcement did not name the clubs.
+- The agreement imposed continuing monitoring, with non-compliance capable of referral to UEFA's CFCB Adjudicatory Chamber.
     
-    - `Of the 76 clubs asked to submit more information to the Club Financial Control Body regarding compliance with Financial Fair Play (FFP), examinations will continue into nine of them.`
-        
-    - `From that group, the examination as regards 67 clubs has come to an end and continues only in relation to the nine remaining clubs.`
-        
-    - `Further information shall be provided once this process has been completed.` — [Nine FFP investigations opened, UEFA, 2014](https://www.uefa.com/news-media/news/0215-0f8a9467e2e2-6209dddc723f-1000--nine-ffp-investigations-opened/)
-        
-- On 2 May 2014, reporting identified Manchester City and PSG as two of the nine clubs still at risk of sanctions. The contemporary description of the FFP calculation was that clubs could lose €45m over the relevant two-year period after specified exclusions.
-    
-    - `Uefa has confirmed that nine clubs, believed to include Manchester City and Paris Saint-Germain, remain at risk of punishment under its financial fair play rules designed to curb overspending.`
-        
-    - `Uefa had originally said 76 clubs merited further investigation under rules that limit losses to €45m (£37m) over a two-year period.`
-        
-    - `The investigatory chamber of Uefa's Club Financial Control Body met in Nyon over Thursday and Friday amid negotiations with the nine unidentified clubs.` — [Manchester City and PSG at risk of sanctions over financial fair play, The Guardian, 2014](https://www.theguardian.com/football/2014/may/02/manchester-city-psg-uefa-financial-fair-play)
-        
-- On 5 May 2014, Manchester City had not reached agreement with UEFA and was reportedly one of the clubs furthest from accepting its proposed settlement. The alternative was referral to the adjudicatory panel.
-    
-    - `Manchester City are still a long way off agreeing a settlement with Uefa over sanctions for breaking financial fair play rules, it can be disclosed.`
-        
-    - `The club have until the end of the week to agree to the sanctions or face the case being handed to a panel for a non-negotiable decision.`
-        
-    - `The initial settlement offer made to City included financial restrictions on their Champions League squad for next season, and possibly a cut in the size of it, as well as a heavy fine.`
-        
-    - `The risk, however, is that if they are unable to agree a deal with Uefa then they could face even stiffer sanctions from the European game's club financial control board's adjudicatory panel.` — [Manchester City yet to agree punishment with Uefa over FFP, The Guardian, 2014](https://www.theguardian.com/football/2014/may/05/manchester-city-settlement-uefa-financial-fair-play)
-        
-- On 6 May 2014, the proposed settlement terms became clearer. City faced a €60m fine, a Champions League squad reduced from 25 to 21 players and a restriction on the wage bill.
-    
-    - `Manchester City are facing Uefa sanctions for breaching financial fair play rules which would see the club limited to a 21-man Champions League squad instead of the usual 25 players next season.`
-        
-    - `City ... are also facing a fine in the region of €60m (£49m) over three years.`
-        
-    - `A cap [would be] imposed for next season to ensure there is no rise in this season's Champions League A squad wage bill.`
-        
-    - `City have until the end of the week to reach an agreement with Uefa over the sanctions.` — [Manchester City face £49m fine and wage cap for financial fair play breach, The Guardian, 2014](https://www.theguardian.com/football/2014/may/06/manchester-city-face-49m-fine-wage-cap-financial-fair-play)
-        
-- On 6 May 2014, City was considering whether to accept UEFA's proposed punishment or challenge it through the adjudicatory process. Contemporary reporting described the decision as carrying the possibility of a more severe sanction if no settlement was reached.
-    
-    - `Manchester City ... are considering taking on Uefa's new financial fair play regime.`
-        
-    - `Manchester City must decide whether to reluctantly accept the punishment on the table or face the matter being referred to the club financial control body's adjudicatory chamber.` — [Manchester City may yet challenge Uefa's £50m FFP fine and squad limit, The Guardian, 2014](https://www.theguardian.com/football/2014/may/06/manchester-city-consider-challenging-uefa-penalties)
-        
-- On 10 May 2014, City became the only one of the nine clubs that had not accepted its proposed settlement by the initial deadline. The reported offer was a €60m payment, a 21-player Champions League squad and a wage cap.
-    
-    - `Uefa set a deadline of Friday for City to accept a €60m (£49m) settlement to be paid to the European governing body over three years.`
-        
-    - `Eight of the nine clubs sanctioned, including PSG, have apparently settled, but City's ownership faced down Friday's deadline.`
-        
-    - `City's executives are understood to argue emphatically that they have not breached the rules.`
-        
-    - `City are understood to be adamant, however, that their £151m loss is brought within that much smaller limit after they discount major expenditure on youth development, community work and infrastructure.`
-        
-    - `City insist their sponsorships were properly agreed, and that Etihad receives good value.` — [Manchester City take the lead to face down Uefa over break-even rules, The Guardian, 2014](https://www.theguardian.com/football/david-conn-inside-sport-blog/2014/may/10/manchester-city-face-down-uefa-financial-fair-play)
-        
-- On 13 May 2014, negotiations remained unresolved. UEFA had presented what was described as a “take it or leave it” offer, while City maintained that it narrowly complied with the rules according to its interpretation.
-    
-    - `Manchester City have not yet reached a settlement with Uefa over the proposed sanctions they face for breaking financial fair play rules.`
-        
-    - `Uefa had hoped that Manchester City would agree to a fine of €60m (£49m) and restrictions on their European squad.`
-        
-    - `Uefa ... had issued a "take it or leave it" offer over the weekend.`
-        
-    - `If no settlement is reached, the matter will be passed to the adjudicatory arm of Uefa's independent club financial control board, which has the power to impose an even heavier sanction.` — [Manchester City's financial fair play deal is still on the rocks, The Guardian, 2014](https://www.theguardian.com/football/2014/may/13/manchester-city-financial-fair-play-deal)
-        
-- On 16 May 2014, Manchester City accepted UEFA's settlement agreement. The agreement imposed financial, sporting and monitoring conditions, with the headline sanction being a conditional €60m payment and a 21-player Champions League squad.
-    
-    - `The Club Financial Control Body (CFCB) Investigatory Chamber today announced that the nine clubs ... have individually agreed to settlement agreements.`
-        
-    - `These agreements are aimed at ensuring each club achieves break-even compliance with minimal delay.`
-        
-    - `Break-even targets: Defined as ... annual and aggregate break-even results ... and/or restrictions on the level of revenue from sponsorship/inter-company transactions.`
-        
-    - `Sporting measures: Defined as limitations on ... the number of players included on the ‘A’ list related to UEFA competitions.`
-        
-    - `Financial contributions: Defined as money withheld from revenues earned from participation in UEFA competitions.`
-        
-    - `Each club will be subject to ongoing monitoring, and any case of non-compliance with the terms of their agreement will be automatically referred to the CFCB Adjudicatory Chamber.` — [Nine clubs sign settlement agreements, UEFA, 2014](https://www.uefa.com/news-media/news/0215-0f8a585ec7de-874f31f5f843-1000--nine-clubs-sign-settlement-agreements/)
-        
-- On 16 May 2014, the specific Manchester City settlement required a total €60m payment, of which €40m was conditional on compliance. It also imposed transfer-spending restrictions, limitations on new UEFA registrations and continuing financial monitoring.
-    
-    - `Manchester City agrees to pay a total amount of EUR 60 Mio.`
-        
-    - `Of this EUR 60 Mio. an amount of EUR 40 Mio. will be withheld conditionally and will be returned to Manchester City if the club fulfills the operational and financial measures agreed with the UEFA CFCB.`
-        
-    - `Manchester City agrees to significantly limit spending in the transfer market for seasons 2014/2015 and 2015/2016.`
-        
-    - `Manchester City further accepts a calculated limitation on the number of new registrations it may include within their “A” List.`
-        
-    - `The compliance with the Settlement Agreement will be subject to on-going and in depth monitoring.`
-        
-    - `Manchester City also undertakes to provide the CFCB with a Progress Report ... on a six monthly basis.` — [Manchester City FC - Settlement Agreement - May 2014, UEFA, 2014](https://editorial.uefa.com/resources/0258-0e2dedb2acec-2bcb7225d41a-1000/manchester_city_fc_-_settlement_agreement_-_may_2014.pdf)
-        
-- On 16 May 2014, reporting on the settlement described the practical sporting and financial restrictions imposed on City. The club's losses were capped at €20m for 2014 and €10m for 2015, while its wage bill was restricted.
-    
-    - `Manchester City have reluctantly accepted a conditional £49m fine and restrictions on their European squad and incoming transfers under Uefa's new financial fair play regime.`
-        
-    - `Under the complex ruling the club must also agree to a string of other conditions: maximum losses of €20m in 2014 and €10m in 2015.`
-        
-    - `The club must also cap its wage bill at current levels for the next two seasons.`
-        
-    - `If they comply with those conditions, they will get back €40m of the €60m fine.` — [Manchester City accept £49m fine and transfer cap from Uefa over FFP, The Guardian, 2014](https://www.theguardian.com/football/2014/may/16/manchester-city-fine-transfer-cap-uefa-ffp)
-        
-- On 20 May 2014, the European Commission rejected a separate legal complaint against UEFA's Financial Fair Play regulations. The complaint was brought by Belgian players' agent Daniel Striani and was separate from City's settlement.
-    
-    - `Uefa has defeated a legal challenge to its financial fair play rules, which have been upheld by the European Commission.`
-        
-    - `The rules, which require clubs to move towards financially breaking even and have recently been enforced for the first time, were challenged last year by Daniel Striani.`
-        
-    - `The EC rejected the complaint, saying that the financial fair play rules apply to clubs, not to players' agents.` — [Uefa defeats legal challenge to financial fair play rules, The Guardian, 2014](https://www.theguardian.com/football/2014/may/20/uefa-defeats-financial-fair-play-challenge)
-        
-- On 23 May 2014, UEFA's Emergency Panel confirmed principles governing the reduced European squad sizes contained in the settlement agreements. The principles were formally reported by UEFA on 11 June.
-    
-    - `Should a club be entitled to register a maximum number of 21 players on the A list, the minimum number of places exclusively reserved for 'locally trained players' shall be five instead of eight.`
-        
-    - `Should a club be entitled to register a maximum number of 22 players on the A list, the minimum number of places exclusively reserved for 'locally trained players' shall be six instead of eight.` — [Settlement player list principles confirmed, UEFA, 2014](https://www.uefa.com/news-media/news/0216-0e8b11e0e9dc-cb8209816719-1000--settlement-player-list-principles-confirmed/)
-        
-- On 11 June 2014, UEFA confirmed that all nine clubs which had signed settlement agreements would remain subject to ongoing monitoring and could be referred to the CFCB Adjudicatory Chamber for non-compliance.
-    
-    - `All nine clubs which have signed settlement agreements will be subject to ongoing monitoring.`
-        
-    - `Any case of non-compliance with the terms of their agreement will be automatically referred to the Club Financial Control Body (CFCB) Adjudicatory Chamber.`
-        
-    - `UEFA also confirms that no reviews were requested of the settlement agreements.` — [Settlement player list principles confirmed, UEFA, 2014](https://www.uefa.com/news-media/news/0216-0e8b11e0e9dc-cb8209816719-1000--settlement-player-list-principles-confirmed/)
-        
-- On 3 December 2014, City's published 2013–14 accounts showed that the club had reduced its annual loss to £23m while turnover reached £347m. The reported loss included £16m associated with UEFA's FFP sanction.
-    
-    - `Manchester City believe they will comply with Uefa’s financial fair play break-even rules this season after announcing they reduced their annual loss to £23m in 2013-14.`
-        
-    - `In the season during which the club won the Premier League and Capital One Cup trophies, City made income of £347m.`
-        
-    - `The £23m loss includes the £16m financial fair play penalty.` — [Manchester City turnover reaches £347m with losses cut to £23m, The Guardian, 2014](https://www.theguardian.com/football/2014/dec/03/manchester-city-financial-results)
-        
+- City maintained that it had complied with the rules according to its interpretation, but accepted the settlement rather than continuing to the adjudicatory stage.
