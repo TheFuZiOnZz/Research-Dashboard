@@ -79,21 +79,9 @@
 # Appeal
 
 - On 25 March 2024, Nottingham Forest formally appealed the independent Commission's four-point deduction. The appeal challenged the Commission's treatment of the Brennan Johnson sale as a mitigating factor and its decision not to suspend some or all of the points deduction.
-    
-    - `Nottingham Forest Football Club has appealed the decision of an independent Commission to impose a four-point deduction on the club, after its admission of a breach of the Premier League’s Profitability and Sustainability Rules.`
-        
-        `The club lodged the appeal to the Chair of the Judicial Panel today, who will now appoint an Appeal Board to hear the case.` — [Nottingham Forest FC appeal decision of independent Commission, Premier League, 2024](https://www.premierleague.com/en/news/3941350)
-        
-- On 24 April 2024, an independent three-person Appeal Board considered Forest's appeal. The Board examined the club's arguments concerning the treatment of Johnson's post-deadline sale and the Commission's decision to impose an immediate rather than suspended points deduction.
-    
-    - `The club argued that the independent Commission committed an error in not treating its sale of a high-profile player shortly after the assessment period as a mitigating factor, and that it committed a further error in electing not to suspend some or all of the points deduction it imposed.` — [Independent Appeal Board decision on Nottingham Forest, Premier League, 2024](https://www.premierleague.com/en/news/3999776)
-        
-- On 7 May 2024, the independent Appeal Board rejected Forest's appeal and upheld the four-point deduction. The Board found that the Commission had been entitled to impose the immediate sanction and rejected both grounds advanced by the club.
-    
-    - `An independent Appeal Board has upheld the decision of a Commission to deduct four points from Nottingham Forest following an admitted breach of the Premier League’s Profitability and Sustainability Rules (PSR).`
-        
-        `Each of these grounds was rejected by the Appeal Board, which found the independent Commission was entitled to immediately impose the sanction it did. The four-point deduction will therefore remain in place.` — [Independent Appeal Board decision on Nottingham Forest, Premier League, 2024](https://www.premierleague.com/en/news/3999776)
-        
+	- `Nottingham Forest have appealed against their four-point deduction for breaching the Premier League’s profit and sustainability rules (PSR).` - [Nottingham Forest appeal against four-point Premier League penalty, The Guardian, 2024](https://www.theguardian.com/football/2024/mar/25/nottingham-forest-appeal-against-four-point-premier-league-penalty-psr)
+- On 6 May 2024, the independent Appeal Board rejected Forest's appeal and upheld the four-point deduction. The Board found that the Commission had been entitled to impose the immediate sanction and rejected both grounds advanced by the club.
+    - ` ` — [Independent Appeal Board decision on Nottingham Forest, Premier League, 2024](https://www.premierleague.com/en/news/3999776)
 
 # Aftermath
 
