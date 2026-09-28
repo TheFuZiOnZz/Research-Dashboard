@@ -1,37 +1,5 @@
 # Background
 
-- On
-	- ` ` - 
-
-# The Charges
-
-- On
-	- ` ` - 
-
-# Conviction
-
-- On
-	- ` ` - 
-
-# Appeal
-
-- On
-	- ` ` - 
-
-# Aftermath
-
-- On
-	- ` ` - 
-
-
-
-
-
-
-
-
-# Background
-
 - On 29 May 2022, Nottingham Forest secured promotion to the Premier League by defeating Huddersfield Town 1–0 in the Championship play-off final at Wembley. Forest had spent the previous two seasons in the Championship, a fact that would later affect the club's applicable Profitability and Sustainability Rules (PSR) threshold.
     - `Nottingham Forest secured promotion to the Premier League for the first time in 23 years with a 1-0 win over Huddersfield Town in the Championship play-off final.` — [Nottingham Forest promoted to Premier League after 1-0 play-off final win over Huddersfield, BBC Sport, 2022](https://www.bbc.co.uk/sport/football/61600792)
 - During the 2022 summer transfer window, Forest made a large number of signings following promotion. The club ultimately signed more than 20 players during the season as it rebuilt its squad for Premier League football.
@@ -80,21 +48,20 @@
 
 - On 25 March 2024, Nottingham Forest formally appealed the independent Commission's four-point deduction. The appeal challenged the Commission's treatment of the Brennan Johnson sale as a mitigating factor and its decision not to suspend some or all of the points deduction.
 	- `Nottingham Forest have appealed against their four-point deduction for breaching the Premier League’s profit and sustainability rules (PSR).` - [Nottingham Forest appeal against four-point Premier League penalty, The Guardian, 2024](https://www.theguardian.com/football/2024/mar/25/nottingham-forest-appeal-against-four-point-premier-league-penalty-psr)
+    - `The Club appeals on two grounds, namely that the Commission erred:`
+      
+      `(i) by not treating the sale by the Club of Player A two months after the end of FY23 as mitigation;`
+      
+      `and`
+      
+      `(ii) by not suspending the sanction in whole or in part.` — [Independent Appeal Board decision on Nottingham Forest, Premier League, 2024](https://www.premierleague.com/en/news/3999776)
 - On 6 May 2024, the independent Appeal Board rejected Forest's appeal and upheld the four-point deduction. The Board found that the Commission had been entitled to impose the immediate sanction and rejected both grounds advanced by the club.
-    - ` ` — [Independent Appeal Board decision on Nottingham Forest, Premier League, 2024](https://www.premierleague.com/en/news/3999776)
-
-# Aftermath
-
-- On 19 May 2024, Forest completed the 2023/24 Premier League season in 17th place with 32 points, three points clear of relegated Luton Town. The four-point deduction was therefore reflected in Forest's final league position and points total.
-    
-    - `Nottingham Forest finished 17th in the Premier League in 2023/24, recording nine wins, nine draws and 20 defeats for 32 points.` — [Nottingham Forest Football Club Season History, Premier League](https://www.premierleague.com/clubs/15/Nottm-Forest/season-history)
-        
-- The Premier League's official season review recorded that Forest's 32-point total was the lowest tally by a team to avoid relegation in Premier League history.
-    
-    - `Forest’s 32 points was the lowest-ever tally for a Premier League team to avoid relegation.` — [2023/24 Premier League end of season REVIEW, Premier League, 2024](https://www.premierleague.com/en/news/4039318)
-        
-- On 7 May 2024, following the rejection of Forest's appeal, the four-point deduction became final. The Premier League subsequently amended the league table notation to record that Forest had been deducted four points following its PSR breach.
-    
-    - `The four-point deduction will therefore remain in place.`
-        
-        `The note attached to the asterisk on the Premier League table will now be amended to read: "Deducted four points following a breach of the Profitability and Sustainability Rules (PSRs)".` — [Independent Appeal Board decision on Nottingham Forest, Premier League, 2024](https://www.premierleague.com/en/news/3999776)
+    - `The Decision was commendably clear and comprehensive. The Club confined its grounds of appeal to what it described as “two distinct and fundamental points of principle”. In our view, neither of the points was one of principle. The challenges were to the way in which the Commission carried out an evaluative exercise which in substance was an exercise of judgment. Its decision fell well within the range of decisions that were reasonably open to it. For that reason, it has not been necessary (and would not be appropriate) for us to carry out a re-evaluation for ourselves.` 
+      
+      `Some of the criticisms of the Decision have involved a minute examination of the words used by the Commission. Decisions such as these should not be subjected to microscopic forensic examination and interpreted as if they were statutes which have been drafted by Parliamentary Counsel. Allegations of infelicities of language or errors which are not material to the ultimate decision add to the complexity and costs of proceedings and are rarely likely to lead to a successful challenge of a decision.`
+      
+      `A further practice that adds to complexity and cost is the citation of other decisions on sanctions imposed for breach of the PSR. We have been assisted by being referred to the appeals in Sheffield Wednesday and Everton 1. That is because the decisions in both cases contained statements of general guidance. But reference to individual cases on particular facts is generally unhelpful and should be avoided.` 
+      
+      `It is understandable that clubs wishing to appeal against sanction will search for other cases to compare the seriousness of the breach in the instant case with that in other cases. As the numbers of these cases increases, there will be growing temptation to examine them in detail and burden Commissions and Appeal Boards with minute examination of the similarities with and differences from the instant case. Such an approach will rarely be helpful.` 
+      
+      `For the reasons that we have given, we are unanimous that the Commission was entitled (and right) to impose the sanction of a deduction of four points and to refuse to suspend it.` — [Independent Appeal Board decision on Nottingham Forest, Premier League, 2024](https://www.premierleague.com/en/news/3999776)
