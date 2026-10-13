@@ -8,5 +8,5 @@
 ## [Philosophical Positions](Philosophical%20Positions/Philosophical%20Positions)
 # Culture
 ## [Red Pill](Red%20Pill/Red%20Pill)
-# [Artificial Intelligence](Artificial%20Intelligence/Artificial%20Intelligence)
-# [Football](Football)
+## [Artificial Intelligence](Artificial%20Intelligence/Artificial%20Intelligence)
+## [Football](Football)
