@@ -9,6 +9,7 @@
     - `The best available evidence using different statistical approaches—panel data regression and synthetic control—with varying strengths and shortcomings and with different model specifications all suggest that the net effect of state adoption of RTC laws is a substantial increase in violent crime. (13-15% higher violent crime)` - [Right-to-Carry Laws and Violent Crime: A Comprehensive Assessment Using Panel Data and a State-Level Synthetic Control Analysis, Donohue et al., 2019](https://annas-archive.org/scidb/10.1111/jels.12219)
 - A 2019 paper found that:
     - `This study finds that the rich–poor gap, citizens’ levels of trust in institutions, economic opportunity, and public welfare spending are associated with rates of firearm-related homicides in the US. Further elucidating and modifying the social and economic drivers of firearm related homicides and mass shootings—possibly through candidate levers including taxation policies and policies that increase college affordability—are essential if the US as a nation is to effectively address the epidemic of gun homicides, and reverse recent trends in life expectancy among Americans.` - [Social determinants of health in relation to firearm-related homicides in the United States: A nationwide multilevel cross-sectional study, Kim, 2019](https://annas-archive.org/scidb/10.1371/journal.pmed.1002978)
+
 # Solution
 ## Universal Background Checks
 - A 2017 paper found that:
