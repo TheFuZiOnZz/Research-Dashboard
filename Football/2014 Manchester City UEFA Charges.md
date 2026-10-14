@@ -5,12 +5,17 @@
     - `This morning City find themselves not only the richest club in Manchester but perhaps the world. The announcement yesterday that Thaksin Shinawatra, the former prime minister of Thailand, had sold the club to Abu Dhabi United Group (Adug) is expected to be followed by the biggest injection of cash into a football club since Roman Abramovich changed the face of the English game with his £600m-plus investment in Chelsea.` — [You're bought! Abu Dhabi's answer to Sir Alan Sugar in Manchester City takeover, The Guardian, 2008](https://www.theguardian.com/football/2008/sep/02/manchestercity.premierleague)
 - On 1 September 2008, City demonstrated the scale of its new spending power by signing Robinho from Real Madrid for a British-record £32.5m on the same day as the takeover was announced.
     - `Manchester City demonstrated their new-found status as the richest club on the planet when the billionaire Arabs who have bought the club from Thaksin Shinawatra stunned Roman Abramovich late last night by signing Robinho from under the noses of Chelsea.` — [City beat Chelsea to sign £32.5m Robinho, The Guardian, 2008](https://www.theguardian.com/football/2008/sep/02/manchestercity.chelsea1)
-- On 13 July 2009, 
-	- ` ` - [Carlos Tevez agrees to join Manchester City on five-year deal, The Guardian, 2009](https://www.theguardian.com/football/2009/jul/13/carlos-tevez-manchester-city)
-- On 18 July 2009, 
-	- ` ` - [Emmanuel Adebayor completes move from Arsenal to Manchester City, The Guardian, 2009](https://www.theguardian.com/football/2009/jul/18/arsenal-manchester-city-emmanuel-adebayor)
-- On 25 August 2009, 
-	- ` ` - [Manchester City complete five-year, £22m deal for defender Joleon Lescott, The Guardian, 2009](https://www.theguardian.com/football/2009/aug/25/joleon-lescott-manchester-city-everton-transfer)
+- On 1 September 2009, City again demonstrated the scale of its spending power by spending £120m in the 2009 summer transfer window
+	- On 13 July 2009, City Sign Carlos Tevez for £25.5m.
+		- `Manchester City have completed the signing of ex-Manchester United striker Carlos Tevez on a five-year deal.`
+		  
+		  `The Argentine, 25, left Old Trafford last month after rejecting their offer of turning his loan spell with them into a permanent switch.`
+		  
+		  `City are believed to have paid Tevez's advisors, who owned his economic rights, £25.5m to sign him.` - [Tevez completes move to Man City, BBC News, 2009](http://news.bbc.co.uk/sport1/hi/football/teams/m/man_city/8150002.stm)
+	- On 18 July 2009, 
+		- `Emmanuel Adebayor has boldly stated he wants to "make history" at Manchester City after completing his £25m move from Arsenal. Several hundred City fans welcomed the striker at Eastlands after he completed a medical and signed a five-year-deal worth £150,000-a-week, and Adebayor's message to them was one of bullish intent.` - [Emmanuel Adebayor completes move from Arsenal to Manchester City, The Guardian, 2009](https://www.theguardian.com/football/2009/jul/18/arsenal-manchester-city-emmanuel-adebayor)
+	- On 25 August 2009, 
+		- ` ` - [Manchester City complete five-year, £22m deal for defender Joleon Lescott, The Guardian, 2009](https://www.theguardian.com/football/2009/aug/25/joleon-lescott-manchester-city-everton-transfer)
 - On 17 September 2009, UEFA president Michel Platini publicly criticized the scale of Manchester City's spending following the takeover, arguing that such expenditure could contribute to inflation across European football.
     - `The Uefa president, Michel Platini, has singled out the expenditure at City since the takeover by Sheikh Mansour bin Zayed al-Nahyan, a senior member of the Abu Dhabi royal family, a year ago. City have spent more than £200m on 11 players since, which Uefa has condemned as an inflationary danger for clubs across European football.` — [Abu Dhabi takeover of Manchester City 'no danger to football', insists chairman, The Guardian, 2009](https://www.theguardian.com/football/2009/sep/17/manchester-city-abu-dhabi-takeover)
 - On 21 September 2009, UEFA's Executive Committee approved the Financial Fair Play concept. The stated objectives included improving financial stability, encouraging clubs to operate within their revenues and introducing greater financial discipline.
