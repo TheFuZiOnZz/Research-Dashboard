@@ -1,0 +1,9 @@
+
+/* Widen the reading area on every page */
+.main-content-wrap {
+  max-width: none;
+}
+
+.main-content {
+  max-width: 1100px;
+}
