@@ -3,8 +3,6 @@ layout: null
 permalink: /assets/js/search-data.json
 ---
 {
-{%- if page.title and page.search_exclude != true -%}
-{%- assign filename_title = page.name | replace: page.ext, '' -%}
 {%- assign i = 0 -%}
 {%- assign pages_array = "" | split: "" -%}
 {%- assign pages_array = pages_array | push: site.html_pages -%}
@@ -21,6 +19,7 @@ permalink: /assets/js/search-data.json
 {%- for pages in pages_array -%}
   {%- for page in pages -%}
     {%- if page.title and page.search_exclude != true -%}
+      {%- assign filename_title = page.name | remove: '.md' -%}
       {%- assign page_content = page.content -%}
       {%- assign heading_level = site.search.heading_level | default: 2 -%}
       {%- for j in (2..heading_level) -%}
