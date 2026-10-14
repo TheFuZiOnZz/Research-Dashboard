@@ -14,3 +14,4 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
+nav_enabled: false
