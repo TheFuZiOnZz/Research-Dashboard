@@ -15,3 +15,4 @@ include:
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 nav_enabled: false
+search.rel_url: false
