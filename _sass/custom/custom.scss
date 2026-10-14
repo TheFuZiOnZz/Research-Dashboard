@@ -1,5 +1,8 @@
 
-/* Widen the content area site-wide */
-.main-content {
-  max-width: 1100px !important;
+/* Widen the main reading area across the site */
+@media (min-width: 50rem) {
+  .main-content {
+    max-width: 1200px !important;
+    width: 100%;
+  }
 }
