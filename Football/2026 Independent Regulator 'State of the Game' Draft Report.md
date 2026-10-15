@@ -1,15 +1,16 @@
 # Background
 - On 21 July 2025, the Football Governance Act established three core statutory objectives for the Independent Football Regulator: protecting the financial soundness of regulated clubs, promoting the financial resilience of English football and safeguarding the heritage of English football.
     - `Protect and promote the financial soundness of regulated football clubs`
-    - `Protect and promote financial resilience of English football`
-    - `Safeguard the heritage of English football`
-    - [About Us, Independent Football Regulator](https://www.footballregulator.org.uk/about-us)
+      
+      `Protect and promote financial resilience of English football`
+      
+      `Safeguard the heritage of English football` - [About Us, Independent Football Regulator, 2026](https://www.footballregulator.org.uk/about-us)
 - In 2025, the IFR began developing a statutory regulatory framework for clubs across the English professional football pyramid. Its powers include introducing a club licensing system, strengthening owners' and directors' tests, monitoring compliance with financial requirements and enforcing standards for supporter engagement and club heritage.
     - The regulator's remit includes protections concerning stadium sales, club badges and home kit colours, alongside powers to prevent clubs from joining certain closed or breakaway competitions that threaten the sustainability and heritage of English football.
     - The IFR also has backstop powers to intervene in financial distribution between leagues if football's governing bodies fail to reach an acceptable agreement.
     - [Information Gathering and Enforcement, Independent Football Regulator](https://engage.footballregulator.org.uk/information-gathering-and-enforcement)
 - On 20 January 2026, the IFR announced the scope of its first _State of the Game_ report, an in-depth assessment of the financial condition and governance of English men's professional football. The review covered broadcast revenues, player wages, club ownership, debt, financial distributions, academy development, supporter engagement and club heritage.
-    - `For the first time, we will shine a light on the financial pressures, governance gaps, and structural risks facing the football pyramid.` — David Kogan, Chair of the Independent Football Regulator, [IFR sets out scope of groundbreaking State of the Game report, Independent Football Regulator, 2026](https://www.footballregulator.org.uk/posts/ifr-sets-out-scope-of-groundbreaking-state-of-the-game-report)
+    - `For the first time, we will shine a light on the financial pressures, governance gaps, and structural risks facing the football pyramid.` - [IFR sets out scope of groundbreaking State of the Game report, Independent Football Regulator, 2026](https://www.footballregulator.org.uk/posts/ifr-sets-out-scope-of-groundbreaking-state-of-the-game-report)
         
 
 # The Report
