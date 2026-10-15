@@ -1,1 +1,0 @@
-[sotg.footballregulator.org.uk/api/media/file/IFR State of the Game Report.pdf?from=header](https://sotg.footballregulator.org.uk/api/media/file/IFR%20State%20of%20the%20Game%20Report.pdf?from=header)

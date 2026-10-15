@@ -18,4 +18,4 @@
 ## [2024 Leicester City Premier League Charges](2024%20Leicester%20City%20Premier%20League%20Charges)
 ## [2024 Everton Premier League Charges](2024%20Everton%20Premier%20League%20Charges)
 ## [2025-26 Chelsea Premier League Charges](2025-26%20Chelsea%20Premier%20League%20Charges)
-## [2026 Independent Regulator 'State of the Game' Report](2026%20Independent%20Regulator%20'State%20of%20the%20Game'%20Report)
+## [2026 Independent Regulator 'State of the Game' Draft Report](2026%20Independent%20Regulator%20'State%20of%20the%20Game'%20Draft%20Report.md)
